@@ -1,0 +1,24 @@
+theme_code,theme_name,level,pub_count,project_count,pub_share,project_share,top3_admin_ics,top3_cofunding_ics,pubs_early,pubs_mid,pubs_late
+1,Cardiometabolic disease,top,382,3292,0.278,0.2552,OD(71);HL(42);TR(25),OD(91);TR(79);HL(45),152,153,77
+2,Genomics methods & complex-trait genetics,top,347,4414,0.2525,0.3422,OD(59);HG(40);HL(39),OD(76);TR(62);HG(41),124,155,68
+3,"Methods, infrastructure & phenotyping (non-genomic)",top,251,2389,0.1827,0.1852,OD(66);HG(19);TR(17),OD(75);TR(58);HG(23),119,90,42
+4,"Mental health, behavioral & substance use",top,254,1937,0.1849,0.1502,OD(35);EY(6);LM(6),OD(43);TR(31);EY(8),97,103,54
+5,Cancer,top,176,1722,0.1281,0.1335,OD(21);CA(17);HG(5),OD(29);CA(18);TR(16),66,78,32
+6,Social determinants of health & health disparities,top,458,3070,0.3333,0.238,OD(107);TR(22);MD(18),OD(126);TR(88);AG(25),226,169,63
+7,Wearables & digital health,top,73,923,0.0531,0.0716,OD(11);HL(8);HG(4),OD(14);TR(11);HL(8),23,30,20
+8,Infectious disease & immunology,top,79,639,0.0575,0.0495,OD(19);HL(4);TR(3),OD(24);TR(11);HL(4),43,27,9
+9,Autoimmune & inflammatory disease,top,107,650,0.0779,0.0504,OD(24);TR(5);HG(4),OD(27);TR(25);AG(4),54,40,13
+10,Rare disease & Mendelian genetics,top,54,433,0.0393,0.0336,OD(11);GM(4);HG(4),OD(10);TR(8);GM(4),19,25,10
+11,"Aging, frailty & ADRD",top,75,637,0.0546,0.0494,OD(10);AG(8);HG(4),OD(13);TR(11);AG(9),17,36,22
+12,Dermatology,top,197,535,0.1434,0.0415,OD(31);TR(11);AR(4),OD(38);TR(35);AI(4),142,51,4
+13,Respiratory & sleep medicine,top,59,405,0.0429,0.0314,OD(12);HL(3);HG(2),OD(13);TR(11);HL(3),19,27,13
+14,Neurology (non-ADRD),top,77,567,0.056,0.044,OD(13);TR(9);HL(9),OD(19);TR(16);HL(9),30,29,18
+15,"Pregnancy, maternal & women's health",top,37,678,0.0269,0.0526,OD(8);HD(3);AR(3),OD(10);TR(7);HD(3),15,17,5
+16,Pharmacogenomics & drug response,top,32,200,0.0233,0.0155,OD(6);HG(4);TR(3),OD(7);TR(6);HG(4),15,13,4
+17,"ELSI, participant engagement & recruitment",top,69,61,0.0502,0.0047,OD(16);CA(5);TR(5),OD(21);CA(5);HG(5),52,16,1
+18,"Ophthalmology, ENT & sensory medicine",top,107,470,0.0779,0.0364,OD(28);EY(24);MD(8),OD(30);EY(26);TR(25),47,45,15
+19,Environmental health & climate,top,7,74,0.0051,0.0057,ES(2);HL(2);OD(1),ES(2);HL(2);OD(2),4,3,0
+1.3-CKM,CKM syndrome (subtheme of Cardiometabolic),subtheme,2,10,0.0015,0.0008,,,,,
+1.4-stroke-cardio,Cardio-embolic stroke (subtheme of Cardiometabolic),subtheme,3,3,0.0022,0.0002,OD(1),OD(1);TR(1),,,
+14.2-stroke-cerebro,Cerebrovascular stroke (subtheme of Neurology),subtheme,14,49,0.0102,0.0038,TR(4);AG(3);NS(3),OD(4);TR(4);AG(3),,,
+META,AoU-program-meta-audit (NOT in theme-share denominator),audit,4,0,,,,,,,

@@ -1,0 +1,653 @@
+=== VALIDATION SAMPLE: 50 pubs + 50 projects ===
+
+--- PUBLICATIONS ---
+
+PUB | PMID:26327928 | 2015 | Translational Behavioral Medicine
+  Title: News from the NIH: potential contributions of the behavioral and social sciences to the precision medicine initiative
+  Foci: (none)
+  Abstract: At this year's State of the Union address
+
+PUB | PMID:27289128 | 2016 | Diabetes Care
+  Title: NIH Precision Medicine Initiative: Implications for Diabetes Research
+  Foci: common
+  Abstract: In his January 2015 State of the Union address, President Barack Obama announced a new Precision Medicine Initiative %28PMI%29 to personalize approaches toward improving health and treating disease %28www.whitehouse.gov/precision-medicine%29. He stated that the goal of such an initiative was 'to bring us closer to curing diseases like cancer and diabetes, and to give all of us access to the personalized information we need to keep ourselves and our families healthier.' Since that time, the National Institutes of Health %28NIH%29 has taken a leadership role in implementing the President's vision related to biomedical research %28www.nih.gov/precisionmedicine%29. Here, we discuss the NIH component of the PMI, related ongoing diabetes research, and near-term research that could position the d...
+
+PUB | PMID:29844141 | 2018 | Circulation. Genomic and Precision Medicine
+  Title: Interdisciplinary Models for Research and Clinical Endeavors in Genomic Medicine: A Scientific Statement From the American Heart Association
+  Foci: genetic
+  Abstract: The completion of the Human Genome Project has unleashed a wealth of human genomics information, but it remains unclear how best to implement this information for the benefit of patients. The standard approach of biomedical research, with researchers pursuing advances in knowledge in the laboratory and, separately, clinicians translating research findings into the clinic as much as decades later, will need to give way to new interdisciplinary models for research in genomic medicine. These models should include scientists and clinicians actively working as teams to study patients and populations recruited in clinical settings and communities to make genomics discoveries-through the combined efforts of data scientists, clinical researchers, epidemiologists, and basic scientists-and to rapidl...
+
+PUB | PMID:31259015 | 2019 | AMIA Joint Summits on Translational Science Proceedings. AMIA Joint Summits on Translational Science
+  Title: Implementation of Informatics to Support the NIH All of Us Research Program in a Healthcare Provider Organization
+  Foci: (none)
+  Abstract: The NIH All of Us Research Program, a national effort to collect biospecimens and health data for over one million participants from across the United States, requires participating healthcare provider organizations %28HPOs%29 to use informatics tools maintained by the NIH to manage participant consent, biospecimen processing, physical measurements, and other workflows. HPOs also maintain distinct workflows for handling overlapping tasks within their individual aegis, which do not necessarily achieve seamless interoperability with NIH-maintained cloud-based systems. At our HPO, we implemented informatics to address gaps in enrollment workflows and hardware, clinical workflow integration, patient engagement, laboratory support, and study team reporting. In this case report we detail our app...
+
+PUB | PMID:31735716 | 2019 | Journal of Health Care for the Poor and Underserved
+  Title: Envisioning Future Research and Clinical Practice with a Bioethics Lens: A Word for the Next Generation of Researchers %28All of Us Research Program, Activism, and Policy Implications%29
+  Foci: population_health
+  Abstract: Precision medicine, a revolutionary approach to disease prevention and treatment, takes into account individual differences in lifestyle, environment, and biology. Organized by the National Institutes of Health, the All of Us Research Program seeks to engage one million or more volunteers living in the U.S. to contribute their health data over many years. The program seeks to improve health outcomes, fuel the development of new treatments for disease, and catalyze a new era of evidence-based and precise preventive care and medical treatment. Although the concept of precision medicine is promising, if we are to change the treatment paradigm and ensure that the medicines and prevention strategies people are using work for them, those who have been historically underrepresented in research mu...
+
+PUB | PMID:32609747 | 2020 | PloS One
+  Title: Diversity and inclusion for the All of Us research program: A scoping review
+  Foci: genetic, population_health
+  Abstract: The All of Us Research Program %28All of Us%29 is a national effort to accelerate health research by exploring the relationship between lifestyle, environment, and genetics. It is set to become one of the largest research efforts in U.S. history, aiming to build a national resource of data from at least one million participants. All of Us aims to address the need for more diversity in research and set the stage for that diversity to be leveraged in precision medicine research to come. This paper describes how the program assessed demographic characteristics of participants who have enrolled in other U.S. biomedical research cohorts to better understand which groups are traditionally represented or underrepresented in biomedical research. We 1%29 reviewed the enrollment characteristics of n...
+
+PUB | PMID:34333076 | 2021 | Journal of the American Academy of Dermatology
+  Title: Comorbidities associated with granuloma annulare: A case-control study in the All of Us research program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:34688700 | 2021 | Ophthalmology
+  Title: The Association among Blood Pressure, Blood Pressure Medications, and Glaucoma in a Nationwide Electronic Health Records Database
+  Foci: (none)
+  Abstract: PURPOSE: To measure the association among blood pressure %28BP%29, BP medications, and glaucoma using the All of Us Research Program database. DESIGN: A retrospective, longitudinal cohort study leveraging a national electronic health record %28EHR%29 database administered by the National Institutes of Health. PARTICIPANTS: Eye patients in the All of Us Research Program database with at least 15 months of follow-up and 1 BP measurement. METHODS: Univariable and multivariable Cox regression models predicted the risk of developing incident open-angle glaucoma %28OAG%29. Mean arterial pressure %28MAP%29 and the number of BP medication classes were entered as time-varying predictors to account for changes over time. MAIN OUTCOME MEASURES: The risk of developing incident OAG, as defined by billi...
+
+PUB | PMID:34941480 | 2021 | Preventing Chronic Disease
+  Title: Geographic Variation in Obesity at the State Level in the All of Us Research Program
+  Foci: common, behavioral
+  Abstract: INTRODUCTION: National obesity prevention strategies may benefit from precision health approaches involving diverse participants in population health studies. We used cohort data from the National Institutes of Health All of Us Research Program %28All of Us%29 Researcher Workbench to estimate population-level obesity prevalence. METHODS: To estimate state-level obesity prevalence we used data from physical measurements made during All of Us enrollment visits and data from participant electronic health records %28EHRs%29 where available. Prevalence estimates were calculated and mapped by state for 2 categories of body mass index %28BMI%29 %28kg/m%282%29%29: obesity %28BMI >30%29 and severe obesity %28BMI >35%29. We calculated and mapped prevalence by state, excluding states with fewer than ...
+
+PUB | PMID:34295127 | 2021 | Ethnicity & Disease
+  Title: Care and Precision Medicine Research in the Time of COVID-19
+  Foci: population_health
+  Abstract: PURPOSE: Enhancing the bidirectional benefit of precision medicine research infrastructure may advance equity in research participation for diverse groups. This study explores the use of research infrastructure to provide human-centered COVID-19 resources to participants as a part of their research participation. DESIGN: The All of Us New England %28AoUNE%29 consortium research team developed standardized check-in telephone calls to ask participants about their well-being and share COVID-19 resources. PARTICIPANTS: A total of 20,559 participants in the AoUNE consortium received a COVID-19 check-in call. METHODS: Research assistants called participants during March-April 2020, distributed COVID-19 resources to interested participants, and subsequently rated call tone. RESULTS: Of the total ...
+
+PUB | PMID:34115137 | 2021 | Jama
+  Title: Progress With the All of Us Research Program: Opening Access for Researchers
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:35895053 | 2022 | JAMA Psychiatry
+  Title: Association of Everyday Discrimination With Depressive Symptoms and Suicidal Ideation During the COVID-19 Pandemic in the All of Us Research Program
+  Foci: behavioral, population_health
+  Abstract: IMPORTANCE: The COVID-19 pandemic has coincided with an increase in depressive symptoms as well as a growing awareness of health inequities and structural racism in the United States. OBJECTIVE: To examine the association of mental health with everyday discrimination during the pandemic in a large and diverse cohort of the All of Us Research Program. DESIGN, SETTING, AND PARTICIPANTS: Using repeated assessments in the early months of the pandemic, mixed-effects models were fitted to assess the associations of discrimination with depressive symptoms and suicidal ideation, and inverse probability weights were applied to account for nonrandom probabilities of completing the voluntary survey. MAIN OUTCOMES AND MEASURES: The exposure and outcome measures were ascertained using the Everyday Disc...
+
+PUB | PMID:35661997 | 2022 | The British Journal of Dermatology
+  Title: Thyroid disorders associated with lichen sclerosus: a case-control study in the All of Us Research Program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:35294480 | 2022 | PloS One
+  Title: Epidemiology of atrial fibrillation in the All of Us Research Program
+  Foci: common
+  Abstract: BACKGROUND: The prevalence, incidence and risk factors of atrial fibrillation %28AF%29 in a large, geographically and ethnically diverse cohort in the United States have not been fully described. METHODS: We analyzed data from 173,099 participants of the All of Us Research Program recruited in the period 2017-2019, with 92,318 of them having electronic health records %28EHR%29 data available, and 35,483 having completed a medical history survey. Presence of AF at baseline was identified from self-report and EHR records. Incident AF was obtained from EHR. Demographic, anthropometric and clinical risk factors were obtained from questionnaires, baseline physical measurements and EHR. RESULTS: At enrollment, mean age was 52 years old %28range 18-89%29. Females and males accounted for 61% and 3...
+
+PUB | PMID:35396991 | 2022 | Journal of the American Medical Informatics Association : JAMIA
+  Title: Comparing medical history data derived from electronic health records and survey answers in the All of Us Research Program
+  Foci: (none)
+  Abstract: OBJECTIVE: A participant's medical history is important in clinical research and can be captured from electronic health records %28EHRs%29 and self-reported surveys. Both can be incomplete, EHR due to documentation gaps or lack of interoperability and surveys due to recall bias or limited health literacy. This analysis compares medical history collected in the All of Us Research Program through both surveys and EHRs. MATERIALS AND METHODS: The All of Us medical history survey includes self-report questionnaire that asks about diagnoses to over 150 medical conditions organized into 12 disease categories. In each category, we identified the 3 most and least frequent self-reported diagnoses and retrieved their analogues from EHRs. We calculated agreement scores and extracted participant demog...
+
+PUB | PMID:36529377 | 2022 | Journal of the American Academy of Dermatology
+  Title: Lichen sclerosus among women with psoriasis: A cross-sectional study in the All of Us research program
+  Foci: (none)
+  Abstract: To the Editor: Psoriasis is a chronic inflammatory skin and systemic disease.1-3 There is emerging evidence to suggest an association between psoriasis and lichen sclerosus %28LS%29, a chronic inflammatory dermatosis primarily involving the anogenital area in women, although large-scale studies of this relationship have been limited.1-3 To better understand the association between psoriasis and LS among adult women, we conducted an analysis of All of Us, a National Institutes of Health database with electronic health record data on >300,000 US adults from 2018 to the present.4
+
+PUB | PMID:35854430 | 2022 | The American Surgeon
+  Title: Prevalence of Primary Liver Cancer is Affected by Place of Birth in Hispanic People Residing in the United States: All of Us Research Program Report
+  Foci: population_health
+  Abstract: BACKGROUND: Hispanic individuals have a disproportionately higher incidence and mortality for stomach, cervix, and liver cancers compared to Non-Hispanic White people. Since disparities in cancer incidence are influenced by multiple factors including immigration, elucidating the effect of birthplace and exposure to risk factors on the prevalence of these cancers is crucial for identifying high-risk populations and target risk reduction interventions. METHODS: The National Institutes of Health All of Us Research Program is a prospective, multidimensional biomedical data resource of underrepresented, minoritized people. The Registered Tier Dataset v5 was utilized to evaluate the prevalence and risk of stomach, cervix, and liver cancers among United States %28US%29 born and non-US born Hispan...
+
+PUB | PMID:36096320 | 2022 | Journal of Pain and Symptom Management
+  Title: Predictors of Unrelieved Symptoms in All of Us Research Program Participants With Chronic Conditions
+  Foci: common
+  Abstract: CONTEXT: Over half of American adults are diagnosed with a chronic condition, with an increasing prevalence being diagnosed with multiple chronic conditions. These adults are at higher risk for having unrelieved, co-occurring symptoms, known as symptom clusters. OBJECTIVES: To identify symptom phenotypes of patients diagnosed with four common chronic conditions, specifically, cancer, chronic obstructive pulmonary disease, heart failure, and/or type 2 diabetes mellitus, and to understand factors that predict membership in symptomatic phenotypes. METHODS: We conducted a retrospective, cross-sectional analysis using participant responses %28N=14,127%29 to All of Us Research Program, a National Institutes of Health biomedical database, survey questions. We performed hierarchical clustering to ...
+
+PUB | PMID: | 2022 | 
+  Title: Impact of cardiovascular disease: a literature review of the All of Us Research Program - An NIH Precision Medicine Initiative
+  Foci: common, population_health
+  Abstract: The homogeneity of cardiovascular %28CV%29 clinical studies involving populations limits the generalizability of results and compounds health inequities faced by women, older adults and people of color. The All of Us Research Program is part of the NIH Precision Medicine Initiative that aims to enroll 1 million underrepresented persons in the U.S. to increase the inclusion of diverse populations, accelerate biomedical research, and achieve equitable healthcare delivery. The objective of this project is to perform a literature review of the All of Us Research Program and provide an overview of the cardiovascular risk profiles of participants enrolled in the program based on gender, race and ethnicity. Studies were identified through a database search from 2017 to 2022 using PubMed and Googl...
+
+PUB | PMID:36436011 | 2022 | Archives of Dermatological Research
+  Title: Association of sarcoidosis with psoriasis: a cross-sectional study in the All of Us research program
+  Foci: genetic
+  Abstract: Psoriasis and sarcoidosis are inflammatory skin and systemic diseases that may share a similar immunopathogenesis involving a Th1 and/or Th17 polarized immune response. Although the coexistence of sarcoidosis and psoriasis in the same individuals has been reported, the potential association between these diseases at a population-level in the United States has not been evaluated. To evaluate this association, we performed a matched cross-sectional study in the All of Us research program database. In the multivariable analysis of 4932 psoriasis cases and 19,728 controls, sarcoidosis was found to be significantly associated with psoriasis %28OR 2.37 [95% CI 1.73-3.23], p < 0.001%29. The relative strength of this association between psoriasis and sarcoidosis may be, in part, explained by overl...
+
+PUB | PMID:35704625 | 2022 | PloS One
+  Title: Associations between healthcare utilization and access and diabetic retinopathy complications using All of Us nationwide survey data
+  Foci: common, population_health
+  Abstract: PURPOSE: Inadequacies in healthcare access and utilization substantially impact outcomes for diabetic patients. The All of Us database offers extensive survey data pertaining to social determinants that is not routinely available in electronic health records. This study assesses whether social determinants were associated with an increased risk of developing proliferative diabetic retinopathy or related complications %28e.g. related diagnoses or procedures%29. METHODS: We identified 729 adult participants in the National Institutes of Health All of Us Research Program data repository with diabetic retinopathy %28DR%29 who answered survey questions pertaining to healthcare access and utilization. Electronic health record data regarding co-morbidities, laboratory values, and procedures were ...
+
+PUB | PMID:35283246 | 2022 | Journal of the American Academy of Dermatology
+  Title: Association of atopic dermatitis with attention-deficit hyperactivity disorder among US adults in the 'All of Us' research program: A case-control study
+  Foci: (none)
+  Abstract: None
+
+PUB | PMID:37884626 | 2023 | Nature Medicine
+  Title: Underrepresentation of blind and deaf participants in the All of Us Research Program
+  Foci: population_health
+  Abstract: Blind and deaf individuals comprise large populations that often experience health disparities, with those from marginalized gender, racial, ethnic and low-socioeconomic communities commonly experiencing compounded health inequities. Including these populations in precision medicine research is critical for scientific benefits to accrue to them. We assessed representation of blind and deaf people in the All of Us Research Program %28AoURP%29 2018-2023 cohort of participants who provided electronic health records and compared it with the Centers for Disease Control and Prevention 2018 national estimates by key demographic characteristics and intersections thereof. Blind and deaf AoURP participants are considerably underrepresented in the cohort, especially among working-age adults %28younge...
+
+PUB | PMID:37178685 | 2023 | American Journal of Human Genetics
+  Title: Declining autozygosity over time: An exploration in over 1 million individuals from three diverse cohorts
+  Foci: genetic
+  Abstract: Previous studies have hypothesized that autozygosity is decreasing over generational time. However, these studies were limited to relatively small samples %28n < 11,000%29 lacking in diversity, which may limit the generalizability of their findings. We present data that partially support this hypothesis from three large cohorts of diverse ancestries, two from the US %28All of Us, n = 82,474; the Million Veteran Program, n = 622,497%29 and one from the UK %28UK Biobank, n = 380,899%29. Our results from a mixed-effect meta-analysis demonstrate an overall trend of decreasing autozygosity over generational time %28meta-analyzed slope = -0.029, SE = 0.009, p = 6.03e-4%29. On the basis of our estimates, we would predict F%28ROH%29 to decline 0.29% for every 20-year increase in birth year. We det...
+
+PUB | PMID: | 2023 | 
+  Title: Health disparities in the treatment of bipolar disorder
+  Foci: population_health
+  Abstract: Background_x000D_  Therapeutic options for bipolar disorder vary based on individual presentation and phase of illness. In addition to well documented disparities in diagnosis, racial and gender differences in treatment complicate efforts to provide effective individualized treatment to patients with bipolar disorder. The present work was undertaken to identify the persistence of racial and gender disparities across diverse community and national populations and to compare treatment disparities in bipolar disorder with those observed for schizophrenia._x000D_  _x000D_  Methods_x000D_  Commonly prescribed treatments for bipolar disorder and schizophrenia were quantified using information gathered from the All of Us Research Program and de-identified electronic health records at the Universi...
+
+PUB | PMID:36715356 | 2023 | The British Journal of Dermatology
+  Title: The association of anxiety with granuloma annulare: a case-control study of the National Institutes of Health 'All of Us' research programme
+  Foci: common
+  Abstract: Dear Editor, Granuloma annulare %28GA%29 is an inflammatory skin disease that has been associated with diabetes, dyslipidaemia, hypothyroidism and autoimmune disorders.1,2 The annualized incidence and prevalence of GA in the USA are approximately 0.04% and 0.06%, respectively %28with a female predominance%29.3 GA is clinically classified as localized %2875% of cases%29, generalized or subcutaneous.4 There is a body of evidence supporting an association between several inflammatory dermatoses, such as psoriasis, and mental health conditions.5 Improvement of depression and anxiety following treatment of certain inflammatory dermatoses has also been described.5 It has been postulated that this association may, in part, relate to proinflammatory cytokines, which have been proposed to mechanist...
+
+PUB | PMID:37218289 | 2023 | Journal of the American Medical Informatics Association : JAMIA
+  Title: De-black-boxing health AI: demonstrating reproducible machine learning computable phenotypes using the N3C-RECOVER Long COVID model in the All of Us data repository
+  Foci: (none)
+  Abstract: Machine learning %28ML%29-driven computable phenotypes are among the most challenging to share and reproduce. Despite this difficulty, the urgent public health considerations around Long COVID make it especially important to ensure the rigor and reproducibility of Long COVID phenotyping algorithms such that they can be made available to a broad audience of researchers. As part of the NIH Researching COVID to Enhance Recovery %28RECOVER%29 Initiative, researchers with the National COVID Cohort Collaborative %28N3C%29 devised and trained an ML-based phenotype to identify patients highly probable to have Long COVID. Supported by RECOVER, N3C and NIH's All of Us study partnered to reproduce the output of N3C's trained model in the All of Us data enclave, demonstrating model extensibility in mu...
+
+PUB | PMID:38049655 | 2023 | Journal of General Internal Medicine
+  Title: Delays in Accessing Healthcare Across the Gender Spectrum in the All of Us Research Program
+  Foci: population_health
+  Abstract: BACKGROUND: Gender minorities and cisgender women face barriers to healthcare access. Prior work suggests cost may represent a particular barrier to accessing care for transgender and gender diverse %28TGD%29 individuals. OBJECTIVE: To examine odds of delaying care for any reason and, secondarily, for 7 specific reasons among TGD individuals and cisgender women compared with cisgender men in the All of Us Research Program. DESIGN: We calculated the odds of delayed care by gender identity relative to cisgender men using multivariable-adjusted logistic regression, with adjustment for age, race, income, education, and Charlson comorbidity index. PARTICIPANTS: We examined 117,806 All of Us participants who completed the healthcare access and utilization survey. MAIN MEASURES: The primary outco...
+
+PUB | PMID:37863200 | 2023 | Journal of the American Academy of Dermatology
+  Title: Associations between ichthyosis and mood disorders: A case-control study in the All of Us Research Program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:37216451 | 2023 | Stroke
+  Title: Higher Hospital Frailty Risk Score Is Associated With Increased Risk of Stroke: Observational and Genetic Analyses
+  Foci: aging, genetic
+  Abstract: BACKGROUND: Frailty is a prevalent state associated with several aging-related traits and conditions. The relationship between frailty and stroke remains understudied. Here we aim to investigate whether the hospital frailty risk score %28HFRS%29 is associated with the risk of stroke and determine whether a significant association between genetically determined frailty and stroke exists. DESIGN: Observational study using data from All of Us research program and Mendelian Randomization analyses. METHODS: Participants from All of Us with available electronic health records were selected for analysis. All of Us began national enrollment in 2018 and is expected to continue for at least 10 years. All of Us is recruiting members of groups that have traditionally been underrepresented in research....
+
+PUB | PMID:37561459 | 2023 | JAMA Network Open
+  Title: Alcohol Consumption Among Adults With a Cancer Diagnosis in the All of Us Research Program
+  Foci: behavioral, population_health
+  Abstract: IMPORTANCE: Alcohol consumption is associated with adverse oncologic and treatment outcomes among individuals with a diagnosis of cancer. As a key modifiable behavioral factor, alcohol consumption patterns among cancer survivors, especially during treatment, remain underexplored in the United States. OBJECTIVE: To comprehensively characterize alcohol consumption patterns among US cancer survivors. DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study used data from May 6, 2018, to January 1, 2022, from the National Institutes of Health All of Us Research Program, a diverse US cohort with electronic health record %28EHR%29 linkage, and included 15 199 participants who reported a cancer diagnosis and 1839 patients among a subset with EHR data who underwent treatment within the past y...
+
+PUB | PMID:37129477 | 2023 | The Journal of the Association of Nurses in AIDS Care : JANAC
+  Title: Exploring the All of Us Database: An Invitation to Nurse Scientists and Public Health Researchers
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:36707438 | 2023 | Archives of Dermatological Research
+  Title: Psoriasis associated with asthma and allergic rhinitis: a US-based cross-sectional study using the All of US Research Program
+  Foci: common
+  Abstract: Psoriasis is a common chronic inflammatory disease with multiple known comorbidities. Increasing evidence suggests some mechanistic overlap in the immunopathogenesis of psoriasis and some cases of asthma and allergic rhinitis %28AR%29, but the potential association between psoriasis and asthma and AR has not been thoroughly investigated. The study aimed to investigate the association between psoriasis and asthma and AR. We used data from the NIH All of US Research Program, a nationwide longitudinal cohort of US adults, collected from 2018 to present. The source population comprised a demographically and socioeconomically diverse cohort of over 300,000 Americans. We used multivariable logistic regression models to examine the association between psoriasis and asthma and AR, after adjusting ...
+
+PUB | PMID:37579839 | 2023 | Journal of the American Academy of Dermatology
+  Title: Underdiagnosis of psoriasis in underrepresented groups: An 'All of Us' database analysis
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:37144784 | 2023 | International Journal of Dermatology
+  Title: The association of cutaneous squamous cell carcinoma and basal cell carcinoma with solid organ transplantation: a cross-sectional study of the All Of Us Research Program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:37150941 | 2023 | Clinical Pharmacology and Therapeutics
+  Title: Drug-Induced Liver Injury with Commonly Used Antibiotics in the All of Us Research Program
+  Foci: common
+  Abstract: Antibiotics are a known cause of idiosyncratic drug-induced liver injury %28DILI%29. According to the Centers for Disease Control and Prevention, the five most commonly prescribed antibiotics in the United States are azithromycin, ciprofloxacin, cephalexin, amoxicillin, and amoxicillin-clavulanate. We quantified the frequency of acute DILI for these common antibiotics in the All of Us Research Program, one of the largest electronic health record %28EHR%29-linked research cohorts in the United States. Retrospective analyses were conducted applying a standardized phenotyping algorithm to de-identified clinical data available in the All of Us database for 318,598 study participants. Between February 1984 and December 2022, more than 30% of All of Us participants %28n = 119,812 individuals%29 ...
+
+PUB | PMID:37611751 | 2023 | Endocrine Practice : Official Journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists
+  Title: Effect of Metformin Use on Vitamin B12 Deficiency Over Time %28EMBER%29: A Real-World Evidence Database Study
+  Foci: common
+  Abstract: OBJECTIVE: To examine the extent to which metformin increases the risk of vitamin B12 deficiency and borderline deficiency over time in participants with type 2 diabetes mellitus %28T2DM%29. METHODS: Using the All of Us database, adults aged ≥18 years with T2DM and a documented history of metformin use were included for the evaluation of B12 deficiency. Those with B12 deficiency before metformin use were excluded. Adjusted logistic regression models were used to evaluate the association between metformin use and long-term metformin use %28≥4 years%29 and the risk of B12 deficiency. We conducted a subgroup analysis comparing differences in borderline B12 deficiency in metformin and non-metformin users. RESULTS: Of 36 740 participants with T2DM, 6221 %2816.9%%29 had documented metformin use....
+
+PUB | PMID:37603847 | 2023 | Inflammatory Bowel Diseases
+  Title: Prevalence and Treatment Patterns of Inflammatory Bowel Disease in the All of Us Research Program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:37947093 | 2023 | Journal of the American Heart Association
+  Title: Association Between a First-Degree Family History and Self-Reported Personal History of Obesity, Diabetes, and Heart and Blood Conditions: Results From the All of Us Research Program
+  Foci: common, genetic
+  Abstract: BACKGROUND: Family history reflects the complex interplay of genetic susceptibility and shared environmental exposures and is an important risk factor for obesity, diabetes, and heart and blood conditions %28ODHB%29. However, the overlap in family history associations between various ODHBs has not been quantified. METHODS AND RESULTS: We assessed the association between a self-reported family history of ODHBs and their risk in the adult population %28age ≥20 years%29 of the AoU %28All of Us%29 Research Program, a longitudinal cohort study of diverse participants across the United States. We conducted a family history-wide association study to systematically assess the association of a first-degree family history of 15 ODHBs in AoU. We performed stratified analyses based on racial and ethni...
+
+PUB | PMID:38008413 | 2023 | Journal of the American Academy of Dermatology
+  Title: Association between atopic dermatitis and hypertension and hyperlipidemia: A cross-sectional study in the All of Us Research Program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:37454697 | 2023 | Journal of the American Academy of Dermatology
+  Title: Association of atopic dermatitis with substance use disorders: A case-control study in the All of Us research program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:38045036 | 2023 | BMC Global and Public Health
+  Title: Ancestry-attenuated effects of socioeconomic deprivation on type 2 diabetes disparities in the All of Us cohort
+  Foci: common, genetic, population_health
+  Abstract: BACKGROUND: Diabetes is a common disease with a major burden on morbidity, mortality, and productivity. Type 2 diabetes %28T2D%29 accounts for roughly 90% of all diabetes cases in the USA and has a greater observed prevalence among those who identify as Black or Hispanic. METHODS: This study aimed to assess T2D racial and ethnic disparities using the All of Us Research Program data and to measure associations between genetic ancestry %28GA%29, socioeconomic deprivation, and T2D. We used the All of Us Researcher Workbench to analyze T2D prevalence and model its associations with GA, individual-level %28iSDI%29, and zip code-based %28zSDI%29 socioeconomic deprivation indices among participant self-identified race and ethnicity %28SIRE%29 groups. RESULTS: The study cohort of 86,488 participan...
+
+PUB | PMID:38108577 | 2023 | International Journal of Dermatology
+  Title: Associations between hidradenitis suppurativa and asthma and allergic rhinitis: a case-control study in the All of Us research program
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:38499963 | 2024 | Journal of Cancer Survivorship : Research and Practice
+  Title: The association between neighborhood social and built environment on loneliness among young adults with cancer
+  Foci: behavioral, environmental, population_health
+  Abstract: PURPOSE: Young adults with cancer %28YAs, aged 18-39%29 are at increased risk of experiencing loneliness due to their unique challenges of coping with a cancer diagnosis and treatment during young adulthood. Understanding factors that impact loneliness is critical to improving survivorship outcomes for this vulnerable YA population. Neighborhoods are key determinants of health. However, little is known about how such neighborhood characteristics are associated with loneliness among YA survivors. METHODS: YA survivors %28N = 181%29 drawn from the National Institutes of Health All of Us Research Program completed measures of neighborhood social environment %28e.g., shared values%29, aspects of their neighborhood built environment %28e.g., access to transit, recreational activities%29, and lo...
+
+PUB | PMID:39101109 | 2024 | JACC. Asia
+  Title: The Molecular-Social-Genetic Determinants of Cardiovascular Health in Pacific Islanders
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:38967855 | 2024 | Archives of Dermatological Research
+  Title: Top 20 dermatologic conditions affecting adult patients of color in the United States: insights from an All of Us Database analysis
+  Foci: (none)
+  Abstract: 
+
+PUB | PMID:39205938 | 2024 | Frontiers in Genetics
+  Title: Applying an ELSI lens to real-world data and novel genomic insights for personalized mental healthcare
+  Foci: genetic, population_health
+  Abstract: Improving the understanding of the complex relationship between genetic predispositions, environmental influences, and sociocultural factors in the development and progression of mental illness is crucial for optimizing treatment efficacy and addressing longstanding health disparities. This paper discusses the ethical, legal, and social implications %28ELSI%29 of recent advancements in biomedical research, particularly in genome-wide association studies %28GWAS%29, phenome-wide association studies %28PheWAS%29, and genome-wide environment interaction studies %28GWEIS%29. Despite recent scientific progresses, challenges such as inadequate study methodology %28e.g., correlational studies%29 and lack of diversity within study samples persist. Recent discoveries of several genetic variants of ...
+
+PUB | PMID:39264594 | 2024 | JAMA Otolaryngology-- Head & Neck Surgery
+  Title: Chronic Rhinosinusitis and Mental Health
+  Foci: common
+  Abstract: IMPORTANCE: Chronic rhinosinusitis %28CRS%29 has been associated with anxiety and depression, but the association of socioeconomic factors and temporality has yet to be fully explored. OBJECTIVE: To determine the bidirectional risk of anxiety and depression for patients with CRS. DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study of the National Institutes of Health All of Us database from January 1, 2008, to December 31, 2018, included 2 cohorts of adult patients with and without CRS. The data were analyzed from July 1, 2023, through April 1, 2024. Patients were classified as having CRS if they had at least 2 diagnoses during the study period. Those with a diagnosis of CRS before the study period were excluded. Patients were propensity score matched %281:5%29 with patients...
+
+PUB | PMID:39207266 | 2024 | Cyberpsychology, Behavior and Social Networking
+  Title: Applying Engagement Marketing and Human-Centered Design to Cocreate a Digital Decision Support Tool for Research Participation with LGBTQIA+ Community Members
+  Foci: population_health
+  Abstract: We used engagement marketing and human-centered design principles to cocreate a digital decision support tool for research participation with LGBTQIA+ community members to help them make an informed decision about joining the All of Us Research Program. Building on results from the research phase, we conducted eight problem validation and solutioning workshops with 48 LGBTQIA+ community members. Community members validated barriers to engagement with All of Us and brainstormed 47 potential digital solutions. We developed potential solutions into 27 concepts %28descriptive text and visual storyboards%29 and assessed acceptability, appropriateness, feasibility, and engagement in a set of 10 concept testing workshops with 57 community members. We developed one of the highest rated concepts, t...
+
+PUB | PMID:38878188 | 2024 | Archives of Dermatological Research
+  Title: Increased risk of keloids in atopic dermatitis patients with allergic comorbidities: an all of us database analysis
+  Foci: (none)
+  Abstract: 
+
+
+--- PROJECTS ---
+
+PROJECT | workspace:8089 | tier:Controlled Tier
+  Title: Genetics of Hidradenitis Suppurativa v7_2
+  Purposes: Disease Focused Research (Hidradenitis Suppurativa); Methods Development; Control Set; Ancestry
+  Question: Hidradenitis suppurativa (HS) is a chronic, relapsing, and remitting inflammatory disease of the skin, with a prevalence up to 4% of general population. However, the factors that contribute to HS risk are poorly understood. The difference in the risk of HS by ethnicity in the US is striking. Specifically, African Americans have established prevalence and incidence rates that are approximately 3-fold higher than their European American counterparts. Further, African American patients exhibit high...
+  Approach: Our central hypothesis is that germline variation contributes to the risk of HS in African American patients, which is different from European American counterparts. We will evaluate our hypothesis through the following aims. In Aim 1, we will utilize the All of Us WGS and GWAS data of HS cases and matched controls to identify common genetic variation associated with HS risk in African Americans a...
+  Findings: Successful completion of this project will provide the first insights into the genetic contributions to risk of HS, which may unveil new therapeutic targets and treatments in HS.
+
+PROJECT | workspace:8458 | tier:Controlled Tier
+  Title: v7 Symptom Clusters in Chronic Conditions - Controlled Tier
+  Purposes: Disease Focused Research (Chronic conditions (e.g., cancer, heart failure, diabetes mellitus, COPD))
+  Question: Over half of all American adults ≥18 years of age are living with one or more chronic conditions such as cancer, heart failure, type 2 diabetes mellitus, or chronic obstructive pulmonary disease (COPD). Many experience multiple symptoms (e.g., pain, fatigue, disturbed sleep, depressed mood, anxiety, nausea, shortness of breath) either related to the chronic condition and/or its treatment. Symptom clusters are defined as two or more co-occurring, related symptoms. Symptom clusters are challenging...
+  Approach: We will use All of Us Research Program participant data, including electronic health record domains (e.g., conditions, drug exposures, labs & measurement), survey questions (e.g., basics, overall health, lifestyle, personal medical history, health care access & utilization), physical measurements, wearables, and genetic information, and statistical analysis methods (e.g., factor analysis, cluster ...
+  Findings: The anticipated findings from this study include symptom cluster(s) for various chronic conditions and predictors of the symptom clusters. We hypothesize that a core set of symptom clusters is shared among all common chronic conditions. We further hypothesize that distinct symptom clusters characterize specific conditions and/or treatments. We hope that this study will help us to understand physio...
+
+PROJECT | workspace:30194 | tier:Controlled Tier
+  Title: Claudin-16
+  Purposes: Disease Focused Research (Nephrolithiasis ); Ancestry
+  Question: I aim to investigate whether gene dosage sensitivity of claudins plays a role in nephrolithiasis. Kidney stone disease is a common healthcare problem, but the disease development is not yet fully understood.
+  Approach: The dataset will include patients with mutations in claudins and a history of kidney stone disease (/ altered calcium handling).
+  Findings: To see whether gene dosage sensitivity plays a role in kidney stone disease. It will contribute to the understanding of the disease development.
+
+PROJECT | workspace:32174 | tier:Controlled Tier
+  Title: SR_WGS_data
+  Purposes: Methods Development; Control Set; Ancestry
+  Question: Deep Phenotyping (EHR/PPI): How do psychiatric disorders, especially Bipolar Disorder (BD), manifest with detailed symptoms, comorbidities, and environmental factors across AoU's diverse populations?
+Importance: Overcomes diagnostic heterogeneity, providing a nuanced understanding for better research stratification and personalized care insights. 
+Cross-Ancestry Genetic Architecture (GWAS/PRS): What is the genetic basis of these disorders and subtypes in AoU's diverse ancestries? Can we build mo...
+  Approach: Deep Phenotyping (AoU EHR/PPI): Define nuanced psychiatric disorders (esp. BD) & confounders in diverse populations, addressing current phenotyping gaps for detailed individual profiles.
+Holistic Subtyping: Employ data-driven clinical & integrative (e.g., MOFA+) clustering on multi-modal AoU data to identify novel, biologically relevant transdiagnostic and BD-specific subtypes, tackling heterogene...
+  Findings: We expect to identify novel, data-driven psychiatric subtypes, particularly for Bipolar Disorder (BD), by integrating AoU's rich clinical, survey, and genomic data from diverse populations. We anticipate discovering new common and rare genetic variants (some potentially ancestry-specific) and developing more equitable Polygenic Risk Scores (PRS) for these conditions. Specific genes, biological pat...
+
+PROJECT | workspace:32934 | tier:Registered Tier
+  Title: Diabetic Retinopathy Risk Factors
+  Purposes: Disease Focused Research (Diabetes and diabetic reinopathy ); Population Health; Social / Behavioral
+  Question: We aim to investigate the associations between traditional cardiometabolic and kidney-related risk factors (e.g., blood pressure, lipid levels, kidney function, glycemic control) and the presence of diabetic retinopathy among individuals with diabetes in the All of Us Research Program?
+  Approach: We will use clinical, laboratory information available in the All of Us Research Program. Specifically, we will identify participants with diabetic retinopathy, obtain data on markers such as serum albumin and blood cell counts, and link these with demographic and health-related characteristics.
+  Findings: I anticipate that models including both the Prognostic Nutritional Index (PNI) and traditional predictors of diabetic retinopathy (HbA1c, diabetes duration, and related cardiometabolic risk factors) will demonstrate improved predictive performance compared to models using either PNI or traditional predictors alone. This study will contribute to scientific knowledge by clarifying whether PNI, a mar...
+
+PROJECT | workspace:29112 | tier:Controlled Tier
+  Title: BAP1 loss CDR8
+  Purposes: Disease Focused Research (Mesothelioma); Ancestry
+  Question: Germline BAP1 loss is seen in many mesothelioma and uveal melanoma. However, the natural history of germline BAP1 loss in an unbiased population is less understood.
+  Approach: Variant extraction, PheWAS, and survival analysis.
+  Findings: Understanding the natural history of participants with BAP1 loss and identify cancer incidents.
+
+PROJECT | workspace:11491 | tier:Controlled Tier
+  Title: Rhinophyma_part2
+  Purposes: Disease Focused Research (Rhinophyma); Control Set
+  Question: I am hoping to find comorbidities associated with Rhinophyma. This is important for two reasons: to understand the disease further and to improve the care of patients afflicted with the disease.
+  Approach: case control study of patients with rhinophyma vs controls to assess for comorbidities more likely to exist in the rhinophyma group.
+  Findings: Associated comorbidities in patients with rhinophyma will help to manage care of patients affflicted with the disease as well as grow our knowledge on the disease process itself.
+
+PROJECT | workspace:28491 | tier:Controlled Tier
+  Title: Pressure Ulcer & SSI BSc Project - new controlled tier
+  Purposes: Disease Focused Research (pressure ulcer, surgical site infection)
+  Question: The primary aim of this research is to develop a machine learning-based predictive scoring system to identify patients at high risk of developing pressure ulcers (PUs) in clinical settings. Pressure ulcers, also known as bedsores, are a prevalent hospital-acquired condition, particularly among patients with reduced mobility, such as those who are elderly, bed-bound, or have limited mobility due to surgery or critical illness. The overall cost of pressure ulcer mismanagement in the U.S. is substa...
+  Approach: The primary scientific approach for this study is a data-driven methodology combining epidemiological analysis and machine learning techniques. This will involve analyzing data to identify patterns and predictors associated with the development of pressure ulcers. The study aims to create a robust, explainable model capable of predicting pressure ulcer risk based on patient-specific factors. Datas...
+  Findings: The predictive scoring system will support clinical teams in reducing PU incidence by enabling early, patient-specific risk assessment. PUs are highly preventable with simple protocols—such as regular repositioning, using pressure-relieving mattresses, and ensuring appropriate skin care—which can be more effectively targeted when high-risk patients are identified early. By offering precise, action...
+
+PROJECT | workspace:4508 | tier:Registered Tier
+  Title: Descriptive understanding of ME/CFS cohort
+  Purposes: Disease Focused Research (ME/CFS); Other Purpose (To understand the characteristics and data available on ME/CFS patients included in AOU in order to determine analyses of interest that are compatible with these data.  )
+  Question: Do ME/CFS and control cohorts have similar levels of racial / ethnic diversity? How do these differences compare to known disease demographics?  
+We hope to understand if ME/CFS patients can access diagnostic care & research study participation without race/ethnicity/income or educational barriers.
+
+Can comparing ME/CFS patients to controls via wearables data offer insights into ME/CFS severity in the cohort?
+ME/CFS is a heterogenous disease and the ability to subclassify it by severity may offe...
+  Approach: We will use descriptive statistics to understand what data are available.  We will also consider a sensitivity analysis of all work by restricting to a severe ME/CFS group as defined by an algorithm that includes functional status, self-reported symptoms, and EHR data.
+Datasets:
+Overall health: to better understand reported fatigue
+Wearables/ physical measurements:  Fitbit HR and daily activity 
+E...
+  Findings: WE anticipate we will be able to assess the feasibility of additional analyses describing the demographics of a large cohort of ME/CFS patients.
+Clarity on questions about how ME/CFS patients experience fatigue, and post-exertional malaise compared to a control group is another anticipated finding.  That this analysis would use wearables data instead of self-report is a way of validating prior stu...
+
+PROJECT | workspace:22263 | tier:Controlled Tier
+  Title: New Glucose-Lowering Drugs and Cognitive Impairment in Diabetes
+  Purposes: Disease Focused Research (type 2 diabetes mellitus); Drug Development
+  Question: Cognitive impairment (CI) is a growing sequela of type 2 diabetes (T2D). Three newer glucose-lowering drugs (GLDs) are used as second-line therapy for T2D, i.e., glucagon-like peptide-1 receptor agonist (GLP-1RA), sodium-glucose transport protein 2 inhibitors (SGLT2i), or dipeptidyl peptidase 4 inhibitors (DPP4). Some data suggest that these GLDs may have cognitive benefits, however, comparisons across drug classes are scarce. We intended to investigate the associations between newer GLD and CI ...
+  Approach: Adults with diagnosed or self-reported T2D will be identified from the dataset. We used medication codes to identify the person’s GLD use. We will study three groups: (1) adults filling Metformin plus DPP4, (2) adults filling Metformin plus SGLT2i, and (3) adults filling Metformin plus GLP-1RA. CI was measured using ICD code or survey from EHR. The three groups were matched with a 1:1 multigroup p...
+  Findings: There are three categories of glucose-lowering drugs, which include GLP1-RA, DPP4, and SGLT2i. The study may show that one of these categories is associated with lower odds of cognitive impairment compared to the other two categories. For patients with type 2 diabetes who have experienced a decline in cognitive function, clinicians may consider prescribing drugs from this particular category to he...
+
+PROJECT | workspace:32331 | tier:Controlled Tier
+  Title: Aaron - All by All - PhecodeX Phenotypes Curation
+  Purposes: Drug Development; Ancestry; Commercial
+  Question: Our company develops RNAi treatments, which act through silencing the expression of genes. Investigating genetic associations with phenotypes in databases like All Of Us can be used to determine which genes, when silenced, may lead to favorable health outcomes. We plan to interrogate predicted loss-of-function variants in genes to test for their association with improved health, as this could lead to new therapeutics.
+  Approach: We plan to use the whole-genome sequence data in conjunction with EHR data to perform genome-wide common-variant association studies (GWAS) and rare-variant association studies (RVAS). We will use statistical methods like those we published in our prior work (e.g. Deaton et al., Nat. Comm., 2022).
+  Findings: We anticipate discovering associations between burden of predicted loss-of-function and predicted-damaging missense variants in genes and measures of improved health. These associations will highlight novel biological aspects of disease as well as suggest therapeutic strategies to treat them.
+
+PROJECT | workspace:31754 | tier:Controlled Tier
+  Title: Duplicate of Clinically relevant stratification in cardiometabolic diseases
+  Purposes: Commercial
+  Question: The study aims to investigate complex phenotype patterns in individuals with or at risk of cardiometabolic diseases. By integrating genetic data, we will identify clinically relevant patient clusters anchored in genetic profiles to explore the potential effects of novel therapeutic interventions. This approach will enable us to address critical questions about the efficacy and safety of treatments by examining heterogeneous patient clusters with shared phenotypic and genetic traits.
+
+The study s...
+  Approach: The study will utilize a combination of statistical and machine-learning methods. Basic statistical analyses will be employed to investigate patterns, describe the data, and perform feature selection. Machine learning, particularly deep learning algorithms, will be used to extract latent representations from participants’ traits and genetic data. These representations will inform the generation of...
+  Findings: We anticipate discovering distinct patient subgroups with shared genetic and clinical features, providing insights into the mechanisms driving cardiometabolic diseases. By uncovering novel genotype-phenotype associations, the study may identify potential targets for new or repurposed therapies. These findings will expand the field’s understanding of disease progression and classification, supporti...
+
+PROJECT | workspace:20382 | tier:Registered Tier
+  Title: Biological/Physiological/Functional Parameter Fluctuations During Aging
+  Purposes: Disease Focused Research (Aging)
+  Question: What is the nature of biological aging? Does aging constitute a unidirectional process? Or is it more accurate to assess biological age as something that fluctuates over the course of lifespan?
+  Approach: We plan to assess numerous biological/physiological and functional parameters as they exist throughout lifespan and combine our analyses in an effort to better understand the nature of the aging process.
+  Findings: Understanding the nature of biological aging will resolve disagreements in the field and move us closer to achieving our goal to develop therapeutic interventions and significantly improve human health/lifespan.
+
+PROJECT | workspace:4248 | tier:Controlled Tier
+  Title: Gender and delays in health
+  Purposes: Population Health
+  Question: Previous research has shown that women are more likely than men to attend healthcare visits. However, some research suggests that women may still be more likely than men to have unmet healthcare needs. The reasons for this disparity are unclear. We would like to determine whether women are more likely than men to experience delays in accessing healthcare and, if so, why.
+  Approach: We plan to use self-reported gender identity and other demographic information from All of Us Research Program's "The Basics survey. We will use data on delays in care from All of Us Research Program's "Healthcare Access and Utilization" survey. We will then use logistic regression to determine whether there is an association between gender and delays in care.
+  Findings: We anticipate finding that women are more likely than men to expereince delays in care for reasons such as child care and elder care. This will help us determine whether women are more likely to experience delays in care and, if so, what the reasons for those delays are and how best to eliminate barriers to accessing care.
+
+PROJECT | workspace:29134 | tier:Controlled Tier
+  Title: PRS analyses
+  Purposes: Disease Focused Research (Blood cancers ); Ancestry
+  Question: We aim to investigate whether variants that are causal for various inflammatory and immune phenotypes have a causal relationship with blood cancers while, while accounting for potential reverse causality, using a Directed Acyclic Graph (DAG) framework.
+  Approach: We plan to use a combination of statistical, computational, and bioinformatics approaches to address the research questions. This will involve leveraging patients with defined disease ( case -control with appropriate controls). Specific methodologies and tools will be selected based on the evolving needs of the study and additional datasets that will be leverage
+  Findings: These results will help inform planned wet lab work
+
+PROJECT | workspace:2295 | tier:Registered Tier
+  Title: Coronary Artery Calcium
+  Purposes: Population Health
+  Question: Coronary artery calcium scoring (CACS) is a strong tool in primary prevention for coronary artery disease (CAD). However, it is not covered by insurance currently. I seek to understand the use of and access to CACS in underrepresented populations. Although a proven strong tool for CAD risk assessment, I anticipate CACS is under utilized on underrepresented populations.
+  Approach: We will evaluate patients without known CAD, diabetes and divide into 2 groups. Those who have obtained CACS and those who have not. We will assess for differences in their medical history and laboratory evaluation as well as socioeconomic status to determine if that has influenced their ability to obtain a CACS.
+  Findings: We anticipate that patients from underrepresnted populations are less likely to obtain proven CACS for primary prevention of CAD events.
+
+PROJECT | workspace:29012 | tier:Registered Tier
+  Title: Amphetamines
+  Purposes: Disease Focused Research (Pancreatic cancer); Methods Development
+  Question: Our project aims at understanding the effect of prescription medications, particularly amphetamines, on the incidence of solid cancers.
+  Approach: We plan to compare the incidence of solid cancers amongst patients prescribed amphetamines, as well as does who did not use it.
+  Findings: We hypothesize that amphetamine use might have influence over solid cancer incidence, either increasing or decreasing it.
+
+PROJECT | workspace:32339 | tier:Controlled Tier
+  Title: August2025
+  Purposes: Disease Focused Research (Idiopathic pulmonary fibrosis); Ancestry
+  Question: How does genetic risk for pulmonary fibrosis differ across populations of different genetic ancestry? 
+Genome-wide association studies on pulmonary fibrosis have primarily been limited to populations of European ancestry. However, it is important to understand the genetic basis of the disease in different populations and explore the similarities and differences across populations. This would in turn enable generalisability and applicability of resultant interventions in diverse populations.
+  Approach: Genotype and demographic data will be used. Genome-wide association testing will be performed in the different population groups. The study will also explore differences and similarities in genetic risk of pulmonary fibrosis across populations of different ancestry.
+  Findings: The study will determine genetic variants associated with risk for pulmonary fibrosis in different populations. Findings will improve our understanding of pulmonary fibrosis genetics in diverse populations and identify novel genetic associations especially in non-European populations.
+
+PROJECT | workspace:17130 | tier:Controlled Tier
+  Title: EA&Cannabis
+  Purposes: Social / Behavioral
+  Question: I am interested in the heterogenous effect of substance use on education attaintment for people with different PGS.
+  Approach: I will use regression with interaction to determine the gene environment interaction. The legalization of marijuana will be used as an exogenous shock.
+  Findings: I anticipate to find heterogenous effect of using substance on peoples education attainment. This is the major contribution to the field.
+
+PROJECT | workspace:31477 | tier:Controlled Tier
+  Title: Duplicate of Mendez_working_v8_Germline mutations in cancer susceptibility genes
+  Purposes: Disease Focused Research (cancer); Ancestry
+  Question: Our goal is to analyze the All Of Us database to determine general population rates for pathogenic variants of specific cancer susceptibility genes. These genes are associated with an increased risk for developing cancer, but due to screening costs are generally only screened for in individuals who already have cancer, or in relatives of those with known pathogenic variants. We aim to use the All Of Us database to look for the general population rates of these genes in non-selected individuals. ...
+  Approach: By accessing individual-level data, we can evaluate rates within cancer patients as well as within those who have never been diagnosed with cancer. Additionally, we will separate out our analyses by race/ethnicity as the levels of variant frequency differ by race and ethnicity; for example, preliminary analysis has identified populations with founder mutations that have significantly higher rates ...
+  Findings: We aim to find if pathogenic variant rates are above a clinically actionable threshold in the general population; if they are, this could shape how genetic testing recommendations are made. We anticipate finding differing frequencies of specific pathogenic mutations between different self-reported race and ethnicities. We hope that our work will help identify populations at particular risk for the...
+
+PROJECT | workspace:23644 | tier:Registered Tier
+  Title: E-Cig x Skin Neoplasms
+  Purposes: Disease Focused Research (skin benign neoplasm)
+  Question: While I am still narrowing and tweaking my research question, my current formulated question is: Does e-cigarette use increase the risk of developing benign skin neoplasms (e.g., basal cell carcinomas, squamous cell carcinomas)? This question is important due to the increasing prevalence of e-cigarette use and the potential link between vaping and skin health. While much is known about the impact of cigarette smoking on skin aging and carcinogenesis, there is limited research on e-cigarettes imp...
+  Approach: I plan to review cohorts of individuals who have e-cigarette use and those who have no history of e-cigarette use, and assessing if there is a significant correlation of increased benign skin conditions in those who have a history of vape use. 
+I plan to conduct a retrospective cohort study using health records and surveys provided by All of Us. Participants' e-cigarette usage history will be comp...
+  Findings: I anticipate finding a positive correlation between e-cigarette use and the development of benign skin neoplasms, potentially through mechanisms such as oxidative stress or altered skin immune response due to nicotine or other chemicals in e-cigarettes. If confirmed, this would add new insights into the non-cancerous dermatological impacts of vaping and underscore the need for further long-term re...
+
+PROJECT | workspace:4231 | tier:Controlled Tier
+  Title: ML Development
+  Purposes: Methods Development; Ancestry
+  Question: We are developing a machine learning algorithm to predict heart disease based off genetic variants found in GWAS catalogs.
+  Approach: We will use a random forest algorithm that will predict the likelihood of developing heart disease based off genetic variants found in GWAS databases. We will use a database of all heart disease patients along information about 105 variants of interest.
+  Findings: To develop a machine learning algorithm that can predict likelihood of heart disease based off genetic variants.
+
+PROJECT | workspace:26530 | tier:Controlled Tier
+  Title: Renal cell carcinoma -CDR8
+  Purposes: Disease Focused Research (renal cell carcinoma)
+  Question: This is part of a GWAS meta-analysis for kidney cancer. This study is to determine genetic variants that are associated with kidney cancer and to develop a polygenic risk score to identify individuals who have higher risks.
+  Approach: This is a GWAS study. We will use the EHR (condition table) to identify a cohort with diagnoses related to renal cancer. Then we use WGS data to perform GWAS with either Hail or other tools.
+  Findings: Identify new genomic loci that are associated with kidney cancer.
+
+PROJECT | workspace:27991 | tier:Controlled Tier
+  Title: Controlled Tier Dataset V8
+  Purposes: Methods Development
+  Question: We are mapping EHR data summary statistics in the current CDR to phecodes so that we can identify the overlapping disease between the two data cohorts. We aims to leverage foundation model to develop a robust ensemble learning method for PRS construction.
+  Approach: Phecode mapping procedure. (1) Find the corresponding phecodes for the events with ICD10CM/ICD10PCS/ICD9CM (ICD10PCS codes seem to be the same as ICD10CM here). (2)For events with CIEL/Nebraska Lexicon/SPL/SNOMED/None/NA in the source_concept_vocabulary, extract their standard_concept_vocabulary (SNOMED) code and try to find the corresponding ICD10/ICD9CM code from other events in the condition ta...
+  Findings: Result: conditional table with phecode in long format. both parent and child phecodes match one diagnosis.
+
+PROJECT | workspace:25540 | tier:Controlled Tier
+  Title: Duplicate of Duplicate of EBV from genomic data
+  Purposes: Disease Focused Research (Epstein–Barr virus infection); Methods Development; Ancestry
+  Question: Epstein-Barr virus (EBV) is a double-stranded DNA-virus which can cause the disease infectious mononucleosis and which is associated with numerous other diseases such as multiple sclerosis or certain types of lymphomas. Large Genome-Wide Association Studies (GWAS) regarding EBV infection are currently not available. This project uses the All of Us project and quantifies EBV-DNA from the Whole-Genome Sequencing (WGS) data, which was generated from blood. The EBV read counts should then be used to...
+  Approach: Datasets: 
+- WGS-data in the form of CRAM files 
+- bgen files (common variants)
+- Phenotype data: Primarily age, sex
+
+Approaches: 
+- Counting of EBV reads from CRAM files
+- Genome-wide association study between EBV read counts (=phenotype) and common variants (bgen files)
+
+Tools:
+- nextflow, samtools, R, plink, regenie
+  Findings: This project is high-risk at the moment, i.e. the method of counting EBV from WGS data has to be established. If this works, this study could identify common variants of humans associated with increases in EBV-DNA in blood. This could yield unique insights into the host-pathogen interaction of EBV.
+
+PROJECT | workspace:17024 | tier:Controlled Tier
+  Title: Hidradenitis suppurativa study
+  Purposes: Disease Focused Research (hidradenitis suppurativa); Population Health
+  Question: In this workbench, we will be analyzing the possible social determinants of hidradenitis suppurativa across different population groups. It is possible that aspects of a person's identity, such as race and income might lead to variable treatment outcomes in medical treatment. By doing this, we hope to better understand the disease from a non-biological point of view.
+  Approach: Most of the early research will use simple data analysis, such as cluster analysis and the student's t-test, to model how certain social identities may lead to varying outcomes. These tests will be performed on groups of participants who have been diagnosed with hidradenitis suppurativa. Studying the outcomes of these participants will lead to a more comprehensive understanding of the social deter...
+  Findings: As of right now, there are no specific outcomes that are expected before observing the data. However, we do expect that members of certain social groups likely receive differential treatment for the condition, which would result in differential outcomes. By observing and modeling these outcomes, it could be possible to suggest better practices in the dermatological field for treatment.
+
+PROJECT | workspace:2751 | tier:Controlled Tier
+  Title: Mental Health & Neighborhood Risk
+  Purposes: Social / Behavioral
+  Question: The aims of this study are (a) to explore the associations between income loss, food insecurity and parents’ mental health (b) to explore the associations between social and structural neighborhood factors and parents’ mental health across racial/ethnic groups, and (c) to explore whether the associations between food insecurity, income loss and parents’ mental health trajectories were mediated or moderated by SES and neighborhood risk across racial/ethnic groups during the COVID-19 pandemic.
+  Approach: A series of Bayesian latent growth modeling will be used to assess between person differences and within-person changes on parents' anxiety, stress, and depression levels over time. Using a step-wise approach, a series of models will be tested iteratively by increasing model complexity: random intercept, random slope, non-linear slope, and growth mixture models to determine the best fitting trajec...
+  Findings: Experiencing income loss or food insecurity during the COVID-19 could negatively affect the quality of parent-child interactions due to parents' increased distress. However, identifying the role of SES and neighborhood risk on the association between family financial difficulties and parents’ mental health trajectories can assist  policymakers to help identify the low-resource communities where pr...
+
+PROJECT | workspace:18631 | tier:Controlled Tier
+  Title: temp temp
+  Purposes: Methods Development
+  Question: temp temp temp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp...
+  Approach: temp temp temp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptem...
+  Findings: temp temp temp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptemp temptem...
+
+PROJECT | workspace:19555 | tier:Controlled Tier
+  Title: Fanconi Anemia Exploration
+  Purposes: Disease Focused Research (Fanconi's anemia); Population Health; Social / Behavioral; Methods Development; Ancestry
+  Question: This workspace is created as the initial data exploration of patients who may have Fanconi Anemia (FA). I would like to build a cohort of FA patients by their SNOMED code. Since FA does not have a standard ICD9/ICD10 clinical diagnostic code, it is difficult to find additional FA patients using EHR data. In the National COVID Cohort Collaborative (N3C) Enclave, a computational phenotyping approach using semantic similarity was used to identify FA patients. Genetic analysis of pathogenic variants...
+  Approach: I plan to use the various OMOP tables to explore the phenotypes. The condition_occurrence and person tables will be used to gather phenotypes and demographics. The phenotypes will be assessed using existing criteria including VACTERL-H & PHENOS associations. Various methods for genotyping will be used to explore the optimal tools, methods, and workflows for FA genotyping.
+  Findings: The exploration of various tools, methods, and workflows for FA genotyping would provide insight on the optimal approach to genotyping FA patients, which will serve as a biomarker to validate potentially known FA patients for the upcoming studies.
+
+PROJECT | workspace:2825 | tier:Controlled Tier
+  Title: Changes in autozygosity over time
+  Purposes: Ancestry
+  Question: Previous studies have linked higher levels of autozygosity - the proportion of the genome contained in runs of homozygosity (ROH) that are identical by descent -  with worse outcomes on several fitness-related traits, including e.g., respiratory function and reproductive characteristics, such as number of children born. In a recently submitted study on ~6,500 adolescents (currently a preprint on biorxiv: https://doi.org/10.1101/2021.11.24.469902), we observed an unexpectedly low level of autozyg...
+  Approach: We are currently testing the association between autozygosity and year of birth in both UK and US-based cohorts of all available ancestries using standard data analysis tools. 
+Following the ROH-calling procedures in Clark et al. (2019; https://doi.org/10.1038/s41467-019-12283-6), we use PLINK to QC genotype array data (not imputed) and call ROHs based on the following parameters: --homozyg-window...
+  Findings: A study from Nalls et al. (2009) previously explored this phenomenon, finding that autozygosity steadily declined in relation to birth year, at a rate of 0.1% decrease in Froh for every 20 years decrease in chronological age. However, this study was a relatively small sample (N = 809) and only analyzed North Americans of European descent. Aside from Nalls et al. (2009), there seem to be few mentio...
+
+PROJECT | workspace:23685 | tier:Registered Tier
+  Title: PrivacyDataRelease
+  Purposes: Methods Development
+  Question: How to release masked data without revealing the individual data. And keep statistical utility for the masked data.
+  Approach: We are studying a data release method that protect individual data privacy. We apply the masking to raw data set to hide individual data. Data analysis is conducted on masked data and compared with raw data analysis to check the statistical utility of the masked data.
+  Findings: Want to verify the masking is effective in privacy protection, while retain sufficient statistical utility. Such method can be used in future clinical trial studies to protect individual patients' privacy.
+
+PROJECT | workspace:13520 | tier:Controlled Tier
+  Title: KSD replication
+  Purposes: Disease Focused Research (Kidney stone disease); Ancestry
+  Question: I aim to ascertain whether findings regarding kidney stone disease from a European ancestry cohort are replicated in a cohort of diverse ancestry.
+  Approach: Genome wide association study of kidney stone disease
+Observational analyses to ascertain whether assumptions about risk factors for kidney stone disease are met in a cohort of multiple ancestries
+Mendelian randomisation of putative causal risk factors on risk of kidney stone disease
+Colocalisation analyses to ascertain whether there are shared genetic causes between risk factors for kidney stone ...
+  Findings: Identification of genetic loci pertinent to kidney stone disease
+Identification of causal risk factors for kidney stone disease that can inform patient counselling, disease prevention, and drug design
+Identification of causal genetic variants in kidney stone disease that can inform our understanding of disease biology and enable possible drug target studies in future
+
+PROJECT | workspace:4175 | tier:Controlled Tier
+  Title: AD&PD Exploration
+  Purposes: Disease Focused Research (Alzheimer's disease and Parkinson's disease)
+  Question: I hope to explore the data to discover more relevant biological information about AD and the PD patient cohort.
+  Approach: AD and PD patients cohorts with diverse clinical manifestations. Statistical methods are used to explore differences between groups and classify groups through data-driven approaches.
+  Findings: The expected findings may be of value in pathophysiological studies, clinical practice, and clinical trials to advance our understanding and treatment of AD and PD.
+
+PROJECT | workspace:34451 | tier:Controlled Tier
+  Title: Epigenetic age
+  Purposes: Methods Development
+  Question: 1. Can PacBio HiFi methylation data be used to accurately estimate epigenetic age using existing epigenetic clocks developed for array-based data?
+2. Can PacBio HiFi methylation data be used to accurately estimate blood cell proportions using existing methods developed for array-based data?
+  Approach: We will use PacBio HiFi methylation data from the All of Us cohort to estimate epigenetic age using various established epigenetic clocks and compare these estimates with chronological age. In individuals from the general, non-disease population, we expect epigenetic age to closely match chronological age.
+We will also use PacBio HiFi methylation data from the All of Us cohort to estimate blood ce...
+  Findings: We expect:
+1. Calculated epigenetic age highly correlate with chronological age.
+2. Estimated blood cell proportions highly correlate with measured counts.
+Epigenetic age is a robust marker of biological aging and has been linked to a range of traits and diseases associated with reduced lifespan. After validating the accuracy of epigenetic age estimation from PacBio HiFi methylation data, we will ...
+
+PROJECT | workspace:12876 | tier:Registered Tier
+  Title: Neighborhood Characteristics and Non-Medical Use of Prescription Medications
+  Purposes: Methods Development
+  Question: This study explores neighborhood characteristics most closely associated with non-medical use of certain prescription medications. 
+This study seeks to expand the scope of the descriptive characteristics of these communities and determine how these characteristics may influence the type of medications people within these communities tend to abuse. I anticipate that individuals living in areas of increased crime, urban neighborhoods, and poor relationships with neighbors will be most closely asso...
+  Approach: The cohort of interest will involve all individuals in the AllOfUs program. The parameters of interest are the self-reported housing characteristics and frequency of non-prescription use of medications within the past three months. This will allow us to see how these characteristics may influence which drugs people tend to abuse.
+  Findings: This study aims to find which neighborhood characteristics are most closely associated with non-medical use of certain medications. In this way, we can better understand which types of communities are most at risk for abusing certain drugs and create targeted initiatives for these communities.
+
+PROJECT | workspace:26699 | tier:Controlled Tier
+  Title: ibd_circadian_treatment
+  Purposes: Disease Focused Research (inflammatory bowel disease); Control Set
+  Question: Biological therapy has greatly improved treatment outcomes in inflammatory bowel disease (IBD) management, but primary non-response rates of 10-30% and even higher secondary non-response rates have been reported [1]. Chronotherapy, which involves administering treatments in alignment with the body’s biological clock has shown promise in improving treatment efficacy across multiple diseases [2,3]. However, its impact on IBD management remains largely unexplored [4]. We will analyze All of Us Elec...
+  Approach: We will use the EHR data to define patients with IBD and understand their medication trajectories. Next to baseline features representing patient demographics and prior medical history, we will use the described time of treatment to extract additional features from the EHR. We will use statistical and machine learning models to explore whether treatment timing is associated with patient outcomes r...
+  Findings: This research question has not been extensively studied before. We hope to understand whether the time of treatment may impact treatment outcomes, which will have to be studied prospectively in the future. If we find a significant association, timing treatments to align with the body's biological clock could lead to better health outcomes for IBD patients.
+
+PROJECT | workspace:25651 | tier:Controlled Tier
+  Title: Social and biological determinants of cardiovascular disease v8
+  Purposes: Disease Focused Research (cardiovascular system disease); Population Health; Social / Behavioral; Ancestry
+  Question: Cardiovascular disease (CVD) are responsible for a substantial proportion of the morbidity and mortality observed in the general population. Mounting evidence indicates that this impact disproportionately affects minority populations. Most factors underlying these health disparities pertain to the social determinants of health, but it is unclear how biological factors play a role or interact with these social determinants. The main questions of this study are: (1) can we use All of US to identif...
+  Approach: We will use the All of US dataset V8. We will identify variables that represent (1) cardiovascular disease (myocardial infarction, coronary artery disease, stroke); (2) all the known risk factors for each of these conditions; (3) physiological variables that either define a risk factor or are associated with risk of cardiovascular disease (blood pressure, cholesterol levels, hemoglobin A1C); (4) p...
+  Findings: We expect to find that: (1) a substantial number of the known vascular risk factors increase risk of cardiovascular disease across all evaluated groups; (2) both social determinants of health and polygenic susceptibility are independently associated with these cardiovascular conditions; and (3) there are interactions between the effect of social determinants of health and polygenic contribution to...
+
+PROJECT | workspace:26884 | tier:Controlled Tier
+  Title: SLE v8
+  Purposes: Disease Focused Research (systemic lupus erythematosus); Population Health; Methods Development; Ancestry
+  Question: We aim to investigate the disparity in prevalence and severity of systemic lupus erythematosus (SLE) across different population groups. This workspace is for an initial exploration of the All of Us data, so we can develop more specific research questions later on. Initially, we intend to study the calibration of Polygenic Risk Scores (PRS) across genetically-inferred ancestries and contexts.
+  Approach: We plan to evaluate PRS accuracy across different genetic ancestry backgrounds as done in Ding et al. (Nature, 2023), and test PRS calibration across genetic ancestries and contexts (see Hou et al., medRxiv, 2023). To do that, we plan to use genomic data and electronic health records, and we will select data from SLE patients and controls.
+  Findings: We hope to reveal unprecedented resolution into the implications of genetic ancestry and social determinants of health in the risk and severity of SLE in different population groups in the US, laying the groundwork for understanding the genetic basis, the correct estimation of risk, and the development of actionable healthcare measures.
+
+PROJECT | workspace:23913 | tier:Controlled Tier
+  Title: AF PRS LMNA
+  Purposes: Disease Focused Research (Atrial Fibrillation)
+  Question: Is a polygenic risk score for AF associated with risk of early onset atrial fibrillation in carriers of rare pathogenic LMNA variants?
+  Approach: applying an AF polygenic risk score (PRS) to carriers of rare LMNA variants to determine whether a high PRS is associated with a higher risk of early onset AF.
+  Findings: Screening for common genetic variation in patients harboring LMNA mutations may aid risk stratification and initiation of preventive therapy.
+
+PROJECT | workspace:24622 | tier:Registered Tier
+  Title: Thyroid cancer
+  Purposes: Disease Focused Research (thyroid cancer); Population Health; Social / Behavioral
+  Question: RAI refractory metastatic well differentiated thyroid cancer can be observed unless the disease is symptomatic and/or progressing. We aim to identify the association between demographic characteristics and the decision of observation vs treatment.
+In asymptomatic patients, observation is associated with better QoL while in symptomatic patients, treatment could potentially improve QoL. We plan to compare QoL and level of physical activity in patients who are being observed vs undergoing treatment...
+  Approach: Will identify patients with metastatic well-differentiated thyroid cancer who are receiving treatment or on observation. Will collected demographic information and data from wearable device and identify associations between variables.
+  Findings: Patients who are undergoing treatment are less active and with worse QoL.
+Observation are more common among patients who are older, with more co-mobilities and managed at academic centers.
+
+PROJECT | workspace:31874 | tier:Registered Tier
+  Title: Diabetes and Surgical Outcomes
+  Purposes: Disease Focused Research (Diabetes Mellitus)
+  Question: Among patients with diabetes undergoing spine surgery, which measures of diabetes management and treatment modalities impact surgical complications? This question may help guide treatment for patients with diabetes undergoing spine surgery, who are at an elevated risk of many surgical complications compared to the general population.
+  Approach: This will be a retrospective cohort study of patients with diabetes undergoing spine surgery comparing post-operative outcomes between groups with different diabetes metrics or receiving different treatments. Following data extraction and cleaning, analysis may include regression analysis and propensity score matching in R to adjust for confounders.
+  Findings: The anticipated findings are that newer therapies that improve diabetes management will also improve post-operative outcomes.
+
+PROJECT | workspace:6624 | tier:Controlled Tier
+  Title: Environmental Factors vs Systemic Lupus Erythematosus
+  Purposes: Ancestry
+  Question: The specific scientific question that we intend to study is, what are the underlying mechanisms in which chronic inflammation and environmental exposures may contribute to the development and progression of lupus? This question is important because this is a chronic autoimmune disease that has affected millions of people over time. While the disease itself can arise from genetics, the environment plays a large role in the exposure and contributor of lupus.
+  Approach: The scientific approaches that we plan to use for our studies is researching what environmental factors are major contributors to the development as well as the progression of lupus. Looking at specific statistics found in peer-reviewed scholarly journals will help us determine what those numbers are.
+  Findings: The anticipated findings that we are hopeful to discover is what environmental factors are causing the most damage and contribute the most to the progression and diagnosis of lupus. These finding would not only be beneficial to scientific knowledge, but it could also help in creating ways to decrease the specific environmental factor that is causing the development of lupus to worsen.
+
+PROJECT | workspace:21606 | tier:Registered Tier
+  Title: Readmission in Heart Failure V7
+  Purposes: Disease Focused Research (Heart Failure); Population Health
+  Question: Readmission rates among patients hospitalized with acute heart failure have been notoriously resistant to quality improvement and administrative initiatives - and some of these programs have been associated with adverse consequences. Part of the problem is that prediction of readmission risk, and accordingly, selecting patients for additional interventions, has been limited by the fact that predictive models based on biomedical variables have limited accuracy for readmission.
+
+The research quest...
+  Approach: For this purpose, we will select patients who have an inpatient encounter associated with a standard set of ICD codes that are used to capture heart failure in AoU (ICD-10 CM I50 codes and ICD-9 CM 428 codes). we'll use this as the index encounter to describe the patient characteristics and variables that are potential predictors of readmission. 
+
+We will identify then patients who have a repeat i...
+  Findings: We expect that the results of this study will allow us to:
+
+1. Quantify the ability of standard biomedical variables that are available in the electronic health record during an admission for heart failure to predict readmission.  This may allow further research to focus on specific components of care (for example, preservation or improvement of renal function) that are disproportionately affectin...
+
+PROJECT | workspace:2954 | tier:Registered Tier
+  Title: Nick Pigmentation
+  Purposes: Disease Focused Research (Vitiligo, melasma, post-inflammatory hyperpigmentation)
+  Question: We are interested in the effects of disorders of pigmentation on patients' mental health and quality of life.  We are also interested in how these effects vary based on race and ethnicity
+  Approach: We plan to conduct case-control studies using pigmentary disorder patients contained within the All of Us data set.  We also plan to do sub-analyses by race and ethnicity
+  Findings: We anticipate that mental health disorders will disproportionately affect patients with disorders of pigmentation
+
+PROJECT | workspace:21346 | tier:Controlled Tier
+  Title: SCN5A genetic variants and arrhythmia
+  Purposes: Disease Focused Research (arrhythmia); Ancestry
+  Question: We will investigate the association of genetic variants that might influence regulation of SCN5A (gene encoding the cardiac sodium channel, NaV1.5) mRNA. Too much or too little NaV1.5 expression has been linked to cardiac arrhythmias, sudden cardiac death, and heart failure.  We will assess whether specific variants of interest are linked to EHR codes that are relevant to arrhythmia conditions in patients.
+  Approach: We will use genomic sequencing data to evaluate rare and common genetic variants in SCN5A that are linked to EHR codes with relevance to cardiac arrhythmias.
+  Findings: We expect to find that variants that could feasibly alter SCN5A mRNA regulation will be linked to arrhythmic conditions in patients.  If so, this would inform the field of possible risk variants and also have the potential to elucidate new regulatory pathways that might control SCN5A, a critical gene in cardiac biology and disease. Follow-up studies would be conducted to begin ascribing causality ...
+
+PROJECT | workspace:20119 | tier:Controlled Tier
+  Title: HSCR study CHGG
+  Purposes: Disease Focused Research (Hirschsprung's disease); Control Set; Ancestry
+  Question: I'm studying genetic, environmental and social factors that would affect Hirschsprung disease onset and severity. I would All of US as a control and compare demographic, clinical and genetic features in the control to those in our own patient data. The goal is to figure out aspects in genetic, environmental and social factors that would increase one's risk of contracting Hirschsprung disease or one's risk of having severer conditions with the disease.
+  Approach: ancestry matched case control analysis. cases are our lab's internal patient dataset. controls are from all of us. statistical analyses would be conducted by R.
+  Findings: risk factors of getting HSCR is not totally genetics, as we previously believed. There exist environmental and social risk factors that would increase one's risk of contracting Hirschsprung disease or worsening one's disease severity.
+
+PROJECT | workspace:20517 | tier:Controlled Tier
+  Title: Cryptococcal Meningitis
+  Purposes: Disease Focused Research (Cryptococcal meningitis)
+  Question: This work aims to investigate cryptococcal meningitis in apparently immunocompetent patients. Demographics and comorbidities will be investigated.
+  Approach: Demographic comparison, comorbidity comparison, phenome-wide association studies.
+  Findings: Acquired immunodeficiency is thought to mediate susceptibility to cryptococcal meningitis, and genetic variants may underlie infection in immunocompetent patients.
+
+PROJECT | workspace:34057 | tier:Controlled Tier
+  Title: ADRD and Multimorbidity Cross-classified Multilevel modeling
+  Purposes: Disease Focused Research (Alzheimer's Disease and related dementias); Methods Development; Ancestry
+  Question: How does multimorbidity (MM, 2 or more conditions) vary across different individuals in the AOU cohort? What social, structural, behavioral, and individual characteristics influence variance in the risk for MM, does this differ for those with ADRD and how does the APOE-e4 variant modify that variance? Understanding which factors combined with known risks impact risks for MM and ADRD could inform policy and interventional approaches to promoting health and preventing disease and MM.
+  Approach: We will use cross-classified multi-level models using EHR, survey,ZIP-3 data at Level 2 to examine variation in the risks and quantify the extent to which different patterns of individual and environmental exposures result in greater or less variation in MM risk in general and specific ADRD-MM combinations.
+  Findings: We believe that there will be higher multimorbidity among individuals with both ADRD diagnoses and APOE-e4 variant that are also living in the areas with greater area deprivation measures--we believe that those with ADRD and no pathological APOE variant will have higher MM outcome risks when living in greater deprivation areas. Understanding variation in risks and the ways that different aspects o...
+
+PROJECT | workspace:33865 | tier:Controlled Tier
+  Title: EnvirPanc
+  Purposes: Disease Focused Research (Pancreatic cancer)
+  Question: To evaluate the associations between environmental factors and pancreatic cancer. Understanding these links is important for identifying potential risk factors and guiding public health interventions to reduce the burden of this highly fatal disease.
+  Approach: I plan to use statistical analysis methods in R to examine associations between environmental exposures and pancreatic cancer. This will involve analyzing relevant variables from the All of Us dataset, including environmental, demographic, and genetic data. I will use regression modeling and other epidemiologic techniques to assess potential risk factors. Data visualization and exploratory data an...
+  Findings: I anticipate identifying potential environmental risk factors associated with pancreatic cancer. These findings could contribute to the scientific understanding of modifiable exposures linked to disease risk, supporting future research and informing prevention strategies in public health and clinical practice.
+
+PROJECT | workspace:4174 | tier:Controlled Tier
+  Title: Genetic risk factors associated with prostate specific antigen V6
+  Purposes: Disease Focused Research (Prostate cancer); Population Health; Methods Development; Ancestry
+  Question: We intend to comprehensively discover and characterize genetic factors associated with prostate specific antigen (PSA) levels independently of prostate cancer (PCa), with the goal of using this genetic information to improve PSA testing for cancer. PSA testing has been shown to reduce prostate cancer PCa mortality. But the use of PSA screening has declined in recent years due to concerns about overdiagnosis and overtreatment of PCa. If PSA testing could be personalized based on individuals’ char...
+  Approach: We will use genome-wide association study (GWAS) and polygenic risk score (PRS) approaches. The datasets will include men in the All of Us study without PCa who have at least one PSA testing value available. We will first identify genetic variants associated with PSA levels by undertaking a trans-ancestry GWAS that uses mixed-effects models allowing for multiple PSA measures. Then we will undertak...
+  Findings: We anticipate detecting many genetic variants associated with non-prostate cancer PSA variation and developing a novel polygenic risk score that measures the contribution of common genetic variants to a man’s inherent PSA level. These genetic determinants of PSA will provide an avenue for refining prostate cancer GWAS signals by mitigating selection bias due to PSA screening, and for improving dis...
+
