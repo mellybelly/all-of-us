@@ -1,0 +1,402 @@
+# NIA (2020-2025) — file: NIA_Strategic_Directions_2020-2025.pdf
+# 10 pages matched priority-heading patterns
+
+
+--- PAGE 2 matched=['scientific priorit', 'goals and objectives', 'mission'] ---
+NIA Strategic Directions 2020 1 
+From the Director 
+I am pleased to present the strategic directions of the National Institute on Aging (NIA) for 
+2020-2025.  
+Today, there are more Americans ages 65 and older — just over 49 million, according to the 
+U.S. Census — than at any other time in history, and we expect these numbers to grow as more 
+Baby Boomers (individuals born between 1946 and 1964) reach retirement age. We can 
+attribute this unprecedented demographic shift to a variety of factors, many of which benefit 
+people of all ages. For example, even within the lifetimes of today’s older Americans, infectious 
+diseases that once cut millions of lives short have been largely controlled in the U.S., and public 
+health campaigns and policy changes — for example, smoking cessation efforts and laws 
+mandating seat belt use — have saved many more lives.  
+Despite these advances, aging itself remains the most significant risk factor for many chronic 
+diseases and conditions, including Alzheimer’s disease and related forms of dementia 
+(AD/ADRD), most types of cancer, many types of heart disease, osteoporosis and hip fracture, 
+kidney failure, and diabetes. While these diseases are rarely inevitable, it is probable that as the 
+number of older Americans increases, so too will the number of people with age-related 
+diseases. A significant increase in the number of individuals with serious chronic conditions will 
+have profound social and economic effects on the nation. 
+NIA is meeting these challenges through its ongoing mission to:  
+• Support and conduct genetic, biological, clinical, behavioral, social, and economic 
+research on aging. 
+• Foster the development of research and clinician scientists in aging. 
+• Provide research resources. 
+• Disseminate information about aging and advances in research to the public, health care 
+professionals, and the scientific community, among a variety of audiences. 
+Our primary activities include funding extramural research at universities and research centers 
+across the U.S. and around the world; maintaining an active communications and outreach 
+program; and conducting a vibrant intramural research program at NIA laboratories in 
+Baltimore and Bethesda, Maryland. In addition, as the lead federal agency for research on 
+AD/ADRD, NIA has received an unprecedented influx of funding targeted toward understanding 
+and addressing these conditions over the past seven years, and our plans and priorities reflect 
+this extraordinary opportunity for discovery. 
+This document presents our scientific priorities for the next five years. Consistent with guidance 
+in the 21st Century Cures Act, we also lay out our goals and objectives with respect to some of 
+the “behind the scenes” activities we conduct in order to support the science. It is our hope 
+that this description of our priorities is useful to you, whether you’re an independent 
+researcher, an advocate, or an interested layperson. 
+For up-to-date information about NIA’s activities, priorities, and advances, I invite you to visit 
+our web site at www.nia.nih.gov. 
+Sincerely, 
+Richard J. Hodes, M.D.  
+
+--- PAGE 3 matched=['Scientific Priorit'] ---
+NIA Strategic Directions 2020 2 
+Contents 
+The National Institute on Aging: Strategic Directions for Research, 2020-2025 ....................... 3 
+The National Institute on Aging .................................................................................................. 3 
+About This Document ................................................................................................................. 3 
+Understanding the Dynamics of the Aging Process ................................................................ 3 
+Improving the Health, Well-Being, and Independence of Adults as They Age ....................... 3 
+Supporting the Research Enterprise ....................................................................................... 4 
+How Will We Measure Progress? ............................................................................................... 4 
+Understanding the Dynamics of the Aging Process ................................................................ 5  
+Goal A Better understand the biology of aging and its impact on the prevention, 
+progression,and prognosis of disease and disability. ...................................................... 5 
+Goal B Better understand the effects of personal, interpersonal, and societal  
+factors on aging, including the mechanisms through which these factors  
+exert their effects. ........................................................................................................... 8 
+The Importance of Longitudinal Data on Aging ........................................................................ 11 
+Improving the Health, Well-Being, and Independence of Adults as They Age ........................ 13 
+Goal C Develop effective interventions to maintain health, well-being, and  
+function and prevent or reduce the burden of age-related diseases,  
+disorders, and disabilities. ............................................................................................. 13 
+Goal D Improve our understanding of the aging brain, Alzheimer’s disease, 
+related dementias, and other neurodegenerative diseases. Develop  
+interventions to address Alzheimer’s and other age-related  
+neurological conditions. ................................................................................................. 19 
+Research on Alzheimer’s Disease and Related Dementias ....................................................... 20 
+Goal E  Improve our understanding of the consequences of an aging society  
+to inform intervention development and policy decisions. .......................................... 26 
+Goal F Understand health disparities related to aging and develop strategies  
+to improve the health status of older adults in diverse populations. ........................... 29 
+Supporting the Research Enterprise ..................................................................................... 38 
+Goal G  Support the infrastructure and resources needed to promote  
+high-quality research. .................................................................................................... 38 
+Goal H  Disseminate information to the public; scientific and medical communities; 
+stakeholder advocacy, community and older adult-support organizations;  
+the media; and policymakers about research and interventions. ................................. 41 
+Goal I Effectively steward public resources. ............................................................................. 43 
+How NIA S
+
+--- PAGE 4 matched=['mission'] ---
+NIA Strategic Directions 2020 3 
+The National Institute on Aging: Strategic 
+Directions for Research, 2020-2025 
+ 
+The National Institute on Aging 
+The National Institute on Aging (NIA) is one of 27 Institutes and Centers of the National 
+Institutes of Health (NIH), a component of the U.S. Department of Health and Human Services. 
+Our mission encompasses basic, translational, and clinical research; training and career support 
+for investigators at all levels; resource allocation; and health communication to a range of 
+audiences. Congress established the NIA in 1974 to lead a national scientific effort to 
+understand the nature of aging in order to promote the health and well-being of older adults. 
+The Institute was subsequently designated as the lead within NIH for research on Alzheimer’s 
+disease and related forms of dementia (AD/ADRD). NIA pursues its mission by funding 
+extramural research at universities and medical centers across the U.S. and around the world; 
+maintaining an active communications and outreach program; and conducting a vibrant 
+intramural research program at NIA laboratories in Baltimore and Bethesda, Maryland.  
+Public Law 93-296 authorizes the establishment of a National Institute on Aging and requires 
+that the institute develop a national comprehensive plan to coordinate the Health, Education, 
+Welfare (HEW) agencies involved in aging research. The Institute’s purpose, functions, and 
+certain activities are described in 42 U.S. Code §285e.  
+About This Document 
+This document outlines NIA’s broad strategic directions. It provides a point of reference for 
+setting priorities and a framework for systematically analyzing the Institute’s scientific portfolio 
+and assessing progress. NIA developed and refined these goals over a one-year period, 
+receiving valuable input and feedback from stakeholders in the research community, 
+nongovernmental organizations, partners within NIH and elsewhere within the federal 
+government, and members of the general public via a November 2018 Request for Information. 
+We will update the document as needed as the field of aging research evolves.  
+Our goals are as follows:  
+Understanding the Dynamics of the Aging Process 
+Goal A: Better understand the biology of aging and its impact on the prevention, progression, 
+and prognosis of disease and disability.  
+Goal B: Better understand the effects of personal, interpersonal, and societal factors on aging, 
+including the mechanisms through which these factors exert their effects. 
+Improving the Health, Well-Being, and Independence of Adults as They Age  
+Goal C: Develop effective interventions to maintain health, well-being, and function and 
+prevent or reduce the burden of age-related diseases, disorders, and disabilities.  
+
+--- PAGE 5 matched=['vision'] ---
+NIA Strategic Directions 2020 4 
+Goal D: Improve our understanding of the aging brain, Alzheimer’s disease, related dementias, 
+and other neurodegenerative diseases. Develop interventions to address Alzheimer’s and other 
+age-related neurological conditions.  
+Goal E: Improve our understanding of the consequences of an aging society to inform 
+intervention development and policy decisions.  
+Goal F: Understand health disparities related to aging and develop strategies to improve the 
+health status of older adults in diverse populations.  
+Supporting the Research Enterprise 
+Goal G: Support the infrastructure and resources needed to promote high-quality research.  
+Goal H: Disseminate information to the public; scientific and medical communities; stakeholder 
+advocacy, community and older adult-support organizations; the media; and policymakers 
+about research and interventions. 
+Goal I: Effectively steward public resources. 
+Our vision is to enable all Americans to enjoy robust health and independence with advancing age. 
+How Will We Measure Progress? 
+As a component of the NIH, NIA supports research with the goal of curing disease and 
+improving overall health. However, the path from bench to bedside — that is, from basic 
+scientific discovery to clinical application — is often long and is rarely straightforward. It’s the 
+nature of biomedical science that years or even decades worth of incremental advances may be 
+necessary before a basic discovery, however ground-breaking, pays off in the form of new 
+interventions to benefit health. While a direct link can sometimes be drawn between specific 
+funding and an improvement in health, more often the story is complex. Furthermore, with 
+each new breakthrough, science can advance and evolve in unanticipated ways. These new 
+directions also serve as indicators of progress, and we consider them to be a successful 
+outcome of our support, even when direct clinical application is not immediately evident. 
+With all of this in mind, NIA will use both quantitative and qualitative techniques to measure 
+progress toward the priorities described in this document; analyze the scientific, clinical, and 
+public health impact of its research; and periodically report results to stakeholders. We will do 
+this through regular analysis and evaluation of programs and initiatives that have been 
+developed in support of our priorities. Because no two programs or initiatives are exactly the 
+same, the tools, measures, and approaches we use for each evaluation or analysis will differ. 
+However, we anticipate working with partners across NIH, such as the Office of Portfolio 
+Analysis and the Office of Program Evaluation, Performance, and Reporting to track progress 
+and initiate course corrections where necessary.   
+
+--- PAGE 9 matched=['vision'] ---
+NIA Strategic Directions 2020 8 
+A-5 Understand the sensory and motor changes associated with aging and how they lead to 
+decreased function and increased risk of morbidity. Mobility changes in the aging adult can 
+result from changes in gait, balance, and physical strength, and can negatively influence the 
+number and severity of falls, social participation, and independence. Loss of sensory functions 
+such as vision, hearing, or the ability to taste is also common among older adults. NIA-
+supported research to better understand the underlying mechanisms of age-associated 
+sensory and motor changes will provide the knowledge base necessary to develop 
+interventions that optimize mobility and sensory function in the later years of life.  
+A-6 Identify and characterize interventions that hold the promise of increasing healthy lifespan. 
+The NIA established and continues to support the Intervention Testing Program to test the 
+reproducibility of candidate interventions that will prolong lifespan and increase healthspan. In 
+this and other research the NIA promotes studies in both female and male organisms. Similar 
+studies are supported in the Caenorhabditis Interventions Testing Program, a multi-
+institutional study that investigates interventions that might extend lifespan or healthspan 
+using diverse species and strains of the worm Caenorhabditis, to explore the impact of genetic 
+diversity on the efficacy of interventions. We support studies on the mechanisms of action of 
+these interventions which will facilitate their translation to benefit healthy aging in humans.  
+A-7 Develop and/or identify biomarkers (including genetic, epigenetic, molecular, cellular, 
+immunological, metabolic, imaging, and microbiome-related) that are applicable to aging 
+and geroscience research. Aging is associated with changes at multiple physiological levels. 
+Research is needed to enable us to predict, identify, and where necessary address these 
+changes.  
+A-8 Use comparative biology to understand how adaptations in diverse species ultimately affect 
+aging. Lifespan is a complex biological trait resulting from multiple genetic interactions. In fact, 
+we have identified roughly 400 genes involved in human lifespan. Comparing processes at the 
+molecular, cellular, structural, and organismal levels across animal species and diverse human 
+populations can provide important information about how these genes interact and illuminate 
+critical molecular pathways that determine both lifespan and healthy function at older ages. 
+Goal B 
+Better understand the effects of personal, interpersonal, and societal factors on 
+aging, including the mechanisms through which these factors exert their effects.  
+Behavioral and psychological factors — for example, physical activity, smoking and other health 
+behaviors, cognitive and social engagement, personality, and psychosocial stress — play a 
+critical role in health across the lifespan. Studies have shown that up to 50% of preventable 
+deaths in the U.S. can be attributed to adverse health behaviors such as smoking as well as 
+unhealthy diet that result in obesity. Social factors, such as social relationships and 
+socioeconomic circumstances, have a similarly important impact on health and well-being. For 
+example, subjective feelings of loneliness are known to be a risk factor for serious functional 
+declines and even death, and converging lines of evidence from multiple cross-national 
+epidemiological studies indicate t
+
+--- PAGE 21 matched=['goals and objectives'] ---
+NIA Strategic Directions 2020 20 
+phenomenon, known as neurogenesis, suggests that we may be able to develop medical and 
+behavioral approaches to stimulate formation of new neurons to compensate for the loss and 
+functional decline of neurons with aging, disease, or traumatic injury.  
+NIA will continue to support research to identify age-related neural changes and mechanisms 
+the older brain uses to maintain optimal learning, memory, and other cognitive functions. 
+We will continue to support research to clarify the interactions between the brain and the 
+peripheral nervous, endocrine, blood and circulatory, cardiovascular, and immune systems. 
+In addition, we will support the development of preventive and therapeutic approaches to 
+maintaining health in cognition, emotion, sleep function, sensory processes, and motor 
+function.  
+Research on Alzheimer’s Disease and Related Dementias 
+NIA is the lead federal agency for research on Alzheimer’s disease and related forms of 
+dementia (AD/ADRD), and our portfolio reflects this important responsibility. In fact, since 
+2012, funding for AD/ADRD research has increased such that today, over one-half of our grants 
+research budget is dedicated to research on various forms of dementia. These funds support a 
+broad range of projects, from basic molecular and cellular studies of the aging brain, to large-
+scale clinical trials of interventions to prevent symptoms of dementia from taking hold, to 
+development of a robust infrastructure for discovery, to demographic studies of AD/ADRD in 
+different geographic, racial and ethnic, and socioeconomic populations.  
+Strategic planning for AD/ADRD research is handled through its own dedicated process, and 
+therefore many of the goals and objectives outlined here are necessarily broad. For more 
+information on specific goals, milestones, and plans for AD/ADRD research, please see: 
+AD/ADRD Milestones Database: This database contains detailed information about research 
+implementation plans and progress toward the goal of effectively treating or preventing 
+AD/ADRD by 2025. www.nia.nih.gov/research/milestones  
+Bypass Budget for AD/ADRD Research: NIH annually submits to the President and then to 
+Congress a professional judgment budget that estimates the additional funding, above the base 
+for AD/ADRD, needed to effectively treat and prevent these disorders by 2025. The estimate — 
+often referred to as a "bypass budget" because it is presented without modification through the 
+traditional federal budget process — also summarizes NIH-funded research and promising 
+research opportunities.  
+www.nia.nih.gov/about/bypass-budget-proposal-archive  
+ 
+Goal D objectives:  
+D-1: Understand the mechanisms involved in normal brain aging; the role of plasticity and 
+resilience in maintaining brain function; the role of cognition and sleep in everyday functioning; 
+and protective factors for sensory, motor, emotional, cognitive, and sleep function. 
+D-2: Identify and understand the genetic, molecular, and cellular mechanisms underlying the 
+pathogenesis of AD/ADRD and other neurodegenerative disorders of aging.  
+
+--- PAGE 39 matched=['mission'] ---
+NIA Strategic Directions 2020 38 
+Supporting the Research Enterprise 
+Goal G  
+Support the infrastructure and resources needed to promote high-quality 
+research. 
+The availability of the infrastructure, resources, and training needed to support present and 
+future research, program management, and information dissemination is critical to the NIA 
+mission. NIA will provide resources to develop a skilled interdisciplinary research workforce, 
+ensure that scientists have access to the technology and equipment they need to perform the 
+research, promote clinical research participation, and facilitate the dissemination of research 
+results to scientists, health professionals, and the public.  
+Goal G objectives:  
+G-1: Foster interdisciplinary exchange and encourage collaborative research across disciplines.  
+G-2: Engage in partnerships within and among institutions and organizations, including patient and 
+advocacy groups.  
+G-3: Train and attract the workforce necessary for rigorous research on aging, including new, 
+midcareer, and senior investigators.  
+G-4: Attract and train more researchers from diverse scientific and cultural backgrounds.  
+G-5: Develop, maintain, and share research resources.  
+G-6: Develop the necessary infrastructure to encourage translation of research between basic 
+discovery and intervention development.  
+Approach 
+G-1 Fo
+ster interdisciplinary exchange and encourage collaborative research across disciplines.  
+• Support workshops and conferences that bring scientists from various disciplines 
+together for discussion and planning.  
+• Provide funding opportunities that encourage interdisciplinary efforts and/or 
+partnerships across two or more institutions or organizations.  
+• Facilitate dialogue with researchers and professional organizations.  
+G-2 Engage in partnerships within and among institutions and organizations as well as patient 
+and advocacy groups.  
+• Work closely with other NIH Institutes and Centers, other government agencies, and the 
+private sector to collaborate across the continuum of research from basic science 
+through translational research to clinical studies.  
+• Partner with other government agencies, professional organizations, private funders of 
+research, and international research groups to collect data and other resources to 
+facilitate understanding of science on a global level.  
+
+--- PAGE 45 matched=['Scientific Priorit', 'mission'] ---
+NIA Strategic Directions 2020 44 
+scientific milieu. This charge also demands transparency within the limits imposed by privacy 
+and the ethical conduct of research. 
+Goal I objectives: 
+I-1: Optimally manage research funds through careful planning and priority-setting, scientific 
+review, and evaluation of investments. 
+I-2: Encourage innovation across all areas of our mission. 
+I-3: Ensure timely and accurate reporting of funding for AD/ADRD and in other scientific categories. 
+I-4: Recruit and retain a highly qualified and diverse workforce. 
+I-5: Identify and effectively manage risks that may affect the research enterprise. 
+Approach 
+I-1 Optimally manage research funds through careful planning and priority-setting, scientific 
+review, and evaluation of investments.  
+• Establish realistic scientific goals and priorities based on thorough understanding of 
+the current state of the science. This will involve regular communication via multiple 
+channels with our various constituencies, including the scientific, medical, and advocacy 
+communities and private industry. 
+• Optimize scientific review of funding applications. NIA receives thousands of 
+applications for funding each year but can only fund a limited number of the 
+applications it receives. We will continually identify and recruit expert reviewers and 
+where necessary revise processes to ensure efficient, seamless grant review and award. 
+• Regularly evaluate outcomes of major initiatives. Regular evaluation will ensure that 
+our long-running initiatives continue to produce results consistent with our level of 
+investment and will allow us to revise our strategies when our goals are not being met. 
+ 
+How NIA Sets Scientific Priorities 
+NIA routinely engages in activities to assess research needs, gauge progress in meeting those 
+needs, set priorities for future research, and plan new initiatives. The primary goals of our 
+science planning and priority setting activities are to: 
+• Identify new and emerging areas of scientific opportunity, identify research gaps, and 
+propose new research directions.  
+•  Integrate and align science planning and priority setting with resource allocation 
+decisions. 
+•  Maintain the kind of flexibility that will enable institute programs to keep pace with 
+rapid scientific and technological progress. 
+In establishing scientific priorities, NIA must carefully balance public health need with scientific 
+opportunity. This assessment begins at the program level within NIA’s four scientific Divisions 
+and the Intramural Research Program, where experts in a broad variety of disciplines, from 
+
+--- PAGE 46 matched=['mission'] ---
+NIA Strategic Directions 2020 45 
+molecular biology to population research, maintain ties with the greater scientific community 
+through regular attendance at conferences and vigilant tracking of the scientific literature. Once 
+this knowledge base is established, priorities emerge from:  
+• Periodic reviews of NIA programs conducted by members of the National Advisory 
+Council on Aging for extramural divisions and the Board of Scientific Counselors for the 
+Intramural Research Program. The reports from these reviews are used extensively to 
+inform future planning.  
+• Twice-monthly meetings of NIA senior staff (the Planning Group) to guide and 
+coordinate future directions and activities and support the NIA Director in making 
+decisions on a variety of topics.  
+• Twice-yearly planning retreats as forums for wider participation by institute staff in 
+presenting and discussing needs, opportunities, and priorities for moving the field of 
+research on aging forward. 
+• Working groups on special aging-related topics to coordinate the implementation of 
+initiatives that are cross-cutting to NIA programs. 
+ 
+I-2 Encourage innovation across all areas of our mission. Addressing the issues faced by our 
+aging society will require focus, passion, and creativity. NIA is committed to supporting 
+innovation in research and developing new ways of viewing and managing age-related changes 
+at both the individual and societal levels. 
+A key driver of innovation is NIA’s Small Business Innovation Research (SBIR) and Small Business 
+Technology Transfer Programs (STTR). All NIA research divisions participate in these programs, 
+which offer funding up to $2.5 million to commercialize products addressing aging and aging-
+related diseases and conditions, AD/ADRD, and the special challenges and needs of older 
+Americans. The SBIR-STTR programs target early-stage research and development (R&D) and 
+encompass a broad range of research topics and types, including translational and secondary 
+R&D. All applicants are expected to develop, implement, and test the effectiveness of their 
+products and services. NIA will: 
+• Continue to support a robust SBIR/STTR program that attracts high-quality applications 
+and supports innovators in commercializing their technologies. 
+• Participate in trans-NIH initiatives to leverage new modalities, methodologies, and 
+technologies to enhance health and wellness in the American population. 
+• Develop and maintain initiatives that facilitate innovation in aging research, including 
+initiatives that are relevant to AD/ADRD. 
+I-3 Ensure timely and accurate reporting of funding for AD/ADRD and in other scientific 
+categories. Our constituencies, including members of the American public, should be able to 
+determine how we’re spending taxpayer funds and to feel confident in those figures’ accuracy 
+and completeness. We will: 
+
+--- PAGE 47 matched=['mission'] ---
+NIA Strategic Directions 2020 46 
+• Work with NIH-level experts to optimize tools for categorizing research, including 
+defining and refining disease-based categories, Minority Health/Health Disparities, 
+Women’s Health, basic versus applied research, and others. 
+• Ensure that reporting in all categories is complete, timely, and accurate. 
+I-4 Recruit and retain a highly qualified and diverse workforce. Every member of NIA’s staff, from 
+the Director to the newest student volunteer, makes an important contribution as we strive 
+daily to turn discovery into health. To carry out our mission, we need staff who are expert, 
+creative, dedicated, and energetic, and who represent a diversity of background and 
+experience. We recognize the importance both of recruiting new staff with new skills and 
+insights and retaining seasoned employees who have extensive experience and strong 
+institutional memory. We will: 
+• Continually assess and evaluate the institute’s evolving workforce needs and develop 
+and implement plans to address those needs. 
+• Provide training and other critical tools to enable NIA staff to conduct the nation’s 
+business efficiently and effectively. 
+• Support workflow efficiency by appropriate management of administrative burden 
+on staff. 
+• Regularly assess employee performance and provide opportunities for growth. 
+• Maintain a safe and supportive working environment. 
+• Take steps to ensure equality of opportunity for employment and advancement 
+within NIA. 
+• Facilitate succession planning to ensure continuity of operations. 
+I-5 Identify and effectively manage risks that may affect the research enterprise. NIA’s risk 
+management activities are designed to proactively identify and mitigate risks to help promote 
+the achievement of our objectives, strategy, and mission. All staff work to identify risks across 
+programs and operations so that appropriate actions can be taken to address them. NIA will 
+continue to: 
+• Develop and implement appropriate, cost effective management controls for results-
+oriented management. 
+• Assess the adequacy of internal controls in programs and operations. 
+• Identify needed improvements and take corresponding corrective action where 
+appropriate.  

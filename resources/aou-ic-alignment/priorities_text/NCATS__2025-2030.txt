@@ -1,0 +1,1343 @@
+# NCATS (2025-2030) — file: NCATS_Strategic_Plan_2025-2030.pdf
+# 33 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+  
+ 
+2025 – 2030 
+N   CATS Strategic Plan 
+
+
+--- PAGE 2 matched=['Strategic Plan'] ---
+ Read the online version of the 
+NCATS Strategic Plan for 2025–2030: 
+ncats.nih.gov/about/ncats-overview/strategic-plan 
+
+--- PAGE 3 matched=['STRATEGIC PLAN', 'goals and \nobjectives', 'vision'] ---
+ 
+ 
+ 
+ 
+ 
+– i COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+Director’s Message 
+At N CATS’ 10-year anniversary event in 2021, I presented a vision for 
+the center: a future with more treatments for all people more quickly. 
+That transformative vision included a set of audacious goals outlining 
+what N CATS, along with the broader translational science community, 
+should be striving to achieve during the next decade. 
+Bold ideas, impactful programs, and new partnerships, steeped in the 
+successes of the past decade, are vital to achieving this vision. The 
+N CA
+TS Strategic Plan for 2025–2030 is a tool to guide us. 
+This strategic plan represents a thorough, dynamic approach to 
+advancing our mission of turning research observations into health 
+solutions through translational science. The plan’s goals and 
+objectives were shaped by input from staff and exter
+nal partners, 
+including patient and community voices. Their input came during 
+more than 40 r
+oundtable discussions and through a public request for 
+information. 
+To translate science into practice more effectively, we must address these key needs: 
+1. To increase the pace of development and availability of treatments
+2. To enable more individuals and communities to contribute to and beneft from translational science
+3. To identify and address ineffciencies in translation that slow and even stop research efforts
+To overcome these challenges, we have established fve strategic goals. These goals build on core values 
+that emphasize working in a highly collaborative team-science culture, learning and practicing translational 
+science, making data available, and developing an effective and accountable workforce. 
+As with the previous strategic plan, patients and communities are at the center of our mission and our 
+work. Over the last 10 years, our Clinical and Translational Science Awards (CTSA) Program and Rare 
+Diseases Clinical Research Network (RDCRN) have shown the power of engaging patients and communities 
+throughout the entire research process. This approach led to innovations and interventions that are now 
+saving lives and improving health. These initiatives — and many others — will play a big role under our new 
+strategic directions. 
+Our strategic plan is a living document. As we implement the plan, we will continuously assess and adapt our 
+strategies, checking in with ourselves and our communities. W
+e have built the plan to be fexible in order to 
+handle new challenges, opportunities, and innovations as they emerge. 
+I look forward to the work ahead, and I thank you for your continued partnership. Together, we can realize a 
+future of more treatments for all people more quickly. 
+Joni L. Rutter, Ph.D. 
+Joni L. Rutter, Ph.D. 
+Director 
+National Center for Advancing Translational Sciences 
+
+--- PAGE 4 matched=['Goal 1', 'Objective 1', 'Strategic Plan'] ---
+ 
+ 
+ 
+  
+  
+  
+  
+  
+   
+  
+ 
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+   
+   
+   
+  
+   
+   
+   
+   
+   
+   
+  
+   
+   
+   
+   
+Table of Contents 
+Director’s Message ...........................................................................................................................................i 
+Strategic Plan Framework..............................................................................................................................iv 
+Overview of N CATS ..........................................................................................................................................1 
+NCATS’ Mission and Vision ........................................................................................................................1 
+Relevant Mandates and History.................................................................................................................1 
+NCATS Organization ...................................................................................................................................1 
+NCATS at a Glance .....................................................................................................................................1 
+NCATS’ Culture and Core Values ...............................................................................................................2 
+Translational Science and Translational Science Principles ......................................................................3 
+NCATS’ Audacious Goals ...........................................................................................................................4 
+Overview of the N CATS Strategic Plan for 2025–2030..................................................................................5 
+Strategic Planning Process ........................................................................................................................5 
+Approach to Priority Setting.......................................................................................................................5 
+Implementation of the Strategic Plan ........................................................................................................6 
+Strategic Priorities............................................................................................................................................7 
+Goal 1: Advance Development of and Access to More Treatments, Particularly for Diseases 
+With Unmet Needs......................................................................................................................................7 
+Objective 1-1: Prioritize efforts to advance diagnosis and targeted interventions for 
+multiple diseases, particularly rare diseases and others with unmet needs
+..............................................7 
+Objective 1-2: Advance biological and chemical discovery to identify new molecules and 
+targets for potential treatments. 
+..............................................................................................................8 
+Objective 1-3: Support and leverage existing national clinical and translational networks to 
+conduct high-impact clinical research, clinical trials, and translational science and disseminate 
+and implement successful interventions and treatments into the clinic and the community
+......................8 
+Objective 1-4: Support tools and technologies for preclinical testing and drug development. ................9 
+Goal 2: 
+
+--- PAGE 5 matched=['Goal 4', 'Objective 4', 'STRATEGIC PLAN'] ---
+iii 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+  
+   
+   
+   
+   
+   
+  
+  
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+   
+    
+    
+   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+   
+   
+   
+   
+  
+  
+Goal 4: Leverage Crosscutting Strategies to Enhance Translational Science.......................................15 
+Objective 4-1: Support and promote team science. ...........................................................................15 
+Objective 4-2: Develop effective partnerships and collaborations.........................................................15 
+Objective 4-3: Promote data science strategies and standards. ..........................................................16 
+Objective 4-4: Raise awareness of the value and applications of translational science 
+and its principles...................................................................................................................................16 
+Goal 5: Champion Effective Stewardship of Translational Science Through Transparency, 
+Integrity, and Accountability
+.....................................................................................................................17 
+Objective 5-1: Promote translational science research, operations, and other activities in 
+an open, shareable, and transparent manner. 
+.......................................................................................17 
+Objective 5-2: Support robust, reproducible, and ethical research.......................................................17 
+Objective 5-3: Assess policies and provide guidance that impacts translational science 
+programs and activities
+.........................................................................................................................18 
+Objective 5-4: Optimize resources and infrastructure to supercharge the impact of 
+translational science. 
+............................................................................................................................18 
+Appendices .....................................................................................................................................................19 
+Appendix A: Additional Details on N CATS Organization.........................................................................19 
+Statutory Authority ..............................................................................................................................19 
+Establishment of N CATS ................................................................................................................19 
+Cures Acceleration Network...........................................................................................................19 
+Organizational Chart............................................................................................................................20 
+Appendix B: Accomplishments From the 2016 N CATS Strategic Plan..................................................21 
+Innovation and Impacts in Clinical Trials (Goals 1, 2, and 3)...............................................................21 
+Rare Disease Advancements (Goals 2 and 4) .....................................................................................21 
+Expansion of Training Opportunities in Translational Science (Goal 3) ...............................................22 
+Harnessing the Power of Data Science (Goals 1, 2, and 4) ................................................................22
+
+--- PAGE 6 matched=['Goal 1', 'Strategic Plan', 'Vision'] ---
+ 
+Strategic Plan Framework 
+NCATS Mission 
+Turn research observations into health solutions through 
+translational science 
+NCATS Vision 
+Bring More Treatments for All People More Quickly 
+Advance 
+Development 
+of and Access to 
+More Treatments, 
+Particularly for 
+Diseases With 
+Unmet Needs 
+Goal 1 
+Goal 4 
+Goal 2 Goal 3 
+Empower 
+Everyone to 
+Contribute to and 
+Beneft From 
+Translational 
+Science 
+Leverage Crosscutting Strategies to Enhance Translational Science 
+Goal 5 
+Champion Effective Stewardship of Translational Science Through 
+Transparency, Integrity, and Accountability 
+Accelerate 
+Translational 
+Science by 
+Breaking Barriers 
+and Boosting 
+Effciency 
+iv COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+
+--- PAGE 7 matched=['STRATEGIC PLAN', 'Vision', 'Mission'] ---
+Overview of N CATS 
+N CATS’ Mission and Vision 
+N CATS’ mission is to turn research observations into health solutions through translational science. We work to 
+develop or enhance the development, testing, and implementation of diagnostics and therapeutics for a wide 
+range of diseases and conditions. Key approaches include understanding what’s similar across diseases to spur 
+multiple treatments at a time, developing models that better predict a person’s reaction to treatment, enhancing 
+clinical trials so results more accurately refect the patient population, and leveraging real-world data and data 
+science approaches to address public health needs. Facilitating these approaches are our robust partnerships 
+with other government agencies, including other NIH institutes, centers, and offces; industry; academia; 
+nonproft organizations; and patients, patient advocates, and other communities. 
+N CATS’ vision is to bring more treatments for all people more quickly. 
+Relevant Mandates and History 
+N CATS was created on December 23, 2011. Find full details on N CATS’ Statutory Authority in Appendix A. 
+N  CATS Organization 
+The divisions and offces within N CATS span the spectrum of preclinical and clinical translational science. (See 
+Appendix A for the organizational chart.) Working together across the organization, we develop and implement 
+plans for new opportunities. We build tools and technologies, support research, train scientists, and much more. 
+As a highly collaborative organization, our work often cuts across our organizational structure, and our patient-
+driven focus is ever present. 
+N CATS at a Glance 
+N CATS conducts and supports research on the science and operation of translation to bring more treatments for 
+all people more quickly. We apply many approaches and strategies to reduce bottlenecks in the research pipeline 
+that slow medical progress. Though we are a home for rare diseases, we do not focus on specifc diseases and 
+conditions, rather we focus on approaches that can address many diseases at a time. 
+1COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+
+--- PAGE 8 matched=['Strategic Plan', 'mission'] ---
+ 
+ 
+ 
+ 
+ 
+ 
+Our work has sped health solutions in many ways. Examples include data platforms that connected existing 
+information in useful ways, technologies that aided a national response to a public health crisis, and innovative 
+approaches that moved treatments into the clinic. (See Appendix B for more information about our progress, as 
+well as key accomplishments mapped to our 2016 N CATS Strategic Plan.) 
+N CATS’ Culture and Core Values 
+NCATS values a culture that works hard towards achieving its mission. We invest in initiatives to improve health 
+and address health disparities. Our programs leverage NCATS resources to collaboratively engage communities 
+and support innovation across translational science. In doing so, we foster a safe and welcoming environment 
+to promote a sense of belonging within the organization and the communities we support. 
+NCATS’ culture is 
+refected in our core values (Figure 1). These core values form the foundation of NCATS’ culture and identity, act 
+as a compass for decision-making, strengthen employee motivation and satisfaction, and help establish trust and 
+credibility with our community. 
+Team science and collaboration among different groups 
+Patients and communities are prioritized in design, development, 
+and implementation of research  
+Creativity for impactful innovation 
+Transparent communication and open discourse 
+Continuous learning for strategic growth 
+Generalizable solutions for increased effciency and sustainability 
+Integrity and stewardship 
+Patient and community relationships/partnerships 
+Figure 1. NCATS’ core values. 
+2 COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+
+--- PAGE 9 matched=['STRATEGIC PLAN'] ---
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+Translational Science and Translational Science Principles 
+Translation is the process of turning observations in the laboratory, clinic, and community into interventions that 
+improve the health of individuals and the public — from diagnostics and therapeutics to medical procedures and 
+behavioral changes. 
+Translational science is the feld that generates scientifc and operational innovations that overcome long-standing 
+challenges along the translational research pipeline. By advancing translational science, we make research more 
+effcient and impactful. N CATS identifed seven principles that underpin effective translational science and are 
+seen across the center’s projects and programs (Figure 2). These N CATS Translational Science Principles are 
+intentionally broad and foundational to N CATS’ efforts — such as tissue chips, drug repurposing, gene-targeted 
+therapy approaches for rare diseases, and the Clinical and Translational Science Awards (CTSA) Trial Innovation 
+Network (T I N ). 
+Figure 2. The Translational Science Principles developed by N CATS, which characterize effective translational science approaches. 
+3 
+
+--- PAGE 10 matched=['STRATEGIC PLAN', 'vision'] ---
+ NCATS’ Audacious Goals 
+In 2021, N CATS Director Joni Rutter, Ph.D., announced audacious goals that align with the vision of more 
+treatments for all people more quickly (Figure 3). 
+These audacious goals are aspirational. They provide direction and focus our efforts on addressing big 
+challenges in translation. 
+More Treatments All People More Quickly 
+2X
+25%5% 
+Enable Therapeutic 
+Development Leading to a 
+Fivefold Increase in the 
+Number of Diseases With 
+Treatments 
+Dramatically Increase 
+Involvement of Researchers and 
+Participants in Translational 
+Science Studies to Advance 
+Health for All 
+Enable Diagnostics and 
+Therapeutics to Reach 
+People Twice as Fast 
+Figure 3. N CATS’ audacious goals, which are aspirational and intended to inspire us to be bold with our ideas and solutions 
+over the next 10 years. 
+4 COLLABORATE. INNOVATE. ACCELERATE.      2025 – – 2030 STRATEGIC PLAN
+
+--- PAGE 11 matched=['Goal 4', 'STRATEGIC PLAN', 'PLAN\n \n \n \n \n \n \n \nOverview'] ---
+5 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview of the NCATS Strategic Plan for 2025–2030 
+This new strategic plan sets the direction to further innovate and advance translational science in order to meet 
+public health needs. The plan’s fve goals provide a way for us to collectively and tangibly make progress. Each 
+goal is followed by several objectives and approaches for implementing them. Goals 1, 2, and 3 align directly with 
+the three elements of 
+NCATS’ vision: More Treatments, For All People, More Quickly. Goal 4 addresses common 
+approaches and strategies that work across many of our efforts. Goal 5 r
+efects our commitment as stewards for 
+NCATS and translational science. 
+Strategic Planning Process 
+The strategic planning process included deliberate, extensive engagements with multidisciplinary constituents on 
+how and what 
+NCATS should prioritize to support the center’s vision. We engaged over 1,150 individuals from 
+academic institutions, advocacy organizations, industry, and the general public as well as patients through more 
+than 44 roundtable discussions over a year of both external community and internal staff engagements. Find 
+details on the engagement activities undertaken during the strategic planning process in Appendix C. 
+Approach to Priority Setting 
+Priority setting at NCATS, as a whole, is essential to recognize programs, projects, and other activities that are 
+already addressing or ready to address gaps and opportunities. It also enables us to identify projects that should 
+sunset or transition away from federal funding for further development or application — by industry, for example. 
+NCATS sets strategic priorities in a transparent and inclusive manner. This is illustrated by the strategic planning 
+process that enabled inclusive discourse through multiple feedback opportunities. External community members 
+and internal staff provided valuable perspectives about important areas for 
+NCATS to prioritize in its strategic 
+plan. Recommendations included sunsetting or transitioning NCATS activities and identifying opportunities 
+derived from successful programs and projects, new directions, and translational challenges that have yet to be 
+addressed. 
+In addition to the strategic planning process, part of our ongoing operational priority setting includes regularly 
+engaging our communities to understand their needs and ways our translational science approaches could solve 
+
+--- PAGE 12 matched=['strategic plan', 'Division of \n'] ---
+  
+  
+ 
+ 
+ 
+ 
+them. Activities include convening workshops, workgroups, or listening sessions; gathering input across NCATS, 
+NIH, and external communities; and soliciting input from the public. Our approaches to prioritization span NCATS 
+intramural and extramural programs and include a robust internal operational planning process that occurs 
+approximately four times each year. Outside review of extramural concepts and program updates occurs during 
+open sessions of the 
+NCATS Advisory Council meetings and through consultation with the Cures Acceleration 
+Network (CAN) Review Board. Extramural research undergoes a two-stage peer review process, which further 
+informs how the priorities outlined in a strategic plan are implemented. For intramural activities, our Division of 
+Preclinical Innovation systematically identifes opportunities for new and innovative approaches within its research 
+programs. The intramural ad hoc scientifc review involves external expert input every four years on 
+NCATS’ 
+progress and direction. 
+Implementation of the Strategic Plan 
+The NCATS Strategic Plan for 2025–2030 sets forth fve goals, each with specifc objectives and high-level 
+approaches that will guide implementation. Implementation will be coordinated across the center through the 
+immediate Offce of the 
+NCATS Director. It will include prioritizing activities to pursue, as well as putting in place 
+a strategy to track progress, develop metrics, and keep our communities informed as we evaluate our progress. 
+For details on implementing the strategic plan, see Appendix D. 
+6 COLLABORATE. INNOVATE. ACCELERATE.      2025 –– 2030 STRATEGIC PLAN
+
+--- PAGE 13 matched=['Goal 1', 'Objective 1', 'STRATEGIC PLAN'] ---
+7 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+ 
+ 
+ 
+Strategic Priorities 
+Goal 1:  
+Advance Development of and Access to More Treatments,
+Particularly for Diseases With Unmet Needs 
+Thousands of diseases, many of which are rare, affect millions of people, and very few treatments exist. In fact, of 
+the approximately 10,000 rare diseases, only 5% have treatments. Health care expenses for Americans with rare 
+diseases are three to fve times greater than for those without rare diseases, resulting in a total economic burden 
+approaching $1 trillion annually. By advancing the development of more treatments, 
+NCATS is on a mission to 
+change the direction of research, particularly for rare diseases and diseases with unmet needs. 
+We’re committed to expanding capacity to develop faster and more accurate diagnoses, along with new 
+treatments to help offset this public health challenge. We aim to revolutionize research, treatment, and diagnostic 
+tools for diseases with unmet needs, especially rare and intractable conditions. We use a variety of approaches, 
+including enhancing preclinical screening, refning clinical research methods, fnding new indications for existing 
+medications, and advancing personalized medicine. We are tackling common research challenges with innovative 
+standardized platform approaches that streamline research and development processes and can be applied to 
+multiple diseases. A platform approach or platform technology is intentionally built to be used in multiple ways. 
+NCATS-enabled platforms include human cell–based models to better predict drug response (e.g., tissue chips 
+and organoids), gene-targeted therapies using delivery approaches that can address many rare diseases at a 
+time, and high-throughput screening to fnd new uses for existing drugs. 
+Our goal is clear: Increase the number of treatable diseases by increasing knowledge about their underlying 
+causes, supporting the development of new treatments, and improving the reach, accessibility, and uptake of 
+existing treatments. Imperative in this work is pursuing effective dissemination and implementation strategies that 
+aim to bridge the gap between resear
+ch and clinical practice. 
+Objective 1-1: Prioritize efforts to advance diagnosis and targeted interventions for multiple 
+diseases, particularly rare diseases and others with unmet needs. 
+Developing one drug for one disease is ineffcient, particularly with the extremely small number of approved 
+treatments reaching patients per year. 
+We can address this challenge by investing in efforts to develop scientifc platforms and tools that can address 
+multiple diseases simultaneously. By creating diagnostic or research tools or interventions for one disease that 
+can be easily adapted for others, we aim to make the research process more effcient and broadly applicable. 
+
+--- PAGE 14 matched=['Objective 1'] ---
+  
+ 
+ 
+ 
+Strategies to accomplish this objective include fnding new or additional uses for existing compounds and 
+approved drugs, also called repurposing. We will also advance methods that connect different types of data 
+in meaningful ways, resulting in identifying more treatment options. We will also explore novel treatment 
+approaches, such as gene- and cell-targeted therapies, that can be used as a platform to study multiple 
+diseases. 
+Objective 1-2: Advance biological and chemical discovery to identify new molecules and 
+targets for potential treatments. 
+The development of potential 
+medications is a long and diffcult 
+process that often results in only a 
+few treatments for the many diseases 
+that need them. Many diseases and 
+conditions are currently untreatable 
+because they involve complex issues, 
+like proteins that don’t work correctly, or 
+because the places to treat in the body 
+where they are treated are diffcult to 
+reach by certain cell components and 
+small molecule therapeutics. 
+NCATS 
+will create novel approaches for these 
+challenging conditions, opening the 
+door to new possibilities beyond 
+traditional drug discovery methods. 
+In the 
+NCATS laboratories, we aim to make processes in drug discovery more rigorous, reproducible, data driven, 
+and semiautonomous. Doing so allows effective chemical compound discovery, testing, and development for 
+more diseases more quickly. As part of this objective, we will combine multidisciplinary expertise, automation, 
+and artifcial intelligence (AI)/machine learning (ML) to advance biological and chemical discoveries and translate 
+them for therapeutic impact, leveraging both 
+NCATS labs and support of external research organizations. Also, 
+through our NCATS labs and other research programs and activities we support, we will explore quantum 
+methods in AI-based drug discovery, aiding in the rapid and accurate design of new therapeutic compounds 
+from start to fnish. 
+Objective 1-3: Support and leverage existing national clinical and translational networks 
+to conduct high-impact clinical research, clinical trials, and translational science and 
+disseminate and implement successful interventions and treatments into the clinic and the 
+community. 
+Clinical research and trials are a critical step to getting more treatments to those who need them. However, 
+the barriers to success can be high. Barriers include the time to develop a trial, get approval to conduct it, and 
+identify, recruit, and retain participants. 
+Translating a discovery into a therapy effciently and working to ensure it reaches the people who need it benefts 
+from a national ecosystem of clinical and translational research networks ready and able to innovate in study 
+design and recruitment strategies. We will support, coordinate, and bolster our fagship CTSA Program and the 
+Rare Diseases Clinical Research Network (RDCRN). Both networks enable data sharing, collaboration, patient 
+and community engagement, and training, which are all critical to turning promising research observations into 
+health interventions. 
+The CTSA Program includes a collaborative and effcient network of over 60 institutions and their partners 
+working at the local, regional, and national levels. The CTSA Program is built upon CTSA institutions’ 
+COLLABORATE. INNOVATE. ACCELERATE.  2025 –  2030 STRATEGIC PLAN8 
+
+--- PAGE 15 matched=['Objective 1', 'STRATEGIC PLAN'] ---
+ 
+relationships at the community level, which allows them to rapidly address public health priorities and conduct 
+impactful clinical research. For example, the Pain Management Ef
+fectiveness Research Network, a multisite 
+research cooperative program through the NIH Helping to End Addiction Long-term (HEAL) Initiative®, is using 
+CTSA TIN infrastructure to support clinical trials that compare the effectiveness of existing nonaddictive therapies 
+and novel approaches for prevention and management of pain to advance new treatments for the opioid crisis. 
+This CTSA infrastructure also includes developing and using innovative trial designs, real-world data, and 
+analytics, such as electronic health records research; prioritizing research to address rural health and women’s 
+health; and developing ways to apply what is learned across the CTSA network and in primary care settings. 
+Importantly, the CTSAs train the next generation of clinical and translational scientists to meet the research needs 
+ahead. 
+Led by 
+NCATS and with support from multiple NIH institutes and centers and the Offce of the Director, RDCRN 
+researchers and patient advocacy groups (PAGs) enhance clinical trial readiness in the rare diseases research 
+community. They support data sharing and leverage the regulatory fexibility to conduct research, such as 
+biomarker development and natural history studies. These efforts will be leveraged for future clinical trials and 
+contribute to new drug approvals for rare diseases. 
+Objective 1-4: Support tools and technologies for preclinical testing and drug development. 
+Nearly 90% of promising treatment candidates that enter clinical trials fail. To improve success rates, we need 
+more robust and predictive preclinical approaches, ensuring potential therapies that are likely to fail do so earlier, 
+while those with real promise have a better chance of succeeding in late-stage clinical trials. 
+We strive to improve preclinical research models by developing more human cell–based, physiologically relevant 
+tissue and other non-animal models. This approach will increase the potential of those models to better predict 
+the safety and effcacy of potential treatments in humans. In addition, an early step in drug development is 
+creating assays, or test systems, where researchers can study the effects of compounds of interest or identify 
+underlying molecular causes of disease. For example, using induced pluripotent stem cells either from patients 
+with rare diseases or normal cells CRISPR-edited with rare disease mutations, we can create models that help 
+improve our understanding of the causes of diseases, identify new targets and biomarkers, and test potential 
+therapeutics to fnd possible new treatments. Another example is the use of AI/ML for predicting novel molecular 
+structures as drug candidates, assessing safety early by analyzing chemical structures and biological data, and 
+identifying adverse effects early in the process. These AI tools can serve as reliable indicators in preclinical data 
+and aid further development stages. 
+9
+9COLLABORATE. INNOVATE. ACCELERATE.      2025 – – 2030 STRATEGIC PLAN
+
+--- PAGE 16 matched=['Goal 2', 'Objective 2', 'STRATEGIC PLAN'] ---
+10
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+For disease burden to be reduced, all people must have the opportunity to contribute to and benefit from 
+translational science. N CATS’ commitment to including different perspectives spans across every area 
+we support. It involves designing research with participant and community input. We want to engage with 
+communities to understand their needs. It is imperative we foster inclusion of research participants who 
+adequately reflect the community with the disease or condition being studied. Programs like the CTSA T 
+I N  and 
+the RDCRN support research networks that involve patients and patient advocates in research activities. The 
+T I N  also works across the CTSA Program to innovate in trial design to ensure broader access to participate in 
+research. 
+N CATS is a values-based, people-centric organization committed to creating a workplace where everyone can 
+contribute to solving major health challenges. We foster a bold, creative, and innovative environment where our 
+staff can gr
+ow, thrive, and contribute to our mission. We work to ensure that the translational science workforce 
+at N CATS and beyond is trained, mentored, and developed across the career spectrum to reflect these values. 
+Objective 2-1: Broaden inclusion of participants in translational science research. 
+Having research participants who do not adequately reflect the population with the disease or condition under 
+study can create barriers to successful translation. Challenges in the recruitment of participants in research can 
+lead to new treatments that don’t work for the people who need them most. Research that reflects the real world 
+is critical to achieving our vision. Through new and existing programs, we will explore ways to increase health 
+literacy among potential participants and convey the importance of taking part in research. Through the CTSA 
+Program, and specifically the T I N , we will continue to identify opportunities to build relationships at the local level 
+and increase awareness of research opportunities within communities and through clinical care. Novel clinical trial 
+designs, such as decentralized clinical trials, will be used to increase access to research. 
+Much work remains to be done to bring the individual participant perspective to the table. More involvement 
+in preclinical research and in clinical research and clinical trials is essential to ensuring impactful findings and 
+rigorous, reproducible research that translates to different health care settings so that needed treatments can 
+reach people faster. 
+Goal 2: 
+Empower Everyone to Contribute to and Benefit From
+Translational Science
+
+
+--- PAGE 17 matched=['Objective 2', 'STRATEGIC PLAN'] ---
+   
+ 
+ 
+ 
+Objective 2-2: Expand engagement of relevant communities as partners in translational 
+science to develop shared understandings of needs that inform research approaches that 
+beneft these communities. 
+Lack of community engagement also negatively impacts the translation of research observations into health 
+solutions. We can change that by engaging communities on how translational research may beneft them and 
+how they can inform translational science to ensure research outcomes are more meaningful. To nurture trust 
+and trustworthiness, we must engage 
+communities with respect and humility. 
+The CTSA TIN engages patients and 
+communities to inform clinical research 
+design and participation so that the 
+results can beneft communities. 
+Each CTSA Program institution has 
+established a community advisory 
+board (CAB) to understand what is 
+needed locally to improve health in 
+their communities and neighborhoods. 
+For example, many CTSAs and their 
+CABs have teamed with local faith-
+based and social services leaders in 
+their communities. These collaborations 
+increase trust and participation in clinical trials because the research community becomes a consistent and 
+dependable resource, demonstrating a sustained commitment. Another example is inviting patient communities 
+to participate in workshops, funding announcements, or prize competitions and other programs and activities 
+N CATS undertakes. 
+In rare diseases research, unique approaches to engaging communities are needed, particularly given the size of 
+patient populations and the challenges in diagnosis. In the 
+NCATS laboratories, we plan to build on successful 
+efforts that have engaged rare disease patients, families, and care providers to inform the development of 
+treatments starting at the preclinical stage. Also, the RDCRN actively includes patients and PAGs as part of 
+each research team, where they directly represent the perspectives and interests of patients with rare diseases. 
+The PAGs act as a coalition to advance rare diseases research and impr
+ove patient outcomes by sharing 
+rare diseases information with the research community and educating them. We will explore ways external 
+communities can use our existing databases, tools, and resources to build capacity and advance their priorities. 
+Objective 2-3: Accounting for health disparities in designing and implementing translational 
+science. 
+Many factors contribute to health disparities, including socioeconomic status and geographic location. We 
+consider health disparities in the development of solutions for targeted and effective interventions to improve 
+overall population health. 
+NCATS will support the development of strategies that address health disparities across the translational 
+spectrum to ultimately beneft populations underserved or underrepresented in biomedical research or at higher 
+risk for specifc diseases or conditions. We must also consider the disparities experienced by individuals with rare 
+diseases. Data sets, cell lines, and disease registries that represent the population, either of the United States 
+or those affected by a given disease, are critical for our research to be broadly applicable. They also minimize 
+bias of results and enable rigorous research designs. 
+NCATS’ clinical research networks, such as the CTSAs 
+and RDCRNs, will be important for developing and applying strategies to address health disparities through 
+community-informed research, improve recruitment appro
+
+--- PAGE 18 matched=['Objective 2', 'STRATEGIC PLAN'] ---
+ 
+–
+For example, one important approach will be to use digital health technologies to support decentralized clinical 
+trials, particularly to reach rural populations. CTSA-supported institutions have the capacity to test and apply 
+solutions locally, regionally, and nationally, all of which were necessary to meet the changing needs at each 
+of those population levels. The RDCRN Program has the expertise to address issues of study enrollment and 
+access to care for its rare disease patient populations. Its approach may be adaptable to other programs and 
+research activities in rare diseases. 
+Objective 2-4: Cultivate a multifaceted and highly skilled translational science workforce. 
+The representative translational science workforce fosters a culture of belonging and feeds innovation and 
+progress. We are committed to developing and maintaining a highly skilled translational science workforce, both 
+within 
+NCATS and more broadly through the training and career development programs we support. Establishing 
+on-ramps into the workforce and encouraging team science that includes all allied health professionals creates 
+more opportunities for individuals to contribute to successful translational science. Training and educating a 
+strong translational science workforce also involves conducting strategic outreach and recruitment, implementing 
+retention initiatives, and enhancing awareness of overall workforce opportunities in translational science. 
+1212 COLLABORATE. INNOVATE. ACCELERATE. 2025 – 2030 STRATEGIC PLAN
+
+--- PAGE 19 matched=['Goal 3', 'Objective 3', 'STRATEGIC PLAN'] ---
+13
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+Goal 3: 
+Accelerate Translational Science by Breaking Barriers and 
+Boosting Efficiency 
+Turning discoveries into health solutions takes too long. N CATS aims to improve both scientific and operational 
+processes to make translation more effective and efficient, ultimately reducing the time it takes for treatments to 
+reach patients.
+By str
+eamlining scientific and operational processes and integrating data science more effectively, we can reveal 
+new knowledge and spur advances more broadly. Making processes easier and faster will allow teams to focus 
+on scientific goals that deliver impactful results. Our approach includes expanding and disseminating templated 
+agreements to enable faster study start-up and providing resources like the Toolkit for Patient-Focused Therapy 
+Development to involve patients and communities in research. We will automate routine tasks to save time and 
+reduce errors, as well as invest in advanced collaboration tools to enhance communication and coordination among 
+research teams. Additionally, we will optimize data management processes to ensure high-quality, FAIR (findable, 
+accessible, interoperable, reusable) data and develop standardized protocols to maintain consistency and efficiency 
+across studies. Working closely with regulatory bodies will further streamline approval processes and reduce delays.
+Objective 3-1: Innovate to address scientific and operational processes that slow 
+translation.
+Numerous scientific and operational challenges can slow translation. They include inefficient processes, 
+technologies, and inflexible clinical trial designs that cannot meet the challenges of the clinical trials of today, 
+much less tomorrow. 
+We will streamline and improve research operations to speed translation to many diseases and conditions 
+at a time and enhance rigor and reproducibility. Expanding collaborations and partnerships with research, 
+manufacturing, and regulatory scientists will reduce roadblocks associated with translating findings to health 
+solutions. For example, partnerships and collaborations are critical for certain aspects of gene- and cell-targeted 
+therapy research, such as finding solutions to the adeno-associated virus (AAV) platform for manufacturing and 
+regulatory challenges. We will also continue to work closely with the rare diseases and CTSA Program research 
+communities to harmonize and streamline operations, develop standardized master protocols to enhance clinical 
+trial comparability and rigor, and enable faster activation of clinical trials and reporting to deliver clinically relevant 
+information to health care providers sooner than traditional methods. Together, we will develop and implement 
+novel clinical trial designs and demonstrate network-wide readiness to address emerging public health needs.
+Objective 3-2: Apply data science approaches to speed translation. 
+Traditional methods for accumulating and accessing data are siloed and inefficient, which can slow translation. 
+Leveraging data science approaches is key to speeding translation.  
+
+--- PAGE 20 matched=['Goal 1', 'Objective 3', 'STRATEGIC PLAN'] ---
+–
+Our data science approaches support more rapid data aggregation, exploration, reuse, linkage, and 
+interpretation, and we apply them across the translational research spectrum. For example, in the rare diseases 
+community, broader data sharing enables translation of learnings from one rare disease to another. It also enables 
+the ability to aggregate knowledge from many small communities to maximize insights and knowledge. These 
+insights include learning about the genetic and cellular mechanisms that are the same in different diseases, 
+improving care for patients with different diseases that have similar characteristics, and identifying potential drug 
+repurposing opportunities. In addition, expanding the use of real-world data, such as electronic health records 
+(EHRs), will inform different aspects of clinical research, including biomarker identifcation, trial design, and 
+participant recruitment. Expanding informatics and data strategies that make data sources more interoperable 
+allow researchers to harness real-world evidence to speed the understanding of disease onset and progr
+ession 
+and possible prevention and treatment opportunities. 
+Objective 3-3: Develop innovative technologies and models in translation to achieve faster 
+diagnosis and treatment. 
+Generating data, tools, and technologies needed for treatments to get regulatory approval is critical and time-
+consuming. Harnessing new scientifc discoveries and innovation can help streamline translation and shorten the 
+time it takes to get a diagnosis, fnd the right patient cohorts, or identify a potential treatment, thereby preventing 
+or reducing the impact of rare and chronic diseases on patients. This will also enable the application of platform 
+technologies to many diseases and conditions. 
+We consistently work to develop and automate technologies that can speed the creation, analysis, screening, 
+or testing of different compounds or drugs for multiple diseases. By applying innovative statistical and 
+computational methods to link data from EHRs, digital and mobile technologies, and other sources, researchers 
+can discover new, previously unexplored, causal relationships that enable the identifcation of prevention or 
+treatment approaches. By combining clinical consultation with AI/ML and -omics analyses, we will shorten 
+the diagnostic odyssey of hard-to-diagnose, often rare, diseases. Also, by using human cell–based models as 
+pr
+edictive tools and working with the FDA and others during the development and validation process, we can 
+streamline regulatory acceptance of new approaches and new treatments. In line with Goal 1, we can also speed 
+up prevention, diagnosis, and access to effective treatments by identifying commonalities among diseases. 
+1414 COLLABORATE. INNOVATE. ACCELERATE. 2025 – 2030 STRATEGIC PLAN
+
+--- PAGE 21 matched=['Goal 4', 'Objective 4', 'strategic plan'] ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Goal 4: 
+Leverage Crosscutting Strategies to Enhance
+Translational Science 
+Translational science faces challenges and opportunities in several areas that cross other strategic plan goals 
+and serve as the foundation used to achieve other objectives. NCATS will continue to leverage cross-cutting 
+approaches to enhance the work bringing more treatments to all people more quickly. Promoting team science 
+will bring together different types of expertise to tackle complex problems. Initiating strategic partnerships will 
+extend our reach and resources. Embracing data science and facilitating FAIR data will unlock new insights and 
+accelerate discoveries. Finally, our commitment to education and outreach ensures that we are continuously 
+learning, growing, and engaging with the communities we serve. 
+Objective 4-1: Support and promote team science. 
+As a principle of translational science, team science brings together individuals with different areas of expertise 
+across professions and different backgrounds to work on a shared problem and produce research that advances 
+translation. Team science is a core part of 
+N CATS’ culture that has enabled highly collaborative efforts, such as 
+the RDCRN, National Clinical Cohort Collaborative (N3C), Tissue Chip for Drug Screening Program, Biomedical 
+Data Translator, Accelerating Medicines Partnership® (AMP®) Bespoke Gene Therapy Consortium (BGTC), and the 
+Platform Vector Gene Therapy (PaVe-GT) program, to name a few. T
+eam science also provides a fertile ground for 
+enhancing training and mentorship opportunities. We will promote these opportunities through training and car
+eer 
+development activities at N CATS and partner institutions, such as those funded through the CTSA Program. 
+We will continue to foster collaborative opportunities that bring people with different areas of expertise and 
+backgrounds together to successfully address translational roadblocks. For example, successful clinical 
+trials requir
+e a range of roles, such as nurses, pharmacists, coordinators, project managers, statisticians, 
+and community workers, in addition to patient and community perspectives. Cross-disciplinary teams and 
+partnerships leverage all partners’ expertise to solve complex translational science problems as expanded on 
+in Objective 4-2. Hiring from or engaging with our communities and incorporating their input is also needed to 
+further the feld of translational science and, more importantl y, ensure the results can beneft all. 
+Objective 4-2:
+ Develop effective partnerships and collaborations. 
+Without partnerships and collaboration, research can be stifed and siloed, slowing translation and resulting in 
+missed opportunities. We can break down siloes in translation through innovative and strategic collaborations 
+with partners across the biomedical ecosystem. 
+We will continue to develop effective partnerships and collaborations through numerous channels, including 
+formal strategic alliances, research agreements, and other types of partnerships. Collaborating with patients, 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN 15
+
+--- PAGE 22 matched=['Objective 4', 'STRATEGIC PLAN'] ---
+ 
+ 
+ 
+ 
+ 
+caregivers/care partners, patient advocates, advocacy and professional nonproft groups, communities, 
+academia, industry, and other federal agencies will offer broad perspectives to advance translational science, fnd 
+effciencies, and ultimately beneft patients. 
+For example, NCATS led the ACTIV-6 decentralized platform clinical trial, which involved numerous partners 
+and leveraged the CTSA Program infrastructure and collaborations to enroll participants from all 50 states and 
+territories. Enrollment of hard-to-reach groups increased steadily over time. The study completed enrollment with 
+unprecedented speed: Each arm completed enrollment in less than 10 months, and results were posted within 
+15 months from day one of a given treatment opening for participant enrollment. As a result, clinically relevant 
+information reached doctors and patients more quickly than traditional methods. We will learn from and expand 
+on this success. 
+Objective 4-3: Promote data science strategies and standards. 
+While specifc aspects of data science will directly speed translation (see Objective 3-2), more broadly, a variety of 
+data science approaches underlie and cut across much of 
+NCATS’ work. Improving and promoting strategies in 
+data science that facilitate knowledge generation is a key objective of the next fve years. 
+Six core themes in data science will serve as a roadmap and drive the approaches we utilize and support:  
+(1) data stewardship and sustainability; (2) data ingestion, management, and governance; (3) new technologies
+for expanded knowledge; (4) data reuse and interpretation; (5) open science and a collaborative culture; and
+(6) data science capacity building and workforce development. The privacy of individuals, their control and
+ownership of their data, and the security of that data will always be a top priority in our data science efforts. To
+support growing interest in AI/ML for research, 
+NCATS will apply and foster the development of standardized
+practices and data formats to ensure that data sets are valuable and predictive, all with the overarching goal of
+ensuring good-quality data sets, analytic methods, and the interpretation and use of results. We will use state-of-
+the art AI technology (including large language models), biostatistics, informatics, and newer efforts in quantum
+science to aid in every step of the translational process. Specifc areas include the innovative design of preclinical
+and clinical studies and pr
+eventative care strategies.
+Objective 4-4: Raise awareness of the value and applications of translational science and 
+its principles. 
+Translational science is an engine that 
+drives scientifc research to clinical 
+practice, yet it is not well understood by 
+those outside the feld. More awareness 
+of translational science is needed to 
+convey its value in addressing 
+long-standing research challenges. 
+We will enhance translational science 
+efforts by creating and sharing 
+resources, methodologies, and impact 
+stories. We will increase knowledge 
+about translational science through 
+scientifc publications, as well as other 
+communication and outreach activities 
+intended to reach audiences beyond the 
+research community. We also will build relationships through different types of engagement. We welcome every 
+opportunity to inform research communities and the public about how our research and support addresses long-
+standing challenges in translational research so that new treatments and oth
+
+--- PAGE 23 matched=['Goal 5', 'Objective 5', 'STRATEGIC PLAN'] ---
+ 
+ 
+Goal 5: 
+Champion Efective Stewardship of Translational Science
+Through Transparency, Integrity, and Accountability 
+Effective stewardship is key to our success and the achievement of our strategic goals. N CATS is dedicated 
+to the innovative and responsible use of resources to advance our mission, aligning with NIH’s commitment to 
+fostering a culture of integrity and effciency. 
+At NCATS, stewardship goes beyond resource management. It means building relationships, embracing 
+innovation, streamlining processes, and improving effciencies to ensure successful translation. We focus on 
+internal and external collaboration to overcome scientifc, operational, and policy challenges. By working ethically 
+and responsibly, we foster a collaborative environment with our communities. Together, we can ensure that 
+transparency, integrity, and accountability drive our efforts, propelling translational science forward. 
+Objective 5-1: Promote translational science research, operations, and other activities in 
+an open, shareable, and transparent manner. 
+Effective translation is slowed when research and research fndings are not disseminated within the biomedical 
+research and clinical care ecosystems. The lack of transparency can also erode public trust. Transparency and 
+open science are ways to promote reproducibility, progress, trust in research, and trustworthiness of researchers. 
+We will expand internal and external processes for transparent priority setting, including the launch, assessment, 
+and sunset of activities (see the Approach to Priority Setting section). We will foster an open and collaborative 
+working environment with fexible approaches to best address and manage scientifc, operational, and 
+administrative change. We will also continue to actively partner with external organizations to promote a culture 
+of openness, sharing, and transparency, including identifying synergies and collaborating to achieve shared 
+missions. Our outreach and communications will be more informative and accessible. 
+Objective 5-2: Support robust, reproducible, and ethical research. 
+Rigor, reproducibility, and ethical approaches to designing and conducting experiments are the cornerstones of 
+scientifc research. We have provided the translational science community with guidelines and best practices in 
+these areas, from assay development to regulatory development. 
+As highlighted in the translational science principles, we apply these principles to generate reproducible, 
+high-quality fndings that contribute to advancing successful translation. We strive to ensure that planning, 
+development, award, and implementation of all research programs and activities we support are conducted in a 
+rigorous, robust, and data-driven manner. In addition, we will continue to develop and share standard guidelines 
+and best practices for researchers. N CATS and the translational science community will look for ways to increase 
+support for ethical, legal, and societal impacts of its research and activities. 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN 17
+
+--- PAGE 24 matched=['Objective 5', 'strategic plan', 'mission'] ---
+Objective 5-3: Assess policies and provide guidance that impacts translational science 
+programs and activities. 
+Different types of policies can enable or impede translation. Proper stewardship around policy is critical in 
+developing and implementing research-related programs and activities to foster effective translation. 
+Relevant legal and policy frameworks must be taken into consideration, such as privacy protections when using 
+patient data, operational processes when conducting clinical trials, procedures when screening and sequencing 
+for rare diseases, and when drafting data sharing and management plans. As part of this strategic plan, we 
+will continue to identify and understand how policies impact translation and provide our perspective on these 
+impacts. Additionally, we will consider how data generated from research and related activities can inform policy 
+development. From there, we will support and build activities that enable us to address potential barriers either 
+directly or through our role as a convener bringing together different groups, including consultation with Tribal 
+Nations, patients and communities, scientifc societies, and other affected organizations. We will also seek 
+ways to increase awareness throughout the translational science research community around the meaning and 
+implications of various policies. 
+Objective 5-4: Optimize resources and infrastructure to supercharge the impact of 
+translational science. 
+There are many factors to consider and address when developing and initiating translational science projects or 
+programs. Addressing these factors — which include project scope, appropriate expertise, funding, and logistical 
+operations — will improve start time and reduce time to results. Leveraging complementary expertise and tools 
+ensures that research is being conducted in the most effcient manner. 
+We will continually assess and optimize organizational, operational, and business practices to advance 
+translational science. This effort includes streamlining, digitizing, and automating business operations to align with 
+relevant leading practices. We will ensure our funding opportunities address cutting-edge research needs and 
+seize new opportunities. Our processes for grants, contracts, and other engagements will continue to be creative 
+and robust. Regular monitoring and evaluation of our programs, activities, and priorities will ensure they align with 
+and advance the N CATS mission. 
+18
+18 COLLABORATE. INNOVATE. ACCELERATE. 2025  ––– 2030 STRA TEGIC PLAN
+
+--- PAGE 25 matched=['STRATEGIC PLAN'] ---
+19 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+ 
+ 
+ 
+ 
+ 
+Appendices 
+Appendix A: Additional Details on N CATS’ Organization 
+Statutory Authority 
+Establishment of N CATS 
+N CATS was created on December 23, 2011, by the Consolidated Appropriations Act, 2012 (P .L. 112-74), which 
+amended the Public Health Service (PHS) Act by including authorization language for N  CA
+TS. The 21st Century 
+Cures Act (P
+.L. 114-255), which became law on December 13, 2016, subsequently modifed NCATS’ 
+authorization language. 
+The current PHS Act authorization language for N CATS outlines the purpose of NCATS, specifes the phases of 
+clinical trials that may be supported, mandates the NCATS  biennial report, and details the previously existing NIH 
+programs that were moved to NCATS, such as the Cures Acceleration Network (CAN). 
+Cures Acceleration Network 
+CAN was established within NIH on March 23, 2010, by the Patient Protection and Affordable Car
+e Act (P .L. 111-
+148), but it was not appropriated any funds. Several interested parties wrote a letter to Congress (PDF — 35KB) 
+on May 14, 2010, asking Congress to provide funding for CAN. 
+On December 23, 2011, the Consolidated Appropriations Act, 2012, appropriated $10 million for CAN and 
+moved CAN to NCATS. 
+The purpose of CAN is to award grants and contracts to eligible entities to accelerate the development of high-
+need cures, including through the development of medical products and behavioral therapies. 
+
+--- PAGE 26 matched=['DIVISION OF \n'] ---
+ 
+ 
+Organizational Chart 
+20
+To learn more about N CATS, visit our website: 
+• NCATS Divisions and Offces
+• NCATS Research Activities
+DIVISION OF 
+CLINICAL 
+INNOVATION 
+COUNCIL – 
+CAN BOARD 
+DIVISION OF 
+EXTRAMURAL 
+ACTIVITIES 
+DIVISION OF 
+PRECLINICAL 
+INNOVATION 
+DIVISION OF RARE 
+DISEASES 
+RESEARCH 
+INNOVATION 
+OFFICE OF THE DIRECTOR 
+OFFICE OF POLICY, 
+COMMUNICATIONS 
+AND EDUCATION 
+OFFICE OF SPECIAL 
+INITIATIVES 
+OFFICE OF 
+STRATEGIC 
+ALLIANCES 
+OFFICE OF 
+TRANSLATIONAL 
+MEDICINE 
+OFFICE OF 
+ADMINISTRATIVE 
+MANAGEMENT 
+OFFICE OF DRUG 
+DEVELOPMENT 
+PARTNERSHIP 
+PROGRAMS 
+20 COLLABORATE. INNOVATE. ACCELERATE. 2025  ––– 2030 STRA TEGIC PLAN 
+
+--- PAGE 27 matched=['Goal 1', 'STRATEGIC PLAN'] ---
+21
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+Appendix B: Accomplishments From the 2016 N  CATS Strategic Plan
+The 2016 N CATS Strategic Plan was released five years after N CATS was established and set a roadmap for the 
+center’s early activities. The release of the N CATS Strategic Plan for 2025–2030 offers an opportunity to reflect 
+on and recognize the many ways in which the 2016 N CATS Strategic Plan goals were accomplished and how  
+N CATS led the way in advancing translation science (Figure B-1).Figure B-1. The four goals for the 2016 N CATS Strategic Plan.
+N CATS has made progress in meeting the goals of the 2016 N CATS Strategic Plan in several key areas, 
+highlighted below. Find more details and impact examples from these activities in the N CATS Congressional 
+Justifications (found on our Budget webpage), N CATS biennial reports, N CATS Areas of Impact, and N CATS 
+News & Events. 
+Innovation and Impacts in Clinical Trials (Goals 1, 2, and 3)
+N CATS has played a leading role as an innovator in the conduct and efficiency of clinical trials. The Institutional 
+Review Board (IRB) and recruitment and operations processes have been revitalized through the Clinical and 
+Translational Science Awards (CTSA) Streamlined, Multisite, Accelerated Resources for Trials IRB (SMART IRB) 
+Platform and the Trial Innovation Network. Leveraging the scope and capabilities of the CTSA Program network 
+enabled N CATS to rapidly respond to the COVID-19 pandemic through the Accelerating COVID-19 Therapeutic 
+Interventions and Vaccines (ACTIV) trials (ACTIV-1 and ACTIV-6). The Rare Diseases Clinical Research Network 
+(RDCRN) has built a collaborative rare diseases research network that has resulted in 12 U.S. Food and Drug 
+Administration (FDA)–approved treatments for 11 of the diseases studied in this network.
+Rare Disease Advancements (Goals 2 and 4)
+N CATS is a home for rare disease advancements that too often get stuck in the translational pipeline. The 
+center raises awareness of the economic burden of rare diseases through activities like the IDeaS (Impact of 
+Rare Diseases on Patients and Healthcare Systems) study. N CATS also disseminates information and resources 
+through the Genetic and Rare Diseases (GARD) Information Center and through partnerships established in 
+programs like the Accelerating Medicine Partnership
+® (AMP®) Bespoke Gene Therapy Consortium (BGTC) and 
+Platform Vector Gene Therapy (PaVe-GT). These efforts increase the potential to address many diseases at a 
+time.
+Goal 1
+Conduct and support innovative 
+research that uncovers fundamental 
+scientiﬁc and operational principles 
+of translational science to catalyze 
+the development and dissemination 
+of novel medical interventions.
+2016 
+NCATS 
+Strategic 
+Plan
+Goal 2
+Advance translational team science 
+by fostering innovative partnerships 
+and collaborations with a strategic 
+array of stakeholders.
+Goal 4
+Enhance good stewardship of public 
+funds by promoting and employing  
+efﬁcient and effective management  
+practices.
+Goal 3
+Develop and foster innovative 
+translational training and a 
+highly skilled, creative, and diverse 
+translational science workforce.
+
+--- PAGE 28 matched=['Goal 3', 'STRATEGIC PLAN'] ---
+   
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Expansion of Training Opportunities in Translational Science (Goal 3) 
+NCATS provides robust training experiences for new translational scientists through our numerous internal 
+fellowship opportunities and various awards to our external collaborators. Additionally, the NCATS Offce of 
+Strategic Alliances provides training in the business areas surrounding translational science. Activities include 
+internal lunch-and-learn programs that are open to all NCATS staff and trainees and the internal NCATS 
+Advancing Innovation through Mentorship (AIM) program, which is fashioned after the National Science 
+Foundation iCorps program. 
+Harnessing the Power of Data Science (Goals 1, 2, and 4) 
+At NCATS, we have invested in new ways to connect, access, and learn from large and complex data sets. We 
+also create and use data tools and methods in new ways to speed translational research. Activities span the 
+translational pipeline, from using platforms like Biomedical Data Translator and OpenData Portal to identify 
+promising therapeutic candidates and avenues to harnessing the power of clinical data to address urgent public 
+health needs through the National Clinical Cohort Collaborative (N3C) and CURE ID. 
+Developing and Utilizing Human Cell Models (Goals 1 and 2) 
+NCATS is providing key advances in innovative systems to mimic diseases and test potential treatments in 
+effcient and validated human cell models. We established key infrastructure, including the Stem Cell Translation 
+Laboratory and 3-D Tissue Bioprinting Program, and developed tools to work with these systems, like Somatic 
+Cell Genome Editing. In particular, our Tissue Chip for Drug Screening Pr
+ogram has led the development of 3-D 
+platforms designed to represent human organ systems and mimic functions of the human body (Figure B-2). 
+Tissue chips have allowed the testing of treatments for many diseases or conditions, including addiction and pain 
+and COVID-19, as well as understanding aging by sending tissue chips into space. 
+Figure B-2. Tissue chip models used to study the progression of metabolic dysfunction–associated steatotic liver disease 
+(M A S L D), which affects a quarter of the world’s population. On the left, a normal liver is shown with four different types of cells. 
+On the right, a diseased liver reveals a high amount of fatty lipids and the beginning of fbrosis, a life-threatening type of liver 
+damage. (Dillon Gavlock, University of Pittsburgh Drug Discovery Institute) 22 COLLABORATE. INNOVATE. ACCELERATE.  2025 –  2030 STRATEGIC PLAN
+
+--- PAGE 29 matched=['Goal 4', 'STRATEGIC PLAN', 'mission'] ---
+23 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+    
+ 
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+Increasing Awareness of Translational Science as a Discipline (Goals 3 and 4) 
+One goal of our inaugural strategic plan was to increase awareness of translational science as a discipline. To this 
+end, the N CATS Communications Branch developed and widely disseminated new resources that describe 
+N CATS’ work in crisp, clear, and compelling language. NCATS also developed the NCATS Translational Science 
+Principles, which stem in part from in-depth case studies and build on scholarship identifying core competencies 
+for translational science. 
+Engaging and Facilitating Novel Partnerships (Goals 2 and 4) 
+NCATS has led the way in showing how to establish and conduct successful collaborations through such 
+programs as A Specialized Platform for Innovative Research Exploration (ASPIRE) and leadership in NIH 
+Common Fund programs like the Extracellular RNA Communication Program. NCATS also has established a new 
+version of the standard scientifc partnership agreement with the innovative cooperative research collaboration 
+agreement template. This and other templates speed the implementation of research agreements. Thanks to 
+NCATS’ facilitation of partnerships, three major exclusive licenses are now in different stages of their life cycles. 
+Enhancing NCATS’ Internal Processes (Goal 4) 
+Stewardship of all NCATS activities was instrumental to achieving the goals of the 2016 NCATS Strategic Plan. 
+During this time, NCATS developed a user-friendly internal human resources system — the K2 ProgressivE 
+Enterprise Personnel System and workfow automation application. It is one example of how we enabled an 
+administrative structure to align key operational support and infrastructure in support of the 
+NCATS mission. 
+NCATS has also established a transparent and proactive center-wide operations planning process. To improve 
+the awards management process, the NCATS Division of Extramural Activities (DEA) led the effort to establish 
+Other Transaction Awards as a new business line at the NIH level, which is critical to the conduct of the Cures 
+Acceleration Network. DEA established prize competitions as a new mechanism for funding and developed best 
+practices for engaging NIH institutes and centers as partners, instead of as a service center, as exemplifed by 
+the partnership with the National Institute on Drug Abuse for managing the Native Collective Research Effort to 
+Enhance W
+ellness (N CREW) Program, under The Helping to End Addiction Long-term® Initiative, or NIH HEAL 
+Initiative®. 
+Achieving Crucial Regulatory Milestones (Goals 1 and 2) 
+Advancing treatments through the translational pipeline requires navigating the regulatory process of therapeutic 
+approval. NCATS has engaged in NIH-wide partnerships to develop novel therapies to the point of readiness 
+to conduct clinical trials for regulatory approval, and the FDA has approved 56 Investigational New Drug (IND) 
+clearances based on research involving the 
+NCATS Division of Preclinical Innovation. The preclinical research 
+conducted by NCATS was also key to de-risking the clinical trials leading to the approval of four drugs (Figure B-3). 
+Figure B-3. Contributions of the NCATS Division of Preclinical Innovation to Investigational New Drug clearances and drug 
+approval applications. 
+
+--- PAGE 30 matched=['Strategic Plan', 'vision'] ---
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix C: Strategic Planning Process 
+In November 2022, following the appointment of Dr. Joni L. Rutter as the new director, the center began the 
+process of updating the NCATS Strategic Plan that was released in fall 2016. The strategic planning team formed 
+to manage the day-to-day activities of the strategic planning process. The team was based in the NCATS’ 
+Science Policy Branch and included staff from the Offce of Policy, Communications and Education and the 
+NCATS Offce of the Director. As described below, all parts of the center as well as of the external community 
+have contributed feedback and input throughout the entire process. 
+The almost two-year-long process encompassed robust community engagement, development of a strategic 
+framework, a request for public and internal input on the framework, and drafting of the plan, while incorporating 
+feedback at each stage (Figure C-1). 
+44+ 
+formal 
+1,700+ 
+meetings 
+unique 
+comments 
+1,150+ 70+ 
+individuals 
+engaged 
+written 
+responses 
+Figure C-1. By the numbers: How NCATS involved the community in the strategic planning process. 
+Community Engagement 
+From January 2023 to August 2023, Director Rutter and the strategic planning team participated in over 44 
+meetings with more than 1,150 individuals. These discussions gathered input on the future of NCATS activities, 
+unmet needs in translation, and opportunities to make progress toward bringing new health solutions to people 
+faster: 
+• We held 19 virtual discussions involving more than 350 
+NCATS staff members. 
+• We hosted two virtual strategic planning roundtable discussions for the public on May 9 and 10, 2023. During 
+these discussions, Dr. Rutter gave an overview of her vision for 
+NCATS and information on the strategic plan. 
+Participants then met in breakout groups to offer their perspectives on different translational science topics. 
+All breakout sessions answered the same four broad, open-ended questions to solicit input. 
+• Dr. Rutter presented the strategic plan at 24 virtual meetings of the CTSA Program committees and at two 
+meetings with researchers and patient advocacy groups who are part of the RDCRN. These conversations 
+included questions tailored for each particular gr
+oup. Dr. Rutter also took other opportunities through public 
+speaking engagements to discuss and engage individuals and groups on the strategic plan. 
+• The NCATS Advisory Council discussed and gave input on the strategic plan at their meetings in May 2023, 
+September 2023, January 2024, and May 2024. 
+We routinely promoted the strategic plan through different communications channels and solicited input through 
+a public email address to r
+eceive additional comments or questions. 
+24 COLLABORATE. INNOVATE. ACCELERATE.  2025 –  2030 STRATEGIC PLAN 
+
+--- PAGE 31 matched=['STRATEGIC PLAN', 'goals and objectives', 'vision'] ---
+25 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+After releasing the strategic plan, we will continue to engage internal and external groups in dialogue about our 
+activities and progress. 
+Framework Development 
+Referring to a set of relevant, recurring themes identifed from the feedback, we categorized the more than 
+1,700 comments received across strategic engagements (Figure C-2). Using this semiquantitative analysis of the 
+input received, we developed a draft framework for the 
+NCATS Strategic Plan for 2025-2030. The framework 
+presented fve strategic plan goals, a brief narrative context of each goal, and a set of potential themes aligned to 
+the 
+NCATS vision. 
+Framework Input 
+In September 2023, we presented a draft framework at the NCATS Advisory Council meeting and published a 
+request for information (RFI) (NOT-TR-23-027) via an NIH Guide Notice. The RFI asked for feedback on the draft 
+goals and plans presented in the framework. We received 51 separate responses. 
+During the period the RFI was open for comments, Dr. Rutter held three small-gr
+oup discussions with other NIH 
+institute and center directors. In addition, the strategic planning team presented the draft framework at an 
+NCATS town hall meeting for staff and held fve virtual discussions, one for each goal, with NCATS staff. 
+Document Drafting and Refnement 
+Following external and internal feedback on the draft framework, the strategic planning team drafted objectives. 
+The goals and objectives were further discussed with 
+NCATS leadership. The full strategic plan draft was 
+published on the NCATS website from May 14 through June 14, 2024. It was presented and discussed at the 
+NCATS Advisory Council in May 2024. We received over 20 written responses on the draft and made edits to the 
+strategic plan as applicable. Many comments were more relevant to the implementation process and have been 
+catalogued for implementation (see Appendix D). 
+Figure C-2. Different voices focusing on similar topics. NCATS held Strategic Plan roundtable discussions in 2023 with multiple 
+communities and groups (left column). Even with a broad set of participants, a common set of themes was identifed by participants 
+for NCATS to consider (right column). Line thickness indicates proportional feedback provided on a topic. 
+
+--- PAGE 32 matched=['Strategic Plan', 'goals and objectives', 'vision'] ---
+  
+ 
+    
+ 
+  
+  
+ 
+ 
+ 
+Appendix D: Implementation of the Strategic Plan 
+The NCATS Strategic Plan for 2025–2030 sets forth a vision with fve goals, each with objectives for 
+implementation. By continuously evaluating our progress and adapting our strategies, we are committed to 
+making a signifcant impact on advancing translational science and improving health outcomes. 
+As the strategic plan was developed, all divisions and offces provided input at multiple steps to ensure center-
+wide engagement. Involvement at all levels of NCATS will continue after the NCATS Strategic Plan for 2025–2030 
+is released, starting with internal center leadership discussions in fall 2024.  
+Consideration of strategic plan implementation is already underway internally. It will be coordinated across the 
+center through the immediate Offce of the NCATS Director. Implementation will include prioritizing activities to 
+pursue, as well as putting in place a strategy to track progress, develop metrics, and keep our communities 
+informed as we evaluate our progress. 
+To start, the 
+NCATS Strategic Plan for 2025–2030 will be used as a reference point for guiding all programs 
+and initiatives that NCATS implements going forward. For example, internal planning is an NCATS-wide activity 
+that occurs two to four times per year during which new ideas are brainstormed and discussed by NCATS staff 
+and leadership to promote transparency, collaboration, coordination, and priority setting. This includes mapping 
+programs and activities to the relevant strategic plan goals and objectives to ensure alignment. As part of this 
+process, starting in October 2024, staff submitting proposals for activities and programs will identify the relevant 
+strategic plan goal(s) and objective(s). Concept clearances for the 
+NCATS Advisory Council also will incorporate 
+this information. 
+Discussion of potential metrics of the progress in achieving our strategic plan’s goals and objectives and the 
+impact of our programs and activities is ongoing. We will use a variety of approaches to systematically monitor 
+and collect accomplishments and other indicators of progress. We will continue discussions with our constituents 
+to inform how we think about what is impactful in terms of progress in fulflling our mission and vision. 
+W
+e will continue to ensure that our implementation aligns with White House, U.S. Department of Health and 
+Human Services, and NIH priorities and plans. Center-specifc activities recently initiated include developing 
+roadmaps for 
+NCATS’ pillars of organizational culture and impact and center-wide data science strategies. 
+26 COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN
+
+--- PAGE 33 matched=['STRATEGIC PLAN', 'Division of '] ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+      
+Appendix E: Acronyms and Abbreviations 
+AAV adeno-associated virus 
+ACTIV Accelerating COVID-19 Therapeutic Interventions and Vaccines 
+AI artifcial intelligence 
+AIM Advancing Innovation through Mentorship 
+AMP® Accelerating Medicines Partnership® 
+ASPIRE A Specialized Platform for Innovative Research Exploration 
+BGTC Bespoke Gene Therapy Consortium 
+CAB community advisory board 
+CAN Cures Acceleration Network 
+CTSA Clinical and Translational Science Awards 
+D E A Division of Extramural Activities 
+E H R electronic health record 
+FAIR fndable, accessible, interoperable, and reusable 
+FDA U.S. Food and Drug Administration 
+GARD Genetic and Rare Diseases Information Center 
+IDeaS Impact of Rare Diseases on Patients and Healthcare Systems 
+IRB Institutional Review Board 
+MASLD metabolic dysfunction–associated steatotic liver disease 
+ML machine learning 
+N3C National Clinical Cohort Collaborative 
+NCATS National Center for Advancing Translational Sciences 
+NIH National Institutes of Health 
+P A G patient advocacy group 
+PaVe-GT Platform Vector Gene Therapy 
+PHS Public Health Service 
+RDCRN Rare Diseases Clinical Research Network 
+RFI request for information 
+SMART IRB Streamlined, Multisite, Accelerated Resources for Trials IRB 
+TIN Trial Innovation Network 
+COLLABORATE. INNOVATE. ACCELERATE.      2025 –  2030 STRATEGIC PLAN 27

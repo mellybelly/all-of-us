@@ -1,0 +1,1694 @@
+# NIDDK (2025) — file: NIDDK_Strategic_Plan_for_Research_2025.pdf
+# 41 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+ 
+ 
+ 
+ 
+NATIONAL INSTITUTE OF DIABETES AND 
+DIGESTIVE AND KIDNEY DISEASES 
+ 
+ 
+Strategic Plan for Research 
+Pathways to health for all 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          December 2021 | updated April 2025  
+ 
+  
+
+
+--- PAGE 2 matched=['Strategic Plan', 'vision', 'mission'] ---
+ 
+2 
+DIRECTOR’S MESSAGE 
+As the Director of the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), I am 
+pleased to present this Strategic Plan describing scientific goals and research opportunities. 
+NIDDK supports and conducts research on some of the most common, chronic, costly, and 
+consequential diseases, along with research on diseases and disorders that are less widespread but 
+nonetheless devastating in their impacts. This research includes basic, clinical, and translational 
+studies by scientists across the country at universities, small businesses, and other institutions to 
+discover biological processes and other contributors to health and disease, test prevention and 
+treatment strategies, and develop approaches to scale up and broaden the reach of evidence-based 
+interventions. Knowledge gained from NIDDK-supported research is important for healthcare providers, 
+people affected by disease and their families, and the public. NIDDK also supports research training 
+and career development for the next generation of scientists. 
+To identify key research challenges and opportunities for the future and to maximize the value of 
+research investments, NIDDK regularly engages in research planning focused on the diseases within 
+our mission, including diabetes and other endocrine and metabolic diseases; liver and other digestive 
+diseases; nutritional disorders; obesity; and kidney, urologic, and hematologic diseases. To 
+complement our disease-specific planning, NIDDK developed this overarching Strategic Plan. 
+Extensive input from leading researchers and patient advocates across the country was integral to our 
+planning process, as was broader public input.  
+We established four scientific goals for this Strategic Plan, focused on advancing basic science 
+research, clinical studies, dissemination and implementation research, and stakeholder engagement. 
+An important cross-cutting topic for each of these goals is to strengthen biomedical research workforce 
+training. The plan also highlights our commitment to serve as an efficient and effective steward of public 
+resources. 
+This Strategic Plan presents a broad vision for accelerating research on the diseases, conditions, and 
+scientific areas under NIDDK’s mission. Many of these diseases are intertwined: some may share the 
+same root causes; the presence of one disease may raise the risk of another; and treating one disease 
+may improve the outcome of others. By leveraging these connections, supporting a talented scientific 
+workforce, and engaging our many stakeholders, we can help ensure healthier lives and improved 
+quality of life for all. Thus, the overarching theme of this Strategic Plan is Multidisciplinary 
+Researchers, Many Stakeholders, Pathways to Health for All. 
+In 2025, the Strategic Plan was updated to ensure it is aligned with the current Administration’s 
+priorities and complies with this Administration’s Executive Orders. 
+ 
+Griffin P. Rodgers, M.D., M.A.C.P. 
+Director 
+National Institute of Diabetes and Digestive and Kidney Diseases  
+National Institutes of Health 
+U.S. Department of Health and Human Services    
+
+--- PAGE 3 matched=['Goal 1', 'Strategic Plan', 'Table of Contents'] ---
+ 
+3 
+ 
+Table of Contents 
+ 
+ 
+DIRECTOR’S MESSAGE ................................................................................................................. 2 
+Table of Contents.............................................................................................................................. 3 
+OVERVIEW AND INTRODUCTION .................................................................................................. 4 
+NIDDK Mission and Vision ............................................................................................... 4 
+Framework for the Strategic Plan for NIDDK Research ................................................... 6 
+NIDDK Organization ........................................................................................................ 7 
+SCIENTIFIC GOALS ......................................................................................................................... 9 
+Scientific Goal 1 – Advance understanding of biological pathways and environmental 
+contributors to health and disease ......................................................................................... 9 
+Research Opportunities .................................................................................................  11 
+Scientific Goal 2 – Advance pivotal clinical studies and trials for prevention, treatment, and 
+cures ................................................................................................................................... 17 
+Research Opportunities .................................................................................................  18 
+Scientific Goal 3 – Advance research to disseminate and implement evidence-based 
+prevention strategies and treatments in clinics and community settings, to improve the health 
+of all people, more rapidly and more effectively ...................................................................  26 
+Research Opportunities .................................................................................................  27 
+Scientific Goal 4 – Advance stakeholder engagement— including patients and other 
+participants as true partners in research .............................................................................. 33 
+Research Opportunities .................................................................................................  34 
+Measuring progress toward achieving the Scientific Goals .................................................. 36 
+STEWARDSHIP.............................................................................................................................. 38 
+Planning and Priority Setting .......................................................................................... 38 
+Scientific Stewardship – Opportunities ........................................................................... 39 
+Management and Accountability – Opportunities ........................................................... 43 
+DESCRIPTION OF THE STRATEGIC PLANNING PROCESS ....................................................... 43 
+2019-2021: Developing the Strategic Plan  .................................................................... 43 
+2025: Updates to the Strategic Plan .............................................................................. 44 
+ 
+  
+
+--- PAGE 4 matched=['Vision', 'Mission'] ---
+ 
+4 
+ 
+OVERVIEW AND INTRODUCTION 
+NIDDK Mission and Vision 
+ 
+Mission and Statutory Authority 
+The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) was established in 1950 
+as part of the National Institutes of Health (NIH), and acquired its current name in 1986. As authorized 
+by Sections 426-434A of the Public Health Service Act [42 U.S.C. 285c – 285c-9], the mission of the 
+NIDDK is to conduct and support medical research and research training and to disseminate science-
+based information on diabetes and other endocrine and metabolic diseases; digestive diseases, 
+nutritional disorders, and obesity; and kidney, urologic, and hematologic diseases, to improve people’s 
+health and quality of life. 
+ 
+ 
+As a whole, the diseases that fall within NIDDK’s mission are chronic, costly, and consequential for 
+patients, their families, and the Nation, often with differential impact on different communities. 
+Endocrine and metabolic diseases span a range of conditions. They include diabetes, which affects an 
+estimated 34.2 million people in the United States.
+1 The most common forms of diabetes are type 1 
+diabetes, in which the body loses its ability to produce the hormone insulin as a result of an aberrant 
+immune system attack; and type 2 diabetes, which is due to a combination of insulin resistance and 
+insufficient insulin production. Women can also develop gestational diabetes, a form of the disease that 
+is diagnosed during pregnancy and increases risk for later type 2 diabetes. There are other forms of 
+diabetes that, although not as common, can still have devastating effects. A variety of factors increase 
+risk for diabetes, including genetic, environmental, and other factors. Obesity is a strong risk factor for 
+development of type 2 diabetes and gestational diabetes. Diabetes is associated with serious 
+complications, such as heart disease and stroke, blindness, kidney failure, lower limb amputation, many 
+forms of cancer, dementia, hearing loss, erectile dysfunction, urinary incontinence, and other adverse 
+health conditions. Other endocrine and metabolic diseases, such as cystic fibrosis, osteoporosis, and 
+hypothyroidism, also can be severe in their impacts.  
+Obesity affects more than 40 percent of U.S. adults and over 19 percent of children and adolescents.
+2 
+Individuals with obesity may develop devastating health problems, face reduced life expectancy, and 
+experience stigma and discrimination. Obesity results from a combination of genetic susceptibility, 
+biological pathways related to metabolism and body weight regulation, and environmental and other 
+factors. People who have obesity are at increased risk for type 2 diabetes, fatty liver disease, kidney 
+disease, cardiovascular disease, cancer, and many other diseases. 
+Digestive diseases affect the gastrointestinal tract, liver, gallbladder, and pancreas, and also include 
+nutrition-related disorders. Digestive diseases, which can cause serious complications such as severe 
+pain, elevated risk of cancer, or liver failure, accounted for an estimated 66.4 million ambulatory care 
+visits to doctor’s offices, outpatient hospital clinics, and emergency departments in 2016.
+3 Complex 
+
+--- PAGE 5 matched=['Vision', 'mission'] ---
+ 
+5 
+interactions among genetic, environmental, immune, microbial, and other factors contribute to the 
+development of inflammatory bowel diseases, celiac disease, and other digestive disorders. Liver 
+diseases can be caused by infection, such as viral hepatitis; genetic mutations; autoimmune reactions; 
+or drug toxicity. The rise in obesity in the United States has fueled a rise in nonalcoholic fatty liver 
+disease, which, like many liver diseases, can place individuals at higher risk for liver cancer. 
+Good nutrition is essential for health and survival, and dietary factors affect risk for obesity, type 2 
+diabetes, chronic kidney disease, fatty liver disease, and many other chronic diseases. Nutritional 
+needs can vary depending on such factors as an individual’s underlying health conditions, and can 
+change across the lifespan, from infancy to older adulthood. 
+It has been estimated that 37 million U.S. adults have impaired kidney function—also called chronic 
+kidney disease.
+4 Kidney disease can lead to irreversible kidney failure and other life-threatening 
+complications, and people with kidney failure require dialysis or a kidney transplant to live. Yet, kidney 
+disease often has no symptoms in its early stages and can go undetected until it is very advanced. 
+There are many different forms of kidney disease, including kidney disease related to diabetes or high 
+blood pressure; inherited diseases such as polycystic kidney disease, congenital kidney disorders, and 
+focal segmental glomerulosclerosis; and immune-related kidney diseases. 
+Urologic diseases and disorders include urinary incontinence and broad lower urinary tract dysfunction, 
+benign prostatic hyperplasia (enlarged prostate), urinary tract infections, kidney stones, interstitial 
+cystitis/bladder pain syndrome, chronic prostatitis/ chronic pelvic pain syndrome, and congenital 
+urological disorders, among others. These conditions can be chronic and painful, and they may lead to 
+substantial disability and impaired quality of life. Like many other diseases in NIDDK’s mission, urologic 
+diseases and disorders are prevalent; for example, it is estimated that about 54 percent of women 20 
+years and older report urinary incontinence in the past year.5 
+Hematologic diseases within NIDDK’s mission include serious, debilitating, and painful diseases such 
+as thrombocytopenia, sickle cell disease, the thalassemias, aplastic anemia, iron deficiency anemia, 
+hemolytic anemias, and the anemia of inflammation or chronic disease. 
+While the diseases and conditions within NIDDK’s mission affect different tissues, organs, or functions 
+of the body, many are intimately linked. For example, obesity is a risk factor for fatty liver disease and 
+type 2 diabetes; diabetes raises the risk for kidney disease; type 1 diabetes and celiac disease share 
+genetic predisposition; and individuals with urologic pain syndromes often have irritable bowel 
+syndrome. Many of the diseases and conditions within NIDDK’s mission have shared causes and 
+contributors, for example, genetics, inflammation, and other biological factors, along with people’s life 
+circumstances and their communities, e.g., access to care, environmental exposures, availability of 
+healthy food or places to exercise, living in rural areas, and other external factors. As a result of the 
+shared pathways to disease development, many individuals have more than one of these diseases and 
+conditions.  
+Vision 
+Several principles guide NI
+
+--- PAGE 6 matched=['Strategic Plan', 'Vision', 'mission'] ---
+ 
+6 
+foster exceptional research training and mentoring opportunities; and encourage knowledge 
+dissemination through publication of research findings to help inform patients, families, and healthcare 
+providers. 
+Additionally, to fulfill our mission today and in the future, NIDDK is committed to supporting a 
+multidisciplinary research community; engaging many stakeholders; and leveraging discoveries of 
+connections among diseases across NIDDK’s mission to improve prevention and treatment— pursuing 
+pathways to health for all. This theme is addressed throughout the Strategic Plan. 
+ 
+Supporting a multidisciplinary research community: Through support of vigorous, multi-pronged 
+research efforts, NIDDK strives to combat the many debilitating chronic diseases within its mission. 
+Additionally, training and career development for researchers is critical to ensure an experienced 
+workforce with people from different scientific backgrounds. Multidisciplinary research—combining the 
+expertise and perspectives of researchers in a range of fields—is important for paving the way for 
+groundbreaking insights and new, effective strategies to improve health. 
+Engaging our many stakeholders: By engaging our stakeholder communities, we can ensure that 
+biomedical research benefits all Americans. For the Strategic Plan, the term stakeholders broadly refers 
+to those who share an interest in improving health and quality of life for people with diseases in our 
+mission. These stakeholders include, for example: patients, caregivers, and patient advocates; people 
+who participate in research; those who deliver interventions studied in clinical research, including 
+healthcare systems, healthcare providers, and community and other organizations; entities such as 
+industry that may move the results of NIDDK-supported basic research into later stages of therapeutic 
+development; other federal agencies; and many others. Importantly, these individuals, organizations, 
+communities, and others can all be partners in the research process. 
+People living with diseases in NIDDK’s mission can provide valuable perspectives to inform research. It 
+will also be important to engage with other stakeholders, such as community members who could 
+partner with researchers in recruiting study participants and delivering an intervention to be studied in 
+their communities. Additional stakeholders who could provide important perspectives include those who 
+may be involved in the research continuum from foundational discoveries to clinical trials to 
+dissemination and implementation of proven interventions in clinical and community settings.  
+Pathways to health for all can be forged by leveraging the connections shared by the diseases across 
+NIDDK’s mission, and by pursuing research avenues to benefit everyone. Many of these diseases have 
+shared causes and contributors— including biological factors and community and other environmental 
+factors. Additionally, many people have multiple chronic diseases and conditions in NIDDK’s mission. 
+These connections also present valuable opportunities for improving prevention and treatment for 
+multiple diseases. Finally, because the burden of many of the diseases across NIDDK’s mission differs 
+for different individuals, it will be critical to bolster research that will improve health for everyone. 
+Framework for the Strategic Plan for NIDDK Research  
+The Strategic Plan highlights four overarching Scientific Goals. These align with the 
+
+--- PAGE 7 matched=['Strategic Plan', 'mission'] ---
+ 
+7 
+described above, including the theme of supporting a multidisciplinary workforce, engaging many 
+stakeholders, and pursuing pathways to health for all. 
+Scientific Goals 
+• Advance understanding of biological pathways and environmental contributors to health and 
+disease  
+• Advance pivotal clinical studies and trials for prevention, treatment, and cures 
+• Advance research to disseminate and implement evidence-based prevention strategies and 
+treatments in clinics and community settings, to improve the health of all people, more rapidly and 
+more effectively 
+• Advance stakeholder engagement—including patients and other participants as true partners in 
+research 
+For each Scientific Goal, the Strategic Plan presents a set of broad Research Opportunities. The Goals 
+and accompanying research opportunities will guide future research efforts to improve health and 
+quality of life for people who have, or are at risk for, diseases and conditions across NIDDK’s mission. 
+The Institute will also pursue new research opportunities and meet new challenges as they emerge in 
+the coming years. 
+Stewardship 
+Serving as an efficient and effective steward of public resources is critical to all of NIDDK’s research, 
+and the Strategic Plan highlights many facets of stewardship. The research opportunities described in 
+the Strategic Plan will be pursued with the resources available to the Institute. Through careful planning 
+and analysis, the Institute will meet the challenge of deploying its budgetary resources in the most 
+effective and efficient ways to sustain research momentum, build on research achievements, and 
+identify and pursue new scientific opportunities. 
+Cross-cutting Topic 
+Strengthening biomedical research workforce training is crucial to NIDDK’s mission and is addressed 
+throughout the Strategic Plan: 
+ 
+NIDDK Organization 
+NIDDK is organized into several Divisions and Offices that work together to lead and support research 
+to fulfill the Institute’s mission. 
+Most of NIDDK’s resources support extramural research, including over 4,000 research grants, career 
+development awards, and contracts each year. The majority of this research is conducted by scientists 
+at universities and other medical research institutions, including small businesses, throughout the 
+United States. A limited amount of research has leveraged special opportunities elsewhere, for 
+example, to address important scientific questions relevant to our research mission that could be 
+answered more readily in another part of the world. 
+The NIDDK’s extramural research portfolio is directed by three programmatic Divisions that support 
+
+--- PAGE 8 matched=['mission', 'Division of '] ---
+ 
+8 
+basic, clinical, and translational research, along with a fourth Division that coordinates and manages 
+extramural activities. The Division of Diabetes, Endocrinology, and Metabolic Diseases supports 
+research related to diabetes; obesity; cystic fibrosis and other genetic metabolic diseases; and thyroid, 
+bone, and other endocrine diseases. The Division of Digestive Diseases and Nutrition supports 
+research related to diseases of the esophagus, stomach, intestines, liver and biliary system, and 
+pancreas, as well as research on obesity and nutrition. The Division of Kidney, Urologic, and 
+Hematologic Diseases supports research related to diseases and disorders of the kidneys, urinary tract, 
+and the blood and blood-forming organs. All three of these programmatic Divisions support research 
+training and research career development, in addition to sponsoring scientific workshops and symposia. 
+The Division of Extramural Activities provides leadership, oversight, tools, and guidance to help 
+manage extramural program policies and operations, including the Institute’s scientific peer-review 
+activities, grants management, committee management, and other efforts, including analysis and 
+evaluation activities. 
+The NIDDK’s Division of Intramural Research is composed of government scientists who conduct 
+research across a broad spectrum of basic and clinical topics, along with research training, at its 
+laboratories and clinical facilities in Bethesda, Maryland, and Phoenix, Arizona. 
+The Office of the NIDDK Director coordinates efforts across the Institute and provides scientific and 
+administrative leadership for the Institute. 
+In planning for the future, NIDDK will continue to seek and value external input from its Advisory 
+Council, the broader scientific community, patient advocates, other stakeholders, and the public. Active 
+collaboration with other components of NIH, other federal agencies, and the private sector will also 
+remain a cornerstone of NIDDK planning efforts. Ever-increasing knowledge and the advent of new 
+technologies bring new scientific opportunities for alleviating and conquering the many chronic diseases 
+within NIDDK's mission. The Institute will continue to seize and maximize new opportunities to reduce 
+the burden of disease and improve health for all. 
+ 
+ 
+ 
+1 Centers for Disease Control and Prevention (CDC). National Diabetes Statistics Report. Atlanta, GA: HHS, 2020.  
+2 CDC. National Center for Health Statistics Data Brief No. 360. and CDC. Prevalence of overweight, obesity, and severe obesity among 
+children and adolescents aged 2–19 years: United States, 1963–1965 through 2017–2018. NCHS Health E-Stats. 2020.  
+3 National Ambulatory Medical Care Survey and National Hospital Ambulatory Medical Care Survey, CDC.  
+4 CDC. Chronic Kidney Disease in the United States, 2021. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease 
+Control and Prevention; 2021.  
+5 Urological Diseases in America, 2018 Addendum. NIDDK, NIH Publication Number 12-7865, 2018.  
+ 
+  
+
+--- PAGE 9 matched=['Goal 1', 'mission'] ---
+ 
+9 
+SCIENTIFIC GOALS 
+ 
+Scientific Goal 1 – 
+Advance understanding of biological pathways and 
+environmental contributors to health and disease 
+ 
+“Basic” or “foundational” biomedical research includes the study of the biological principles, 
+mechanisms, and processes that underlie how life works. By investigating these fundamental biological 
+pathways as well as the environmental factors that affect health, foundational research lays the 
+groundwork for new approaches to prevent, treat, and cure disease. The dedication of NIDDK-
+supported researchers to expanding scientific understanding has led to life-changing medical 
+breakthroughs and has opened exciting new research avenues toward further improving health. By 
+pursuing the most compelling research opportunities, filling the gaps in knowledge in understudied 
+areas, pursuing innovations in technology, and strengthening the scientific workforce, the NIDDK 
+strives to build new pathways to health for all. 
+Challenges: NIDDK’s mission covers a broad portfolio of diseases and conditions affecting many 
+organs and cells in the body, and NIDDK-supported researchers continue to tackle the scientific 
+challenges in these many fields. One overarching challenge is to expand our foundational knowledge of 
+human variation and thus to increase our understanding of the heterogeneity of disease, e.g., why 
+people differ in their risk for diseases, why even people with the same disease may experience different 
+disease symptoms or severity, and why treatments may work well for some people but not others. Gaps 
+exist in our knowledge of the links between biological and environmental factors affecting health. 
+Understanding these factors will be crucial if we are to capitalize on the promise of personalized or 
+precision medicine approaches for all. Increasingly, pursuing this research requires bringing together 
+multidisciplinary expertise, cutting-edge technologies, and the ability to collect, analyze, and integrate 
+data from various sources. Such integrated efforts are needed to fully uncover the trends and 
+associations within increasingly large and complex data sets that can point the way to new medical 
+advances. Connecting researchers with existing data, biosamples, and animal models to advance their 
+work is also an ongoing challenge, with some repositories underutilized due to lack of available tools or 
+training for users. Finally, collaboration with varied stakeholders is also needed to ensure that all voices 
+are heard and that foundational research studies are asking the most important questions to address 
+the needs of all Americans. 
+Building on advances and discoveries: NIDDK’s previous research accomplishments have 
+demonstrated how understanding the underlying biology of health can lead to scientific breakthroughs 
+and real-world medical advances. NIDDK-supported studies have documented the rising incidence of 
+both type 1 and type 2 diabetes in American youth. NIDDK has also supported the Accelerating 
+
+--- PAGE 10 matched=['Strategic Plan', 'mission', 'research areas'] ---
+ 
+10 
+Medicines Partnership® program-Type 2 Diabetes, an innovative partnership among NIH, academic 
+scientists, pharmaceutical companies, and non-profits which has developed a knowledge portal that 
+shares vast, high-quality genetic and other data for studying diabetes and identifying potential 
+therapeutic targets. This program recently expanded to other diseases, to become the Accelerating 
+Medicines Partnership® program for Common Metabolic Diseases. Decades-long research into glucose 
+management technology also laid the foundations for development of continuous glucose monitors and 
+artificial pancreas systems for diabetes. Studying markers of disease risk, researchers found that 
+elevated maternal blood glucose levels during pregnancy, even if not high enough to be diagnosed as 
+gestational diabetes, increased the risk for adverse health outcomes in mother and child both at birth 
+and years later. NIDDK-sponsored research has contributed to deciphering the important roles of the 
+human microbiome, providing new understanding of diseases influenced by the gut microbiome, such 
+as inflammatory bowel disease. 
+ 
+Studies of various types of body fat tissue and how weight and appetite are regulated have shed light 
+on the underlying mechanisms of obesity. Researchers studying kidney development and regeneration 
+have highlighted possible targets for developing new kidney disease treatments. Other studies have 
+advanced understanding of urinary tract infections and urinary stone disease, and have identified sub-
+groups within and associated risk factors for complex urologic conditions such as chronic pelvic pain 
+syndrome and lower urinary tract dysfunction, all of which may inform future research and therapeutic 
+strategies. Research has also yielded new information on how blood cells mature and are renewed, 
+knowledge that may have significant implications for blood transfusion technologies and treatment of 
+hematological diseases. Several groups of NIDDK-supported scientists have also developed 
+miniaturized laboratory models of the liver, kidney, intestine, and pancreas, as well as modifiable, 
+miniature “organ-on-a-chip” experimental model platforms that are already accelerating research. 
+These are only a handful of the many foundational discoveries that the NIDDK has supported. NIDDK 
+will continue to build on previous discoveries while taking advantage of the opportunities in this 
+Strategic Plan to drive further progress and innovation. 
+ 
+Multidisciplinary Researchers, Many Stakeholders, Pathways to Health for All: Critical 
+therapeutic advances are often made possible through foundational research discoveries of the 
+complex connections among factors that affect health and disease, including biological processes, the 
+physical environment, and other determinants of health. Understanding these interrelationships 
+requires the collaboration of researchers with varied scientific backgrounds. From the fields of organ 
+biology and genomics, to data science and artificial intelligence and bioinformatics, to clinical care, 
+multidisciplinary teams bring together the expertise from multiple perspectives and life experiences to 
+address the most urgent research questions. Sustained and fruitful collaboration between federal 
+agencies, academic institutions, and industry is also crucial to share ideas, expand the scope of 
+research studies, identify understudied research areas, and accelerate the path of discovery from the 
+bench to th
+
+--- PAGE 11 matched=['Strategic Plan', 'mission', 'research area'] ---
+ 
+11 
+ 
+Research Opportunities 
+With the opportunities highlighted in this section of the Strategic Plan, NIDDK aims to promote health 
+by enhancing fundamental understanding of the many biological processes and environmental factors 
+that contribute to human health and the diseases across our mission. 
+Research Opportunity 1.1: Identify and characterize factors that affect human health 
+Identifying and characterizing genetic and molecular mechanisms of health and disease: New 
+advances in clinical care require a strong foundation of detailed biological knowledge to tackle the 
+many diseases and conditions within the NIDDK’s mission. Broadly, basic research studies provide this 
+knowledge base by contributing to our understanding of how health is maintained in various parts of the 
+body, how diseases develop, and how and why disorders progress. Linking genes and gene variants to 
+the molecular processes they control, identifying the genes and proteins active or dormant during 
+specific health or disease states, expanding our understanding of cell and organ development and 
+function, and identifying disease-related differences between people of different sexes or ages are just 
+a few areas that researchers should study within the NIDDK’s mission areas. By increasing our 
+knowledge of fundamental body processes, basic research studies also provide clues to what factors 
+can be leveraged to develop better prevention strategies, treatments, and cures for all people. 
+Promoting interdisciplinary research into biological, environmental, and other factors that affect risk and 
+progression of multiple diseases: The NIDDK continually seeks to maximize the value of its research 
+efforts by emphasizing study of cross-cutting topics that are broadly applicable to many diseases and 
+conditions within its mission. For example, researchers could pursue new insights into how the body’s 
+organs, tissues, and cells signal each other to carry out their functions and how this biological 
+communication is disrupted in disease or during physical or psychological stress. New information on 
+how organs self-repair could lead to “regenerative medicine” approaches to restore lost organ function. 
+The brain-body connection is also increasingly recognized as playing a bidirectional role in many 
+diseases and conditions. Further studies are needed to fully understand how the brain and the 
+autonomic nervous system connecting it to the body’s organs affect the function of—and sensations of 
+pain in—organs s uch as the gut and the bladder. The lymphatic and immune systems also have 
+multiple influences on health and disease, and research in these areas is also important. For example, 
+researchers can gain critical knowledge through studies of the aberrant immune attacks and excessive 
+inflammation associated with autoimmune and other types of diseases within NIDDK’s mission. Another 
+factor associated with many diseases and conditions is the microbiome, which includes the numerous 
+bacteria and other microbes in the gut and the male and female urogenital tract. Increased study of 
+microbiome compositions and functions could have broad impacts on health. Biological pathways 
+throughout the body are also affected by factors such as nutrition, physical activity, and day/night 
+cycles (circadian rhythm); research in these areas can yield deeper insight into many diseases and 
+point to effective interventions. How gene function is regulated under varied conditions is anot
+
+--- PAGE 12 matched=['Goal 4'] ---
+ 
+12 
+Additional research into the regulation of proteins and other molecules will advance understanding of 
+the communication between cells and the environment. Finally, there is a great need for foundational 
+research that takes into account data on the physical and community environment. Adding 
+consideration of these factors, where possible, into fundamental basic research may lead to a better 
+understanding of how behavior, psychology, and the environment interact to affect health. 
+Engaging stakeholders in basic research: Research volunteers help expand the reach and scope of 
+basic research. Community partnerships can also provide a critical perspective and input for basic 
+research planning. People living with a particular disease can give researchers unique “on the ground” 
+insights into their experiences and priorities, which can lead to innovation and new discoveries; and 
+they may also donate precious tissue and other biological samples to make critical discoveries 
+possible. It is also important to engage with other stakeholders (e.g., other federal agencies, other NIH 
+Institutes and Centers, the healthcare industry, foundations, patient advocacy groups, scientific 
+societies, other non-governmental organizations, and others) who could collaborate in research efforts, 
+play important roles in turning foundational discoveries into potential therapeutics and other 
+interventions to improve health, and help pave the way toward future implementation. Stakeholder 
+engagement is important for the other research opportunities in this Scientific Goal as well. (Additional 
+information related to this topic is in Scientific Goal 4, which is focused on stakeholder engagement.)   
+ 
+Research Opportunity 1.2: Analyze the links between biology, behavior, and aspects of 
+the environment in which people live that contribute to disease heterogeneity 
+Everyone’s health is unique. Varied genetic and biochemical predispositions, environmental exposures, 
+behavioral patterns, and other factors all contribute to overall health via a complex interplay of 
+mechanisms that are not yet fully understood. These unique variations can result in disease 
+heterogeneity, in which people have different risks of developing a certain disease or experience 
+different disease symptoms, progression rates, prognoses, or responses to treatment. Unraveling the 
+complicated reasons behind disease heterogeneity could lead to more targeted and effective disease 
+prevention, diagnosis, and treatment. 
+ 
+Regenerative medicine: restoring tissue and organ function to improve health 
+Some damaged tissues—including the gut lining, kidney, liver, and other organs of NIDDK 
+interest—have a remarkable capacity to repair themselves. The field of “regenerative medicine” 
+seeks to harness this process to restore cell, tissue, and organ function lost due to aging, 
+damage, or disease. Understanding how and why cells and tissues regenerate, how adult stem 
+cells contribute to tissue repair, and how to induce self-repair in damaged tissues could lead to 
+new treatments or prevention strategies for inflammatory bowel disease, diabetes, kidney 
+disease, liver failure, hematologic diseases, and many other diseases and conditions. For 
+example, understanding how kidneys grow and repair themselves will be key to novel 
+approaches to repair damaged kidneys or to engineer transplantable artificial kidney 
+replacements. Studies characterizing the factors involved in intestinal stem cell he
+
+--- PAGE 13 matched=['mission'] ---
+ 
+13 
+producing beta cells are damaged and how they can be protected or replaced could lead to 
+better ways to treat, prevent, or even cure diabetes. 
+ 
+Pursuing interdisciplinary research into how biological, behavioral, and environmental factors interact to 
+affect human health: As NIDDK-supported research refines our knowledge of the individual biological, 
+behavioral, and environmental factors affecting human health, there is a growing need to understand 
+how these different influences interact to cause disease and its heterogeneity. For example, knowing 
+that a biological process varies with factors such as stress, lower income, or exposure to pollutants can 
+help refine research questions and reveal previously unrecognized connections between biological 
+responses and the environment. Researchers can investigate many aspects of these connections. 
+Some relevant questions may include: What combinations of factors cause good or poor health, and 
+what biological mechanisms are involved? How do environmental exposures interact with a person’s 
+genetic background to cause disease? What are the biological changes wrought by factors such as 
+socioeconomic status or access to health-related resources? And, importantly, how can we harness 
+this knowledge for precision medicine—personalizing treatment and prevention approaches for each 
+individual—to improve health for all?  
+These critically important questions cut across a variety of disease and clinical research specialties and 
+require the expertise of collaborative, multidisciplinary teams. Such teams could spearhead holistic 
+investigative approaches on topics such as how specific eating habits and dietary patterns combine 
+with a person’s metabolism to affect disease risk; how diseases in NIDDK’s mission affect outcomes of 
+other diseases (including the role of microbes in health and disease); how environmental, chemical, or 
+other exposures can disrupt metabolic and organ function; how conditions such as stress, lower 
+income, and access to resources affect a person’s microbiome, immune reactions, or brain-body 
+interactions; and which epigenetic changes are important mediators between environmental factors and 
+disease. Researchers can study these interrelated dynamics to gain deeper understanding that would 
+enable precision health approaches to be developed for the “whole person”—including not just genetic 
+and other biological predispositions, but also components of the communities in which individuals live 
+and other aspects of their lives. 
+ 
+Precision phenotyping: new windows into understanding health and disease 
+Diabetes, kidney disease, digestive diseases, obesity, and other diseases and conditions 
+within the NIDDK’s mission can progress differently depending on a person’s genes and 
+metabolism and other biological, behavioral, and environmental factors that vary among 
+individuals. Precision phenotyping—analyzing comprehensive, integrated information on 
+these factors— could reveal new ways to detect, prevent, and treat disease. Information 
+from precision phenotyping could answer questions such as who is at high risk for 
+developing diabetes or its complications, how best to help a person lose excess weight, 
+how various forms of chronic kidney disease differ, how rapidly kidney disease will progress 
+in different people, and who will benefit from certain inflammatory bowel disease 
+treatments. Wearable devices that track organ function or measure markers of disease 
+
+--- PAGE 14 matched=['mission'] ---
+ 
+14 
+could help monitor disease progression and treatment success. A dditionally, enhanced 
+phenotyping that includes characteristics of communities in which people live and work, 
+which are often not measured, could help pinpoint how these factors contribute to disease. 
+ 
+Research Opportunity 1.3: Develop innovative technologies and resources and expand 
+data science to advance scientific progress and enhance health 
+Basic research advances can lead not just to new ideas, treatments, and cures but also to improved 
+techniques and tools that accelerate the pace of scientific discovery. Thus, the impact of foundational 
+discoveries can ripple far into the future, opening novel fields of inquiry and shedding new light on 
+existing research questions. Feeding this technological pipeline today with research to develop next-
+generation tools will expand scientific horizons tomorrow. 
+Promoting technological development to advance the search for new drugs, diagnostics, and devices: 
+Advancing biomedical research and development technologies could lead to new treatments and 
+interventions to help people across the lifespan. New advances in biochemistry, immunology, 
+biophysics, and materials science are needed to accelerate the development of promising and 
+potentially life-saving technologies such as artificial organs. Researchers can also design improved 
+methods for screening promising therapeutic targets in the laboratory to enhance our ability to identify 
+potential new drugs and thus shorten drug development times. Identifying and standardizing more 
+biomarkers could provide safe, noninvasive ways to diagnose or measure progression of disease, and 
+could make it easier to test the efficacy of new therapies in people. Improved biomarkers could also 
+warn of possible health issues in the clinic by helping healthcare providers monitor currently difficult-to-
+track health factors such as nutritional health, physical frailty, physical or psychological stress, or 
+general metabolic health. Such tools could also provide physicians with valuable information on how to 
+identify which personalized treatment approaches are right for which person. Finally, to deliver some of 
+those personalized treatments to organs that are currently difficult to access, researchers can develop 
+new gene therapy and drug delivery technologies. 
+Developing and improving research technologies: Technical breakthroughs in laboratory procedures 
+and tools can increase the scope, efficiency, and accuracy of research. For example, through advances 
+in imaging technology, researchers could visualize and record data from under the microscope or within 
+living people in unprecedented detail. Another area of opportunity is in the development of new 
+research model systems. By generating new cell lines, animal models, organoids, and tissue- or organ-
+on-a-chip systems that more accurately reflect human health and disease, researchers can enhance 
+the relevance of basic research results and accelerate study in many NIDDK mission areas. New 
+preclinical animal or tissue models of rare disease states could also aid in foundational research by 
+providing novel insight into the function and disruption of biological pathways. For diseases that 
+currently lack useful laboratory models, such advanced research tools could be game-changing, 
+opening new areas of inquiry and promoting new advances. Researchers can also test their 
+hypotheses in multiple model systems that accurately ref
+
+--- PAGE 15 matched=['Strategic Plan', 'mission'] ---
+ 
+15 
+Advancing data repository/biorepository science and management to enhance utility and user adoption: 
+Resources such as data and biospecimen repositories are invaluable assets for maximizing the 
+scientific value of donated biological samples and research data, and they provide excellent 
+opportunities to enhance the study of diseases across NIDDK’s mission. Repositories allow centralized 
+access to consolidated data and clinical samples from multiple research institutions, which can be 
+critical to studies of diseases that are rare or are caused by a complex web of multiple factors. 
+Repositories linking patient-reported data such as behavioral, psychosocial, and environmental factors 
+with biological samples and data could greatly accelerate investigations into how all these factors affect 
+health. Where repository resources are underutilized, there is a great need to identify and address the 
+barriers hindering repository use, to implement best practices in repository organization and 
+administration, and to improve repository navigation and analysis tools to facilitate research. It is also 
+important to ensure that repository data and samples reflect groups with a high burden of diseases in 
+NIDDK’s mission. (Additional discussion of biorepositories, along with data and biosample sharing and 
+management, is in the Stewardship section.) 
+Expanding the use of data science to improve foundational research: Through multidimensional studies 
+linking large-scale proteomic, molecular, genomic, and psychosocial data with clinical, geographical, 
+and environmental data, researchers can identify health-modifying factors and generate new 
+knowledge of disease causes and contributors. However, unlocking the power of such “big data” often 
+requires decoding the complex patterns and associations hidden within various streams of evidence. 
+Thus, there is a need to recruit and integrate computational biologists and bioinformaticians into basic 
+research to bring their expertise to bear on existing foundational research. Additionally, researchers can 
+use new mathematical modeling, machine learning, and artificial intelligence approaches to facilitate 
+analysis of complex data sets such as those available on cellular protein networks, disease mechanism 
+pathways, and therapeutic target candidates. Finally, basic and clinical researchers can use data 
+science advances to develop innovative, data-driven algorithms to implement precision medicine 
+approaches, matching each person with appropriate medical recommendations. 
+ 
+Research Opportunity 1.4: Strengthen the research investigator pipeline by enhancing 
+workforce development and training of basic and translational investigators 
+Advancing discovery and innovation requires a world-class research workforce with the varied training 
+and experience needed to solve tomorrow’s complex and increasingly multidisciplinary research 
+questions. 
+Promoting and retaining a steady pool of new investigators: The NIDDK is committed to recruiting and 
+training a steady stream of talented, innovative scientists. Expanded training and mentorship 
+opportunities in basic/foundational and translational research are needed to achieve these goals. 
+Recruiting the scientists of tomorrow can also start early— for example, with programs for high school 
+and undergraduate students. (Additional information related to the research workforce is in the 
+Stewardship section.) 
+Facilitating interdisciplinary, multi-instituti
+
+--- PAGE 16 matched=['research areas'] ---
+ 
+16 
+multidisciplinary teams. Through collaborations such as these, researchers can reduce the “siloing” of 
+information and studies within their specific fields or institutions. Bringing together basic, clinical, 
+translational, and population science researchers can also spark new ideas and allow the sharing of 
+data, perspectives, skills, and resources. Input from physician-scientists (including surgeon scientists) 
+can be particularly valuable in basic research, helping to bridge the gap between knowledge discovery 
+and real-world clinical needs. Collaborations between the NIDDK and varied private, academic, and 
+federal institutions can also broaden the Institute’s scientific reach to expand studies, develop new 
+research partnerships, pursue new programs, and tackle multidisciplinary questions. 
+Encouraging training in emerging research areas and cutting-edge technologies: Research training and 
+career development opportunities are key to creating and maintaining a robust and flexible scientific 
+workforce. As new research techniques and tools are developed, the research community should in 
+parallel develop training opportunities for both early-stage and established investigators. One example 
+is the current need for training in data science and artificial intelligence (e.g., bioinformatics, “big data” 
+analysis) to help integrate these techniques into ongoing research projects. Additionally, training in 
+cutting-edge techniques and technologies in areas such as bioengineering, imaging, genomics, 
+proteomics, and social science can provide new tools applicable to the pursuit of a broad array of 
+research studies. Overall, enhanced opportunities for hands-on career development training will help 
+the scientific workforce remain nimble and ready to face emerging research challenges. 
+ 
+Finding connections: the autonomic nervous system in health and disease 
+The autonomic nervous system connects the brain to organs throughout the body. It also 
+controls important involuntary functions. Digestion, for example, is regulated by the largest 
+component of the autonomic nervous system— the enteric nervous system—that encases the 
+gut. Damage to the autonomic nerves, such as from long-term diabetes, can affect the functions 
+of the kidneys, digestive tract, and genitourinary system. One way NIDDK-supported researchers 
+can better understand autonomic nerve damage and resulting organ dysfunction is by leveraging 
+advances from NIH’s Stimulating Peripheral Activity to Relieve Conditions (SPARC) program, 
+which is generating maps of the autonomic nervous system along with other tools and 
+technologies. Such tools would also aid research on diagnosis and treatment of disorders such 
+as incontinence and diabetic kidney disease. Studies to develop and utilize cellular models of the 
+autonomic nervous system, such as enteric nerves derived from intestinal stem cells, can also 
+help advance our understanding of the molecular origins of disease. 
+ 
+We envision a future in which expanded knowledge and novel discoveries of biological, 
+environmental, and other contributors to health and disease lead to new prevention strategies, 
+treatments, and cures for all people throughout our Nation who have, or are at risk for, diabetes and 
+other endocrine and metabolic diseases; liver, intestinal, and other digestive diseases; nutritional 
+disorders; obesity; and kidney, urologic, and hematologic diseases.  
+  
+
+--- PAGE 17 matched=['Goal 2', 'mission'] ---
+ 
+17 
+ 
+Scientific Goal 2 – 
+Advance pivotal clinical studies and trials for prevention, 
+treatment, and cures 
+ 
+Clinical studies can deepen our understanding of human health and identify new ways to detect, 
+diagnose, and reduce the chance of developing a disease. They can also determine whether a 
+treatment is safe and effective, constituting a critical step in the journey from discovery to therapy. 
+Indeed, clinical studies provide opportunities to improve the health of all people affected by some of the 
+most common, chronic, costly, and consequential diseases. 
+Challenges: There are many challenges that must be overcome to make clinical studies successful. 
+Clinical trials that are testing or developing novel diagnostics, therapeutics, and prevention strategies 
+can be immense undertakings. Furthermore, many diseases in NIDDK’s mission take years to develop, 
+which makes prevention studies particularly difficult because the assessment of outcomes must be 
+done over many years. As many of these diseases are also common, clinical studies need to recruit 
+cohorts of participants from across the country so that the results are applicable to a vast array of 
+people with different biological factors that affect health and who are from different areas and 
+community environments. There are hurdles to recruitment, however, including costs, some people’s 
+reluctance to volunteer for studies, challenges to reaching out effectively to different communities, and 
+logistical burdens to both participants and researchers. Long-term follow-up studies present challenges 
+as well, due to factors such as high costs and declining participant retention. Additionally, clinical 
+studies require a well-trained, innovative, and sustainable workforce not only to design and conduct the 
+study, but also to carry out other critical tasks such as participant recruitment, study coordination, and 
+data analysis. Integrating constantly evolving technologies into clinical studies is also challenging. This 
+is particularly pertinent to data science, where new tools and methods could enable more extensive 
+analysis of vast amounts of data generated in large clinical studies, but training in this emerging field is 
+needed. A further challenge is the costly and time-consuming process required to set up clinical 
+studies. Mitigating costs, improving efficiency, and streamlining the clinical study set-up process require 
+innovative approaches to enhance the infrastructure for clinical research. 
+Building on advances and discoveries: The NIDDK has a rich history of supporting clinical studies and 
+trials to understand and combat the diseases within its mission. These studies have provided critical 
+evidence about which therapies yield the best results, and this research can also inform future studies 
+to improve prevention and treatment strategies. For example, NIDDK-supported clinical trials have 
+paved the way to U.S. Food and Drug Administration approval of a new artificial pancreas device for 
+children and adults with type 1 diabetes. The NIDDK also established an international clinical trials 
+network, TrialNet, that has been testing agents that have shown positive effects to slow progression 
+toward clinically overt type 1 diabetes, such as a drug that slowed the progression to clinical type 1 
+diabetes in individuals at high risk for the disease. In other research, the Restoring Insulin Secretion 
+(RISE) Consortium has been testing ways to prevent the loss of insu
+
+--- PAGE 18 matched=['Strategic \nPlan', 'mission'] ---
+ 
+18 
+high risk for type 2 diabetes or in early stages of the disease, and, along with other research, has 
+shown that this disease is more difficult to treat in youth. Clinical trials have shown that in people with 
+severe obesity, bariatric surgery resulted in substantial improvements in type 2 diabetes and blood 
+pressure along with substantial weight loss. Other research showed that people ate more and gained 
+more weight when eating ultra-processed foods. Studies of weight gain in pregnant women with obesity 
+yielded findings that could inform calorie intake recommendations. Underscoring the many factors that 
+can contribute to disease, scientists showed that a combination of clinical, genetic, and immunologic 
+tests can be used to predict response to standard medical therapy for children with a form of 
+inflammatory bowel disease (IBD). In recent NIDDK-supported clinical studies on liver disease, 
+researchers in the Childhood Liver Disease Research Network (ChiLDReN) developed a screening 
+strategy for earlier diagnosis of the liver disease biliary atresia in infants, with implications for earlier 
+treatment, and identified a gene signature to help predict how quickly the disease will progress. 
+Similarly, NIDDK-supported clinical research studies have identified genetic factors, circulating 
+molecules, and physiological indicators in study participants that can help predict how quickly kidney 
+function may decline, paving the way for more tailored healthcare strategies for kidney diseases. In 
+other research, findings from studies of lower urinary tract symptoms have led to a more 
+comprehensive subgrouping of people with these conditions based on symptom flares, knowledge that 
+could lead to new strategies for managing this condition. 
+These are only a few examples of NIDDK-supported clinical research. In charting future directions, 
+NIDDK will build on the advances and discoveries that emerge from the opportunities in the Strategic 
+Plan, to drive further progress and innovation.  
+ 
+Multidisciplinary Researchers, Many Stakeholders, Pathways to Health for All: 
+Technological advances have led to a time in which data-intensive science plays a central role in 
+clinical studies, and researchers must increasingly traverse disciplinary boundaries to work on large 
+collaborative projects such as population studies that aggregate data from many sources. Clinical 
+studies require a talented workforce to serve as a wellspring of innovation, along with broad recruitment 
+of participants from communities across the country so that the study results will be applicable to the 
+entire population. Many of the diseases across NIDDK’s mission have common pathways with shared 
+biological and environmental underpinnings; therefore, gaining a better grasp on how to best treat or 
+prevent a disease may lead to new therapeutic approaches for others. 
+ 
+Research Opportunities 
+With the opportunities highlighted in the clinical studies section of the Strategic Plan, NIDDK aims to 
+enhance and expedite the development of approaches to prevent, diagnose, manage, and treat 
+diseases across our mission. 
+Research Opportunity 2.1: Enhance the development and testing of diagnostics, 
+therapeutics, and prevention strategies 
+Strengthening the integration between basic and clinical research: It is important to build upon basic 
+scientific discoveries by translating them into new therapies, diagnostics, devices, or medical 
+procedures; thus, clinical studies c
+
+--- PAGE 19 matched=['mission'] ---
+ 
+19 
+researchers can conduct translational research that moves basic research on markers of disease onset 
+or progression into clinical studies to develop prevention or treatment strategies. Likewise, the results of 
+clinical studies can spur further basic research by broadening our understanding of how some 
+treatments work—and why they might not w ork for everyone. Researchers can also conduct bedside-
+to-bench research on successful interventions to explore their mechanistic bases and expand their 
+therapeutic potential. One important way to bridge basic and clinical research is to promote team 
+science, with physician-scientists collaborating with basic researchers, data scientists, and others with 
+complementary expertise. (See Research Opportunity 2.3 for further discussion.) Additionally, 
+population studies will be important, for example, to gather data for prevention approaches. 
+Furthermore, the development and optimization of clinical trials could be streamlined by conducting 
+preclinical and clinical studies in parallel where appropriate, and integrating data from these studies in 
+real time. 
+Developing precision health approaches: Many of the diseases under NIDDK’s umbrella are 
+heterogeneous—that is, they can affect people in different ways.  Treatment responses can vary from 
+person to person, by sex, or among different age groups, for example. It is important to undertake 
+clinical studies on the underpinnings of disease heterogeneity and translate that knowledge into clinical 
+trials to aid the development of prevention or treatment approaches that are tailored to the individual. 
+Preventing and treating diseases in children: It is important to increase focus on how to reduce risk and 
+slow progression of chronic diseases that can develop at an early age, including studies to develop and 
+test cost-effective disease prevention and treatment strategies for children and teens. In addition to 
+improving health during childhood, these research avenues have the potential for health benefits 
+throughout life. 
+Making research participation and healthcare more feasible by using and improving technology: As 
+home-based tools such as wearable devices for taking health, activity, and behavioral measurements 
+have become more popular, researchers can undertake studies to improve how participants share 
+health data. For example, these devices could provide a new way to monitor how nutrients, 
+metabolites, and hormones fluctuate in the body over time. The integration of accurate, user-friendly, 
+and convenient technological tools can significantly ease burdens on study participants, present a 
+clearer picture of the participants’ health in real-world settings, and allow for the development of more 
+personalized treatment approaches. Research must also address ways to optimize the use of these 
+technologies and address the challenges to implementing them, such as lack of access, understanding, 
+and acceptability. 
+Improving study efficiency by examining several outcomes at once: Many of the chronic diseases and 
+conditions under NIDDK’s mission are interrelated, such that many individuals have more than one of 
+these diseases. For example, people with obesity are also at high risk for type 2 diabetes and the liver 
+disease nonalcoholic steatohepatitis, and people with diabetes are at high risk for kidney disease. By 
+looking at more than one outcome at once (e.g., progression of diabetes and kidney disease), 
+researchers can gain i
+
+--- PAGE 20 matched=['mission'] ---
+ 
+20 
+Incorporating innovative clinical trial designs: The structure of a clinical study can strongly influence its 
+efficiency and the applicability of the results. In many cases, researchers can improve clinical studies 
+by incorporating innovative trial designs. Examples of these would be adaptive design clinical trials 
+(which allow researchers to modify aspects of the trial, such as treatment selection, based on 
+accumulating study data), pragmatic trials (which would reveal outcomes more applicable to real-world 
+settings), master protocol trials (which could bolster study efficiency by testing several therapies for one 
+disease, or one therapy for several diseases), and stepped-wedge trials (in which an intervention is 
+administered to all participants, but at different times). 
+Developing ways to help people adhere to therapies they feel would be of benefit for their health: 
+Adherence to therapy is important for controlling chronic conditions, treating acute or temporary 
+conditions, and overall long-term health and well-being. Studies should be undertaken to understand 
+heterogeneity among different individuals’ responses to adherence strategies and to test new ways to 
+help patients adhere to treatments they would like to continue, such as the development of new tools to 
+enhance or maintain communication between patients and their clinicians or other healthcare providers. 
+ 
+Health at every age: improving chronic disease management across the lifespan 
+Many chronic diseases in NIDDK’s mission manifest early in life and thus necessitate 
+management throughout the lifespan. Even with advances in treatments, such as new 
+technologies for glucose management, health outcomes may differ among different people. 
+Thus, it is critical to improve chronic disease management to address individuals’ unique 
+needs at different life stages. For example, adolescence remains a vulnerable time for people 
+with chronic diseases such as diabetes, kidney disease, and inflammatory bowel disease. 
+Clinical trials and population data will be important. Research could identify ways to optimize 
+care for these and other chronic diseases across the lifespan, including as people move from 
+pediatric to adult healthcare providers. Research could also lead to more precise ways to 
+predict which individuals are at high risk for developing chronic diseases at different life 
+stages, such as type 2 diabetes in youth, so that targeted prevention approaches could be 
+developed and tested. 
+ 
+Research Opportunity 2.2: Increase participation in clinical trials 
+A vital component of clinical trials is making sure that the study participants include people who have 
+the highest burden of disease and who could benefit most from the treatments, diagnostics, or 
+preventative measures being tested. 
+Developing more participant-centered research: Selection of an appropriate outcome measure is a key 
+factor that affects the ultimate value of results from clinical studies, but what patients prioritize may 
+sometimes differ from outcome measures selected by researchers and physicians. It is important that 
+researchers include participant-centered outcomes, such as quality of life and other outcomes that are 
+respectful to the participants’ values, needs, and concerns. This could help to build trust between 
+research scientists and the broader community. 
+
+--- PAGE 21 matched=['Goal 4', 'mission'] ---
+ 
+21 
+Promoting participant engagement: There are several hurdles to enrolling research participants from 
+communities across the country, including a reluctance of some to volunteer for studies due to a lack of 
+trust, and various burdens on research participants. Overcoming these challenges requires innovative 
+outreach strategies, along with the development of infrastructure to assist investigators with strategies 
+to cover unanticipated costs. For example, clinical researchers can reduce participants’ burden by 
+utilizing community health centers in clinical studies, so that participants would not have to travel a 
+great distance, could potentially attend study visits at times that would better fit their schedules, and 
+could discuss the studies with their physician. Researchers should also partner with trusted 
+organizations to document the life experiences of study participants. (Further discussion of participant 
+and other stakeholder engagement is in Scientific Goal 4, which is focused on this topic.) 
+Promoting pragmatic data collection: By incorporating ways to record health data in real-world settings 
+(i.e., not in the controlled environment of a clinical trial), researchers could facilitate research in 
+communities across the country and ease some of the burden on the participants (e.g., of traveling to a 
+clinic). This approach could also result in a more accurate picture of study participants’ health. These 
+measurements could be performed by the study participants themselves, and could include wearable 
+devices (see Research Opportunity 2.1) or other tools to record health data, such as digital recorders 
+for audio journal entries. Retrospective and prospective cohort studies utilizing electronic health records 
+(EHRs, see section 2.4) could be carried out to gain insights into interventions tested in “real world” 
+settings. It would also be important to train people in the use of these data collection technologies and 
+to overcome the challenges of providing them to people facing different life circumstances. 
+Research Opportunity 2.3: Bolster workforce development and training to increase and 
+strengthen the pipeline of clinical investigators 
+To ensure that NIDDK remains a leader in stimulating biomedical discovery, it is critical to promote and 
+nurture an innovative and well-trained workforce to drive the clinical research necessary to tackle the 
+diseases within NIDDK’s mission.  
+Addressing the workforce pipeline at earlier career stages: As with other fields of science, the path to 
+becoming a clinical researcher often begins with opportunities and choices early in one’s education. 
+Thus, it is important to reach out early, such as through programs for high school and undergraduate 
+students. 
+Involving trainees in the design and implementation of clinical trials: Getting trainees more involved in 
+designing and carrying out clinical trials would provide hands-on experience to help propel their careers 
+in clinical research. Trainees would bring more perspectives and ideas to the research, and their 
+involvement would bolster their competitiveness in their careers. 
+Fostering interactions between clinical researchers and basic, behavioral, population, and public health 
+researchers: It is important to encourage efforts that help graduate students and trainees in basic, 
+behavioral, population, public health, or discovery science engage with the medical community, and 
+medical students and trainees engage with the
+
+--- PAGE 23 matched=['mission', 'research areas'] ---
+ 
+23 
+analysis tools and technologies could help to reach across different research areas. 
+Developing and incorporating common data elements into clinical studies: Data elements, or 
+information that describes a piece of data to be collected in a study (such as age or blood glucose 
+level), are important components of clinical studies. Researchers can use common data elements 
+(CDEs), or data elements that can be used in multiple clinical studies, for systematically collecting and 
+analyzing information, and for ensuring that the collected data are high quality and are comparable 
+across multiple studies. This would allow researchers to streamline data collection, investigate 
+relationships between data from different studies, and increase the potential for reuse of their shared 
+data to build upon research findings. NIH maintains a searchable repository that researchers can use to 
+find, create, and share CDEs for clinical studies.  
+ 
+Research Opportunity 2.5: Optimize clinical infrastructure and resources for clinical 
+studies  
+Promoting prospective cohort studies: A prospective cohort study follows over time groups of 
+individuals who are alike in many ways but differ by a certain characteristic (for example, sleep 
+duration) and compares them for a particular outcome (such as diabetes). Although they could be 
+lengthy, prospective cohort studies are valuable because they allow observation of a large population 
+over time and data collection at regular intervals, which investigators can use to answer many 
+questions about the associations between risk factors and disease outcomes. These types of 
+observational studies could be particularly valuable when studying the diseases in NIDDK’s mission, 
+many of which develop slowly over a long period of time. Indeed, these kinds of studies have provided 
+important and meaningful insights into the origins of disease, which, in turn, could lead to new ways to 
+prevent and treat disease. Moreover, using different care settings in cohort studies, such as non-
+academic centers and private practices, would allow for the generation of meaningful and useful real-
+world data.  
+Transitioning from initial observational studies to clinical trials for disease prevention and treatment: As 
+noted above, observational studies provide valuable insight into the potential contributors to disease. 
+Researchers should continue using the foundational knowledge gained from observational studies to 
+design and test therapies—including behavioral, medical, surgical, and alternative therapies to prevent 
+and treat disease— through clinical trials. Furthermore, observational studies are useful platforms to 
+collect scientific data from participants in real-world settings (as opposed to the tightly controlled 
+environments of typical clinical trials), which can then be used to design pragmatic clinical trials.  
+Leveraging the research value of repositories: Repositories are an important component of scientific 
+collaboration because they make data and biological samples from clinical studies available to other 
+researchers. By establishing and using repositories, and by making it easier to find and access 
+repository collections, researchers can ensure that datasets and biological samples are maintained and 
+accessible even after a study ends. Repositories or databases can also link genomic, metabolomic, and 
+other “omics” data to phenotypic data (i.e., data on presence or absence of a disease, hormone levels, 
+ot
+
+--- PAGE 24 matched=['mission'] ---
+ 
+24 
+ensure that repositories include data and samples from individuals and populations who have a higher 
+prevalence or severity of disease. It would also be important to establish repositories for study fields 
+that do not yet have any. (Additional discussion of data and repository management is in the 
+Stewardship section.) 
+ 
+Filling the gap: funding studies not supported by the private sector or other entities  
+NIDDK is in a unique position to sponsor impactful clinical studies that are not likely to be supported by 
+the pharmaceutical industry or other funders. There are opportunities to support research such as 
+behavioral studies for treatment and prevention of obesity, kidney disease, or urological disorders; 
+comparative effectiveness studies to determine the best available treatments for diabetes; and clinical 
+trials that test the efficacy of existing generic drugs and devices as therapies for pancreatitis, liver 
+disease, and other diseases and conditions under NIDDK’s mission. Other areas of research include 
+studies that might not have a sufficiently large market size to attract attention of pharmaceutical 
+companies, like studies that test precision medicine/precision health-based approaches for 
+subpopulations of people with kidney disease or inflammatory bowel disease. These types of studies 
+have the potential to identify new therapies or improve current treatment approaches to make them 
+more effective and economical. 
+ 
+Facilitating the start-up process for clinical studies: Clinical studies require potentially expensive and 
+time-consuming efforts such as gaining regulatory approval to conduct the study, developing a 
+participant recruitment plan, setting up quality control systems and data analysis tools, and bringing in 
+people necessary to carry out these tasks. This clinical research infrastructure is usually developed on 
+a study-by-study basis, resulting in the establishment of substantial resources that are subsequently 
+disbanded after the study is completed. It would be beneficial to researchers if this set-up process were 
+streamlined. For example, researchers could develop approaches for re-using existing infrastructures, 
+with minimal changes as necessary, for additional clinical studies. Furthermore, researchers could 
+establish an overarching infrastructure that incorporates features of both research networks and 
+investigator-initiated studies, to facilitate resource sharing and rapid participant recruitment and follow-
+up. 
+Dealing with unanticipated challenges in real time: The COVID-19 pandemic challenged all aspects of 
+the biomedical enterprise—from studies with  individuals facing other health conditions and difficult life 
+circumstances, to the viability of investigators’ careers, to overall research progress. NIDDK engaged in 
+a rapid, multifaceted response, including supporting COVID-19-related research and taking actions to 
+reinvigorate research across the Institute’s mission. Lessons learned can help inform responses to 
+future unanticipated challenges. Furthermore, researchers can leverage lessons learned to enhance 
+research both during emergencies and more normal times, such as using remote labs, telemedicine for 
+follow-up visits, and at-home data collection, to potentially reduce costs and lessen study burdens on 
+participants. 
+Prioritizing use of NIDDK resources in clinical research to complement, not duplicate, what is being 
+
+--- PAGE 26 matched=['Goal 3', 'mission'] ---
+ 
+26 
+ 
+Scientific Goal 3 – 
+Advance research to disseminate and implement evidence-
+based prevention strategies and treatments in clinics and 
+community settings, to improve the health of all people, more 
+rapidly and more effectively 
+ 
+As researchers find successful approaches to prevent or treat diseases within NIDDK’s mission, we can 
+amplify the health benefits with research on developing strategies for disseminating the findings broadly 
+and implementing evidence-based interventions in a range of real-world settings, to expand their reach. 
+It is also imperative that we study how best to disseminate and implement evidence-based 
+interventions for people in different communities across the country, so that our research benefits all. 
+Challenges: There are substantial challenges, however, to dissemination and implementation, whether 
+an intervention is clinic-, home-, or community-based. Because diseases in NIDDK’s mission are 
+chronic, managing them requires continuous attention to medications, devices, and what may be a 
+“new normal” of other changes to daily life. Treatment regimens can be difficult, time-consuming, and 
+costly; and many people have the added burden of multiple chronic conditions. Some lifestyle 
+approaches to prevention or treatment may be difficult to maintain outside the context of a clinical 
+study. Some medications that worked in clinical trials are not used by as many people as would benefit, 
+for reasons that may not be well understood and might vary for different individuals; and some have not 
+been tested in as many people as would be optimal. Surgical interventions, including organ transplants 
+and other procedures, may require long-term follow-up monitoring and treatment. Healthcare and 
+community organizations may view even a highly effective intervention as too costly to implement, or as 
+simply not compatible with their standard processes. Dissemination and implementation strategies 
+need to be acceptable, accessible, and tailored to people who face different life circumstances (e.g., 
+people of different ages, different socioeconomic conditions). An additional challenge in this area is to 
+ensure a talented and trained research workforce, along with skilled and trusted people who could 
+deliver an intervention effectively, long after the research study ends. 
+Building on advances and discoveries: NIDDK’s previous accomplishments in this area demonstrate 
+the importance and impact of dissemination and implementation research and can also inform future 
+studies. For example, research has highlighted the value of approaches in different community settings 
+for screening for and preventing type 2 diabetes. One such study adapted a lifestyle intervention to 
+prevent type 2 diabetes based on the landmark Diabetes Prevention Program clinical trial; the findings 
+led to a nation-wide program. Research on children who had liver transplants highlighted the need for 
+additional implementation research efforts to help the children continue to take the medications needed 
+to prevent the body from rejecting the life-saving transplanted liver. Other research demonstrated the 
+benefits of artificial pancreas technology for people with type 1 diabetes as they lived their normal day-
+
+--- PAGE 27 matched=['Strategic Plan', 'mission'] ---
+ 
+27 
+to-day lives. NIDDK has also pursued administrative approaches to facilitate science, such as an 
+accelerated grant review and award process, developed with others at NIH, that enabled time-sensitive 
+evaluation of a variety of obesity-related policies and programs. In charting future directions, NIDDK will 
+build on the advances and discoveries that emerge from the opportunities in the Strategic Plan, to drive 
+further progress and innovation.  
+ 
+Multidisciplinary Researchers, Many Stakeholders, Pathways to Health for All  
+Dissemination and implementation research will require multidisciplinary approaches and collaboration 
+among scientists with expertise in these areas, as well as expertise in intervention delivery and the 
+diseases in NIDDK’s mission. Engaging a broad range of stakeholders will be critical—including those 
+who could implement and disseminate evidence-based interventions in different settings, and those 
+who would benefit from these interventions. Successful research efforts for one disease may yield 
+insights that would be applicable to other diseases with related biological and environmental causes 
+and contributors. 
+Research Opportunities 
+With the opportunities highlighted in the dissemination and implementation research section of the 
+Strategic Plan, NIDDK aims to accelerate and expand the impact of evidence-based interventions for 
+diseases across our mission, to improve health for all. 
+Research Opportunity 3.1: Improve dissemination and implementation research, to 
+accelerate the reach of prevention and treatment strategies proven successful in 
+clinical trials 
+A variety of factors can inform research on strategies to adapt, scale up, and spread an intervention 
+shown to work in clinical trials. These include the nature of the intervention, characteristics of the study 
+participants and broader populations who could benefit, and potential barriers and facilitators. 
+Improving implementation research for different types of interventions: Some interventions for NIDDK 
+diseases are developed for and evaluated in a particular population and setting, while others are 
+designed as “one-size-fits-all.” Thus, research should focus both on broader, scalable, real-world 
+implementation of tailored interventions, and on exploring strategies to adapt one-size-fits-all 
+interventions for different settings and populations of adults and children. To boost the chances of 
+effective implementation, researchers can test innovative strategies, such as multi-level approaches 
+that link medical settings with other organizations (e.g., social services, housing) to treat the whole 
+person; leverage telehealth and novel technologies (e.g., for implementing behavior change and other 
+types of interventions); study stepped-care approaches (increasing treatment intensity if needed); glean 
+insights from and partner with community groups; and pursue approaches that leverage peer support in 
+community settings, among other strategies. 
+Improving dissemination research strategies: For more effective dissemination of accurate information 
+about NIDDK diseases and information based on evidence from rigorous clinical studies of 
+interventions, researchers can tailor and personalize messages about risks and benefits to be 
+understandable and meaningful to people and consistent with their values, so they can make their own 
+health decisions. Researchers can also harness a range of cutting-edge technologies and social and 
+
+--- PAGE 28 matched=['mission'] ---
+ 
+28 
+other media. Strategies could include partnering with stakeholders in communities and healthcare, and 
+engaging experts in fields beyond the health and medical disciplines for new ideas to inform 
+dissemination approaches that people would find to be helpful. 
+Understanding the populations we want to reach and the challenges they face: To improve health 
+across the country, researchers should identify and characterize populations who are not being 
+reached with current intervention delivery strategies, including people who have not been sufficiently 
+included in research. Such populations include, for example, people who live in rural areas; those with 
+low socioeconomic status; individuals and communities with limited internet access; people of different 
+ages, including older adults, and youth who may face life-long disease and unique challenges in 
+treatment both during childhood and in the transition to adulthood; people who have multiple chronic 
+conditions within NIDDK’s mission; and others. Researchers can then use this knowledge to improve 
+dissemination and implementation strategies, for example, by addressing people’s perspectives and life 
+experiences. 
+Evaluating dissemination and implementation strategies: To ensure relevance of research results, it is 
+critical for researchers to engage relevant stakeholders and recruit study participants who have or are 
+at risk for the diseases that the intervention is designed to prevent or treat. By generating evidence as 
+to what works and doesn’t for different people, this research can also increase trust in the applicability 
+of scientific findings. Such efforts are important across the research continuum, not only in 
+dissemination and implementation, but also at earlier stages of research, when developing and testing 
+interventions in clinical trials. 
+Advancing understanding of aspects of communities and other environmental factors that can impact 
+health, both as causes of disease and as targets for intervention: To optimize research toward 
+achieving health for all Americans, it is crucial to develop and evaluate strategies to mitigate the 
+adverse effects of factors in communities where people live and work that contribute to health or 
+disease, such as socioeconomic status, healthcare access and quality (as relevant to disease 
+prevention, diagnosis, and treatment), and the “built environment” (e.g., types of food establishments 
+and availability of healthy and affordable foods in a community, places to exercise). As an example of 
+one research avenue, researchers can design strategies to help people compensate or adapt. In 
+another approach, researchers can develop novel strategies that target these factors directly, to 
+improve health. 
+Addressing other barriers and challenges to widespread dissemination and implementation: In addition 
+to mitigating factors described above, approaches are needed to address related challenges and other 
+potential barriers. For example, researchers should identify and include appropriate and trusted people 
+who could deliver the intervention to be implemented—both during the study and beyond. To inform 
+study design, researchers should also identify individual preferences among those who would receive 
+the intervention. Also needed is research to address the challenges of implementing a new intervention 
+into existing healthcare systems, standard medical care practices, and reimbursement models. 
+Widespread dissemination and implementa
+
+--- PAGE 29 matched=['mission'] ---
+ 
+29 
+and scheduling flexibility; challenges experienced by those who are managing multiple chronic 
+conditions; health literacy; the availability of understandable health information and resources; medical 
+mistrust; different views among healthcare providers; and stigma faced by some people with diseases 
+in NIDDK’s mission. Implementation strategies for behavioral interventions need to address 
+neighborhood and community characteristics that may facilitate or impede healthy behavior change.  
+Sustainability of dissemination and implementation: It is critical to incorporate sustainability as a feature 
+of research design to enable the continuation of intervention delivery in healthcare or community 
+settings over time, after the research project period has concluded. For example, strategies can use 
+existing healthcare delivery systems and programs, public health mechanisms, or community 
+partnerships (e.g., through community-based participatory research)—infrastructure and people already 
+in place to sustain the efforts. Engaging stakeholders in the research will help identify what would be 
+needed for sustainable implementation. Finally, for iterative learning and continuous improvement, 
+dissemination and implementation efforts should build in mechanisms for stakeholders to obtain 
+feedback on the effectiveness of their efforts.
+  
+ 
+Research Opportunity 3.2: Evaluate large health programs and policies initiated by 
+communities and others (“natural experiments”) – research toward broader 
+implementation 
+Because the diseases in NIDDK’s mission place substantial burden on public health, many 
+organizations, communities, and policymakers have pursued efforts toward disease prevention or 
+management. For example, some policies and programs relate to expanding the availability of healthy 
+foods (such as fruits and vegetables) or making neighborhoods more conducive to physical activity. 
+These “natural experiments” provide valuable opportunities for researchers to learn what works in real-
+world settings. Studies can evaluate the effects on health, determine why a program or policy may work 
+in some communities but not others, identify unintended consequences, and explore whether or not 
+everyone in a community is benefitting (e.g., people in different socioeconomic conditions). By including 
+implementation science and stakeholder engagement in these studies, researchers can also bring to 
+light the challenges and opportunities for disseminating and implementing promising efforts in other 
+settings. 
+When a program or policy is put in place with limited advance notice, it is important for researchers to 
+initiate studies expeditiously. For example, there may be a time-sensitive opportunity to collect baseline 
+data before the program or policy starts, for comparison when analyzing subsequent health outcomes 
+and stakeholder perspectives. To facilitate such studies, NIDDK developed a flexible and rapid grant 
+application review process for research related to obesity and other chronic diseases. 
+ 
+Research Opportunity 3.3: Study major unanticipated events – toward future 
+implementation of preparedness and response efforts 
+Along with studies of planned efforts, researchers can gain critical insights from the study of 
+unanticipated events—pandemics, natural disasters, and other crises. Such research could aid not only 
+the recovery from the emergency at hand, but also the implementation of preparedness efforts and 
+
+--- PAGE 30 matched=['mission'] ---
+ 
+30 
+responses to future events. Researchers should examine the impacts on health as related to diseases 
+within NIDDK’s mission. These health impacts may arise from the crisis itself or from new barriers to 
+standard care for NIDDK diseases. Implementing interventions for chronic disease is difficult in normal 
+times, but in extraordinary times, the hurdles are even higher; thus, research could address these new 
+challenges. Researchers can also evaluate the effects of community and healthcare responses to 
+crises, and learn from what worked and what did not, and what the benefits or unintended 
+consequences were. As an innovative way to enhance such efforts, researchers could participate in 
+initial response teams to study the event itself, help with developing response strategies (such as 
+modifications that may be needed to existing interventions due to crisis conditions, incorporation of 
+telehealth and other technologies, etc.), and evaluate the effects of the response. Flexible and nimble 
+grant mechanisms, noted above, can facilitate this avenue of research as well. 
+ 
+Research Opportunity 3.4: Engage and partner with stakeholders in dissemination and 
+implementation research 
+As with other areas of research, dissemination and implementation research will benefit from enhancing 
+engagement with multiple stakeholders: 
+A range of stakeholders: Stakeholders include those involved in disseminating and implementing 
+interventions, and those who would benefit. By engaging with stakeholders who would disseminate and 
+implement evidence-based prevention strategies and treatments, researchers can learn what their 
+priorities are and what is feasible for them (e.g., costs), and they can incorporate this information into 
+research design and methods, and form partnerships. Depending on the intervention, these 
+stakeholders may include healthcare systems, providers/clinicians, payors, state health departments, 
+school districts, others involved in policy and payment decisions, digital health technology vendors, 
+community leaders and organizations, federal partners, foundations, patient and professional 
+organizations, and others. Similarly, by engaging with stakeholders whom an intervention is intended to 
+benefit, researchers can assess the perspectives, values, preferences, priorities, and lived experiences 
+of people with diseases in NIDDK’s mission, along with their views of treatment acceptability and 
+feasibility—knowledge that would inform dissemination and implementation strategies.  These 
+stakeholders include not only people with or at risk for diseases, but also families and other caregivers, 
+patient advocacy groups, nonprofits, and others. For effective and impactful stakeholder engagement, it 
+will be important to develop engagement approaches tailored to different groups and individuals, and 
+actively involve them to help shape the research approaches and decisions that impact them. 
+Stakeholder-researcher collaboration: Stakeholders should be viewed both as potential partners in 
+investigator-initiated research ideas and also as initiators of dissemination and implementation efforts 
+that investigators could join, bringing relevant expertise. To advance research collaboration, a 
+repository could be developed to share information about evidence-based interventions that have 
+potential for great benefit through efforts to expand their reach, and such a repository could also share 
+information about dissemination and implem
+
+--- PAGE 31 matched=['Goal 4', 'mission'] ---
+ 
+31 
+Educating stakeholders and researchers: To advance future studies, researchers can pursue 
+educational efforts to enhance the participation of stakeholders in research and to help them 
+understand how scientific research benefits health. Such efforts can also help stakeholders understand 
+and use research findings, including new knowledge that may overturn previous views about disease 
+causes or treatments. Educational efforts can be bidirectional; for example, those who have a disease 
+can educate researchers about what is important to them and can help scientists better communicate 
+the value of their research in grant applications and other venues. Patient advocacy and community-
+based organizations can offer perspectives on meaningful communication with people who have 
+diseases in NIDDK’s mission. Organizations of healthcare professionals can provide information on 
+challenges encountered by practitioners in caring for their patients. Researchers can also gain ideas 
+from experts in different fields and professions to inform these efforts. 
+(Further discussion of stakeholder engagement is in Scientific Goal 4, which is focused on this topic.) 
+ 
+A holistic approach to health: tackling chronic disease through multidisciplinary care 
+Chronic diseases are prevalent across the country, particularly in areas that have few resources, and 
+many people face the burden of multiple chronic conditions, such as diabetes, obesity, and kidney 
+disease, as well as urologic and digestive diseases. It is critical to improve strategies for disseminating 
+and implementing interventions so that people are equipped with information they trust and understand 
+and with integrated treatment options that are feasible and sustainable within their life circumstances. 
+For example, enhancing the interoperability and ethical sharing of electronic health data across multiple 
+settings could help providers coordinate and improve treatment for people with kidney and other 
+diseases. Multidisciplinary approaches to care could improve health of young people with liver or other 
+organ transplants as they navigate the challenges of taking medications over the long-term to ensure 
+transplant success. Innovative research to improve diabetes self-management could combine individual 
+behavior change, family engagement, and strategies to address barriers within the healthcare system 
+and other factors that influence health. 
+ 
+ 
+Research Opportunity 3.5: Enhance the dissemination and implementation research 
+workforce and multidisciplinary studies 
+Dissemination and implementation research moving forward will require an innovative, trained 
+workforce; multidisciplinary collaboration; and enhancements to study design. 
+Invigorating the research workforce— research training: To promote a pipeline of scientists in 
+dissemination and implementation research, training should include knowledge and methods for this 
+field. In parallel, it will be valuable to train the next generation of scientists working in other stages of 
+the research continuum—including basic and clinical research —to consider potential future 
+dissemination and implementation of their research. Such training could inform the development of 
+interventions that would be more amenable to future widespread adoption. 
+To promote innovation, it will be important to recruit and retain people with different skills, perspectives, 
+and expertise. These efforts will help bring talented, innovative people into re
+
+--- PAGE 33 matched=['Goal 4', 'Strategic Plan', 'mission'] ---
+ 
+33 
+ 
+Scientific Goal 4 – 
+Advance stakeholder engagement—including patients  and 
+other participants as true partners in research 
+ 
+Sustained, meaningful input from people who have diseases within NIDDK’s mission and other 
+stakeholders can have enormous value and benefit to biomedical research. Stakeholders should 
+therefore be viewed as partners with researchers, including clinical and basic researchers (who may, 
+for example, be studying biological samples donated by a research participant). Through engagement 
+along the research continuum, stakeholders can provide a critical voice to help identify issues of 
+greatest importance to them and give context to scientists to understand the perspectives and life 
+experiences of those whom the research aims to benefit. Stakeholder engagement can also help 
+ensure that clinical study cohorts reflect the people with the particular disease being studied, leading to 
+research that effectively generates consequential results that can improve peoples’ lives. 
+This section of the Strategic Plan focuses primarily on patients and other research participants, 
+caregivers, and patient advocacy and community-based organizations. It is also important to engage 
+other stakeholders as well, such as healthcare organizations who may deliver interventions tested in 
+research, others involved in policy and payment decisions, industry, nonprofits, and other federal 
+agencies. A range of stakeholders are addressed in the other Scientific Goals, along with discussion of 
+the importance of stakeholder engagement in basic (foundational), clinical, and dissemination and 
+implementation research. 
+Challenges: There are numerous challenges to engaging a wide range of stakeholders. For example, 
+outreach to individuals at higher risk for many diseases is essential, but hesitancy to participate and the 
+need to build trust must be acknowledged and addressed. Scientists need to be educated about the 
+value that patients bring to research to avoid missed opportunities for making findings more relevant to 
+those with diseases within NIDDK’s mission. Importantly, practical issues, such as time and potential 
+costs associated with research participation, and challenges to reaching out to remote communities, 
+need to be addressed for effective engagement efforts. In addition, it is important to recognize that 
+effective stakeholder engagement will require strategies tailored to different communities, rather than a 
+“one size fits all” approach. 
+Building on advances and discoveries: While stakeholder voices are becoming more widely recognized 
+as critical for patient-centered research, few major studies to date have included stakeholder 
+engagement. Notably, however, three NIDDK-supported studies— the Kidney Precision Medicine 
+Project (KPMP), the APOL1 Long-term Kidney Transplantation Outcomes Research Network 
+(APOLLO), and the Hemodialysis Opioid Prescription Effort (HOPE) consortium—have included patient 
+voices at many stages of research design. For example, patients have served on leadership 
+committees, provided valuable contributions to consent document development, and helped identify 
+and address critical challenges such as insurance coverage for potential complications. Therefore, 
+KPMP, APOLLO, and HOPE can serve as useful models of successful stakeholder engagement to 
+
+--- PAGE 34 matched=['Strategic Plan', 'mission'] ---
+ 
+34 
+build a foundation of best practices to benefit research across the broad range of diseases within 
+NIDDK’s mission. 
+ 
+Multidisciplinary Researchers, Many Stakeholders, Pathways to Health for All  
+Stakeholder engagement is critical for advancing research that ultimately will lead to improved 
+health for people with, or at risk for, diseases in NIDDK’s mission. By building trust and sustained 
+relationships between the research community and many different stakeholders, NIDDK-supported 
+research will better reflect, and subsequent findings will more likely improve, the health of people 
+affected by these diseases. 
+ 
+Research Opportunities 
+With the opportunities highlighted in the stakeholder engagement section of the Strategic Plan, NIDDK 
+aims to comprehensively engage stakeholders across the research continuum as true partners in 
+research. 
+Research Opportunity 4.1: Comprehensively involve stakeholders in each step of the 
+research process, including patients, caregivers and family members, patient advocacy 
+groups, and community-based organizations 
+To maximize the benefit of research for those affected by diseases within NIDDK’s mission, stakeholder 
+engagement must be promoted along the broad continuum of the research process. Potential 
+opportunities for stakeholder engagement include, for example: providing input into priorities and goals 
+for research, the design of research studies (such as studies that involve volunteers or analysis of 
+human tissue samples or data), participant recruitment, and development of consent forms that are 
+understandable and relevant to potential research volunteers; participating in conferences and 
+workshops; participating in grant application review (where appropriate); helping to draft manuscripts 
+and other reports describing study results; and providing input into dissemination of research findings. 
+Such stakeholders would include patients and their families/caregivers and could also include 
+organizations such as patient advocacy groups, community organizations, nonprofits, and others, 
+where appropriate and applicable. Fostering training opportunities for researchers and stakeholders will 
+enhance interactions and communication, leading to improved relationships between the two 
+communities to help guide research efforts toward consequential results that can improve peoples’ 
+lives. 
+Stakeholders as leaders in clinical studies: Clinical research studies are often guided by committees 
+that provide leadership, expertise, and oversight to ensure integrity of research design and safety for 
+human participants. Stakeholders, such as patients and community members, would provide great 
+value in leadership roles on steering committees; oversight committees, such as Data and Safety 
+Monitoring Boards and Observational Study Monitoring Boards; External Expert Panels; and other 
+committees. Furthermore, individual stakeholders would bring their own unique sets of skills, 
+experiences, and expertise, which could ultimately improve the research process. 
+Stakeholder engagement in research proposals: 
+In grant proposals, including an explanation of how results from a proposed study will be meaningful 
+and beneficial to patients, caregivers, and communities (similar to the Public Health Relevance 
+
+--- PAGE 35 matched=['mission'] ---
+ 
+35 
+Statements currently in grant applications) may help researchers consider multiple stakeholder 
+perspectives as they develop research proposals. Funding Opportunity Announcements could similarly 
+request that research proposals include detailed plans for stakeholder engagement that would be 
+relevant and meaningful. 
+Partnering with stakeholder organizations: Patient advocacy organizations help elevate the voices of 
+those living with different diseases, highlighting the needs and challenges that are the highest priorities 
+of the people they represent. Partnering with these and other stakeholder organizations will improve 
+research on diseases within NIDDK’s mission in myriad ways, such as helping to strengthen 
+relationships with patient communities. For example, stakeholder organizations could assist 
+researchers with participant recruitment and could aid in dissemination of research results broadly to 
+those with the diseases being studied.  
+ 
+Research Opportunity 4.2: Ensure stakeholders who engage in research include people 
+affected by diseases in NIDDK’s mission 
+Stakeholder engagement efforts must reflect people who are affected by the diseases being studied. 
+Potential research participants, including people who might not be readily reached in healthcare 
+settings, should be engaged in the variety of different settings in which they live. Engagement cannot 
+be limited to recruitment of study participants; clinical research panels and committees, as described 
+earlier, should also include community stakeholders affected by the particular disease. 
+Promoting engagement of people with different perspectives and life experiences in clinical research: 
+Research findings are most durable and implementable when research participation closely reflects 
+those affected by the diseases being studied. It is therefore essential to promote engagement by many 
+different individuals, such as people of different ages, from children to older adults; people who live in 
+communities in different geographic regions, including rural areas; people with lower incomes and other 
+socioeconomic disadvantages; and others.  
+Building trust between scientists and communities affected by diseases in NIDDK’s mission: It is 
+essential to build trust between scientists and the patient communities whose lives they endeavor to 
+improve. For stakeholder engagement to be most effective, it will be important to develop strategies for 
+reciprocal relationship-building, co-learning between communities, transparent and honest dialogue, 
+and humility. Conducting stakeholder needs assessments, such as through partnerships with local 
+sites, media, and community leaders, could be of great benefit to study design and to relationship-
+building efforts. Furthermore, the relationships between researchers and patient communities can be 
+strengthened by promoting sustained engagement, even after a particular study has completed, 
+through consultation with study participants to determine their preferences of ways to keep in contact. 
+Continued engagement would also facilitate broader implementation of research findings shown to be 
+beneficial.  
+Research Opportunity 4.3: Develop new ways to address barriers to stakeholder 
+engagement 
+For a variety of reasons, participating in clinical research can be challenging for some people. It is 
+therefore critical to identify and reduce existing barriers to stakeholder engagement. For example, 
+
+--- PAGE 36 matched=['Goal 1', 'Strategic Plan'] ---
+ 
+36 
+improved awareness of available research studies may broaden opportunities for participation. 
+Flexibility in engagement would enable studies to accommodate the needs of research participants. It 
+may also be helpful to identify new ways to improve the consent process and to review clinical study 
+policies to identify any that may present unnecessary obstacles to participation. Addressing medical 
+literacy may help tailor stakeholder engagement efforts and training. Additionally, for some diseases 
+and conditions, potential research participants and the public may benefit from information about 
+symptoms for which embarrassment is an issue (e.g., urinary incontinence). Strategies, tools, and 
+resources could be developed to help investigators engage with stakeholders, such as surveys to 
+receive real-time feedback from study participants about their experiences. Additionally, opportunities to 
+help investigators learn from other stakeholder engagement efforts could be pursued. 
+ 
+Logistical and practical challenges are often obstacles to research participation, so reducing existing 
+burdens may help broaden stakeholder engagement. We must strive to identify practical ways that 
+researchers can make involvement in the research process feasible for and appealing to stakeholders, 
+such as minimization of up-front costs and addressing other financial issues, time, childcare logistics, 
+addressing the needs of people with disabilities, and transportation needs. Additionally, the use of 
+technologies may promote greater engagement with remote communities (e.g., web-based meetings, 
+telemedicine). 
+(Additional discussion of stakeholder engagement is in the other Scientific Goals of the Strategic Plan.) 
+We envision a future in which stakeholders are true partners with researchers in the scientific 
+research enterprise through meaningful, sustainable engagement, together striving to improve health 
+for people who have, or are at risk for, diabetes and other endocrine and metabolic diseases; liver, 
+intestinal, and other digestive diseases; nutritional disorders; obesity; and kidney, urologic, and 
+hematologic diseases. 
+ 
+Measuring progress toward achieving the 
+Scientific Goals 
+• Scientific Goal 1: Advance understanding of biological pathways and environmental contributors to 
+health and disease. 
+• Scientific Goal 2: Advance pivotal clinical studies and trials for prevention, treatment, and cures. 
+• Scientific Goal 3: Advance research to disseminate and implement evidence-based prevention 
+strategies and treatments in clinics and community settings, to improve the health of all people, 
+more rapidly and more effectively. 
+• Scientific Goal 4: Advance stakeholder engagement—including patients and other participants as 
+true partners in research. 
+For each of the Scientific Goals of the Strategic Plan—described in the preceding pages and listed 
+above—NIDDK will assess and monitor progress toward achieving the Goals to respond to new 
+challenges, identify areas for strengthening efforts, build on discoveries, and pursue emerging research 
+opportunities. 
+
+--- PAGE 37 matched=['mission'] ---
+ 
+37 
+For example, we will continue to analyze our research portfolio for existing gaps and potential 
+opportunities. We will also identify advances in knowledge, prevention, and treatments resulting from 
+research across our mission; evaluate the progress of large research efforts; monitor research training 
+efforts; and assess stakeholder engagement. We will also explore methods to track research progress 
+from initial discoveries to clinical studies of potential prevention or treatment strategies to 
+implementation of findings in clinical practice or community settings, as such analyses could identify 
+challenges and opportunities for further research. Additionally, we will continue to develop and enhance 
+our analysis and assessment metrics and methods to address an evolving research landscape. As we 
+pursue research efforts, we will also consider the unique challenges and opportunities associated with 
+different diseases and related scientific areas. To inform research directions, NIDDK will continue to 
+seek external input from our research and patient advocacy communities.   
+ 
+   
+
+--- PAGE 38 matched=['Strategic Plan', 'mission'] ---
+ 
+38 
+STEWARDSHIP 
+ 
+Serving as an Efficient and Effective Steward of Public 
+Resources 
+ 
+The NIDDK recognizes that careful stewardship of public resources is critical to all its efforts. Through 
+thoughtful planning and analysis with input from a variety of stakeholders, NIDDK will deploy its 
+resources in the most effective and efficient ways to support research along the spectrum of discovery 
+to dissemination, provide information about research results, promote a talented and skilled biomedical 
+research workforce, and prepare to tackle new challenges as they emerge. 
+This section describes opportunities for a wide range of topics including workforce training and career 
+development; rigor and reproducibility in research; partnerships; innovation; management and 
+accountability; and other critical areas. 
+Planning and Priority Setting 
+Planning and priority setting approaches: NIDDK takes multiple approaches to research planning and 
+priority setting to maximize the public investment in research and remain dynamic as science advances 
+and new challenges and opportunities emerge. These strategic planning approaches include 
+developing formal plans and reports, as well as internal planning processes led by staff across NIDDK’s 
+scientific research programs. Planning and priority setting are also informed by burden of disease data; 
+identification of research gaps, which may reflect understudied areas; scientific trends and new 
+opportunities; research challenges; findings from evaluations of existing programs; and, importantly, 
+input from the broader research community, people with diseases in the Institute’s mission, and others. 
+Stakeholder input: NIDDK seeks stakeholder input through multiple venues, including advisory and 
+coordinating committees, scientific meetings and workshops, meetings with professional societies and 
+patient advocacy organizations, and public requests for information. NIDDK also reaches out to those 
+with diseases/conditions in the Institute’s mission to hear about the priorities and perspectives of these 
+communities and use this input to inform research efforts. The Institute works closely with other NIH 
+Institutes, Centers, and Offices, as well as other agencies at the Department of Health and Human 
+Services (HHS). (Additional discussion of stakeholder engagement is in the Scientific Goals section.) 
+NIDDK workforce for effective stewardship: NIDDK will strive to ensure Institute staff and those in 
+leadership roles (both scientific and administrative) have expertise that reflects the research 
+opportunities in the Strategic Plan and are committed to research to improve health of everyone 
+affected by diseases within NIDDK’s mission. 
+ 
+Multidisciplinary Researchers, Many Stakeholders, Pathways to Health for All  
+Good scientific stewardship requires the attention and efforts of everyone involved in the biomedical 
+research enterprise. The challenges are significant and varied; thus, a range of expertise, perspectives, 
+experiences, and input is needed from NIDDK staff and leadership, researchers, stakeholders, and research 
+
+--- PAGE 39 matched=['Strategic Plan', 'mission'] ---
+ 
+39 
+participants. Working together, and ensuring that all voices are heard, we can ensure that public resources 
+are administered wisely, public trust is protected, and health is achieved for all who have or are at risk for 
+diseases in NIDDK’s mission. 
+ 
+Scientific Stewardship – Opportunities 
+With the opportunities highlighted in the Stewardship section of the Strategic Plan, NIDDK aims to 
+promote efficient and effective ways to serve as a trusted steward of public resources and support 
+research for diseases across our mission. 
+For many of the topics below, additional information is presented in the Scientific Goals section of the 
+Strategic Plan. 
+ 
+Strengthen the Biomedical Research Workforce 
+The NIDDK recognizes that the scientific challenges and opportunities within its mission require a 
+workforce of individuals with a range of skills, perspectives, and creative approaches both within the 
+Institute itself and in the broader extramural research community. Thus, intensified efforts and novel 
+strategies are required. 
+One approach to increase training would involve data science. Opportunities in data science could be 
+implemented in rural communities and other communities with few existing resources, as extensive 
+laboratory and medical research infrastructure would not be required. Another strategy to would be to 
+increase partnerships with community colleges and less research-intensive institutions.  
+Effective mentoring is critical for career advancement in biomedical research, particularly at early 
+career stages; thus, another approach to improving the biomedical research workforce is to enhance 
+mentoring programs. For example, one opportunity would be to strengthen engagement of NIDDK-
+supported researchers in providing quality mentoring specifically to individuals in early career stages. 
+The development of mentorship programs across institutions could increase the number of mentors. In 
+addition to mentorship from more senior scientists, peer mentoring—both within and across 
+institutions—can provide a valuable support network. Additional approaches to enhance mentoring are 
+described in the section on research training and career development. 
+ 
+Enhance Research Training and Career Development 
+As discussed throughout this Plan, it is imperative to foster exceptional research training and mentoring 
+opportunities to cultivate the next generation of scientists. The Institute supports the training and career 
+development of medical and graduate students, postdoctoral fellows, and physician/surgeon scientists 
+through institutional and individual grants to extramural researchers and through its Intramural 
+Research Program. NIDDK is committed to enhancing efforts to recruit and support talented individuals 
+and to optimize their experiences and likelihood of success. 
+The importance of mentorship to training and career development is paramount. Important avenues 
+include increasing mentoring opportunities, including peer mentoring; training and incentivizing mentors 
+at all stages of their careers; and evaluating mentoring programs to develop best practice resources. 
+Additionally, by seeking input from next-generation researchers about their experiences and scientific 
+
+--- PAGE 40 matched=['Strategic Plan', 'mission', 'research areas'] ---
+ 
+40 
+career goals, NIDDK will be able to build training and career development programs that better meet 
+their needs. 
+There are several transition points in research training and career development where talented trainees 
+and early career scientists face significant challenges. By focusing efforts on these transition points, the 
+Institute can mitigate these barriers. For example, NIDDK holds workshops for its career development 
+awardees and new principal investigators to help these individuals advance their scientific careers. The 
+Institute also emphasizes support of emerging scientific careers through special funding consideration 
+for talented new and early-stage investigators. 
+To promote broader research experience and build bridges across disciplines, NIDDK will encourage 
+efforts to engage doctoral students in basic or discovery science with the medical community, and to 
+engage medical students with the research community. NIDDK will also encourage recruitment of talent 
+from varied scientific disciplines to the Institute’s research areas. As an additional approach, at earlier 
+stages of education, programs linking undergraduate and high school students with research training 
+opportunities in both foundational science and clinical research can help fuel interest in scientific 
+research and spark new careers to strengthen the scientific workforce for years to come. (Other 
+aspects of research training are described in the Scientific Goals sections of the Strategic Plan.) 
+ 
+Attract and Retain Physician/Surgeon Scientists 
+Physician/surgeon scientists are an essential part of the biomedical workforce; however, recent efforts 
+have not yielded a steady, sustainable pool of early-stage researchers with medical degrees. As 
+residency and medical fellowship training often provide limited time for research, many trainees 
+interested in a career as a physician/surgeon scientist struggle to compete successfully for individual 
+career development awards due to a lack of scientific publications and prior research experience. 
+To counter this, NIDDK will foster the development of innovative approaches to strengthen efforts to 
+attract and retain these individuals. Mentorship opportunities, as discussed in previous sections, are 
+important for this group and need to be increased. Another consideration would be timing of research 
+training and career development with respect to the structure of clinical/surgical training. Promoting 
+team science, pairing physician/surgeon scientists with researchers with complementary expertise, 
+could enhance comprehensive research design and foster a multidisciplinary research environment. 
+Connecting physician/surgeon scientists with the growing field of data science could also help to attract 
+and retain these individuals in research. Data science research can be woven into clinical training, and 
+collaboration between clinical researchers and data scientists could enhance translation of big data into 
+clinical application.  
+ 
+Promote Innovation 
+Creativity and innovation are hallmarks of biomedical research and drive improvements in health and 
+healthcare. The ingenuity and problem-solving capabilities of individual investigators are crucial for 
+research progress. NIDDK supports meritorious, investigator-initiated research that capitalizes on the 
+ideas and expertise of scientists working in the NIDDK research mission. The Institute will continue to 
+harness the creativity of individual scientis
+
+--- PAGE 41 matched=['mission'] ---
+ 
+41 
+scientific directions for major scientific challenges, with the potential for broad impact. Pioneering 
+solutions to complex biomedical research problems and engineering novel medical technologies also 
+require the ingenuity of specialists from different fields working across disciplines and along the 
+spectrum of basic, clinical, translational, and implementation science. NIDDK will seek ways to 
+promote, support, and sustain multidisciplinary team science within its research mission. Additionally, 
+NIDDK will continue to utilize the Small Business Innovation Research Program to stimulate 
+technological innovation and increase small business participation in Federal research and 
+development in NIDDK mission areas. NIDDK will also seek other ways to promote innovative and 
+transformative research. 
+Improve Rigor and Reproducibility in Research 
+Scientific rigor is instrumental to the generation of data that is robust, and full transparency in reporting 
+experimental details is essential so that others may reproduce and extend the findings. NIDDK will 
+continue to support NIH policies and reporting guidelines to improve rigor and reproducibility in 
+research, including implementation of a data sharing policy that requires researchers to plan for data 
+management, preservation, and sharing.  
+NIDDK will promote good experimental practices in the design, conduct, and analysis of research to 
+ensure that conclusions are valid and reproducible. For example, standardization and harmonization of 
+data and samples as they are collected, analyzed, and stored enhances their utility by allowing results 
+to be compared across multiple studies. 
+NIDDK will also promote approaches such as use of unique identifiers for datasets and reagents to 
+allow unambiguous tracking of these across the scientific literature, standardization of metadata 
+(additional information about scientific data, e.g., origin of the data, date the data were collected or 
+generated, and methodology), and application of clinical research design principles to pre-clinical 
+research. 
+NIDDK will also continue to support resources to promote rigor and reproducibility and maximize 
+investments in research. For example, the NIDDK Information Network, dkNET, promotes sharing of 
+information among researchers; ensures that data and resources can easily be found, used, and re-
+used; and provides services to promote transparency and reproducibility. 
+Promote Data Science 
+The complexity and volume of data generated by biomedical researchers offers numerous opportunities 
+and challenges. To take advantage of these data, NIDDK, working with its NIH partners, must promote 
+proper collection including use of data standardization methods and common data elements, storage, 
+and sharing, as well as training efforts so that researchers are able to analyze and use the data to the 
+fullest potential. 
+It will be valuable to promote training in bioinformatics, biostatistics, and artificial intelligence (AI) 
+approaches for the scientific community overall, as well as foster a talented data science-focused 
+workforce. Additionally, increasing awareness of and access to bioinformatics and biostatistics tools, 
+resources, and expertise could help NIDDK-funded researchers analyze their data successfully. 
+Connecting data scientists with NIDDK researchers focused on diseases within the Institute’s mission 
+
+--- PAGE 42 matched=['mission'] ---
+ 
+42 
+could encourage interdisciplinary relationships and promote innovation. 
+Planning for data and biosample sharing and reuse should be part of a study’s design from the outset, 
+to ensure standardized collection of data, metadata, and participant consent documentation alongside 
+biospecimen collection. After a study’s goals are completed, making data and biosamples available for 
+reuse should be an essential component of the lifecycle of a research project. (See also the 
+Biorepositories section below.) 
+Other data science opportunities are discussed in other sections of this Plan. 
+Strengthen Biorepositories 
+As discussed in the Scientific Goals section, biorepositories can increase the value of research 
+investments by enabling reuse and novel analyses of previously collected data and biosamples. 
+Repository management policies should maximize the reach of repository resources among the broad 
+research community, such as by connecting repository data and samples with scientists who have 
+innovative new ideas for their use, all done in a way that preserves participant privacy and that is 
+respectful of the concerns of people impacted by diseases in NIDDK’s mission. To accomplish this, it 
+would be important not only to promote the establishment and use of repositories, but also to make it 
+easier to find and access their collections. Additionally, improved data repository navigation and 
+analysis tools could make it easier for researchers to generate and test hypotheses. Where useful, data 
+and biosampling standards for repositories should also be adopted so that archived resources can be 
+compared across studies and can fit easily within a prospective repository user’s research. It will also 
+be important to establish training for best practices, expectations, and opportunities for biorepository 
+utilization for researchers, as well as enhance training in repository organization and administration. For 
+example, the NIDDK Central Repository f
+osters sharing of web- enabled data, biosample, and genetic 
+repositories from many NIDDK-funded clinical studies with the broader scientific community. NIDDK will 
+explore strategies to enhance and to increase use of these resources. 
+ 
+Enhance Partnerships 
+NIDDK partners with industry, academia, patient advocacy organizations, professional societies, 
+community-based organizations, non-governmental organizations, and others to support and conduct 
+biomedical research under the NIDDK mission. Each partner brings unique resources and strengths 
+and the resulting synergy speeds progress toward common goals and reduces duplication of efforts. 
+NIDDK will seek opportunities to collaborate and break down “silos” with its external partners; NIH 
+Institutes, Centers, and Offices; and other agencies within HHS as well as other relevant agencies. 
+ 
+Enhance Ability to Respond to Unanticipated Events 
+NIDDK and the research community must be able to respond to unanticipated events such as 
+pandemics, natural disasters, and other public health emergencies, not only in sustaining current 
+research programs, but also in pivoting to new research questions and challenges. To enhance the 
+Institute’s ability to act in these situations, NIDDK must be flexible and dynamic. It will be important to 
+assess and learn from the effects of the strategies developed during the COVID-19 pandemic to help 
+inform and improve flexible approaches to respond to these types of events in the future. 
+
+--- PAGE 43 matched=['Strategic Plan', 'vision', 'mission'] ---
+ 
+43 
+Management and Accountability – Opportunities 
+Enhance Use of Evidence/Data in Decision-Making 
+The use of evidence and data to inform programmatic, operational, and policy decisions is critical to 
+good stewardship. For example, NIDDK regularly reviews and evaluates its research and training 
+programs and uses the resulting data to measure progress and inform decisions about future support 
+and new directions. By enhancing efforts to generate data on research studies, research administration, 
+and the scientific workforce, NIDDK will ensure judicious and transparent decision-making. 
+Enhance Risk Management Practices 
+NIDDK is committed to proactively identifying and managing risks that could jeopardize or impede the 
+Institute’s mission and will continue to spearhead and collaborate with its NIH partners to improve 
+processes and strategies for risk management. For example, the Institute will build tools for NIDDK staff 
+to enhance identification and management of external and internal conflicts of interest. 
+Reduce Administrative Burden 
+Working with its NIH partners, NIDDK will continue efforts to optimize and streamline administrative 
+processes and enhance efficiency while retaining quality and accountability. Reducing administrative 
+burden for the scientific research community will enable scientists to spend more time on their research 
+activities. NIDDK will also work to reduce administrative burden for its staff to harmonize efforts across 
+the Institute, facilitate transparency, improve data quality to strengthen decision-making, foster 
+nimbleness in response to emerging opportunities, and enable increased efficiency and effectiveness 
+toward the NIDDK mission. 
+ 
+Sharing Knowledge about Research Discoveries 
+NIDDK will work with other NIH staff so that discoveries from NIDDK-supported research are shared 
+with people who could use the knowledge to improve health, such as people who have or are at risk for 
+diseases in our mission, caregivers, healthcare providers, and others.   
+ 
+DESCRIPTION OF THE STRATEGIC 
+PLANNING PROCESS 
+In 2019, the NIDDK embarked on a process to develop the Institute-wide Strategic Plan, with a broad 
+vision for accelerating research into the causes, treatment, and prevention of diseases and conditions 
+under the NIDDK’s mission. This overarching NIDDK Strategic Plan complements our disease-specific 
+planning efforts. 
+ 
+2019-2021: Developing the Strategic Plan  
+NIDDK presented an initial draft framework for the Plan to the Institute’s Advisory Council for input. 
+NIDDK then established a Working Group of Council, comprising external scientists and patient 
+
+--- PAGE 44 matched=['Strategic Plan'] ---
+ 
+44 
+advocates, along with NIDDK staff. The Working Group contributed ideas for research opportunities, 
+the biomedical research workforce, stakeholder engagement, and effective stewardship of public 
+resources. The Institute also invited broad external input with a public Request for Information (RFI) in 
+2020. Based on input from the Working Group, the 2020 RFI, and NIDDK’s Advisory Council, the 
+Institute prepared a first draft of the Strategic Plan, circulated it to the external Working Group members 
+for comment, and then posted the draft on the web for public comment via another RFI in 2021. NIDDK 
+then incorporated the input, provided the revised draft to the Working Group and the Advisory Council 
+for review and then to the NIH Office of the Director.  The Strategic Plan was subsequently released to 
+the public in December 2021. 
+2025: Updates to the Strategic Plan 
+In 2025, NIDDK reviewed the Strategic Plan and updated it to ensure alignment with the current 
+Administration’s priorities and compliance with this Administration’s Executive Orders.  
+ 
+ 
+ 
+ACCELERATING MEDICINES PARTNERSHIP and AMP are registered service marks of the U.S. Department of Health and 
+Human Services. 
+ 
+ 
+ 

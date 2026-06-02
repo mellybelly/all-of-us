@@ -1,0 +1,281 @@
+# NIAID (CJ-FY2026) — file: NIAID_Congressional_Justification_FY2026.pdf
+# 7 pages matched priority-heading patterns
+
+
+--- PAGE 3 matched=['Table of Contents'] ---
+NIAID-1 
+DEPARTMENT OF HEALTH AND HUMAN SERVICES 
+ 
+NATIONAL INSTITUTES OF HEALTH 
+ 
+National Institute of Allergy and Infectious Diseases  
+FY 2026 Budget Table of Contents  
+ 
+Summary .............................................................................................................................. 3 
+Major Changes ...................................................................................................................... 4 
+Budget Mechanism Table ...................................................................................................... 6 
+Summary of Changes ............................................................................................................ 7 
+Budget Graphs ...................................................................................................................... 8 
+Justification of Budget Request.............................................................................................. 9 
+Appropriations History ........................................................................................................ 17 
+Budget Authority by Object Class ........................................................................................ 18 
+Detail of Full-Time Equivalent Employment (FTE) .............................................................. 19 
+Detail of Positions ............................................................................................................... 20 
+ 
+General Notes  
+1. FY 2025 Enacted levels cited in this document reflect the FY 2025 full -year 
+continuing resolution (Public Law 119-4) and include the effects of the FY 2025 
+HIV/AIDS transfer.  
+2. FY 2026 FTE levels reflect estimates and are subject to change . 
+3. Detail in this document may not sum to the subtotals and totals due to rounding.  
+ 
+  
+
+--- PAGE 5 matched=['research \nareas'] ---
+NIAID-3 
+SUMMARY 
+Summary 
+ 
+The National Institute of Allergy and Infectious Diseases (NIAID) conducts and supports  
+biomedical research to better understand, treat, and prevent infectious and immune -mediated 
+diseases. NIAID research aims to expand the breadth and depth of knowledge in all areas of 
+infectious, immunologic, and allergic diseases. NIAID advances the understanding, diagnosis, 
+and treatment of many of the world’s most intractable and widespread diseases. Key research 
+areas include newly emerging and re-emerging infectious diseases such as tuberculosis and 
+influenza, HIV/AIDS, biodefense, and immune -mediated diseases including asthma and allergy. 
+In addition to managing a complex and diverse research portfolio, NIAID plays a key role in 
+protecting public health through its dual mandate to respond to emerging and re -emerging 
+diseases at home.  
+ 
+The FY 2026 budget request for NIAID is $4,175.0 million.  
+  
+
+--- PAGE 11 matched=['mission'] ---
+NIAID-9 
+JUSTIFICATION OF BUDGET REQUEST  
+ 
+National Institute of Allergy and Infectious Diseases 
+ 
+Budget Authority (BA) : 
+ 
+ 
+FY 2024 
+Final 
+ FY 2025 
+Enacted 
+ FY 2026 
+President's Budget 
+ FY 2026 +/- 
+FY 2025 
+BA $6,561,652,000   $6,561,652,000   $4,174,965,000   -$2,386,687,000 
+FTE1 2,134   2,069   1,731   -338 
+ 
+ 
+Program funds are allocated as follows:  Competitive Grants/Cooperative Agreements; 
+Contracts; Direct Federal/Intramural and Other.  
+ 
+Overall Budget Policy:  
+The FY 2026 President’s Budget request seeks annual funding to continue support of the dual 
+mandate of the National Institute of Allergy and Infectious Diseases (NIAID) to conduct and 
+support basic and applied research to better understand, treat, and ultimately prevent infectious, 
+immunologic, and allergic diseases, while also supporting an infrastructure to respond to 
+emerging and re-emerging public health and disease threats.  
+ 
+The FY 2026 President’s Budget request is $4,175.0 million, a de crease of $ 2,386.7 million or 
+36.4 percent compared to the FY 2025 Full -Year CR level . The Institute dedicates its annual 
+resources to support biomedical research that aligns with its mission and addresses domestic and 
+global health issues . 
+ 
+The Institute remains focused on high priority areas of research such as other emerging 
+infectious diseases, agents with bioterrorism potential, HIV/AIDS, respiratory syncytial virus  
+(RSV), influenza, tuberculosis, malaria, drug -resistant microbes, vector -borne diseases, 
+autoimmune disorders, asthma, and allergies and continues to fund research to understand and 
+develop medical countermeasures that impact global health . In FY 2026 , NIAID will continue 
+efforts to conduct foundational research on viruses and pathogens and to strengthen its 
+infrastructure for investigating the origins of emerging infectious diseases and how they cause 
+disease and illness.  
+ 
+The FY 2026 request continues support for efforts to develop a universal influenza vaccine, 
+trans-NIH initiatives, as well as other HHS -wide initiatives through the research and 
+development contract mechanism. NIAID’s Intramural Research Program (IRP) will continue 
+support for critical long -range priorities with resources aligned to key research on infectious 
+diseases such as HIV/AIDS, malaria, and influenza.  
+ 
+ 
+1 FY 2026 FTE levels reflect estimates and are subject to change . 
+
+--- PAGE 12 matched=['research areas'] ---
+NIAID-10 
+Program Descriptions and Accomplishments  
+ 
+NIAID remains at the forefront of efforts to translate basic science discoveries into new tools and 
+strategies to improve human health and address urgent public health needs . NIAID supports 
+basic science research on the immune system providing critical information about pathways that 
+may be involved in healthy and disease states. One area of interest to NIAID is understanding 
+how various factors, including diet, play a role in shaping the human immune system and 
+microbiome. In a NIAID study, scientists observed rapid and distinct immune system changes in 
+people who switched to a vegan or a ketogenic diet. Metabolic changes and shifts in the 
+participants' microbiomes were also observed. This study suggests that it may be possible to 
+tailor diets to prevent disease or complement disease treatments. NIAID scientists also have 
+evaluated aging and the immune system. Using a mouse model of human aging and disease, 
+researchers showed that immune systems of aged laboratory mice can be made more youthful 
+and effective at fighting disease. Scientists did this by depleting a subset of stem cells that 
+become more prevalent with age, driving inflammation and reducing cells that respond to new 
+infections. The se results may inform methods to rejuvenate immunity in elderly people by 
+increasing helpful immune cells and reducing inflammation.  
+ 
+Efforts to understand basic pathogen biology and immunity have led to discoveries that hold 
+promise for the development of new interventions. Norovirus, a highly infectious virus that is the 
+leading cause of diarrhea and vomiting in the United States, has no approved therapeutics to treat 
+it or vaccines to prevent disease.
+2 This is partly due to a lack of reliable animal models to study 
+norovirus infection and predict effectiveness of interventions. To address this scientific gap, 
+scientists at NIAID’s Vaccine Research Center (VRC) developed an animal model that 
+recapitulate s the human host -pathogen interface to facilitate preclinical studies of potential 
+vaccines and therapeutics to combat norovirus.  
+ 
+In addition to these research areas, NIAID is pushing forward in several key areas including food 
+allergy research, antimicrobial resistance, infectious and immunologic diseases, HIV, and other 
+sexually transmitted infections. NIAID will continue to lead in these areas.  
+ 
+Food Allergy Research  
+NIAID continues to advance food allergy research by exploring ways to prevent food allergy and 
+develop new treatment strategies. About eight percent of children in the United States have food 
+allergies and, in many cases, the only option for treatment presented is allergen avoidance. 3 In an 
+NIAID-supported trial called Omalizumab as Monotherapy and as Adjunct Therapy to Multi -
+Allergen Oral Immunotherapy in Food Allergic Children and Adults (OUtMATCH), researchers 
+found that a 16-week course of the monoclonal antibody omalizumab increased the amount of 
+peanut, tree nuts, egg, milk, and wheat that multi -food allergic children could consume without 
+an allergic reaction. Based on the results of this trial, the U.S. Food and Drug Administration 
+(FDA) approved omalizumab for the reduction of allergic reactions that may occur with an 
+accidental allergen exposure in people aged one year and older. In another NIAID -sponsored 
+trial conducted by the Immune Tolerance Network (ITN), researchers found that feed ing children 
+peanut prod
+
+--- PAGE 13 matched=['Strategic Plan'] ---
+NIAID-11 
+adolescence by 71 percent. To further promote food allergy research, in 2024, NIAID awarded 
+11 new cooperative agreements to support the Consortium for Food Allergy Research (CoFAR) 
+program, which was launched 19 years ago. With research accomplishments that inform clinical 
+practice for individuals with food allergy, CoFAR and the ITN will continue to increase 
+understanding of food allergy and develop interventions for treatment and prevention.  
+ 
+Antimicrobial Resistance 
+Resistance to antimicrobial drugs is a growing public health concern, causing 2.8 million 
+infections and 35,000 deaths in the United States each year.
+4 Antimicrobial resistance (AMR) 
+occurs when pathogens change over time and no longer respond to currently available treatment 
+strategies. NIAID continues to make significant investments in basic, translational, and clinical 
+research on AMR, including suppo rting the Antibacterial Resistance Leadership Group (ARLG) 
+and the government -wide National Action Plan for Combatting Antibiotic -Resistant Bacteria. 
+ARLG develops transformational clinical trials that aim to change clinical practice for the use of 
+antibiotics and reduce the impact of antibacterial resistance. ARLG is currently enrolling 
+participants in an international clinical trial, called Antibiotic Susceptibility Testing (AST) for 
+Gram-Negative Bacteremia, a blood infection caused by specific types of bacteria. This trial will 
+compare clinical outcomes in patients with Gram -negative bacteremia following blood culture 
+evaluation either by rapid AST or standard methods, which are tests designed to choose the most 
+appropriate antibiotic. Inexpensive, rapid AST methods would allow doctors to quickly prescribe 
+the most appropriate treatment, thereby mitigating further development of drug resistance. In 
+further efforts to  reduce the disease burden of AMR, NIAID’s Centers of Excellence for 
+Translational Research is refocusing its portfolio to generate, validate, and advance medical 
+countermeasures against a select list of bacteria or fungi with known or emerging resistance t o 
+current therapies. NIAID also continues to invest in new and early career researchers to address 
+the public health concern of AMR by providing mentorship and grant support through ARLG.  
+ 
+Mycobacterium tuberculosis (Mtb), the cause of tuberculosis (TB), is one such bacterium with 
+increasing antibacterial resistance. In 2023, TB resulted in the death of 1.3 million people 
+globally.
+5 In 2024, NIAID reaffirmed its commitment to advancing research on Mtb  by updating 
+its Strategic Plan for Tuberculosis Research. 6 One of the primary goals of the plan is to address 
+the critical need for novel treatment options for TB. In alignment with this goal, NIAID 
+researchers are participating in the early clinical development of ganfeborole, a drug with a novel 
+mechanism of action developed by industry partners. The drug was found to be  safe and reduced 
+the amount of Mtb  in participants’ bodies. This new therapy has the potential to address the 
+significant problems associated with currently available TB treatment, including drug resistance, 
+long-duration treatments, and adverse reactions. NIAID also is co -leading the Faci litating 
+Accelerated Science and Translation for TB Regimen Development (FAST-TB) program. FAST-
+TB is a platform promoting collaboration and resource sharing between organizations and 
+researchers whose purpose is to streamline the developme
+
+--- PAGE 17 matched=['Strategic Plan'] ---
+NIAID-15 
+ 
+Sexually Transmitted Infections  
+In addition to HIV, many other sexually transmitted infections (STIs) remain a major concern for 
+NIAID as the incidence of many STIs has  been on the rise in the last decade in the United 
+States.10 The Centers for Disease Control and Prevention reports syphilis and congenital syphilis 
+cases are increasing at alarming rates in the United States with an almost 80 percent increase in 
+syphilis cases from 2018 to 2022, and more than ten times the number of congenital syphilis 
+cases than in 2012.
+10 Congenital syphilis, which occurs when syphilis is passed to the developing 
+fetus, can cause miscarriage, serious birth defects, or death of the fetus. In alignment with the 
+Sexually Transmitted Infections National Strategic Plan, 11 NIAID is pursuing research to 
+diversify the diagnostic, preventive, and therapeutic options available to alter the course of this 
+growing public health threat. 12 A NIAID study providing optional syphilis tests to people 
+seeking care at a large emergency department found that most people diagnosed with syphilis 
+had no symptoms suggesting that symptom -based testing strategies alone are insufficient. 
+Emergency depart ment screening could help close current healthcare gaps in syphilis diagnosis 
+and treatment among high incidence populations, those with limited access to routine health care, 
+and pregnant women, which may prevent congenital syphilis.  
+ 
+NIAID continues to make pivotal contributions to addressing this expanding public health threat. 
+Neisseria gonorrhoeae , the causative bacterium of gonorrhea, is becoming resistant to most 
+antibiotics, making the need for new antibiotics to treat infections vital. NIAID conducted 
+clinical trials and contributed scientific support to the development of zoliflodacin, a novel  oral 
+antibiotic proven to be an effective therapy for urogenital gonorrhea in a Phase 3 trial. NIAID 
+also is funding research to create a chlamydia vaccine candidate that can induce protective 
+immunity in the female genital tract, the primary site of chlamydia infection but a difficult place 
+in which to induce robust immunity. To expand the NIAID STI research portfolio, the Institute is 
+soliciting grant applications for research related to herpes simplex virus and Treponema 
+pallidum, the bacterium that causes syphilis. This important research will provide valuable 
+insights needed to develop tools to reduce the disease burden associated with STIs.  
+ 
+Transplantation 
+In addition to infectious and immune -mediated diseases, NIAID conducts research to improve 
+the long-term success of organ, tissue, and cell transplantation by better understanding the role 
+the immune system plays in transplant outcomes. NIAID is supporting  a clinical trial aiming to 
+improve outcomes in pediatric transplant patients by testing anti-rejection medications that have 
+been approved for adults but have not been tested in children. Children have fewer medication 
+options, and this trial may increase  the number of available medications and ultimately impact 
+rejection rates in children. An additional possibility that holds promise for reducing the number  
+of people on transplant wait lists is transplantation of gene -edited animal organs into humans, a 
+process called xenotransplantation. NIAID oversees an extensive xenotransplantation program 
+that provided the critical foundation for the successful transplantation of gene -edited pig organs 
+into humans
+
+--- PAGE 21 matched=['Division of '] ---
+NIAID-19 
+DETAIL OF FULL-TIME EQUIVALENT EMPLOYMENT (FTE) 
+ 
+ 
+Civilian Military Total Civilian Military Total Civilian Military Total
+Division of Clinical Research
+Direct: 93 4 97 92 4 96 82 4 86
+Total: 93 4 97 92 4 96 82 4 86
+Division of Extramural Activities
+Direct: 263 1 264 222 1 223 126 1 127
+Total: 263 1 264 222 1 223 126 1 127
+Division of Intramural Research
+Direct: 758 6 764 757 6 763 677 5 682
+Total: 758 6 764 757 6 763 677 5 682
+Office of the Director
+Direct: 433 - 433 410 - 410 322 - 322
+Total: 433 - 433 410 - 410 322 - 322
+Division of Allergy, Immunology, and Transplantation
+Direct: 100 1 101 99 1 100 89 1 90
+Total: 100 1 101 99 1 100 89 1 90
+Division of Microbiology and Infectious Diseases
+Direct: 183 6 189 193 6 199 174 5 179
+Total: 183 6 189 193 6 199 174 5 179
+Division of Acquired Immunodeficiency
+Direct: 167 3 170 159 3 162 137 3 140
+Total: 167 3 170 159 3 162 137 3 140
+Vaccine Research Center
+Direct: 116 - 116 116 - 116 105 - 105
+Total: 116 - 116 116 - 116 105 - 105
+Total 2,113 21 2,134 2,048 21 2,069 1,712 19 1,731
+NATIONAL INSTITUTES OF HEALTH
+Includes FTEs whose payroll obligations are supported by the NIH Common Fund.
+Detail of Full-Time Equivalent Employment (FTE)
+National Institute of Allergy and Infectious Diseases
+Office FY 2024 Final FY 2025 CR FY 2026 President's 

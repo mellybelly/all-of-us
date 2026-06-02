@@ -1,0 +1,1469 @@
+# NLM (2017-2027) — file: NLM_Strategic_Plan_2017-2027.pdf
+# 27 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+A Platform for Biomedical 
+Discovery and  
+Data-Powered Health
+Strategic Plan 2017–2027
+
+
+--- PAGE 4 matched=['strategic plan'] ---
+National Library of Medicine Cataloging-in-Publication D ata
+Names: National Library of Medicine (U.S.). Board of Regents, author. 
+Title: A platform for biomedical discovery and data-powered health : National Library of Medicine 
+strategic plan 2017-2027 / report of the NLM Board of Regents.
+Other titles: National Library of Medicine strategic plan 2017-202 7.
+Description: [Bethesda, Md.] : U.S. Dept. of Health and Human Services, Public Health Service, 
+National Institutes of Health, National Library of Medicine, 2025. | Series: NIH publication | "December 
+2017." | Includes bibliographical references and index.
+Subjects: MESH: Libraries, Medical. | Data Curation. | Medical Informatics Applications. 
+| Biomedical Research. | Research Support as Topic. | Training Support.
+Classification:  NLM Z 675.M4
+
+--- PAGE 5 matched=['GOAL 1', 'Objective 1', 'Strategic Plan'] ---
+Strategic Plan 2017–2027 
+Contents
+From the Director  ............................................................... 1
+NLM Today .................................................................... 3
+Executive Summary  ............................................................. 4
+Strategic Plan 2017–2027  ...................................................... 5
+Introduction .................................................................... 6
+GOAL 1: Accelerate discovery and advance health by providing the tools 
+for data-driven research. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Objective 1.1: Connect the resources of a digital research enterprise  .............. 9
+Objective 1.2: Advance research and development in biomedical informatics 
+and data science     ......................................... 11
+Objective 1.3: Foster open science policies and practices ...................... 12
+Objective 1.4:  Create a sustainable institutional, physical, 
+and computational infrastructure .............................. 13
+GOAL 2:  Reach more people in more ways through enhanced dissemination 
+and engagement pathways ............................................ 14
+Objective 2.1: Know NLM users and engage with persistence ................... 15
+Objective 2.2: Foster distinctiveness of NLM as a reliable, trustable source 
+of health information and biomedical data ....................... 16
+Objective 2.3: Support research in biomedical and health information access 
+methods and information dissemination strategies ................ 16
+Objective 2.4:  Enhance information delivery  ................................. 17
+GOAL 3:  Build a workforce for data-driven research and health .................... 18
+Objective 3.1:  Expand and enhance research training for biomedical informatics 
+and data science ........................................... 19
+Objective 3.2: Assure data science and open science proficiency  ................ 20
+Objective 3.3:  Engage the next generation and promote data literacy ........ . . . . .21
+Appendices ...................................................................22
+A. References and Notes .....................................................  2 2
+B. NLM Authorizing Legislation and Executive Branch Assignments  ...................  22
+C. NLM Strategic Plan Planning Process .. . . . .................................... 24
+D. Working Group Participants .. . .............................................. 26
+
+
+--- PAGE 6 matched=['Strategic Plan'] ---
+1
+From the Director
+I am pleased to present to you the NLM Strategic Plan for the period 2017-2027. Over 750 NLM 
+staff members, hundreds of national and international librarians, informatics professionals, 
+biomedical scientists, data scientists, clinicians, public health specialists, and other 
+stakeholders advised us as we charted a pathway towards our third century, and for this I am 
+grateful.  We consider the environment around us: 
+• First and foremost is the promise of data-driven discovery. Data-driven
+discovery requires sophisticated library and information science to open the
+door to thrilling new prospects for improving the public health, as well as
+informatics and data science to deliver insights and solutions.
+• Second, clinical care is rapidly migrating from hospital to home. This
+migration challenges NLM to reach into these places where health occurs, not
+just where care is delivered, which are less formal and less well controlled.
+• Third, the spirit of open science suffuses the discovery landscape.
+Governmental and scientific forces are aligning under a philosophy that
+innovation is accelerated if data flow freely, that the results of government-
+sponsored research should be open to the public as quickly as possible, and
+that linking scientists, citizens, and industry yields social benefits.
+• Fourth, the very nature of libraries is changing. Libraries continue to be
+essential places for knowledge repositories and community gathering, yet
+the advent of self-directed search, e-publishing and consolidation of hospital
+library services challenges librarians and libraries to devise new services
+and solutions.
+This strategic plan positions NLM to address existing and emerging challenges in biomedical 
+research and public health. We will achieve this by creating a talented workforce; building on 
+our core functions of acquiring, collecting, and disseminating the world’s biomedical 
+literature; and extending these skills and developing new ones to make data findable, 
+accessible, interoperable, and reusable (the FAIR principles).  We will continue to lead, 
+conduct, and support research in biomedical information science, informatics, and data 
+science to ensure that robust terminologies provide systematic characterization of complex 
+health phenomena from cells to society and to devise new methodologies that uncover the 
+knowledge held in data. We will expand our training programs to incorporate data science 
+
+
+--- PAGE 9 matched=['GOAL 1', 'strategic plan', 'vision'] ---
+Executive Summary 
+The National Library of Medicine (NLM) envisions a future in which  
+data and information transform and accelerate biomedical discovery 
+and improve health and health care. 
+Achieving this vision will require NLM to refocus and enhance its research, development, 
+training, and information services to make more biomedical data findable, accessible, 
+interoperable, and reusable, to invent the tools and services to turn data and information into 
+knowledge and insight, and to develop the workforce capable of doing so.  It will require new 
+forms of partnership and engagement with stakeholders in the public and private sectors, 
+including researchers, librarians, health professionals, entrepreneurs and innovators, and the 
+public. 
+This strategic plan outlines NLM’s pr
+ iorities for enabling a future of biomedical discovery and 
+data-powered health.  It heralds a new research paradigm in which data-driven science com-
+plements experimental and observational approaches, care is characterized by high levels of 
+personalization, and personally collected data become a foundation of self-knowledge and 
+personal health management. 
+To become a platform for biomedical discovery and data-powered health, NLM must collect 
+and integrate an expanding set of information resources and enable them to be analyzed by 
+tools emerging from the informatics and data science research front.  It must establish path-
+ways for dissemination and engagement across a broad range of users to drive information to 
+the right place at the right time.  It must expand training initiatives for informatics and data 
+science research, and for technical support that will drive and shape the future of biomedical 
+discovery. It must accelerate its investments in research in informatics and data science and 
+align its research, development, and resource priorities toward achieving three goals, with an 
+organizational structure that optimizes implementation.
+GOAL 1 GOAL 2 GOAL 3
+Accelerate discovery and  
+advance health through  
+data-driven research
+1.1 Connect the resources of a  
+digital research enterprise
+Reach more people in more  
+ways through enhanced  
+dissemination and engagement
+2.1 Know NLM users and engage 
+with persistence
+Build a workforce for data-driven 
+research and health
+3.1 Expand and enhance research 
+training for biomedical  
+informatics and data science
+1.2 Advance research and  2.2 Foster distinctiveness of  
+developm
+ent in biomedical  
+informatics and data science
+1.3 Foster open science policies  
+and practices
+1.4 Create a sustainable  
+institutional, physical, and  
+computational infrastructure
+NLM as a reliable, trustable-
+source of health information  
+and biomedical data 
+2.3 Support research in  
+biomedical and health  
+information access methods 
+and information dissemination 
+strategies
+3.2 Assure data science and  
+open science proficiency 
+3.3 Engage the next generation  
+and promote data literacy
+2.4 Enhanc
+e information delivery
+4
+
+--- PAGE 10 matched=['Strategic Plan'] ---
+Strategic Plan 2017–2027 
+
+--- PAGE 11 matched=['Strategic Plan', 'vision', 'mission'] ---
+6
+The National Library of Medicine (NLM) is a global 
+leader and trusted agent in the collection, organization 
+and dissemination of biomedical information.  Tracing 
+its roots to the library of the U.S. Army Surgeon 
+General in 1836, its statutory mission is “…to assist 
+with the advancement of medical and related sciences 
+and to aid in the dissemination and exchange of 
+scientific and other information important to the 
+progress of medicine and to the public health.”  
+NLM fulfills this mission by collecting, organizing, and providing access to the 
+biomedical literature, as well as the growing volumes of molecular biology and 
+clinical research data; engaging with users to discern and meet their information 
+needs; advancing research and development in biomedical informatics and data 
+science; and serving as the primary supporter of pre- and post-doctoral research 
+training in biomedical informatics and data science in the United States. 
+As one of the 27 Institutes and Centers of the National Institutes of Health (NIH), 
+NLM supports NIH priorities and NIH’s 2016-2020 Strategic Plan objectives 
+addressing biomedical research opportunities, priority-setting for innovation, 
+enhancing scientific stewardship, and managing for results.  NLM will support 
+the NIH mission of transforming discovery into health by providing a dynamic 
+information platform that accelerates biomedical discovery and translation into 
+clinical care, public health practices, and personal wellness. It will also work to 
+achieve the recommendations of the NIH Advisory Committee to the Director 
+that “NLM should lead efforts to support and catalyze open science” and “be the 
+intellectual and programmatic epicenter for data science at NIH.” 
+NLM’s vision for the coming decade is to unleash the potential of data and 
+information to accelerate and transform discovery and improve health and 
+Introduction
+
+--- PAGE 12 matched=['vision'] ---
+7
+health care.  Central to this vision is the idea of data-powered health, in which 
+holistic knowledge of the person is enriched with greater awareness of biological 
+processes and human connection. With data-powered health, extant data 
+complements experimental and observational approaches, care processes are 
+characterized by high levels of personalization, and personal data collection 
+becomes a foundation of self-knowledge and personal health management. 
+Achieving this vision will require NLM to: 
+1
+Create and link an expanding collection of integrated and  
+interoperable information resources, powered by analytic tools  
+from the informatics and data science research front. This will  
+require increased investments in informatics and data science and  
+an organizational structure that optimizes implementation.
+2
+Deepen and establish new forms of engagement across a broad 
+range of users to drive information to the right place at the right time.
+3
+Expand training initiatives for informatics and data science research 
+to build a workforce to drive the future of biomedicine. 
+
+--- PAGE 13 matched=['Goals and Objectives'] ---
+GOAL ONE: 
+Accelerate discovery 
+and advance health by 
+providing the tools for  
+data-driven research
+Scientific investigations  now yield not only  amazing advances but also spawn 
+large and potentiall y valuable data sets that can be utilized to achieve 
+significant additional  advances and even greater efficiencies to the progress of 
+research. NLM will inv est in novel approac hes to bring its collec tions together—
+literature, images, and biological data, to name a few—and cr eate a rich 
+integrative platform for data-driven discovery and data-powered health. 
+NLM will create computabl e libraries of data, models, and liter ature and devise 
+an interlocked envir onment that enables discovery; this effort will be guided by 
+principled decisions in collections management and curation, and propelled 
+by practices that fos ter open science and scholarship.  It will  also build upon 
+research advances in bi omedical informatic s and data science.  Par tnerships 
+with domain scientists, health professionals, information profes sionals, and the 
+public will guide the design of discovery and analy sis tools to improve the 
+insight borne o f data, information, and knowledge.  Or ganizational 
+infrastructure will als o be modified to support new sci ence and services.
+Goals and Objectives
+8
+
+--- PAGE 14 matched=['GOAL\n1', 'Objective 1', 'Strategic Plan'] ---
+9
+Objective 1.1:   
+Connect the resources of a digital research enterprise
+NLM will enhance its efforts to collect, organize, 
+and disseminate well-understood (literature) and 
+non-traditional research objects, notably, but 
+not only, data.  These collections of information, 
+whether physical or digital, are fuel for ideas, 
+knowledge, insight, and progress.  The value of 
+individual collections can be multiplied when col-
+lections of different, but related, objects can be 
+searched, interrogated, and analyzed, and their 
+insights integrated, aggregated, and shared.
+NLM will lead this process by creating, collecting, 
+and curating digital research objects such as 
+articles, data sets, analyt
+ ic strategies, and visual-
+iza
+tion t
+ools, as well as executable objects such 
+as workflows, analytic pipelines, simulations, 
+and predictive models. Systems will be designed 
+around the FAIR principles of making informa-
+tion Findable, Accessible, Interoperable, and 
+Re-usable.  Modern approaches to attribution will 
+be devised. 
+NLM will modernize NLM collections and 
+services, and enhance the integration and 
+interoperability of existing collection
+ s. In so 
+doing, it will ensure the responsiveness of col-
+lections to a broad range of information needs.  
+NLM will ensure the operational and curatorial 
+efficiency of collection management. This may 
+include developing new methods of automa
+ ted 
+indexing
+ and designing innovativ e approaches 
+to presenting information that promotes interop-
+erability among resources and, importantly, 
+facilitates linking to resources not housed in 
+NLM.
+NLM will develop new collections to reflect 
+sci
+entific progress and meet new scientific 
+needs. Collection development and reten tion 
+decisi
+ons will be based on program priorities 
+and informed via partnerships with stakeholders. 
+While some new resources will be incorpo-
+rated through acquisition by NLM, others will be 
+integrated through federation, coordination, or 
+other connections with the integrated platform. 
+Recognizing the importance of knowledge 
+resources, NLM will form partnerships for 
+connecting with these resources across and 
+outside NIH. 
+NLM recognizes the potential for addressing the 
+continuing challenge of health disparities 
+t
+hrough integrated and aggregated collection of 
+multiple types 
+of data and analytic tools. In 
+creating a platform for discovery, NLM is 
+committed to offering a resource that is useful for 
+advancing basic and translational research on 
+health disparities. Factors important for such 
+research include a broad ra
+nge of individual 
+and population characteristics - everything 
+ranging from biological determinants of health 
+t
+o demographic characteristics. In addition to 
+incorporating relevant content in the information 
+collections, NLM will promote the development 
+and use of standards for data collection and 
+reporting that will enable aggregation of data and 
+identification of subpopulations for analysis. In 
+unique ways like these, and more, NLM contrib-
+utes to the NIH Minority Health and Health 
+Dispar
+ities Strategic Plan.1
+NLM will augment its literature and genomics 
+collections to create a platform for science and 
+health from new sources, such as:
+Data gener
+ated from scientific research:   
+New investigations generate not only hypoth-
+eses resolution but also data as a significant 
+scientific product. The number of data repos-
+itories for research datasets is increasing, 
+along with the volume of dat
+
+--- PAGE 15 matched=['GOAL\n1'] ---
+10
+and set the policies to guide the selection of 
+repositories and their investment. NLM will 
+also develop approaches and infrastructure 
+for accommodating new classes of research 
+data, in addition to enabling access to 
+externally-hosted resources. In addition, NLM 
+will engage with the entire NIH to determine 
+how to accommodate data generated in large 
+NIH research initiatives such as the BRAIN 
+Initiative, 
+All of Us, and the Cancer Moonshot.
+Curation an d standards:  NLM develops, 
+houses, supports, and stewards many health 
+data standards that promote interoperability. 
+These sets of standards include: terminolo-
+gies and vocabularies, data formats, value 
+sets, common data elements, and coding 
+systems related to clinical phenomena. There 
+remain many other types of data for which 
+standard representations must be developed, 
+including biological, environmental, behav-
+ioral, and interactional. NLM will devise new 
+methods of generating standards, maintain-
+ing version control, and applying them at 
+the appropriate point in the data life cycle. 
+An important research direction will develop 
+strategies for curation at scale, and those 
+that accelerate the standards development 
+and application process.  In partnership with 
+community stakeholders, NLM will consider 
+how to use its collections and their intercon-
+nectivity to facilitate application of standards, 
+as well as how to help user communities 
+increase the uniformity and the interoperability 
+of standards.
+Data science tools and other execut-
+ables: 
+  NLM will play a role in creating new 
+methodologies and new ways of organizing 
+collections of data science tools. Examples 
+include: libraries of mathematical models; 
+indexed visualization tools; reusable data 
+analytic models for health applications; open 
+source software and algorithms; research 
+workflows; statistical, diagnostic, or predictive 
+models; or
+ collections of machine-execut-
+able knowledge. These will not replace, but 
+will be integrated with, resources that reside 
+within NIH Institutes and Centers, their grant-
+ees’ institutions, or other public and private 
+organizations. NLM will work with stakehold-
+ers to identify tools for dissemination and to 
+develop
+ policies to guide decisions for incor-
+porating them within the NLM platform.
+Clinical data:  NLM must create the controls 
+for effective stewardship of data generated 
+in the course of clinical care as well as from 
+clinical investigations. NLM will work with EHR 
+vendors and clinical care institutions to foster 
+linkage and reuse, as well as to house special 
+collections. Aggregated collections of such 
+data, properly curated, will enable analyses 
+of subpopulations based on aspects of their 
+medical care and on demographic character-
+istics. NLM engagement arises from strong 
+commit-ment to facilitate research in minority 
+health and health disparities.
+NLM will enrich its flagship clinical trial regis-
+try and repository, ClinicalTrials.gov, through 
+improved
+ front-end and back-end design. 
+Enhancements to expand interoperability with 
+data and information in other resources, such 
+as individual-level data collected in the course 
+of the trials supported by NIH, will be consid-
+ered, along with improvements in operational 
+efficiency in producing, curating, and ensuring 
+long-term preservation of this resource. 
+Status indicators of the health of people 
+and
+ communities:   Growing recognition 
+of the importance of social, behavioral, and 
+en
+
+--- PAGE 16 matched=['GOAL\n1', 'Objective 1'] ---
+11
+data, models, and analytical tools. Creating 
+efficient ways to link the literature with associ-
+ated datasets enables knowledge generation 
+and discovery. Initial approaches to connect 
+datasets associated with papers in PubMed 
+Central will be enriched with a complex envi-
+ronment interlocking data, literature reports, 
+science profiles, and research proposals.  
+NLM will anticipate developments such as 
+preprints and novel alternatives to the jour-
+nal issue as a mode of organizing articles. 
+This includes the concept of an “executable 
+article,” in which human-readable text can 
+be combined with computer-interpretable 
+representations of the evidence and guidance 
+contained in a publication. Decomposing 
+articles into components including interactive 
+visualizations, decision analyses, executable 
+models and simulations (e.g., of physiologic 
+or molecular processes), and predictive and 
+decision-analytic inference systems will 
+enhance the value and extension of science.
+Heal
+th information for th e public:  NLM 
+prov
+ides portals to authoritative health 
+information from NIH and other government 
+agencies, as well as private sources. In the 
+future, the goal is to provide that informa-
+tion in a way that makes it more actionable. 
+In addition, there is a need to complement 
+existing information by providing linkages 
+to relevant data from multiple sources, such 
+as environmental contaminant or exposure 
+data and disease outbreak data, to enable 
+an integrated presentation of information in 
+understandable
+ formats such as customizable 
+das
+hboards.  NLM will engage with commer-
+cial and non-commercial web search and 
+health information providers to preserve its 
+responsibility as a trustworthy provider of 
+health information.  
+Objective 1.2:  
+Advance research and development in biomedical 
+informatics and data science    
+As a platform for discovery, NLM plays a sig-
+nificant role throughout the entire research 
+lifecycle, from initial inspiration through scholarly 
+communication.  NLM must anticipate research 
+directions of the biomedical and clinical health 
+science, prepare the tools necessary to accel-
+erate discovery, and enable efficiencies in 
+communication and dissemination.  NLM has the 
+responsibility to foster
+ problem-inspired research 
+across the various health science disciplines 
+while accelerating the development of domain-
+independent, reusable approaches to discovery, 
+curation, analytics, and collections. 
+Biomedical scientists of today tell of a future 
+where food itself becomes medicine, where 
+understanding the context of health extends far 
+beyond the intracellular environment to the built 
+environment of homes and cities, where the data 
+flows needed to
+ characterize health phenomena 
+move at speed of light and are far too dense to 
+be captured by standard databases.  NLM, in 
+close partnerships with the biomedical and clin-
+ical research disciplines, will build the discovery 
+and knowledge resources and tools needed while 
+tailoring its investments to leverage the best of 
+the disciplines. 
+NLM must anticipate research 
+directions of the biomedical and 
+clinical health science, prepare 
+the tools necessary to accelerate 
+discovery, and enable efficiencies in 
+communication and dissemination.  
+GOAL
+1
+
+--- PAGE 17 matched=['GOAL\n1', 'Objective 1', 'mission'] ---
+12
+First among these resources and tools will be the 
+devising of a system of digital research objects, 
+articles, datasets, computational pathways, 
+analytical models, visualization  tools, reference 
+standards, and the like, each of which will have a 
+unique identifier and could be coupled in novel 
+modes to accelerate discovery in a broad array of 
+disciplinary explorations.  NLM will provide the 
+accelerators and the repositories of future 
+discoveries, and enable newer and more efficient 
+dissemination
+ mechanisms.
+Connecting collections of digital objects so that 
+the whole is greater than the sum of its parts 
+presents bi
+g computational and scientific chal-
+lenges. Surmounting these challenges will require 
+data science and informatics research and 
+development, 
+including innovation in curation, 
+analytics, visualization, modeling, knowl-
+edge generation and next-generation mining 
+approaches. These innovations, in turn, depend 
+on advances in the science and mathematics 
+underpinning such approaches. This research 
+agenda will require more investment in intramural 
+and extramural res
+earch support and pursuing 
+partners whose participation will augment these 
+efforts. 
+Below are examples that illustrate how such 
+research is integrally related to the mission and 
+future of NLM and NIH.
+•
+ With the science and health sectors produc-
+ing more digital research objects—whether
+research-generated datasets, electronic
+health records, or computational models—
+value can be added through curation. A key
+area for research is how curation at scale 
+might be accomplished for hundreds of mil-
+lions of such objects in a way that would be 
+workable across biomedical domains, health 
+care sectors, public health, and consumer 
+health.  Automatic, autonomous curation 
+strategies will allow for operational efficiency 
+as well as accelerate the speed of discovery.
+•  Analytics beyond statistics, data presentation
+beyond visualization, and “data mining using
+meaning” across heterogeneous data sources
+are important areas for advancing data sci-
+ence. Research and development of artificial
+intelligence in its many forms, including nat-
+ural language processing and deep learning,
+require stimulation, demonstration, testing,
+and curation.
+• Computable biomedical knowledge—such as
+diagnostic, predictive, and decision-analytic
+models, or practice guidelines represented
+as coded digital objects—is an increasingly
+important complement to human-readable
+knowledge represented in books and journals.
+• Define the structure and functions of “execut-
+able articles” that form an interactive library
+where the resources “talk to each other” and
+enable movement from data to knowledge
+and knowledge to action.
+• A rich set of data resources presents the
+opportunity to pursue basic research on
+data-driven questions in biomedical domains.
+NLM will partner with scientists across NIH
+to generate research questions and identify
+value solutions.
+Objective 1.3:  
+Foster open science policies and practices
+NLM will become an advocate for open science, 
+and thereby promote access to the products 
+and processes of scientific research—that is, 
+making them widely accessible. NLM will 
+continue to develop tools that support open 
+science, including information and data systems 
+that preserve and make publications, data, and 
+other research outputs discoverable and acces-
+sible to the broadest possible audiences.  It will 
+continue to develop technologies and systems 
+that provid
+
+--- PAGE 18 matched=['GOAL\n1', 'Objective 1', 'mission'] ---
+13
+e.g., to protect privacy, confidentiality, security, 
+and certain proprietary rights.  
+Beyond its systems and services, NLM has an 
+essential role to play in helping develop and 
+implement policies and practices that facilitate 
+open science and data-driven research, while 
+addressing the complex challenges of investiga-
+tor freedom and patient privacy. These include 
+policies related to data sharing, privacy protec-
+tion, and informed consent that can motivate 
+open science practices consistent with legal 
+and ethical considerations.  With productive 
+relationships across NIH and the Department of 
+Health and Human Services, NLM is positioned 
+to participate in the reformulations necessary to 
+allow open science to flourish, and can bring to 
+these policy debates the practical experience in 
+system building that can ensure effective policy 
+and implementation.
+Objective 1.4:  
+Create a sustainable institutional, physical, 
+and compu
+tational infrastructure
+For NLM to become the hub for data science 
+and open science activities at NIH, it must also 
+make an organizational commitment to cre-
+ating an institutional home, which will provide 
+for organizational stability, fiscal accountability 
+for data science efforts, and coordination of 
+resources, investments, and communication. 
+In devising the best structure to accomplish its 
+data science mission, NLM must consider the 
+key activities to be accomplished; how to best 
+leverage existing data science efforts; and the 
+possibility of a hybrid structure in which a perma-
+nent, clearly identified institutional locus for data 
+science and open science exists in concert with 
+the distributed nature of data science talent and 
+investment.
+NLM will make creative use of a constrained 
+physical space while advocating for a larger 
+and more appropriate physical environment. 
+Sufficient space is needed for the current 
+staff, which is distributed across several sites. 
+Additionally, fit-for-purpose space is needed 
+to house and support its physical and digital 
+collections to guarantee long-term access. As a 
+national biomedical library, NLM takes seriously 
+the responsibility to ensure the preservation of its 
+unique collections of books and medical heritage 
+embodied in information artifacts. 
+NLM’s mission is dependent on the viability of 
+its data centers and the computation platforms 
+therein. It needs to ensure adequate capacity 
+and reliability in the electrical, mechanical, and 
+structural infrastructure that supports NLM data 
+centers to meet future computational demands. 
+It must experiment with innovative computer 
+and network solution strategies.  Technical and 
+policy solutions must accompany curation and 
+collection management activities. Key technical 
+challenges include authentication and authori -
+zation, assuring compliance with permissions 
+required for data access and re-use, and security 
+of data sets and session permission. 
+NLM will become an advocate 
+for open science, and thereby 
+promote access to the products 
+and processes of scientific 
+research—that is, making them 
+widely accessible.
+GOAL
+1
+
+--- PAGE 19 matched=['GOAL 2', 'Goals and Objectives'] ---
+14
+GOAL 2: 
+Reach more people 
+in more ways through 
+enhanced dissemination 
+and engagement pathways 
+NLM must understand and meet the needs of the stakeholders it serves: scholarl y, 
+cli
+nical and communit y.  A future of data-powered health will be built upon new 
+mode
+ls for interacting with information and data in innovative ways that can 
+a
+ccelerate discovery and lead to knowledge that informs decisions and action. 
+Adv
+ancing science and improving health is tied to potential users being aware 
+of NL
+M resources, having access to them, and understanding their use. NLM 
+continually strives to understand user needs and how they vary over time and 
+acro
+ss different categories of users, and to create new and better ways to deliver 
+the r
+ight information, at the right level of sophistication, and at the right time.
+In designing its dissemination initiatives, NLM is committed to developing 
+approaches to innovation and outreach in which information access can 
+help 
+communities across the US improve health.
+Goals and Objectives
+
+--- PAGE 20 matched=['GOAL\n2', 'Objective 2'] ---
+15
+Objective 2.1:  
+Know NLM users and engage with persistence
+As new resources and services bring new users 
+with new information needs, NLM will need to 
+create pathways to reach them with relevant 
+information at times the information is needed. 
+Users will range from librarians to researchers, 
+policy-makers to teens, clinicians to parents, 
+pharma to public health laboratories. Each of 
+these user groups will require unique patterns of 
+e
+ngagement. User engagement encompasses 
+promoting awareness of information resources, 
+understanding information needs, facilitating 
+access, and ensuring ability to use information 
+resources. 
+NLM will develop strategies to increase its vis-
+ibility among intended audiences across the 
+nation.  Modern
+ human factors and human 
+computer design strategies will guide public 
+facing utilities redesign that feature the National 
+Library of Medicine and National Institutes of 
+Health brand.  Attention to design principles that 
+draw from user experience are needed.  
+Partnerships with NIH Institutes will also be 
+systemically cultivated and highlighted. 
+R
+ecognizing that people live in communities, 
+NLM will employ person-centric and community 
+conscious design strategies. This requires an 
+investment in research to better understand 
+health information needs and how to address 
+them. It will prioritize increasing awareness of 
+NLM services to members of the community in 
+or
+der to support NLM’s commitment to helping 
+the public employ information interv entions to 
+improve health. 
+NLM will employ rapid cycle design and deliver y 
+approaches that  reflect knowl edge both of what 
+the user seeks from its resources as well as why 
+they are seeking it.  It is also important 
+to underst and user needs in the moment. 
+Approaches to dissemination must reflect differ-
+ent motivations for seeking information as well as 
+disparities in health and data literacy among NLM 
+constituencies.
+Human networks remain important and will be 
+leveraged to expand outreach across the U.S. 
+NLM will continue to utilize the 6,500 member 
+libraries of the National Network of Libraries of 
+Medicine (NNLM) to serve in a trusted, visible 
+manner for engaging and reaching out to the 
+wide range of NLM users. With the NNLM, NLM 
+will emphasize expanding partnerships with 
+public libraries and community groups to improve 
+awareness of NLM’s resources and to obtain 
+feedback for im
+provement. The NNLM is partner-
+ing with the NIH All of Us Research Program to 
+support community engagement efforts by public 
+libraries and raise awareness about the program.
+User engagement encompasses 
+promoting awareness of information 
+resources, understanding information 
+needs, facilitating access, and 
+ensuring ability to use information 
+resources. 
+GOAL
+2
+
+--- PAGE 21 matched=['GOAL\n2', 'Objective 2'] ---
+16
+Objective 2.2:  
+Foster distinctiveness of NLM as a reliable, trustable 
+source of health information and biomedical data
+The information and data resources provided 
+by NLM are becoming ever-more essential to 
+biomedical discovery and contemporary health 
+care while also becoming increasingly invisible as 
+this information and data become embedded in 
+the processes and products of our users.  NLM 
+is essential to public health authorities, who 
+query its genomic data banks daily to discern the 
+nature of a foodborne pathogen; essential to hos-
+pitals for demonstrating quality of care through 
+using a MedlinePlus Connect embedded link to 
+clinical systems to provide patients with tailored, 
+trusted health instructions; essential to the over 
+four million users who daily access its literature 
+and biological databases. New devices found 
+along t
+he Internet-of-Things open an entirely 
+new dissemination outlet for NLM resources.  As 
+NLM resources become more widely embedded 
+in search engines and informational instructions, 
+NLM must find ways to demonstrate its 
+oversight and promote the chain of trust in health 
+information.  
+Those who recognize the NLM brand—libraries, 
+research scientists, health professionals and the 
+lay public—know and trust its information 
+resource
+s.  Even though millions of people use 
+NLM’s information services every day, there 
+remains a persistent lack of name recognition 
+and underappreciation for the vast number and 
+variety of services provided by the NLM. NLM 
+must make itself accessible and known to those 
+who do not yet recognize its brand nor know 
+of its services. Public awareness campaigns, 
+better branding of the NLM-provided resources, 
+and educating scientists and the public in best 
+practices for health information and health data 
+management will extend the chain of trust and 
+improve discovery and care through greater reli-
+ance on trusted health information.   
+NLM will aim to become recognized widely as the 
+pre-eminent source of trusted information for the 
+nation’s health. It will increase public awareness 
+and the public’s trust in NLM-provided materials 
+not only by devising ways to convey the NLM 
+imprimatur 
+on materials, but also through creative 
+engageme
+nt that raises the general awareness of 
+NLM as a place to turn to with health questions 
+or biomedical data needs.  Envision a campaign 
+“NLM: your most trusted partner in health”. 
+Objective 2.3:  
+Support research in biomedical and health  
+information access methods and information 
+dissemination strategies
+NLM will support programs of research in areas 
+such as rapid cycle information processing, 
+and will undertake new research to bring new 
+information products to new users.  It will focus 
+on understanding ho
+w searches are initiated, 
+how information is used, and how questions are 
+NLM will aim to become recognized 
+widely as the pre-eminent source of 
+trusted information for the nation’s 
+health. 
+GOAL
+2
+
+--- PAGE 22 matched=['GOAL\n2', 'Objective 2', 'research areas'] ---
+17
+posed and answered. The Library will provide 
+important advances in delivering guidance for 
+action or decision making and provide insight 
+through advanced visualizations of complex 
+data. NLM will continue supporting and under-
+taking informatics and data science research to 
+design advanced interfaces and query systems 
+that facilitate access to information systems 
+in new ways and reflect the information needs 
+and behaviors of individuals. This will include 
+investigating the best methods to deliver effec-
+tive information to support team science, 
+family caregiving, and care coordination. Some 
+examples of research areas that contribute to 
+innovation in information access and delivery 
+include human-computer interaction, natural 
+language proc
+ essing, virtual and augmented 
+reality for system interaction, probabilistic infer-
+ence mechanisms for sense-making from
+  data 
+visualization, and predictive analytics.  To meet 
+the needs of a broad audience for information 
+services, NLM must also conduct research to 
+address matters of literacy, numeracy, and mak-
+ing i
+nformation actionable in the moment.
+Objective 2.4: Enhance information delivery 
+NLM will provide access to information on 
+multiple delivery platforms and through multiple 
+user-centric interface formats, including ways 
+that are very different from today’s formats. 
+Strategies will be developed to provide better 
+interlinking of resources to improve discovery.
+In addition to designing fresh approaches for 
+querying databases on demand, NLM will 
+consider implementing push models that will 
+anticipate user needs, operate continuously 
+to search for new information, and engage 
+them with results in a just in time manner. New 
+approaches to input and output formats will be 
+explored from the research front, including voice, 
+music, image, and virtual reality applications. 
+Partnerships with other NIH Institutes that are 
+addressing information delivery challenges may 
+lead to innovat
+ions in information delivery as well 
+as new platforms.
+To promote ease of access to NLM resources, 
+interfaces th
+at are more uniform across NLM 
+platforms will be developed. It will explore voice, 
+gesture, and behavioral interfaces, while attempt-
+ing to ensure a predictable experience.   Use 
+of a common interface will not only improve 
+accessibility of resources, it will complement the 
+enhancements in interoperability and findability 
+of related resources. Through test bed exper-
+imentation with new ways to improve search 
+quality and usability, NLM will offer a better user 
+experience for finding information faster, with a 
+clean modern interface, and with better support 
+for mobile devices.
+Given the range of uses of NLM’s resources, 
+NLM will continue to offer multiple delivery 
+platforms, including application programming 
+interfaces (APIs), mobile, social media, web-
+based, and stand-alone applications that can 
+operate without internet access. New presenta-
+tion modes that do not require the user to read, 
+but still allow user control, will be explored. 
+Fundamental to these efforts is recognizing that 
+the fastest growing group of NLM users are actu-
+ally digital devices that engage with the systems 
+automatically.
+To promote ease of access to NLM 
+resources, interfaces that are more 
+uniform across NLM platforms will 
+be developed. It will explore voice, 
+gesture, and behavioral interfaces, 
+while attempting to ensure a 
+predictable experience.   
+GOAL
+2
+
+--- PAGE 23 matched=['GOAL 3', 'Goals and Objectives'] ---
+18
+GOAL 3: 
+Build a workforce for 
+data-dr
+iven research 
+and health
+ 
+To assure a future of data-driven discovery and health, it is essential to have 
+a biomedical informatics and data science workforce prepared to make 
+conceptual and methodological advances in analytics, visualization, mining, and 
+other methods needed to use data for discoveries and to make it interoperable 
+with existing knowledge. A new generation of librarians who are as capable of 
+collecting and disseminating data resources as they are with more familiar forms 
+of scholarly communications is also needed.  The roles of the informationist and 
+the librarian must expand to support a world where massive industrial search 
+engines provide immediate access to vast stores of knowledge, while threatening 
+to overwhelm the scholar, patient, and clinician with unfettered lists of potentially 
+relevant resources.  
+NLM must also play a role in creating a broader biomedical sciences workforce 
+capable of data-driven discovery. New approaches to investigation will exist side-
+by-side with familiar experimental and exploratory methodologies.  Training must 
+foster the development of scholars with expertise in both biomedical informatics or 
+data science and expertise in a biomedical or clinical domain. Both are needed in 
+order to develop and deploy usable and useful applications harnessing the power 
+of data to advance knowledge and improve health.
+Goals and Objectives
+
+--- PAGE 24 matched=['GOAL\n3', 'mission'] ---
+19
+Workforce development is a cornerstone of NLM ’s mission. Training initiatives 
+tha
+t prepare researchers for the evolving challenges of data-driven research 
+will complement training that provides rapid, just-in-time and just-as-needed 
+prepa
+ration for scientists and others. Current programs will be expanded and 
+revise
+d to seize scientific opportunities, form new partnerships, build capacit y, and 
+ensure a robust workforce for scientific discovery in the coming decades. Novel 
+models of t
+raining, from three-minute videos to immersive, group-based problem-
+solvin
+g challenges, will engender team science skills and interdisciplinary learning. 
+Initiatives to increase the size and expertise of the workforce will include a focus 
+on strategies to recruit, develop, and retain talent in biomedical informatics and 
+data science. NLM will also engage in efforts to inspire the next generation in the 
+power of data and information for progress in science and better health. 
+Obje
+ctiv
+e 3.1:  
+Expand and enhance research training for biomedical 
+informatics and data science
+NLM has primary responsibility for ensuring an 
+adequate supply of advanced research scientists 
+to conduct research in biomedical informatics 
+and data science and to serve as mentors and 
+trainers of the next generation. Important skills 
+for all researchers include being prepared to 
+“compute in context;” extract meaning and 
+insight from aggregations of
+ data; and create 
+new ways to analyze, visualize, mine, and inte-
+grate data and information.  Specialists must 
+be developed to meet the challenge of
+ enabling 
+dynamic, real-time curation at the scale and 
+complexity that the future of biomedical data and 
+information holds. 
+NLM will train a new generation of data scientists 
+to complement its current doctoral training for 
+translational research, bioinformatics, con
+sumer 
+health informatics, and clinical and public health 
+informatics.  The emphasis on data science and 
+management of large and complex biomedical 
+big data will be expanded in NLM’s existing uni-
+versity-based training programs. This
+ will include 
+infusing data science with security and privacy 
+m anagement concepts in addition to next-gen-
+eration curation, dissemination, and analytic 
+approaches within data science.  This increased 
+focus will produce cadres of scientists who can 
+develop a new array of tools and approaches for 
+data, moving analytics beyond statistics, pre-
+sentation beyond visualization, and more.  NLM 
+is strongly committed to ensuring an enduring 
+professoriate for biomedical informatics, library 
+and information science, and data science. 
+Specialists must be developed to 
+meet the challenge of enabling 
+dynamic, real-time curation at the 
+scale and complexity that the future 
+of biomedical data and information 
+holds.   
+GOAL
+3
+
+--- PAGE 25 matched=['GOAL\n20', 'Objective 3'] ---
+Intramural training at NLM will be expanded 
+through full post-doctoral fellowships in bioinfor-
+matics and computational biology, educational 
+rotations in biomedical informatics, and 
+post-graduate fellowships in library and informa-
+tion science. Leveraging an intramural research 
+program on advanced analytics, NLM will offer 
+short-term and extended training engagements 
+involving interdisciplinary teams of scholars to 
+craft the next generation artificial intelligence 
+and machine learning methodologies. Particular 
+emphasis will be placed on generating innovative 
+methods to manage and disseminate the vast 
+electronic resources of the NLM. 
+Objective 3.2:  
+Assure data science and open science proficiency 
+Data science—accelerating i nsights from data 
+through purposeful methodologies—and op en 
+science—a commitment to making all aspects of 
+the research process from design to data acces-
+sible to scientists, professionals, and society 
+at large—combine to create a new paradigm 
+for training. Preparing a workforce to address 
+biomedical data science problems will involve 
+enhancing the computational and statistical skills 
+of researchers with biomedical knowledge, and 
+training computer scientists to apply their work to 
+biomedical problems. In deve
+loping training 
+approaches, NLM will combine these two cross-
+training goals to support the emerging field of 
+biomedical data science. To expand its training 
+initiatives, NLM will partner with other agencies, 
+universities, and online education providers. 
+Prepare clinicians and biomedical research-
+ers to utilize data resources and interpret 
+data science-based r esearch 
+findings.   NLM 
+will collaborate across NIH to develop a core 
+curriculum for data science training embedded 
+in institute specific training programs. It will 
+also help ensure that domain specific university 
+training and mid-career training awards meet 
+proficiencies for data science.  Working with 
+partners, NLM will identify strategies to facilitate 
+data science instruction in innovative ways such 
+as modular approaches or self-directed learn-
+ing, encompassing such topics as advanced 
+analytics, data standards, data 
+management, 
+reproducibility, and data sharing.
+Training for stewardship. Data stewardship is 
+fundamental to open science and must become 
+a fundamental component of every research 
+p roject and program. The commitment to open 
+science is expanding g
+lobally, with data shar-
+ing and reuse becoming the norm across many 
+biomedical research disciplines. Investigators 
+need assistance to ensure that data generated 
+in research projects will be findable, accessi-
+ble, interoperable, and reusable (FAIR) and will 
+be effectively managed and curated across the 
+research life cycle. As NIH develops new policies 
+that guide data management and data sharing, 
+NLM will develop tools and resources that help 
+research teams under
+stand and comply with 
+policies. 
+Preparing a workforce to address 
+biomedical data science problems 
+will involve enhancing the 
+computational and statistical skills 
+of researchers with biomedical 
+knowledge, and training computer 
+scientists to apply their work to 
+biomedical problems.
+GOAL
+20
+3
+
+--- PAGE 26 matched=['GOAL\n3', 'Objective 3'] ---
+Promote competencies in open science and data 
+science for information professionals.  
+As librarians and other information professionals 
+meet the evolving needs of scientific research 
+communities, they play a particularly important 
+role in fostering op
+en science, data management, 
+data
+ sharing, and development of repositories. 
+Programs that enable such roles in promoting 
+data and open science support—provided by 
+NLM, through NNLM, or in partnerships with 
+professional associations—ensure the availability of 
+a trained workforce to support data science, data 
+reuse, and responsible data stewardship.  
+With the growing participation in citizen science, 
+public librarians require special support and 
+information on data management and interpreta-
+tion of data-driven discovery. 
+NLM will share responsibility with educational 
+institutions,
+ industry, and other federal agen-cies 
+to ensure the development of a technical 
+workforce capable of supporting data-driven 
+discovery and advanced data management. 
+Post-baccalaureate
+ training programs in d ata 
+management, medical library science, and 
+clinical research data support are three such 
+opportunities. 
+GOAL
+3
+Objective 3.3:  
+Engage the next generation and promote data literacy
+Generations who grew up in a technological-
+ly-rich world bring a certain skill set to health 
+sciences and biomedical services. Developing 
+a workforce that is well prepared to meet the 
+challenges of 21st century science still requires 
+initiatives to develop an enthusiasm for science 
+and data at an early age. NLM will cultivate 
+and inspire the next generation of biomedical 
+informatics researchers, data scientists, and 
+information professionals. In collaboration with 
+public and private partners, NLM will develop 
+initiatives to spark students’ interest in science, 
+technology, engineering, and mathematics 
+(STEM). These initiatives will include ways to 
+identify skills that will be needed and design 
+targeted educational resources for learners from 
+elementary school to college.    
+Engagement with data is not limited to those 
+who work in formal research or clinical roles. 
+The public needs a basic level of scientific and 
+data literacy. NLM will work with organizations, 
+educational institutions, and public libraries to 
+contribute to increasing public understanding 
+and appreciation of science. 
+Developing a workforce that is well 
+prepared to meet the challenges of 
+21st century science still requires 
+initiatives to develop an enthusiasm 
+for science and data at an early age. 
+21
+
+--- PAGE 27 matched=['Strategic Plan'] ---
+Appendix A
+References and Notes
+National Institutes of Health (2015) 
+NIH-Wide Strategic Plan, Fiscal Years 2016-2020: Turning Discovery Into Health. [online]  
+Bethesda, MD: National Institutes of Health.  
+Available at: https://www.nih.gov/sites/default/files/about-nih/strategic-plan-fy2016-2020-508.pdf 
+[Accessed 23 Jan 2018].
+National Institutes of Health 
+Advisory Committee to the Director, National Library of Medicine Working Group (2015).  
+Final Report—June 11, 2015. [online]  
+Bethesda, MD: National Institutes of Health.  
+Available at: https://acd.od.nih.gov/documents/reports/Report-NLM-06112015-ACD.pdf  
+[Accessed 23 Jan 2018].
+National Institutes of Health, Data and Informatics Working Group (2012).  
+Draft Report to The Advisory Committee to the Director. [online]  
+Available at: https://acd.od.nih.gov/documents/reports/DataandInformaticsWorkingGroupReport.pdf  
+[Accessed 23 Jan 2018].
+1 NLM contributes to the Trans-NIH Minority Health and Health Disparities Strategic Plan and complies with  
+Section 2031(c)(B) of the 21st Century Cures Act.
+Appendix B
+NLM Authorizing Legislation and Executive 
+Branch Assignments 
+1956 The National Library of Medicine Act of 1956 (Public law 84-941) estab-
+lished the National Library of Medicine (NLM) by renaming the Armed Forces 
+Medical Library and transferring the Library to the Public Health Service in the 
+Department of Health, Education, and Welfare (DHEW). The Act defines NLM’s 
+purpose “… to assist the advancement of medical and related sciences and to 
+aid the dissemination and exchange of scientific and other information import-
+ant to the progress of medicine and to the public health.”  Its basic functions 
+are to acquire, preserve, and make available materials pertinent to medicine, 
+broadly defined; to prepare and make available indexes, catalogs, and bibliog-
+raphies of the materials; and to provide reference and research assistance.  The 
+Act also established the NLM Board of Regents to advise, consult with, and 
+make recommendations to the Secretary on matters of Library policy, includ-
+ing the acquisition of materials, the scope, content, and organization of Library 
+services, and the rules under which its materials, publications, facilities, and 
+services are made available to users. 
+Appendices
+22
+
+--- PAGE 29 matched=['Strategic Plan'] ---
+2008 The Consolidated Appropriations Act required NIH-funded investigators to sub-
+mit final peer-reviewed journal manuscripts to NLM’s PubMed Central, making 
+NIH’s previously voluntary public access policy mandatory.  This requirement 
+was made permanent in the Omnibus Appropriations Act, 2009.  
+2013 The President’s Office of Science and Technology Policy issued a directive 
+requiring all Federal agencies with more than $100 million per year in R&D 
+expenditures to establish and implement public access policies similar to NIH’s 
+and to develop policies for increasing access to digital data. As of 2018, all HHS 
+agencies and five other Federal departments and agencies had elected to use 
+PubMed Central to implement their policies. 
+Appendix C
+NLM Strategic Plan Planning Process
+Overall development of the 2017-2027 strategic plan was guided by the Board of 
+Regents Strategic Planning Subcommittee, which was appointed at the September 
+2016 meeting of the Board of Regents.  Members are Daniel R. Masys (co-chair), Jill 
+Taylor (co-chair), Robert A. Greenes, Eric J. Horvitz, James L. Olds, and Sandra I. 
+Martin. Discussions with the Board were held during its meetings in 2017, with final 
+approval at the February 2018 meeting.  
+Working in conjunction with NLM Planning staff, the Strategic Planning Subcommittee 
+of the Board of Regents identified four themes as a framework for considering NLM’s 
+priorities and future directions, and around which public input was solicited. 
+These themes were: 
+• Advancing data science, open science, and biomedical informatics
+• Advancing biomedical discovery and translational science
+• Supporting the public's health: clinical systems, public health systems
+and services, and personal health
+• Building collections to support discovery and health in the 21st century
+In addition, the following topics were considered across the four themes: partnerships, 
+user communities, user engagement and educational outreach, international engage -
+ment, health disparities, standards, infrastructure, workforce development, research 
+needs and funding.
+NLM engaged the broader community and its own staff in the strategic planning 
+process through several approaches: Request for Information (RFI), Expert Working 
+Groups, Institutional Training Site Visits, Staff Survey, and NLM Town Hall meetings.
+Request for Information  
+On November 8, 2016, NLM issued an RFI (https://grants.nih.gov/grants/guide/notice-
+files/NOT-LM-17-002.html) based on the four themes to solicit input from its broad 
+stakeholder community on goals and priorities for NLM's next strategic plan. The RFI 
+24
+
+--- PAGE 30 matched=['Strategic Plan', 'vision'] ---
+was active through January 23, 2017.  NLM received 111 responses from a wide range 
+of stakeholders including librarians, researchers, historians, first responders, nurses, 
+informaticians, associations, and the public. 
+In addition, more than 600 responses were reviewed i n response to the 2015 RFI 
+(https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-067.html) issued by NIH on 
+behalf of the NLM Working Group of the Advisory Committee to the NIH Director (ACD); 
+that report was designed to obtain input on a vision for the future of NLM in the context 
+of NLM's leadership transition and emerging NIH data science priorities. The subse-
+quent report of the ACD Working Group report issued in June 2015 also informed our 
+planning process (http://acd.od.nih.gov/reports/Report-NLM-06112015-ACD.pdf), as did 
+the ACD Data and Informatics Working Group Repor t of 2012 (https://acd.od.nih.gov/
+documents/reports/DataandInformaticsWorkingGroupReport.pdf ), and the NIH-Wide 
+Strategic Plan, Fiscal Years 2016-2020: Turning Discovery Into Health (https://www.nih.
+gov/sites/default/files/about-nih/strategic-plan-fy2016-2020-508.pdf). 
+Expert working groups  
+Working groups of outside experts were convened around each of the four themes, with 
+meetings held from March to May 2017. In these working groups, more than 100 people 
+met to consider ways to propel the NLM forward, strategically and meaningfully. A fifth 
+internal working group of NLM staff met to consider the reports from the four external 
+groups, generate additional ideas, and synthesize and prioritize recommendations.
+Training Site Visits 
+NLM leadership made a series of visits to NLM’s university-based training programs for 
+research careers in biomedical informatics and data science. The purpose of the visits 
+was to discuss the scope and characteristics of NLM’s training programs, particularly 
+local perceptions about the benefits and challenges being faced and their strategies for 
+incorporating data science into their programs. Separate meetings were held with three 
+groups at each location: faculty, program administrators, and trainees. Ten programs 
+were visited between October 2016 and June 2017, including five visits to private institu-
+tions and 5 to public institutions.  
+NLM Staff Input 
+A staff survey soliciting input about NLM operations was available online or in paper 
+format, which enabled anonymous responses to be placed in secure suggestion boxes 
+in each of the office buildings where NLM staff work. The NLM planning team reviewed 
+the 112 survey responses.  
+Town Hall meetings open to all Federal employees and contractors at NLM were held 
+in February 2017 and August 2017. The NLM leadership team shared information and 
+responded to questions about the planning process and the needs of NLM moving 
+into the next decade. The first meeting brought together 500 staff members, and 351 
+staff attended the second meeting. Staff questions covered a broad range of topics, 
+including data science, collections, media, global health, partnerships at NIH and in the 
+community, reorganization, communication, workforce development, facilities, and NLM 
+culture. 
+25
+
+--- PAGE 33 matched=['Division of '] ---
+Shannon D. Jones, MLS, M.Ed., AHIP 
+Director of Libraries & Associate Professor 
+Medical University of South Carolina Libraries
+Marty LaVenture, PhD, MPH, FACMI 
+Director 
+Office of Health IT, e-Health and Informatics 
+Minnesota Department of Health
+Cynthia A Lindquist, PhD, MPA
+President 
+Cankdeska Cikana (Little Hoop) Community 
+College (CCCC)
+Thomas S. Nesbitt, MD, MPH  
+Associate Vice Chancellor, Strategic 
+Technologies and Alliances  
+Director, Center for Health & Technology 
+Professor, Department of Family and Community 
+Medicine 
+UC Davis Health
+Casey Overby, PhD
+Assistant Professor, Divisions of General Internal 
+Medicine and Health Sciences Informatics  
+Department of Medicine 
+Johns Hopkins University
+Wanda Pratt, PhD
+Professor, Information School 
+Adjunct, Division of Biomedical & Health 
+Informatics, Medical School 
+University of Washington
+Eric C. Schneider, MD, MSc, FACP
+Senior Vice President for Policy and Research 
+The Commonwealth Fund
+William W. Stead, MD 
+Chief Strategy Officer 
+McKesson Foundation Professor of Biomedical 
+Informatics 
+Professor of Medicine 
+Vanderbilt University Medical Center
+Paul Tang, MD, MS
+Vice President  
+IBM Watson Health
+Jill Taylor, PhD
+Director, Wadsworth Center 
+Faculty, Wadsworth School of Laboratory 
+Sciences 
+New York State Department of Health
+Andrew (Andy) M. Wiesenthal, MD, SM 
+Managing Director  
+Health Care Practice  
+Deloitte Consulting, LLP
+Role of NLM in Building Collections to Support Discovery 
+and Hea
+lth in the 21st Century
+Chair:
+Patricia (Pat) L. Thibodeau, MLS, MBA
+Associate Dean for Library Services and Archives (Retired April 2017) 
+Duke Medical Center Library & Archives
+Members:
+Amy Bernard, PhD
+Product Architect 
+Allen Institute for Brain Science
+Laura Brown, MA, MFA
+Executive Vice President 
+Ithaka 
+JSTOR Managing Director
+Sayeed Choudhury, MS
+Associate Dean, Research Data Management  
+Director, Digital Research and Curation Center 
+Sheridan Libraries  
+Johns Hopkins University
+Yolanda Cooper, BGS, MLS
+University Librarian 
+Robert W. Woodruff Library 
+Emory Libraries and Information Technology
+28
+
+--- PAGE 36 matched=['Division of '] ---
+Working Group of NLM Internal Experts
+Chair:
+Michael F. Huerta, PhD
+NLM Coordinator of Data & Open Science Initiatives 
+Associate Director for Program Development
+Members:
+Stacey Arnesen, MS
+Head, Office of Disaster Information Management 
+Research Center (DIMRC) 
+Division of Specialized Information Services 
+Joyce Backus, MS
+Associate Director for Library Operations
+Ivor D’Souza, MS
+Director, Information Systems 
+Office of Computer and Communications 
+Systems
+Todd Danielson, MS
+Executive Officer and Associate Director for 
+Administrative Management
+Dina Demner-Fushman, MD, PhD
+Staff Scientist, Computer Engineering Branch  
+Lister Hill National Center for Biomedical 
+Communications 
+Valerie Florance, PhD
+Associate Director for Extramural Programs 
+Kathryn Funk, MLIS
+Program Specialist, PubMed Central  
+National Center for Biotechnology Information
+Pertti (Bert) Hakkinen, PhD
+Acting Head, Office of Clinical Toxicology 
+Division of Specialized Information Services  
+Stefan Jaeger, PhD
+Visiting Scientist, Computer Engineering Branch  
+Lister Hill National Center for Biomedical 
+Communications
+David Landsman, PhD
+Chief, Computational Biology Branch 
+Bioinformatics of Chromatin Structure Group 
+National Center for Biotechnology Information 
+Wei Ma, MS
+Chief, Applications Branch 
+Office of Computer and Communications 
+Systems 
+Jennifer Marill, MS, MA
+Chief, Technical Services Division 
+Divisio
+n of Library Operations 
+James G. Mork, MS
+Computer Scientist, Computer Engineering 
+Branch & Lead Developer and Technical Project 
+Lead, Medical Text Indexer (MTI) project 
+Lister Hill National Center for Biomedical 
+Communications
+Duc Nguyen, MS
+Chief, Medical Language Branch 
+Office of Computer and Communications 
+Systems
+Ilene Mizrachi, PhD
+Staff Scientist, GenBank
+National Center for Biotechnology Information 
+Jeffrey S. Reznick, PhD
+Chief 
+History of Medicine Division 
+Division of Library Operations
+Valerie Schneider, PhD
+Staff Scientist, RefSeq 
+National Center for Biotechnology Information 
+Jerry Sheehan, MS
+Assistant Director for Policy Development 
+Office of the Director
+Hua-Chuan Sim, MD
+Chief Program Officer, Clinical and Public Health 
+Informatics Research, Applied informatics and 
+Career Awards 
+Extramural Programs Division
+31

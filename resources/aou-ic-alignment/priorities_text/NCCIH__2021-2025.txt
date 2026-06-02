@@ -1,0 +1,2137 @@
+# NCCIH (2021-2025) — file: NCCIH_Strategic_Plan_2021-2025.pdf
+# 57 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+U.S. Department of Health & Human Services — National Institutes of Health
+Strategic Plan
+Mapping a Pathway to Research 
+on Whole Person Health  
+FY 2021–2025
+
+--- PAGE 3 matched=['Objective 1', 'priority area ', 'strategic plan'] ---
+1
+Executive Summary
+The National Center for Complementary and Integrative 
+Health (NCCIH) was created more than 20 years ago to 
+facilitate the study and evaluation of complementary and 
+alternative health practices. During the past two decades, 
+NCCIH has expanded the scientific knowledge base around 
+these practices and established resources to disseminate this 
+information to the public—ultimately impacting their use. The 
+Center has worked to advance the position that evidence-
+based complementary therapies should be “integrated” with 
+and not used as an “alternative” to conventional medicine.
+NCCIH’s new strategic plan for Fiscal Years (FY) 2021–2025 
+expands the definition of integrative health to include whole 
+person health, that is, empowering individuals, families, 
+communities, and populations to improve their health in 
+multiple interconnected domains: biological, behavioral, social, 
+and environmental. The plan has been informed and shaped 
+by an effort to better define and map a path to whole person 
+health by expanding and building on current activities while 
+advancing new research strategies and ideas. 
+The plan has five major objectives:
+Objective 1: Advance fundamental science and methods 
+development. NCCIH prioritizes research to fill gaps in 
+our understanding of the mechanisms by which complex 
+complementary approaches exert their effects. We also 
+recognize the need for methods development to support 
+rigorous studies of complex botanical products, integrated 
+multicomponent therapeutic systems, health restoration 
+and resilience, and the dissemination and implementation of 
+evidence-based complementary approaches.
+Objective 2: Advance research on the whole person and 
+on the integration of complementary and conventional care. 
+NCCIH seeks to support basic, translational, and clinical 
+research on the interaction of multiple physiological systems 
+and the therapeutic effects of multicomponent interventions. 
+The Center is particularly interested in studies conducted in 
+real-world settings and research that focuses on improving 
+health outcomes.
+Objective 3: Foster research on health promotion and restoration, resilience, disease 
+prevention, and symptom management. Focused research is needed to understand why 
+people make healthy, unhealthy, or risky choices and to elucidate the impact of these 
+choices on short- and long-term health. Another priority area for NCCIH is expanding the 
+knowledge base about how complementary health approaches may improve resilience, 
+restore health, and manage symptoms in both the short and long term.
+NCCIH Strategic Plan FY 2021–2025
+U.S. Department of Health & Human Services
+National Institutes of Health
+“Much progress has been made  
+in the research areas that  
+form the NCCIH portfolio since 
+our last strategic plan was 
+released, and we are now ready 
+to integrate this knowledge  
+into a whole person approach.”
+Helene Langevin, M.D.
+NCCIH Director
+Our Mission
+The mission of NCCIH is to 
+determine, through rigorous 
+scientific investigation, the 
+fundamental science, usefulness, 
+and safety of complementary 
+and integrative health 
+approaches and their roles in 
+improving health and health care.
+Our Vision
+Scientific evidence informs 
+decision making by the public, 
+health care professionals, 
+and health policymakers 
+regarding the integrated use 
+of complementary health 
+approaches in a whole person 
+health framework. 
+
+--- PAGE 4 matched=['Objective 4', 'Strategic Plan'] ---
+2
+Objective 4: Enhance the complementary and integrative health research workforce. 
+NCCIH supports research training and career development programs to increase the 
+number and diversity of well-trained scientists to conduct rigorous complementary and 
+integrative health research. The Center will continue to promote strategies to enhance 
+diversity of the workforce, enhance the clinician-scientist career pathway at both 
+the individual and institutional levels, and enhance the transition of Research Career 
+Development (K) awardees to independent research careers.
+Objective 5: Provide objective evidence-based information on complementary and 
+integrative health interventions. Translating and disseminating scientific information about 
+complementary and integrative health to the public is challenging. Misinformation abounds 
+on these topics, and individuals who use complementary health interventions often do not 
+discuss them with their conventional health care providers. NCCIH will continue to present 
+scientifically objective evidence-based information on complementary and integrative health 
+and to develop methods and resources to enhance the public’s understanding of basic 
+scientific concepts to lay a foundation for improved decision making.
+In addition to working toward these specific objectives, NCCIH is committed to serving  
+as an efficient and effective steward of public resources:
+—  To support the goal of improving women’s and minority health and eliminating health 
+disparities, NCCIH will fund research with diverse populations and promote a diverse 
+scientific workforce.
+—  To ensure that research funded by NCCIH contributes to improved public health and 
+health care, NCCIH will set research priorities that reflect public health needs, scientific 
+promise, amenability of topics to rigorous scientific inquiry, potential to impact health 
+care practices, and relationship to use and practice.
+—  NCCIH will continue to seek out opportunities to collaborate with other components of 
+the National Institutes of Health (NIH), other Federal agencies, professional societies, 
+patient advocacy groups, and others. Through these collaborations, the Center 
+enhances its research portfolio, expands its multidisciplinary expertise, and incorporates 
+a broader understanding of the health needs and perspectives of the community.
+CC I HN
+Includes complementary 
+therapies, practices, and 
+systems that use nutritional, 
+physical, and/or psychological 
+approaches and may have 
+originated outside of 
+conventional medicine 
+Advances research on the 
+integration of complementary 
+and conventional care and 
+integrative approaches to 
+physiology, pathophysiology, 
+and treatment
+Addresses health promotion 
+and restoration, resilience, 
+disease prevention, and 
+symptom management 
+NCCIH Strategic Plan FY 2021–2025
+Executive Summary
+As part of the strategic planning 
+process, NCCIH has examined 
+the meaning of the terms 
+complementary, integrative, and 
+health in the Center’s name and 
+has transitioned to more inclusive 
+definitions to reflect a whole 
+person approach.
+
+--- PAGE 5 matched=['Objective 1', 'Strategic Plan'] ---
+3
+ 
+ 
+Contents
+ 5  Director’s Message
+  9 Introduction
+17 Objective 1: Advance Fundamental Science and Methods Development
+—  Advance basic and mechanistic research relevant to nutritional, psychological, and/or 
+physical approaches.
+—  Develop methods, tools, and technologies to study complementary health diagnostic, 
+treatment, and prevention modalities and systems.
+—  Develop outcome measures to quantify health restoration and resilience.
+—  Develop methods to conduct implementation science and effectiveness research on 
+complementary and integrative health approaches.
+25 Objective 2:  Advance Research on the Whole Person and on the  
+ Integration of Complementary and Conventional Care
+—  Promote basic and translational research to study how physiological systems interact 
+with each other.
+—  Conduct clinical and translational research on multicomponent interventions, and 
+study the impact of these interventions on multiple physiological systems (e.g., 
+nervous, gastrointestinal, and immune systems) and domains (e.g., biological, 
+behavioral, social, environmental).
+—  Foster multicomponent intervention research that focuses on improving health 
+outcomes.
+—  Conduct studies in real world settings, where interventions are routinely delivered, to 
+test the integration of complementary approaches into health care.
+31 Objective 3: Foster Research on Health Promotion and Restoration,  
+ Resilience, Disease Prevention, and Symptom Management
+—  Advance the understanding of mechanisms through which complementary and 
+integrative health approaches affect health restoration, resilience, and well-being.
+—  Investigate the safety and efficacy of complementary health approaches and 
+integrative treatment strategies for health promotion and restoration, resilience, 
+disease prevention, and symptom management in diverse populations and settings.
+—  Conduct rigorous clinical studies on the effectiveness, dissemination, and 
+implementation of complementary health approaches into health care.
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 6 matched=['Objective 4', 'Scientific Priorit', 'Strategic Plan'] ---
+4
+37 Objective 4: Enhance the Complementary and Integrative Health Research Workforce
+—  Support research training and career development opportunities to increase the 
+diversity and number of well-trained scientists conducting rigorous, cutting-edge 
+research on complementary and integrative health practices.
+—  Foster interdisciplinary collaborations and partnerships at individual and  
+institutional levels.
+41 Objective 5: Provide Objective, Evidence-Based Information  
+ on Complementary and Integrative Health Interventions
+—  Disseminate evidence-based information on complementary and integrative health 
+interventions, as well as information about ongoing research, including whole person 
+research, that examines the connections that exist across domains of human health.
+—  Continue to develop methods and approaches to enhance public understanding of 
+basic scientific concepts and biomedical research.
+45 Serving as an Efficient and Effective Steward of Public Resources
+53 Top Scientific Priorities
+54 Research on Whole Person Health
+56 Interoception Research
+58 Health Restoration, Resilience, Disease Prevention, and Health Promotion  
+Across the Lifespan
+61 Implementation Science for Complementary and Integrative Health
+63 Complementary and Integrative Management of Pain
+66 Complex Interactions Involving Nutritional Interventions
+69 Enhancing the Complementary and Integrative Health Research Workforce
+72 Mechanisms and Biomarkers of Mind and Body Approaches
+74 Supporting Impactful Clinical Trials of Complementary and Integrative  
+Health Approaches
+76 Communications Strategies and Tools To Enhance Scientific Literacy and 
+Understanding of Clinical Research
+78 Appendix
+NCCIH Strategic Plan FY 2021–2025
+Contents
+
+--- PAGE 7 matched=['Strategic Plan', 'mission'] ---
+5
+ 
+ 
+Director’ s Message
+This unprecedented year has been a reminder of the importance of rigorous scientific 
+investigation in ensuring and promoting human health. COVID-19 may be the first major 
+pandemic we have seen in our lifetimes, but Americans have been facing the realities 
+of “noncommunicable epidemics” for some time—opioid abuse, chronic pain, obesity, 
+diabetes, and suicide. These persistent and related public health crises underline the 
+systemic challenges we must recognize and take on if we are to improve our society’s 
+overall state of health. Multiple chronic conditions in individuals, such as obesity, diabetes, 
+cardiovascular disease, and degenerative joint disease, are not only comorbid with chronic 
+pain, depression, opioid addiction, and suicide but also share common contributing factors 
+such as poor diet, sedentary lifestyle, environmental exposures, and chronic stress—often 
+the consequences of poverty and food and housing insecurity. The domino effect of 
+chronic conditions is seen in the disproportionate toll they take on Latino, Black, American 
+Indian, Alaska Native, and other communities that are often underserved in our health care 
+ecosystem. We have certainly witnessed the dire consequences of these effects during the 
+COVID-19 pandemic, which illustrates how chronic underlying conditions pose immediate 
+and long-term risks to those infected.
+Now, more than ever, we need to look at the multiple factors that promote either health or 
+disease and scientifically consider the whole person as a complex system in which health 
+and disease are part of a bidirectional continuum. Our current biomedical research model 
+is superb in advancing the diagnosis and pharmacologic treatment of organ-specific 
+diseases with growing precision. This knowledge is based on an increasingly sophisticated 
+understanding of pathogenesis, or the mechanisms by which diseases occur. On the other 
+hand, health restoration through self-care, lifestyle, or behavioral interventions is much less 
+studied. Examples of health restoration, or “salutogenesis,” would be the return to health 
+after an acute viral illness or flareup of a chronic condition; normalization of cholesterol, 
+hemoglobin A1C, and/or blood pressure in a patient with metabolic syndrome through 
+lifestyle modification; and return to function and mobility following a musculoskeletal injury. 
+We currently do not know whether salutogenesis consists of “pathogenesis in reverse” or 
+whether it requires some specific salutogenic or healing pathways to be engaged to bring 
+an individual back toward health. Unlike the treatment of disease with drugs that target 
+specific molecular pathways, health restoration through salutogenesis is likely complex  
+and multifactorial and involves the whole person. Advancing research on whole person 
+health will support the investigation of nondrug and noninvasive approaches to improve  
+and restore health.
+Meeting this challenge is right up our alley. By its nature, the mission of NCCIH includes 
+both integration and health. NCCIH was created more than 20 years ago to facilitate 
+the study and evaluation of complementary and alternative medical practices and to 
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 8 matched=['strategic plan', 'Vision', 'mission'] ---
+6
+disseminate the resulting information to the public. Over time, we incorporated a focus on 
+integrative health research to bring conventional and complementary approaches together 
+in a safe, coordinated way with the goal of improving clinical care for patients, promoting 
+health, and preventing disease. Now, we are expanding our definition of integrative 
+health to include whole person health, or empowering individuals, families, communities, 
+and populations to improve their health in multiple interconnected domains: biological, 
+behavioral, social, and environmental. This strategic plan, built on the foundation NCCIH 
+has fostered for two decades, continues to advance our mission through an effort to 
+better define and map a path to whole person health. We will do this by building on current 
+activities and existing collaborations with other NIH Institutes, Centers, and Offices while 
+advancing new strategies and ideas. The objectives and strategies listed here will also 
+be considered through the lens of minority health and health disparities, such that the 
+knowledge they generate is inclusive of populations with the greatest needs.
+The objectives and strategies presented in this 5-year plan reflect our continued 
+commitment to advancing fundamental science and methods development for both basic 
+and clinical research. We also present strategies to advance research on whole person 
+health and the integration of complementary and conventional care. And with the goal of 
+improving and restoring health rather than just treating disease, we offer strategies to foster 
+research on health promotion and restoration, resilience, disease prevention, and symptom 
+management. As always, we remain committed to enhancing the complementary and 
+integrative health research workforce and disseminating what we learn. 
+From April 2020 through July 2020, we offered stakeholders several ways to contribute their 
+thoughts and feedback on this plan. This included responding to a request for information 
+(RFI) (https://grants.nih.gov/grants/guide/notice-files/NOT-AT-20-013.html) using a web form 
+or by email. The Center broadly disseminated information throughout the process to its 
+many stakeholder groups and individuals. In May 2020, we hosted the webinar and town 
+hall Whole Person Health: Mapping a Strategic Vision for NCCIH ( https://www.nccih.nih.
+gov/news/events/whole-person-health-mapping-a-strategic-vision-for-nccih-webinar-town-
+NCCIH Strategic Plan FY 2021–2025
+Director’s Message
+Health
+Disease
+Individual
+Family
+Biological
+Behavioral
+Social
+EnvironmentalEnvironmental
+Community
+PopulationMultilevel Whole Person  
+ Health Framework
+
+--- PAGE 9 matched=['strategic plan', 'research areas'] ---
+7
+hall) in conjunction with the International Congress on Integrative Medicine and Health. In 
+July 2020, a Center-hosted Town Hall and Public Comment Session (https://www.nccih.
+nih.gov/news/events/nccih-strategic-planning-town-hall-public-comment-session) invited 
+comments from stakeholders, experts, communities, and members of the public, including 
+but not limited to researchers and trainees across academia, industry, and government; 
+health care providers and health advocacy organizations; nongovernmental, scientific, and 
+professional organizations; and Federal agencies.
+The draft strategic plan was posted to the NCCIH website in February 2021, and an  
+RFI was issued for public comment on the draft ( https://grants.nih.gov/grants/guide/
+notice-files/NOT-AT-21-005.html). The National Advisory Council for Complementary and 
+Integrative Health provided input into the strategic planning process and received  
+updates during its public sessions in September 2019; February, June, and September 
+2020; and January 2021.
+As director of the Center, I am confident that our diligence in hearing from a diverse group 
+of stakeholders has helped us develop a set of research priorities guided by attention to 
+public health needs, scientific promise, amenability of topics to rigorous scientific inquiry, 
+potential to impact health care practices, and relationship to use and practice. We know 
+that priorities can change—2020 certainly taught us that—so we must always have our 
+ears to the ground and our eyes on the sky. Priorities and innovation can come through 
+investigator-initiated applications as well as from programmatically directed funding 
+initiatives. We must always be agile and responsive to challenges and opportunities that 
+come our way.
+Much progress has been made in the research areas that form the NCCIH portfolio  
+since our last strategic plan was released, but there is still much to do. As we look forward 
+to the next 5 years, we will continuously think strategically about existing programs and 
+priorities, the growing evidence base, research capacity, scientific opportunities, and public 
+health needs.
+— Helene Langevin, M.D.
+    NCCIH Director
+Mapping a Pathway to Research on Whole Person Health
+
+--- PAGE 10 matched=['Strategic Plan'] ---
+8
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 11 matched=['Strategic Plan', 'Vision', 'Mission'] ---
+9
+ 
+ 
+Introduction
+Mission The mission of NCCIH is to determine, 
+through rigorous scientific investigation, the fundamental 
+science, usefulness, and safety of complementary and 
+integrative health approaches and their roles in improving 
+health and health care.
+Vision Scientific evidence informs decision 
+making by the public, health care professionals, and 
+health policymakers regarding the integrated use of 
+complementary health approaches in a whole person  
+health framework.
+NCCIH is the lead Federal agency for scientific research on the fundamental science, 
+usefulness, and safety of complementary and integrative treatments and practices. To 
+address the need for objective evidence on the safety and efficacy of these approaches, 
+NCCIH supports rigorous scientific investigation to better understand how these 
+interventions impact health, for whom, and the optimal methods of practice and delivery.
+NCCIH supports research on a diverse group of nondrug and noninvasive health practices 
+encompassing nutritional, psychological, and physical approaches that may have originated 
+outside of conventional medicine, many of which are gradually being integrated into 
+mainstream health care. These include natural products, such as dietary supplements, 
+plant-based products, and probiotics, as well as mind and body approaches, such as 
+yoga, massage therapy, meditation, mindfulness-based stress reduction, spinal/joint 
+manipulation, and acupuncture. In clinical practice, these approaches are often combined 
+into multicomponent therapeutic systems, such as traditional Chinese medicine, Ayurveda, 
+chiropractic, osteopathy, and naturopathy, that have distinctive underlying diagnostic 
+and theoretical frameworks. Integrative health care seeks to bring conventional and 
+complementary approaches together in a safe, coordinated way with the goal of improving 
+clinical care for patients, restoring health, promoting resilience, and preventing disease.
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 12 matched=['strategic plan', 'vision', 'mission'] ---
+10
+NCCIH, formerly known as the National Center for Complementary and Alternative 
+Medicine (NCCAM), was created more than 20 years ago to facilitate the study and 
+evaluation of complementary and alternative medical practices and to disseminate 
+the resulting information to the public. At that time, these practices were growing in 
+popularity and availability, but little was known about their safety and efficacy. In addition, 
+people rarely discussed their use of complementary approaches with their health care 
+providers; many were unaware that certain natural products may interfere with prescribed 
+medications; and some used these approaches as an alternative to conventional medical 
+care. NCCIH was created to address this scientific and public health need. In addition, 
+NCCIH has worked to advance the position that evidence-based complementary therapies 
+should be “integrated” with and not used as an “alternative” to conventional medicine.  
+The name of the Center was changed in 2014 from NCCAM to NCCIH to reinforce this 
+position. In the last 20 years, the Center has helped build the infrastructure to conduct 
+rigorous scientific research on complementary health approaches. The Center has 
+expanded the scientific knowledge base around these practices and established resources 
+to disseminate this information to the public—ultimately impacting their use. As we look  
+to the future, NCCIH will build upon the foundation established over the last 20 years to 
+propel the field forward.
+ 
+Building a Path to Whole Person Health 
+Whole person health is not altogether a new goal. A whole person health perspective has 
+been central to NCCIH’s mission dating back to its origins. The Center’s current definition 
+of “integrative health” refers to treatment of the whole person as opposed to separate organ 
+systems. Integrative health also aims for well-coordinated care among different providers 
+and institutions by bringing conventional and complementary approaches together to care 
+for the whole person. Further, one of the Center’s longstanding strategic objectives is to 
+foster health promotion and disease prevention, central tenets of whole person health. 
+This strategic plan has been informed and shaped by an effort to better define and map a 
+path to whole person health by expanding and building on current activities while advancing 
+new research strategies and ideas to promote its realization. The concept of whole person 
+health will continue to evolve, just as the concept of complementary medicine has changed 
+over time as the line between conventional and complementary medicine has increasingly 
+become blurred.
+What Is Whole Person Health?
+Whole person health is a concept and a vision as well as an organizing principle. There 
+are many ways to promote and achieve it, and methods and strategies will evolve as 
+understanding and refinement of this concept mature over time. 
+Any kind of knowledge base includes both analysis and synthesis: analysis breaks things 
+down into individual components, and synthesis puts them back together to understand 
+the whole. For more than a century, biomedicine has been strongly pulled toward analysis, 
+from its early organization into organ systems in the late nineteenth century to cellular 
+and molecular biology with its increasingly detailed understanding of cells, molecules, 
+genetics, and signaling pathways. In the last few decades, systems biology, derived from 
+ecology, has begun to influence biomedica
+
+--- PAGE 14 matched=['Strategic Plan'] ---
+12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How To Study Whole Person Health? 
+Research on whole person health aims to identify the gaps in our knowledge of the 
+progression from health to disease and from disease back to health. It also may identify 
+gaps in integration of care to develop multicomponent interventions that not only prevent 
+progression to disease but also restore an improved state of health, as well as systems-
+level interventions to improve access to and/or reimbursement for these interventions. In 
+addition, complementary health approaches such as yoga, mindfulness meditation, and tai 
+chi impact multiple systems of the body (e.g., respiratory, neural, and musculoskeletal). This 
+makes thinking about health in terms of the whole person important to understanding the 
+role of complementary approaches in promoting health and preventing disease. 
+Strategic plans in the early history of the Center expressed an interest in exploring many 
+paths, including research on systems of care such as traditional Chinese medicine, 
+Ayurveda, and naturopathy. This type of research is challenging to conduct, and there were 
+many stumbling blocks along the way. Figuring out the right methods for studying complex 
+interventions was perplexing. As a result, many of the studies did not bear fruit. 
+In subsequent years, there was a concerted effort to address this problem by focusing  
+on specific strategically chosen areas, such as natural products and mind and body 
+therapies. There was also a decision to focus on symptom management, especially for 
+pain, anxiety, and depression, which are some of the main reasons driving the use of 
+complementary therapies. NCCIH also supported methods development for both basic 
+science and clinical trials. The development of methodologies for conducting rigorous 
+pragmatic trials was particularly important and will be invaluable for conducting research  
+on whole person health. 
+NCCIH Strategic Plan FY 2021–2025
+Introduction
+Integrated Approach to  
+Multisystem Health Restoration
+Psychological
+stress
+Sedentary
+lifestyle
+Poor diet
+Self care
+Multicomponent 
+interventions
+Psychological
+Nutritional
+Physical
+Healthy Less Healthy Disease
+
+--- PAGE 16 matched=['Strategic Plan', 'mission'] ---
+14
+Reframing How We Think About  
+Natural Products and Mind and Body Practices
+Until now, NCCIH has classified its extramural research portfolio into two areas—mind and 
+body practices and natural products. However, the field of complementary and integrative 
+health is expanding and the line between conventional and complementary approaches 
+is blurring. Therefore, we propose that it is time to reframe the way we think about the 
+research we support into new categories: nutritional, psychological, and physical. 
+To ensure continuity, the Center is not abandoning its mind and body practices and 
+natural products terminology or research but is recategorizing the approaches that fall 
+within our research mission based on their primary therapeutic input. This categorization 
+illustrates where there are partially overlapping boundaries, including with pharmacologic 
+drugs and devices. For example, a single natural product can be available as a food or 
+food component, dietary supplement, or medication (e.g., niacin). Foods, probiotics, and 
+dietary supplements, such as fish oil, are often used as part of a healthy diet and are also 
+frequently recommended by practitioners. Mind and body practices, such as mindfulness-
+based stress reduction, can overlap with more conventional practices like psychotherapy. 
+For example, cognitive behavioral therapy increasingly incorporates relaxation, meditation, 
+and other modalities.
+Many of the mind and body therapies, such as yoga, tai chi, and acupuncture, have 
+both physical and psychological components. There is also an overlap between the 
+psychological and nutritional categories in the form of mindful eating. 
+ 
+Looking at complementary therapies one by one is still important and necessary, but 
+it is also important to think about how these therapies are used in combinations as 
+multicomponent interventions. 
+  
+CC I HN
+Includes complementary 
+therapies, practices, and 
+systems that use nutritional, 
+physical, and/or psychological 
+approaches and may have 
+originated outside of 
+conventional medicine 
+Advances research on the 
+integration of complementary 
+and conventional care and 
+integrative approaches to 
+physiology, pathophysiology, 
+and treatment
+Addresses health promotion 
+and restoration, resilience, 
+disease prevention, and 
+symptom management 
+NCCIH Strategic Plan FY 2021–2025
+Introduction
+
+--- PAGE 18 matched=['Strategic Plan'] ---
+16
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 19 matched=['Strategic Plan', 'mission'] ---
+17
+1OBJECTIVE
+ 
+Advance Fundamental Science  
+and Methods Development
+Fundamental scientific inquiry is essential to the 
+progress of biomedical research because it enhances 
+the understanding of how living systems work. This 
+understanding serves as a foundation for translational  
+and clinical studies that can lead to improved approaches 
+for the management, treatment, and prevention of  
+numerous symptoms and conditions and an ultimate 
+restoration of health.
+NCCIH’s basic research seeks to understand the nature and scientific principles of 
+complementary health approaches such as their biology, physiology, and physical, 
+chemical, and behavioral properties. This includes research on basic physiological and 
+pathophysiological mechanisms relevant to complementary and integrative health. It also 
+includes identifying and understanding the active components of a complementary health 
+approach and how these components produce effects. Depending on the question, basic 
+and mechanistic studies may be performed in the laboratory, in experimental models, or 
+with human volunteers. The development of tools, models, measures, and methodologies 
+for performing these investigations is at the cornerstone of NCCIH’s mission. 
+From the outset, complementary and integrative health research has addressed and 
+met methodological challenges stemming from the recognition that natural products are 
+complex mixtures, and that interventions such as yoga involve both contemplative and 
+movement practices. Given the complexity of the approaches we study, the development of 
+sound research design and analytic methods is vital to NCCIH’s mission. 
+STRATEGIES
+1  
+Advance basic and mechanistic research relevant to  
+nutritional, psychological, and/or physical approaches.
+Nutritional approaches
+NCCIH has a broad interest in studying the biological activities of natural products, such 
+as prebiotics, probiotics, dietary supplements, botanicals, and vitamins. A strong research 
+emphasis is placed on products for which there is compelling preclinical evidence for 
+potential biological activity that may lead to a health benefit or treatment intervention, and/
+or products that are widely used by the American public. Many of the natural products used 
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 20 matched=['OBJECTIVE 1', 'Strategic Plan'] ---
+18
+by individuals are complex, with multiple molecular constituents that may contribute  
+to their effects. To fully understand the activity of complex mixtures, it is necessary to 
+identify the individual components responsible for a specific activity and determine how 
+those components interact with other components and biological targets. Preclinical  
+model systems are valuable for these studies. Clinical trials of natural products are 
+maximally informative if they incorporate well-formulated biological hypotheses, are built 
+on a sound foundation of basic mechanistic and pharmacologic understanding, and 
+incorporate assessment of defined signatures of biological effects. Thus, the design  
+of maximally informative clinical efficacy trials of natural products requires mechanistic 
+insight as a first step.
+The CARBON Program
+Plants and plant-derived products are widely consumed for basic nutrition, to promote 
+health and well-being, and for medicinal purposes, worldwide and in the United States. 
+Despite this prevalent use, the mechanisms of action and efficacy of many of these 
+products have not been rigorously evaluated, and the challenges of doing research 
+on these complex materials continue to slow progress toward understanding their 
+contributions to public health. The Consortium for Advancing Research on Botanicals and 
+Other Natural Products (CARBON) Program was launched in 1999 to support research into 
+the safety, effectiveness, and mechanisms of action of botanical dietary supplements that 
+have a high potential to benefit human health.
+The CARBON program had its origins with a small number of Botanical Research Centers 
+funded originally in 1999 in response to a Congressional mandate to the Office of Dietary 
+Supplements (ODS) to initiate a program to support botanical research. NCCIH has 
+been a partner on this program from the beginning. Together NCCIH and ODS funded 
+Botanical Research Centers that were tasked with identifying and characterizing botanicals, 
+assessing the chemical components of botanicals, exploring their mechanisms of action, 
+conducting preclinical and clinical evaluations, and training the next generation of scientific 
+researchers. NCCIH and ODS continue to shape the program to tackle the scientific 
+gaps in the field while also addressing shared research priorities. In 2015 and 2020, new 
+components were added to the program focusing on development of novel technology 
+looking at how natural products can affect the many features of cells and specific proteins 
+and on the development of a new nuclear magnetic resonance (NMR) data repository. 
+These and other innovative approaches will break through existing bottlenecks that have 
+hampered progress in natural products research. These additions have ushered in a more 
+collaborative environment for the program where the Centers work closely with each other 
+on specific projects.
+In the 20-year history of the program, the Centers have provided rigorous scientific data 
+on the usefulness of a wide range of botanical products, generated research resulting 
+in hundreds of peer-reviewed publications, and trained numerous early-stage scientists. 
+Many of the botanical supplements studied in these Centers—such as black cohosh, bitter 
+melon, chasteberry, fenugreek, grape seed extract, hops, maca, milk thistle, licorice, and 
+valerian—are among the top 100 supplements consumed in the United States based on 
+sales data. The data generated from these and other
+
+--- PAGE 21 matched=['research area'] ---
+19
+NCCIH will continue to support research on isolated natural product compounds  
+as well as on the complex mixtures from which they originate. Studies may also focus 
+on both the potential beneficial and harmful effects of natural products, including 
+their interactions with medications. NCCIH-supported studies may also include the 
+characterization of novel natural products or discovering the biological activity of  
+chemical constituents in a complex mixture. 
+The possibilities of drug interactions, direct toxicities, and contamination with active 
+pharmaceutical agents or environmental chemicals are among the safety concerns about 
+dietary and herbal supplements. Although there is a widespread public perception that 
+herbs and botanical products in dietary supplements are safe, research has demonstrated 
+that these products may carry the same dangers as other pharmacologically active 
+substances. Interactions may occur among prescription drugs, over-the-counter drugs, 
+dietary supplements, and even small molecules in food—making it a daunting challenge 
+to identify all interactions that are of clinical concern. While studies in human subjects are 
+the only way to establish definitive evidence of a clinically relevant drug interaction, the 
+justification for the investment in such a trial is often built on in vitro data. 
+For example, NCCIH is supporting a Center of Excellence for Natural Product Drug 
+Interaction Research that is focused, in part, on conducting rigorous human subject  
+studies to establish the clinical relevance of interactions for selected natural products. 
+NCCIH also supports rigorous screening of natural product libraries in assays with  
+clear relevance to human metabolism for evidence of pharmacokinetic interactions. 
+The data generated will provide additional information on potential interactions and will 
+help inform prioritization strategies regarding which natural products may warrant future 
+investments in clinical studies.
+NCCIH will also continue to support research to elucidate the effects of probiotics and 
+prebiotics on the microbiota naturally present in the human body. NCCIH seeks to address 
+fundamental knowledge gaps, including those pertaining to molecular mechanisms of 
+action of the microbiota and potential interactions with pre- and probiotics and their impact 
+on processes in the human body. NCCIH will continue to work closely with other NIH 
+Institutes, Centers, and Offices; the U.S. Food and Drug Administration (FDA); and the U.S. 
+Department of Agriculture to leverage its investments in this research area.
+Psychological and physical approaches 
+Among complementary physical and psychological approaches are mindfulness-based 
+cognitive therapy, tai chi, yoga, acupuncture, massage, spinal/joint manipulation, art 
+therapy, music therapy, dance, meditation, mindfulness-based stress reduction, and many 
+others. These approaches are widely used by the public and may help meet the need 
+for nondrug approaches for the management of pain and other common, troublesome 
+symptoms, which may benefit from a diversity of interventions that are safer than drugs 
+and have fewer adverse effects. They may also play a role in interventions to optimize 
+health. Included within the physical and psychological approaches are the qualities of 
+patient–provider relationships and patient engagement. However, there are gaps in the 
+understanding of the mechanisms by which these approaches exert their effects, and th
+
+--- PAGE 22 matched=['OBJECTIVE 1', 'Strategic Plan'] ---
+20
+their effects. NCCIH seeks to support the investigation of the fundamental science relevant 
+to physical and psychological approaches, including mind/brain-focused practices (e.g., 
+meditation, relaxation techniques, hypnosis), body-based approaches (e.g., acupuncture, 
+massage, spinal/joint manipulation/mobilization), meditative exercise (e.g., yoga, tai chi, qi 
+gong), art and music therapies, or integrative approaches combining several components. 
+This may include rigorous fundamental science on less well-studied aspects of the body 
+(e.g., human biofield, hormesis) that may be relevant to complementary therapies.
+Mechanistic research on mind and body approaches can address three key aspects. The 
+first is the approach itself: What components impact the biological system or subjective 
+experience? The second is the biological system potentially targeted by the approach: What 
+cellular systems or hormonal, genetic, or neural mediators, for example, are influenced by 
+the intervention? The third is the mechanisms: What are the key processes (i.e., biological, 
+biophysical, and/or behavioral) by which the approach exerts its effects?
+2  
+Develop methods, tools, and technologies to study complementary 
+health diagnostic, treatment, and prevention modalities and systems.  
+NCCIH’s clinical research currently supports trials of both natural products and mind 
+and body interventions and includes early- and mid-phase testing to assess biological 
+signatures of these interventions in humans (and replication of these effects), define 
+appropriate dosage, refine the components and system of intervention delivery, determine 
+optimal frequency or duration of the intervention, assess feasibility, and enhance 
+adherence. The Center also supports later stage full-scale efficacy, effectiveness, or 
+pragmatic trials when the evidence base is sufficient to justify them. 
+Rigorous research on complementary health approaches requires well-established 
+methodologies, including valid, reliable, and relevant research tools and outcome 
+measures. NCCIH seeks to support the development of improved quantitative and 
+qualitative methodologies for complementary health research, especially those that can 
+be used to assess symptoms, multisystem interactions, patient engagement, health 
+restoration, and resilience. Studies that identify and validate objective endpoints or 
+biomarkers predicting therapeutic response, assess and measure adherence or treatment 
+fidelity, or otherwise strengthen the design of clinical trials of complementary health 
+approaches are particularly important. 
+NCCIH is also interested in the study of multicomponent systems including those with 
+diagnostic and therapeutic frameworks different from those of conventional medicine. 
+Studying these systems is more difficult than studying individual treatment modalities. 
+However, if done with appropriate scientific rigor, it could help inform or complement areas 
+of conventional medicine, as well as the systems of care themselves. Research on this 
+topic might begin with studies to test the reliability and validity of complementary diagnostic 
+systems. The development of rigorous and reproducible treatment protocols is also needed 
+for use in clinical trials to assess their efficacy.
+Catalyze advances in natural products methodology
+Natural products have a long and impressive history as sources of medicine and as 
+important resources for biological research. However, many of the techniques 
+
+--- PAGE 24 matched=['OBJECTIVE 1', 'Strategic Plan'] ---
+22
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. Define treatment algorithms for complementary interventions and systems 
+and establish their fidelity and reproducibility  
+Studying complementary systems is going to require the development of reproducible 
+intervention models, new methodologies, and outcome assessment measures for 
+study in rigorous clinical trials. This process can also be termed “manualization,” 
+where a treatment manual is developed through collaboration between practitioners 
+and researchers. The manual provides guidelines for diagnosis and treatment using 
+complementary systems. This approach allows for standardization of the system and 
+facilitates analysis and reproducibility. Different approaches to analysis of outcomes may 
+need to be employed in research on complementary systems. For example, the real-
+world perception of an individual regarding the benefits of treatment may be important in 
+this context. NCCIH is interested in pragmatic efficacy or effectiveness trials to test the 
+effects of a manualized intervention.
+c. Develop, refine, and test clinical research models and relevant statistical 
+methods for testing multicomponent interventions and systems  
+There is a need for research to evaluate multicomponent interventions as they are 
+used and delivered to determine whether they are safe and effective. For clinical trials 
+to address this need, they must be well designed and test hypotheses that will guide 
+decisions about the inclusion of a multicomponent approach in the delivery of health 
+care for a specific condition. To that end, it is typically necessary to conduct a series 
+of early-phase clinical trials to gather the multiple types of preliminary data needed to 
+design subsequent large and rigorous efficacy or effectiveness studies. Although the 
+scientific literature may provide the rationale for conducting an efficacy or effectiveness 
+trial, investigators often lack critical information about key variables needed to 
+implement a complex intervention in a clinical trial. Some key aspects that may need 
+further investigation to plan the future trial could include finalizing the multicomponent 
+intervention or system delivery method, the outcome measure(s), or the recruitment 
+strategy necessary to design an efficacy or effectiveness trial. Early-phase clinical trials 
+can fill this information gap, thereby improving study design and knowledge of whether 
+a complex intervention can be implemented in a trial with fidelity and reproducibility; 
+whether participants will adhere to the multicomponent intervention; and the overall 
+feasibility of the trial. Later phase trials can further explore, develop, and test adaptive 
+interventions; optimize or tailor a multicomponent intervention to have a greater impact 
+NCCIH Strategic Plan FY 2021–2025
+OBJECTIVE 1   Advance Fundamental Science and Methods Development
+ 
+Complementary Therapies
+Nutritional, physical, or  
+ psychological approaches 
+ 
+May have originated outside   
+of conventional medicine
+Multicomponent   
+Interventions and Systems
+Multicomponent interventions 
+combine multiple approaches  
+ that address different aspects   
+of a person 
+Multicomponent systems may 
+ use diagnostic and therapeutic 
+frameworks that are different from 
+those of conventional medicine
+
+--- PAGE 26 matched=['OBJECTIVE 1', 'Strategic Plan'] ---
+24
+3  
+Develop outcome measures to quantify  
+health restoration and resilience.  
+It is difficult to quantify health, health restoration, and resilience. Validated outcome 
+measures are needed if research is to advance in this area. Many scales to measure 
+resilience have been published, and it is important to further examine these and to develop 
+new outcome measures to quantify both physical and psychological resilience. The 
+development of outcome measures for health restoration must consider what is important 
+to each person in terms of restoring their own health. Also important is the development 
+of technology and outcome measures for mechanistic studies (e.g., data from wearables 
+could be used to determine the relationship to subjective self-report measures).
+4  
+Develop methods to conduct implementation science and effectiveness 
+research on complementary and integrative health approaches.  
+Published results of efficacy and effectiveness studies on complementary health 
+approaches should lead to widespread uptake of evidence-based practices, but too 
+often, the scientific pathway ends prematurely, before the best ways to improve adoption, 
+implementation, and sustainability can be determined. NCCIH supports the full continuum 
+of the research pipeline, whereby a complementary health intervention moves from 
+basic and mechanistic research, through efficacy trials, and through dissemination and 
+implementation, including systems-level research addressing access and reimbursement 
+for interventions. Whereas efficacy and effectiveness studies are designed to answer the 
+question, “Which intervention(s) should we use?” dissemination research asks, “Are the 
+relevant clinicians and target population aware of the novel evidence-based intervention(s)?” 
+Implementation science focuses on “How can these novel evidence-based intervention(s) 
+be more widely and rapidly used in practice?” It should be noted that for complementary 
+and integrative health, the novel evidence-based intervention may be an existing 
+intervention used in a novel setting (e.g., use of acupuncture in a hospital emergency 
+department). The goal is to decrease the time between establishing the evidence base 
+of interventions and the widespread uptake and adoption of these interventions. The 
+development of methods to conduct implementation science and effectiveness research on 
+complementary and integrative health approaches is a high priority for NCCIH.
+NCCIH Strategic Plan FY 2021–2025
+OBJECTIVE 1   Advance Fundamental Science and Methods Development
+
+--- PAGE 27 matched=['Strategic Plan'] ---
+25
+2OBJECTIVE
+Advance Research on the Whole 
+Person and on the Integration of 
+Complementary and Conventional Care
+Central to the definition of whole person research are 
+studies of integrated multicomponent therapies and 
+interconnected systems. These address multiple aspects 
+of a person and may involve diagnostic and therapeutic 
+frameworks different from those of conventional medicine. 
+Whole person research includes three components: 
+exploring the fundamental science of interconnected 
+systems, investigating multicomponent interventions or 
+therapeutic systems, and examining the impact of these 
+interventions on multisystem or multiorgan outcomes. 
+The current NCCIH portfolio includes research on natural products as well as mind and body 
+approaches (both psychological and physical). Currently, much of the mind and body portfolio 
+studies single systems (e.g., nervous system) while the natural products portfolio focuses 
+more on outcomes involving multiple systems (e.g., digestive, metabolic, immune).
+ 
+With this objective, NCCIH plans to support the development of methodologies to better 
+understand how to study interconnected systems, how to investigate multicomponent 
+interventions or therapeutic systems and their integration, and how to examine the impact of 
+these interventions on multisystem or multiorgan outcomes. 
+STRATEGIES
+1  
+Promote basic and translational research to study  
+how physiological systems interact with each other.  
+Over the years, much of the NCCIH research portfolio has evolved to become somewhat 
+homogeneous—for example, research on meditation, mindfulness, and yoga, all of which 
+remain important. However, exciting opportunities are emerging to carefully explore new 
+paths toward whole person research. This will require both fundamental science and 
+methods development using a range of approaches to address multiple aspects of a 
+person or animal model. Mechanistic research may, as appropriate, study the impact of 
+single or multicomponent interventions (experimental input or independent variables) on 
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 28 matched=['OBJECTIVE 2', 'Strategic Plan'] ---
+26
+single or multisystem outcomes (output or dependent variables). Rigorous methods (e.g., 
+factorial designs, principal component analyses) will be needed to support these variably 
+complex study designs. The use of artificial intelligence to analyze multidimensional 
+datasets offers exciting new opportunities that can be applied to whole person research, 
+including identifying temporal changes in multisystem physiological patterns and defining 
+the phenotypes of individuals more or less likely to respond to a treatment.
+ 
+A comprehensive program in whole person research can collectively support a balance of 
+analytical and synthetic approaches to elucidate individual mechanisms and understand 
+how these mechanisms interact.
+2  
+Conduct clinical and translational research on multicomponent 
+interventions, and study the impact of these interventions on multiple  
+  physiological systems (e.g., nervous, gastrointestinal, and immune  
+  systems) and domains (e.g., biological, behavioral, social, environmental).  
+NCCIH hopes to expand research on integrated multicomponent therapies. One challenge 
+in clinical research on complex interventions is that researchers may want to tailor 
+the interventions to specific populations, study individual components, or change the 
+intervention to make it more convenient, but these modifications may make replication 
+difficult and reduce the effect size of the intervention. It is important to have a reproducible 
+intervention or algorithm of care that can be consistently delivered by different clinicians 
+at different sites to conduct multisite trials to assess efficacy or effectiveness of the 
+multicomponent intervention. Another challenge is how to power a study for multiple 
+primary outcomes. NCCIH is also interested in the development of innovative strategies to 
+evaluate multiple outcomes in a single trial.
+3  
+Foster multicomponent intervention research  
+that focuses on improving health outcomes.  
+NCCIH-supported research has demonstrated that mind and body therapies are effective 
+at improving symptoms in conditions such as pain and anxiety. While these therapies 
+have shown promise, the efficacy of any single-modality treatment is typically modest, 
+and finding a way to enhance the effect size of clinical outcomes is a crucially important 
+goal. Multicomponent strategies may enhance the benefit to individuals by simultaneously 
+targeting multiple pathways and may be more effective than a treatment used in isolation. 
+It is also important to study multicomponent interventions that combine conventional and 
+complementary approaches.
+There is a fundamental lack of translational research on the mechanisms of resilience and 
+health restoration in humans. In particular, the mechanisms of nutritional, psychological, 
+and physical interventions in restoring health after an acute illness or recovery from  
+a chronic condition are an understudied area that needs a multisystem approach to  
+identify mechanisms and predictive biomarkers that could be used to optimize their  
+effects. NCCIH seeks to support research that could expand the mechanistic and  
+evidence base on complementary health approaches for preventing mental, emotional,  
+and behavioral disorders and for promoting psychological and physical health, resilience, 
+and health restoration.
+NCCIH Strategic Plan FY 2021–2025
+OBJECTIVE 2   Advance Research on the Whole Person and  
+on the Integration of Complementary and Conventional Care
+
+--- PAGE 30 matched=['OBJECTIVE 2', 'Strategic Plan'] ---
+28
+Pain Research Supported by  
+NCCIH Through Pragmatic Trials
+Pain is the most common medical condition requiring treatment among military personnel. 
+Studies report nearly 45 percent of active-duty military personnel and 50 percent of 
+veterans experience pain on a regular basis, and there is significant overlap among chronic 
+pain, post-traumatic stress disorder (PTSD), and persistent post-concussive symptoms. 
+Data from the 2010–2014 National Health Interview Survey show that American veterans 
+experience a higher prevalence of pain and more severe pain than nonveterans.1 Although 
+opioids are often prescribed to treat chronic pain, there is no evidence to suggest they 
+are effective, and they are often associated with severe adverse effects and may lead to 
+drug addiction, overdose, and death. Therefore, there is a need for nondrug approaches 
+to complement current strategies for pain management and to reduce the need for, and 
+hazards of, excessive reliance on opioids. 
+In 2017 , NCCIH partnered with the DoD, the VA, and seven other Institutes and Centers 
+at NIH to launch the NIH-DoD-VA PMC (https://painmanagementcollaboratory.org). The 
+PMC seeks to support the development, implementation, and testing of cost-effective, 
+large-scale, real-world research on nonpharmacologic approaches for pain management 
+and related conditions in military and veteran health care delivery organizations. The 
+PMC is currently supporting 11 pragmatic, large-scale clinical trials. Of these trials, NIH 
+is supporting six, the DoD is supporting four, and the VA is supporting one. Examples 
+of interventions being investigated for their effectiveness in pain management include 
+cognitive behavioral therapy delivered by phone, stepped-care management, behavioral 
+health consultation in primary care, manual therapy such as chiropractic care, and 
+percutaneous peripheral nerve stimulation. NIH is also supporting a coordinating center 
+that provides technical, design, and other support to the research teams during this 
+demonstration phase and will disseminate collaboratory-endorsed policies, best practices, 
+and lessons learned from the demonstration projects. 
+All the studies supported by the PMC will not only assess if specific nonpharmacologic 
+approaches are effective for pain management but also how they can be integrated into 
+a health care system. For example, researchers at Yale University are investigating the 
+effect of early resource education on pain management. The investigators in this study 
+are enrolling veterans when they are seeking a disability classification for a pain condition 
+and educating them on the different types of pain medications. In addition, they inform the 
+veterans of the importance of treating both physical and psychological aspects of pain and 
+connect the veterans with the services available to them. The researchers also assess their 
+risk for substance use disorders and depression and refer the veterans to the appropriate 
+treatment. If this intervention is successful, it can be quickly scaled up and made available 
+nationwide to veterans seeking a disability classification. This early education and referral 
+paradigm could also be adapted to other health care systems. 
+NCCIH is leading the NIH HEAL (Helping to End Addiction Long-term SM) Initiative’s 
+Pragmatic and Implementation Studies for the Management of Pain To Reduce Opioid 
+Prescribing (PRISM) (https://heal.nih.gov/research/clinical-research/prism) program, w
+
+--- PAGE 32 matched=['Strategic Plan'] ---
+30
+NCCIH Strategic Plan FY 2021–2025
+
+
+--- PAGE 33 matched=['Strategic Plan'] ---
+31
+3OBJECTIVE
+Foster Research on Health Promotion 
+and Restoration, Resilience, Disease 
+Prevention, and Symptom Management
+NCCIH’s research investments in understanding the role of 
+complementary and integrative health approaches in health 
+promotion and restoration, resilience, disease prevention, 
+and symptom management are in part informed by data on 
+the complementary products and practices that people use. 
+These data include what groups of people use them, why 
+they use them, how their use has changed over time, and 
+how their use relates to health outcomes. 
+Complementary and integrative health care includes the patient–provider alliance, provider-
+delivered interventions, and the patient taking ownership of the care. Survey data have 
+revealed that people who use complementary and integrative approaches for wellness differ 
+in significant ways from those who use them to treat an illness. For example, an analysis of 
+National Health Interview Survey data showed that wellness-oriented users of complementary 
+approaches were generally healthier, had a lower rate of conventional health services use, 
+and had healthier behaviors overall, including greater physical activity and a lower likelihood 
+of obesity, than those who used complementary approaches to treat illness. This suggests 
+that access to and utilization of complementary and integrative approaches may empower 
+patients to take charge of their health.
+Surveys are only a first step in gaining knowledge about health-related behavior. More 
+focused research is needed to understand why people make healthy, unhealthy, or risky 
+choices; find out what choices people are making on a day-to-day basis, including self-
+care; and elucidate the impact these choices may have on short- and long-term health. 
+New technologies, such as wearables, have improved the ways in which data can be 
+obtained to measure a variety of behaviors. Current studies can also harness state-of-the-
+art technologies and approaches from the neurobiological, biomechanical, and biological 
+sciences to elucidate biological effects and identify mechanisms of action of behaviors and 
+interventions of interest. Researchers may also leverage existing databases to provide real-
+world insights into health and health care.
+Managing symptoms—particularly recurring or chronic symptoms such as anxiety, headache, 
+insomnia, and back, neck, or joint pain—is challenging. Symptoms may change over time, 
+and patients may experience multiple symptoms in clusters (e.g., pain, sleep difficulties, and 
+mood changes) rather than a single symptom in isolation. Current approaches to symptom 
+management often have limitations and often do not optimally engage patients in self-
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 34 matched=['OBJECTIVE 3', 'Strategic Plan'] ---
+32
+management. Despite medical treatment, some patients continue to experience troublesome 
+levels of symptoms and a diminished quality of life. Moreover, medications used to treat 
+symptoms may have significant risks and side effects.
+Expanding the knowledge base about how complementary health approaches may improve 
+symptom management in both the short and long term is a priority for NCCIH. There is 
+a growing body of basic and clinical research on complementary health approaches for 
+symptom management that employs the methods, tools, and technologies of neuroscience, 
+psychoneuroimmunology, psychology, behavioral medicine, physical medicine, and 
+NCCIH Strategic Plan FY 2021–2025
+OBJECTIVE 3   Foster Research on Health Promotion and Restoration,  
+Resilience, Disease Prevention, and Symptom Management
+Emotional Well-Being
+In April 2018, NCCIH and the Office of Behavioral and Social Sciences Research  
+(OBSSR), in collaboration with other NIH Institutes, Centers, and Offices (National 
+Institute on Aging, Eunice Kennedy Shriver National Institute of Child Health and Human 
+Development, National Institute on Drug Abuse, National Institute of Mental Health), 
+sponsored a roundtable discussion with the following goals: (1) to gain a deeper insight  
+into the existing research on the role of emotional well-being in health; (2) to advance 
+research in this area and create a trans-NIH research program focused on developing, 
+testing, and implementing intervention strategies to promote emotional well-being.  
+(View the roundtable meeting report—Emotional Well-Being: Emerging Insights and 
+Questions for Future Research [https://www.nccih.nih.gov/research/emotional-well-being-
+emerging-insights-and-questions-for-future-research].)
+The roundtable participants presented and discussed 10 models of success that produced 
+better health outcomes through promotion of emotional resilience. They included cases 
+in which a component of emotional well-being was identified as the intervention target, or 
+a change in emotional well-being was found to be a mediator of a change in health. They 
+also included interventions in which improvement of some aspect of emotional well-being 
+itself was the desired outcome. Some examples of models of success include Cultivating 
+Awareness and Resilience in Education (CARE) for teachers, active experiencing training 
+for episodic memory recall, the Strong African American Families program (SAAF), and the 
+Health Enhancement Program (HEP).
+Through workshop presentations and discussion, research gaps and opportunities 
+were noted that included needs to (1) increase the understanding of the fundamental 
+constituents of well-being across the lifespan and among various subgroups, (2) refine and 
+implement scientifically based prevention strategies to enhance emotional well-being, and 
+(3) develop measurement methodologies to optimize and scale up well-being interventions 
+for treatment and prevention of burnout, stress, pain, and mental health symptoms in at-risk 
+populations (e.g., caregivers, military personnel, racial and ethnic minorities, individuals with 
+substance abuse), as well as children and adolescents.
+NCCIH is supporting the development of transdisciplinary research networks designed 
+to advance research on emotional well-being in the social, behavioral, psychological, 
+biological, and neurobiological sciences.
+32
+
+--- PAGE 36 matched=['OBJECTIVE 3', 'Strategic Plan'] ---
+34
+and mental health symptoms in at-risk populations (e.g., caregivers, military personnel, 
+racial and ethnic minorities, individuals with substance abuse), as well as children and 
+adolescents. The Center seeks to support research on complementary health approaches 
+and how they can affect resilience and well-being across the continuum from basic and 
+mechanistic studies to dissemination and implementation science. These efforts will build 
+upon extant data involving mind and body practices such as mindfulness-based stress 
+reduction or meditation. Future studies will help determine the value of complementary 
+health approaches in enhancing cognitive, emotional, behavioral, and physical resilience 
+and well-being in people who are subjected to stressful or adverse circumstances. NCCIH 
+is also interested in the mechanisms of how natural products may work to increase 
+resilience to psychological and environmental stressors, such as sleep disruption, pain, 
+unhealthy diet, exposure to pathogens, or inflammation. There also is a need to understand 
+mechanisms by which managing psychological stress and improving sleep may counteract 
+pathological processes such as inflammation and restore healthier immune, endocrine, and 
+metabolic responses. Similarly, the potential role of the microbiome in the development and 
+maintenance of resilience is of interest to NCCIH.
+2  
+Investigate the safety and efficacy of complementary health  
+approaches and integrative treatment strategies for health  
+  promotion and restoration, resilience, disease prevention,  
+   and symptom management in diverse populations and settings.  
+NCCIH seeks to foster research to develop, test, and refine interventions and to  
+adapt interventions to meet the needs of different populations, including those most 
+vulnerable (e.g., disadvantaged children and youth—resulting from poverty or other 
+adversities, rural populations, individuals with low socioeconomic status, and racial 
+and ethnic minorities). The Center plans to foster research that examines the potential 
+contributions of complementary approaches and integrative treatment strategies in 
+promoting healthy behaviors, preventing disease, and restoring health across the  
+lifespan. The use of complementary health approaches in the United States is mostly  
+aimed at improving general health and well-being, but much of the research to date  
+has focused on the application of these approaches to specific conditions or symptoms. 
+Although scientific and operational challenges are significant, compelling opportunities  
+exist to explore the potential role of complementary health approaches and integrative 
+treatment strategies for health promotion and restoration, resilience, and disease 
+prevention, as well as symptom management.
+3  
+Conduct rigorous clinical studies on the effectiveness,  
+dissemination, and implementation of complementary  
+  health approaches into health care.  
+It is important that the lessons learned from NCCIH-supported research are relevant 
+to inform and improve the quality of health, delivery of services, and utilization and 
+sustainability of evidence-based tools and approaches. Research publications often do 
+not lead to widespread uptake of evidence-based practices. There is a gap in the research 
+pipeline to determine the best ways to improve adoption and implementation of evidence-
+based approaches. Implementing complementary health treatments and practices into 
+the conventional health 
+
+--- PAGE 38 matched=['Strategic Plan'] ---
+36
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 39 matched=['Strategic Plan'] ---
+37
+4OBJECTIVE
+ 
+Enhance the Complementary and 
+Integrative Health Research Workforce
+Researchers from many different biomedical and  
+behavioral disciplines are key to further advancing 
+basic, mechanistic, translational, and clinical research in 
+complementary approaches and their integration into health 
+care. Over the years, NCCIH has targeted resources to 
+attract well-trained and experienced scientists and clinicians 
+into complementary and integrative health research, 
+supporting their development as scientific leaders in the 
+field. NCCIH will continue to promote strategies to enhance 
+diversity of the workforce, enhance the clinician-scientist 
+pathway at both the individual and institutional levels, and 
+enhance the transition of Research Career Development (K) 
+awardees to an independent research career. 
+NCCIH supports research training and career development programs to increase  
+the number and diversity of well-trained scientists to conduct rigorous complementary  
+and integrative health research. We have special opportunities for individuals from groups 
+who are underrepresented in scientific research (e.g., racial and ethnic minority populations) 
+throughout the continuum from high school to faculty. In addition, we support workshops 
+at NIH and at scientific conferences to help students and fellows connect to NIH funding 
+opportunities, understand how to interact with NIH staff to develop research proposals, 
+navigate the NIH peer review process successfully, develop resilience to overcome  
+career roadblocks, and develop plans for a successful research career. We attend a wide 
+variety of scientific conferences that include targeted outreach to societies with a focus on 
+individuals from groups that are underrepresented in the biomedical, clinical, behavioral,  
+and social sciences.
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 40 matched=['OBJECTIVE 4', 'Strategic Plan'] ---
+38
+STRATEGIES
+1  
+Support research training and career development opportunities  
+to increase the diversity and number of well-trained scientists  
+  conducting rigorous, cutting-edge research on complementary  
+  and integrative health practices.  
+NCCIH supports a range of research training and career development programs aimed at 
+increasing the number and diversity of well-prepared, skilled investigators with knowledge 
+and expertise in both complementary and integrative health and state-of-the-art research 
+methods. Because complementary and integrative health approaches include a wide 
+variety of modalities, NCCIH’s training strategies must include innovative approaches that 
+incorporate an understanding of this diversity to ensure that future research workforce 
+needs for the various modalities as well as combinations of these modalities are met.
+In particular, the Center will focus on:
+—  Individuals from groups who are underrepresented in biomedical, clinical, or behavioral 
+and social science research (e.g., racial and ethnic minorities or other populations 
+described in the Notice of NIH’s Interest in Diversity [https://grants.nih.gov/grants/guide/
+notice-files/NOT-OD-20-031.html]) and are interested in careers in complementary and 
+integrative health research.
+—  Clinician-scientists, including conventionally trained physicians, complementary health 
+practitioners, and other professionals (e.g., clinical psychologists, nurses, physical 
+therapists, occupational therapists, art and/or music therapists), especially those who are 
+currently underrepresented in biomedical and behavioral scientific research.
+—  Scientists trained in key biomedical and behavioral research disciplines necessary for 
+rigorous, state-of-the-art scientific investigation of complementary and integrative health 
+approaches, practices, and disciplines.
+2  
+Foster interdisciplinary collaborations and partnerships  
+at individual and institutional levels.  
+As science has advanced, the research enterprise has become increasingly 
+interdisciplinary, requiring teams of investigators with different areas of expertise. Clinician-
+scientists with both clinical and research expertise play an important role in advancing 
+translational science and provide unique perspectives to biomedical research informed by 
+patient care. However, the path toward becoming a clinician-scientist is not easy and may 
+be particularly challenging for complementary and integrative health clinicians because of 
+diverse credentialing standards and varying opportunities to engage in research prior to/
+during clinical training.
+At the individual level, NCCIH supports multiple interdisciplinary opportunities for training 
+of clinician-scientists. For example, NCCIH has partnered with the National Center for 
+Advancing Translational Sciences (NCATS) to provide a research career development 
+pathway for complementary and integrative health clinician-scientists to join career 
+NCCIH Strategic Plan FY 2021–2025
+OBJECTIVE 4   Enhance the Complementary and Integrative Health Research Workforce
+
+--- PAGE 41 matched=['mission'] ---
+39
+development cohorts of other types of clinician-scientists and will continue to support this. 
+To promote interdisciplinary collaborations at the institutional level, NCCIH is exploring 
+models to support partnerships across different complementary and integrative institutions, 
+disciplines, and systems with research-intensive institutions, with the goal of increasing 
+the number of complementary and integrative clinicians included as collaborative partners 
+in research projects. For example, we are discussing the creation of a virtual resource 
+center (university without walls) to provide research support (e.g., networking, mentoring, 
+conceptual grant development, central Institutional Review Board, statistical and research 
+design) to investigators based at schools of acupuncture, chiropractic, osteopathy, 
+naturopathy, physical therapy, and music and art therapy.
+In addition to focusing on interdisciplinary collaborations to promote the clinician-scientist 
+pathway, NCCIH encourages interdisciplinary training opportunities within our funded 
+training and career development awards. We also support cross-training opportunities 
+at the mid-career level to promote the development of interdisciplinary research teams. 
+NCCIH will also foster interdisciplinary research collaborations between research-intensive 
+institutions and institutions that have a historical mission or a demonstrated commitment to 
+educating students from groups underrepresented in the biomedical research workforce. 
+We will identify best practices to continually improve the quality of NCCIH workforce 
+development activities.
+Evidence-based approaches should be used by programs to monitor and improve the 
+recruitment and training of complementary and integrative health scientists at all levels. 
+NCCIH encourages funded research training and education programs to develop and 
+evaluate their practices. To ensure maximum return on its research training investment, 
+the Center encourages programs to disseminate training practices that have proven to be 
+effective. We will perform regular evaluations of NCCIH-led training and career development 
+activities using appropriate performance markers for each activity. 
+NCCIH will focus on: 
+— Identifying and addressing barriers to the creation of a highly skilled  
+and diverse research workforce
+— Piloting and evaluating new approaches for workforce development
+— Exploring approaches to speed the trajectory from trainee status  
+to independent researcher
+Mapping a Pathway to Research on Whole Person Health
+
+--- PAGE 42 matched=['Strategic Plan'] ---
+40
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 43 matched=['scientific priorit', 'Strategic Plan'] ---
+41
+5OBJECTIVE
+Provide Objective, Evidence-Based 
+Information on Complementary  
+and Integrative Health Interventions
+It is vital that the public, health care providers, researchers, 
+and policymakers be informed and knowledgeable about 
+the safety and effectiveness of complementary and 
+integrative health interventions. They also should have 
+access to information about NCCIH’s research results 
+across the full continuum of the research pipeline, as well 
+as ongoing research at the Center, including an awareness 
+of whole person research, which examines the connections 
+that exist across domains of human health. Access to 
+information about NCCIH’s scientific priorities and funding 
+initiatives is also important.
+The challenges of translating and disseminating complex scientific information about 
+complementary and integrative health interventions to an interested and engaged public 
+are twofold. First, the landscape of complementary and integrative health is inundated with 
+information and misinformation—some of it overtly promotional, and much of it either not 
+based on evidence or of questionable quality and reliability. Second, there is evidence that 
+individuals who use complementary health interventions often do not discuss their use with 
+their conventional health care providers. Instead, they rely on other sources, including family 
+and friends and information gleaned from the internet, other popular media, and advertising.
+STRATEGIES
+1  
+Disseminate evidence-based information on complementary  
+and integrative health interventions, as well as information about  
+  ongoing research, including whole person research, that examines  
+  the connections that exist across domains of human health.  
+NCCIH will continue to ensure that its presentation of evidence-based information on 
+complementary and integrative health interventions is scientifically objective, appropriately 
+balances what is known and not known about their safety and effectiveness, and provides 
+context in the landscape of conventional treatment approaches.
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 44 matched=['OBJECTIVE 5', 'Strategic Plan', 'vision'] ---
+42
+2  
+Continue to develop methods and approaches to enhance public 
+understanding of basic scientific concepts and biomedical research.  
+NCCIH must continue to develop methods and approaches to enhance the public’s 
+understanding of basic scientific concepts and biomedical research to lay a foundation 
+of knowledge for the better understanding of information and improved decision making. 
+Importantly, NCCIH must provide information that is engaging, accessible, and of value 
+to the public, health care providers, researchers, and policymakers, given the flood of 
+information and misinformation in the public domain and the frequent self-care use of 
+complementary health interventions.
+NCCIH Strategic Plan FY 2021–2025
+OBJECTIVE 5   Provide Objective, Evidence-Based Information  
+on Complementary and Integrative Health Interventions
+The Impact of Long-Term Scientific Investments
+Scientific research is a long-term investment with the goal of improving public health and 
+health care. Over the last 20 years, NCCIH has invested in numerous clinical trials, which 
+were built upon countless previous scientific investigations. Here we look back at a few of 
+these trials and evaluate the impacts of those investments.
+The AREDS trials:  The Age-Related Eye Disease Study (AREDS) began in 1992, before 
+NCCIH was created. This clinical trial was sponsored by the National Eye Institute (NEI) and 
+sought to evaluate the effects of a nutritional supplement, called the AREDS formulation, on 
+the progression of age-related macular degeneration (AMD). AMD is one the leading causes 
+of visual impairment and blindness in the United States. The results from this study were 
+published in 2001 and showed that the AREDS formulation significantly reduced the risk of 
+advanced AMD and its associated vision loss. These results were exciting and represented 
+the first intervention shown to reduce the risk of advanced AMD. The AREDS formulation 
+contains high doses of vitamin C, vitamin E, beta-carotene, and zinc, and while it was 
+shown to be effective there were concerns about the high concentration of beta-carotene. 
+Other studies completed while AREDS was in progress showed that high concentrations 
+of beta-carotene were associated with an increased risk of lung cancer in smokers. So 
+in 2006, a second clinical trial, called AREDS2, was launched to determine if the AREDS 
+formulation could still be effective if beta-carotene was removed. NCCIH contributed 
+approximately $1.5 million to this study. The effort was led by NEI and received additional 
+funds from other NIH Institutes. In the AREDS2 trial, the antioxidants lutein and zeaxanthin, 
+which are in the same family of nutrients as beta-carotene, were added to the AREDS 
+formulation as a substitute for beta-carotene. The study found that lutein and zeaxanthin 
+together appeared to be a safe and effective alternative to beta-carotene. The scientific 
+investments made in the AREDS trials helped identify nutritional supplements that reduced 
+the risk of developing advanced stages of AMD by about 25 percent and the risk of central 
+vision loss by 19 percent in people with high risk of developing the disease. The AREDS 
+and AREDS2 formulations have undergone phase 3 clinical trials and are available over the 
+counter in the United States.
+ 
+42
+
+--- PAGE 46 matched=['Strategic Plan'] ---
+44
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 47 matched=['Strategic Plan'] ---
+45
+ 
+Serving as an Efficient and Effective 
+Steward of Public Resources
+Improving Women’s Health and Minority Health,  
+and Eliminating Health Disparities
+Women and underserved groups, including racial and ethnic minorities and sexual and 
+gender minorities, have distinct health needs and often experience disparities in health 
+outcomes. Individuals with low socioeconomic status, or who live in rural communities, 
+also often experience such disparities. NCCIH maintains that women, racial and ethnic 
+minorities, rural populations, low-income populations, sexual and gender minorities, and 
+other populations experiencing health disparities should be included in all relevant research, 
+such that there is sufficient representation of each population to conduct relevant analyses. 
+Inclusivity in research generates more broadly applicable information and improves scientific 
+understanding of the health and well-being of specific population groups.
+NCCIH is committed to funding research with diverse populations and promoting a diverse 
+scientific workforce. We support training, career development, and research opportunities 
+directed at minority health and health disparities. 
+Health Disparities Research
+NCCIH seeks to expand the research we support involving understudied, underrepresented, 
+and underreported populations. We participate in initiatives targeted toward these populations 
+and are currently supporting research to explore the development, feasibility, optimization, 
+and efficacy of complementary and integrative health interventions within health disparity 
+populations. NIH-designated health disparity populations include racial and ethnic minorities 
+(Blacks/African Americans, Hispanics/Latinos, American Indians/Alaska Natives, Asian 
+Americans, and Native Hawaiians and other Pacific Islanders), sexual and gender minorities, 
+socioeconomically disadvantaged populations, and underserved rural populations. Other 
+vulnerable populations of interest to NCCIH include pregnant and lactating women; homeless 
+youth; children with disabilities; children who have experienced abuse; veterans; military 
+personnel; and military families. In addition, we encourage research in these populations 
+through outreach activities. For example, NCCIH cosponsored the NIH 2019 Traditional 
+Medicine Summit with the NIH Tribal Health Research Office. The goals of this summit were 
+to identify approaches to respectful collaboration between traditional medicine practitioners 
+and health researchers; explore the relationships between traditional medicine and health 
+care services; and connect younger generations of American Indian/Alaska Native people to 
+traditional medicine, integrative health research, and academic research. We plan to continue 
+expanding these efforts.
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 48 matched=['Strategic Plan', 'mission'] ---
+46
+Specifically, NCCIH will:
+— Support community-engaged research on the efficacy and effectiveness of 
+complementary and integrative health approaches for improving minority health and 
+eliminating disparities in mental, emotional, and behavioral health, obesity, and pain. 
+— Promote research on the use of complementary and integrative health approaches 
+for health promotion and restoration, resilience, disease prevention, and symptom 
+management to address the role of social and structural determinants of health. 
+— Conduct research to test implementation strategies aimed at improving uptake, scale-up, 
+and sustainability of evidence-based interventions among health disparity populations 
+and in low-resource settings.
+— Foster research collaborations between research-intensive institutions and institutions 
+that have a historical mission or a demonstrated commitment to educating students from 
+groups underrepresented in the biomedical research workforce.
+— Facilitate research collaborations among health disparities researchers and 
+complementary and integrative health researchers.
+— Partner with other NIH Institutes, Centers, and Offices to support interventions that 
+address multiple levels of influence (e.g., individual, community, societal) on health 
+outcomes and target co-occurring conditions among underserved populations.
+— Serve as a catalyst in the dissemination of innovative and evidence-based health 
+disparities research and scientific opportunities to our stakeholders.
+Women’s Health Research
+Signed into law on December 13, 2016, the 21st Century Cures Act (Public Law No. 114-255) 
+reaffirms NIH’s commitment to women’s health. Specifically, the Act endorses the importance 
+of including women in clinical research and considering sex as a biological variable in 
+research using humans and nonhuman vertebrate animals. Further, the Act requires that 
+people of all ages be represented in clinical research, expands sex- and gender-based 
+and race- and ethnicity-based results reporting requirements for phase 3 clinical trials, and 
+incorporates changes to encourage research collaboration among NIH Institutes, Centers, 
+and Offices, with the goal of improving the health of all people (https://www.nih.gov/research-
+training/medical-research-initiatives/cures).
+The 2017 National Health Interview Survey showed that women were more than twice as 
+likely to use yoga compared with men (19.8 percent versus 8.6 percent). Women were 
+also more likely than men to use meditation (16.3 percent versus 11.8 percent) and see a 
+chiropractor (11.1 percent versus 9.4 percent). Women may also use natural products to 
+improve their health during their lifespan, including during pregnancy and lactation.
+NCCIH Strategic Plan FY 2021–2025
+Serving as an Efficient and Effective Steward of Public Resources
+
+--- PAGE 50 matched=['Strategic Plan'] ---
+48
+NCCIH has also made pain management a major emphasis in its research efforts. Pain 
+is a major public health problem and is the most common reason why Americans use 
+complementary and integrative health practices. Data from the 2012 National Health Interview 
+Survey estimated that 126.1 million adults reported some pain in the previous 3 months, 
+with 25.3 million adults (11.2 percent) suffering from daily (chronic) pain and 23.4 million 
+(10.3 percent) reporting a lot of pain. Conventional care often fails to manage chronic pain 
+effectively, and other approaches to relieve or reduce pain and increase functional ability are 
+needed. Research studies have shown that some complementary health modalities may 
+reduce pain associated with some chronic conditions: examples include massage, spinal 
+manipulation, and yoga for chronic back pain, and tai chi for fibromyalgia pain.
+Scientific Plausibility and Rigor
+NCCIH strives to invest in research that will drive new discoveries and focuses on areas that 
+will have the greatest impact by prioritizing research topics that show scientific opportunity 
+and promise and are amenable to rigorous scientific inquiry. No matter how interesting an 
+approach may be, if the evidence favoring it is too limited to support the scope and direction 
+of a proposed study, or if reliable, rigorous methods of measurement do not exist, that topic is 
+not suitable for a full-scale investigation.
+As a responsible steward of its publicly provided resources, NCCIH is highly selective 
+in the choice of topics for major clinical trials. Decisions about which large-scale trials 
+to support must be based on the strength, reliability, and reproducibility of signals from 
+clinical experience and preliminary, smaller pilot studies, as well as on evidence of scientific 
+plausibility obtained from mechanistic studies. Adequate methods and tools to measure 
+clinical outcomes accurately and effectively are equally important to sound research design. 
+Objective, validated measurement tools are essential, and so are processes and procedures 
+to ensure quality control, whether the intervention is physical, psychological, nutritional, or a 
+combination. For example, NCCIH has developed a strict natural product integrity policy to 
+ensure that natural products used in research supported by the Center are fully identified, 
+characterized, and standardized.
+Priority Setting Framework
+NCCIH is committed to funding research in areas that will have an impact on health and 
+health care. When considering funding a potential research project, the Center assesses 
+whether it is reasonably likely that the results of the research could lead to changes in 
+the health practices of individuals or health care providers or in the decisions of health 
+policymakers. The Center also considers whether the research addresses an important 
+public health concern or need for scientific information regarding the mechanism of action, 
+safety, efficacy, or effectiveness of complementary and integrative health approaches.
+NCCIH Strategic Plan FY 2021–2025
+Serving as an Efficient and Effective Steward of Public Resources
+
+--- PAGE 51 matched=['mission'] ---
+49
+Research Partnerships
+To fulfill its mission and leverage its research investments, NCCIH collaborates with other 
+NIH Institutes, Centers, and Offices; other Federal agencies; professional societies; patient 
+advocacy groups; and organizations with an interest in furthering our understanding of 
+complementary approaches and their integration into health care with the goal of improving 
+health. Through these collaborations, NCCIH enhances its research portfolio, expands its 
+multidisciplinary expertise, and incorporates a broader understanding of the health needs and 
+perspectives of the community.
+Mapping a Pathway to Research on Whole Person Health
+Priority Setting
+1. Scientific Promise
+— Does a reasonable body of evidence support the potential of the 
+proposed research to lead to improved (1) options or strategies to treat 
+health conditions or symptoms or (2) approaches to promote disease 
+prevention, health promotion, resilience, or health restoration?
+— Is evidence sufficient to support the scope and directions of the proposed 
+research? If not, what research is needed to establish such evidence?
+2. Amenability to Rigorous Scientific Inquiry
+— Are the key research goals achievable, and are the key research questions 
+amenable to rigorous scientific investigation, given needed and available 
+methods for measurement, translational tools, and technologies?
+—  Are potential approaches feasible and scientifically plausible? Do they  
+lend themselves to rigorous quality control? If not, does the proposed 
+research focus appropriately on developing needed methods, tools,  
+and technologies?
+3. Potential to Change Health Practices
+— Is it reasonably likely that the results of the research or program could  
+lead to changes in the health practices of individuals or health care 
+providers or in the decisions of health policymakers?
+4. Relationship to Use and Practice
+—  Does the proposed project address an important public health concern 
+or scientific information need regarding the fundamental mechanism, 
+efficacy, safety, or public use of complementary health approaches?
+
+--- PAGE 52 matched=['Strategic Plan'] ---
+50
+NCCIH Partnership With SAMHSA  
+To Combat Opioid Use Disorder 
+More than 4 million people in the United States report using opioids for nonmedical 
+purposes in the past month, and almost 2 million report symptoms consistent with an 
+opioid use disorder (OUD). Fewer than half of those with an OUD receive treatment and 
+even fewer receive treatment of adequate duration. The number of drug overdose deaths 
+involving opioids has quadrupled between 1999 and 2015, to more than 33,000 annually.
+Chronic pain is an important comorbidity in patients with OUD. Twenty to 30 percent 
+of U.S. adults report chronic pain. Treatment of acute and chronic pain conditions with 
+opioids is contributing to the OUD epidemic. Patients at increased risk of developing OUD 
+are those with pain that is inadequately controlled, those exposed to opioids during acute 
+pain episodes, and/or those with chronic pain and a history of substance abuse. Among 
+patients with OUD treatment and chronic pain, barriers to actively engaging in treatment 
+include fear of inadequately treated pain and depression. Many behavioral interventions 
+have shown value for management of chronic pain. Recent American College of Physicians 
+guidelines for management of chronic low-back pain include recommendations to consider 
+interventions including mindfulness-based stress reduction, multidisciplinary rehabilitation, 
+tai chi, yoga, progressive relaxation, operant therapy, and cognitive behavioral therapy. 
+However, there are relatively few studies evaluating their effectiveness for the comorbidity of 
+OUD and chronic pain. In addition, despite the proven effectiveness of medication-assisted 
+treatment (MAT) for OUD, approximately 50 percent of people who begin methadone 
+maintenance therapy, for example, discontinue within 12 months, and 50 percent of people 
+retained have an opioid relapse within 6 months. Research also suggests that pain, which 
+is highly prevalent, may be an important contributor to MAT dropout, opioid relapse, and 
+opioid overdose.
+NCCIH has partnered with the Substance Abuse and Mental Health Services Administration 
+(SAMHSA) to study the impact of behavioral interventions for primary or secondary 
+prevention of OUD, or as a complement to MAT of OUD. Researchers are examining 
+whether select behavioral interventions such as mindfulness meditation, cognitive behavioral 
+therapy, or multidisciplinary rehabilitation improve adherence to and retention in MAT or 
+reduce resumption of drug use in individuals with OUD. NCCIH has awarded six research 
+grants, totaling $9.4 million over 3 years. In addition to support from NCCIH, funding for 
+these awards will come from HEAL. The NCCIH-administered grants will support research 
+around the treatment supported by the $1 billion SAMHSA State Targeted Response (STR) 
+to the Opioid Crisis Grants initiative, also known as Opioid STR grants.
+As part of the 21st Century Cures Act, Opioid STR grants have been distributed to all 50 
+U.S. states, U.S. territories, and free-associated states to expand access to evidence-
+based prevention, treatment, and recovery support services; reduce unmet treatment 
+needs; and help prevent opioid overdose death. The six research awards supported by 
+NCCIH will examine the impact of behavioral and complementary health interventions within 
+the context of states’ plans for use of Opioid STR grant funds. As such, each of the funded 
+research projects includes relevant state agency staff to ensure adeq
+
+--- PAGE 55 matched=['Scientific Priorit', 'Strategic Plan'] ---
+53
+ 
+ 
+Top Scientific Priorities
+Research on Whole Person Health
+Interoception Research
+Health Restoration, Resilience, Disease Prevention,  
+and Health Promotion Across the Lifespan
+Implementation Science for  
+Complementary and Integrative Health
+Complementary and Integrative Management of Pain 
+Complex Interactions Involving Nutritional Interventions
+Enhancing the Complementary and Integrative  
+Health Research Workforce
+Mechanisms and Biomarkers of Mind and  
+Body Approaches
+Supporting Impactful Clinical Trials of Complementary  
+and Integrative Health Approaches
+Communications Strategies and Tools To Enhance Scientific 
+Literacy and Understanding of Clinical Research
+53
+NCCIH Strategic Plan FY 2021–2025
+
+--- PAGE 56 matched=['Scientific Priorit', 'Strategic Plan'] ---
+54
+Research on Whole Person Health
+Introduction and Explanation of Need
+Complementary health approaches include a broad range of practices and interventions 
+that may have originated outside of conventional medical care. Complementary 
+approaches can be classified by their primary therapeutic input, which may be nutritional 
+(e.g., special diets, dietary supplements, botanicals, probiotics, and microbial-based 
+therapies), psychological (e.g., meditation, hypnosis, music therapies, relaxation therapies), 
+physical (e.g., acupuncture, massage, manual therapies, devices related to these 
+approaches), a combination of psychological and physical (e.g., yoga, tai chi, dance 
+therapies, some forms of art therapies), or a combination of nutritional, psychological, and 
+physical (e.g., Ayurveda, naturopathy, traditional Chinese medicine). The term integrative 
+health care refers to conventional and complementary approaches used together in a 
+coordinated way. Research on whole person health in the complementary and integrative 
+spheres emphasizes research on multicomponent interventions that aim to improve health 
+in multiple interconnected domains: biological (including multiple organs and systems), 
+behavioral, social, and environmental. 
+As a relatively new concept, research on whole person health is different from reduction-
+based research, which mostly focuses on a single intervention’s impact on one or at 
+most a few physiological systems as separate processes. Understanding how multiple 
+physiological systems interconnect and interact is one of the key challenges for the success 
+of research on whole person health. Complementary and integrative health approaches 
+often are multicomponent interventions or engage multiple therapeutic systems. Their 
+complexity and heterogeneity may require innovative study designs to fully investigate their 
+fundamental science and therapeutic effects. Furthermore, sophisticated analytic tools 
+and methods may need to be developed to encompass the double complexity of multiple 
+system outcomes and their relationships with multicomponent interventions.
+What Does Success Look Like?
+—  Expanded research investigating the interaction of multiple physiological systems.
+— New methodologies to study multicomponent interventions in an integrative approach or 
+systems science approach.
+— New research methods, approaches, and resources to enable integration of 
+multicomponent therapies with multisystem outcomes.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 58 matched=['Scientific Priorit', 'Strategic Plan'] ---
+56
+Interoception Research
+Introduction and Explanation of Need
+Interoception refers to the representation of the internal world of an organism and includes 
+the processes by which the organism senses, interprets, integrates, and regulates 
+signals from within itself. Here, the action of “sensing” denotes communication from other 
+physiological systems to the central nervous system (CNS) through the commonly called 
+ascending pathways, while the action of “regulating” refers to communication from the brain 
+to other physiological systems via descending pathways. The CNS, especially the brain, is 
+primarily responsible for interpreting and integrating these signals into a representation of 
+the internal world. It is important to clarify that the bidirectional communications between 
+other physiological systems and the CNS can be carried through either the peripheral 
+neural pathways or nonneuronal pathways, such as the vascular or lymphatic systems 
+and humoral system (e.g., immune and endocrine). Processes involved in interoception 
+could often serve as therapeutic targets of many complementary and integrative health 
+approaches, including psychological and physical approaches such as meditation, 
+acupuncture, and other manual therapies, as well as nutritional approaches such as  
+natural products.  
+Because of its potential importance, research on interoception in the context of 
+complementary and integrative health approaches requires a deeper understanding of the 
+connections between brain and body. In addition, tools and methods to probe interoceptive 
+processes, especially in human subject research, are largely limited to self-reports and a 
+handful of measures such as heart rate variability and skin conductance. An expansion of 
+innovative and quantitative methods to study interoception may significantly enhance our 
+understanding of how interoception works. These new tools and methods may also provide 
+novel insights into how complementary and integrative health approaches may modulate 
+the interoceptive processes and interoceptive clinical outcomes.
+What Does Success Look Like?
+—  Expanded understanding of the mechanisms underlying interoception.
+—  Improved, innovative tools and methods to probe interoceptive processes, especially in 
+human subjects.
+—  Increased understanding of the impact of specific complementary and integrative health 
+approaches on interoceptive processes. 
+—  Improved understanding of the efficacy and effectiveness of complementary and 
+integrative health approaches on interoception-related clinical outcomes, especially those 
+related to musculoskeletal and visceral pain.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 60 matched=['Scientific Priorit', 'Strategic Plan'] ---
+58
+Health Restoration, Resilience, Disease Prevention,  
+and Health Promotion Across the Lifespan
+Introduction and Explanation of Need
+There continues to be a growing interest in the use of complementary and integrative 
+health approaches for preventing the onset of mental, emotional, and behavioral disorders, 
+promoting psychological and physical health and well-being, and enhancing cognitive, 
+emotional, and behavioral resilience in people who have experienced stressful or adverse 
+life events. However, there has been limited research to examine the usefulness of these 
+approaches as strategies for early intervention among individuals at increased risk for the 
+purpose of preventing disease progression and supporting health restoration. Research has 
+demonstrated the feasibility of conducting interventions that incorporate complementary 
+and integrative health approaches, especially meditative approaches, for health promotion 
+and disease prevention, particularly among adult populations. Additional research is 
+needed to evaluate the feasibility of a wider range of interventions (e.g., music, guided 
+imagery, qi gong, massage, dietary interventions), including multicomponent interventions 
+(e.g., spinal manipulation combined with meditation), across the full lifespan and in diverse 
+populations and settings. 
+The evidence base for the efficacy and effectiveness of complementary and integrative 
+approaches in the context of prevention, health promotion, resilience, and health restoration 
+is limited and primarily includes studies of single systems at the individual level. NCCIH-
+funded studies have shown efficacy primarily for mindfulness-based stress reduction for 
+improving factors related to many physical and mental health conditions in adults, including 
+indices of immune, endocrine, metabolic, and neurological function. 
+Rigorously designed, developmentally appropriate studies are needed to determine 
+the efficacy and effectiveness of a wider array of complementary and integrative health 
+approaches that include a focus on multiple systems to support whole person health 
+and that address multiple levels of influence (e.g., interpersonal, community, societal) on 
+health outcomes. It is also essential to gain a better understanding of mechanisms related 
+to resilience and health restoration in response to these interventions and to determine 
+what works, for whom, and under what conditions. In fact, there is a fundamental lack of 
+translational research on the mechanisms of resilience and health restoration in humans. 
+In particular, the mechanisms of physical, psychological, and nutritional interventions 
+in restoring health after an acute illness, or reversing the course of a chronic one, is 
+an understudied area that needs a multisystem approach to identify mechanisms and 
+predictive biomarkers that could be used to optimize and predict the beneficial effects 
+of the interventions. NCCIH therefore seeks to support research that could expand the 
+mechanistic and evidence base on complementary health approaches for preventing 
+mental, emotional, and behavioral disorders and for promoting psychological and physical 
+health, resilience, and health restoration.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 62 matched=['Scientific Priorit', 'Strategic Plan'] ---
+60
+Prenatal Through Young Adulthood
+—  Develop and test theory-based early interventions for adolescents and young adults at 
+high risk for adverse health outcomes to slow progression of disease, support health 
+restoration, and improve resilience. 
+—  Develop and test complementary and integrative prevention approaches that include the 
+adults most influential in children’s lives (e.g., parents, teachers, and other caregivers), 
+with the goal of improving development and well-being of children.
+—  Test implementation strategies for improving uptake, scale-up, and sustainability of 
+evidence-based interventions for promoting mental, emotional, and behavioral health 
+among children and adolescents in diverse settings.
+—  Conduct innovative mechanistic studies and identify predictive biomarkers underlying the 
+effects of multicomponent interventions across multiple systems for health promotion, 
+restoration, resilience, and disease prevention in adolescents and young adults.
+Older Populations
+—  Develop and test nutritional, psychological, and physical interventions focused on older 
+populations,6 including the general population and those at increased risk for depression, 
+anxiety, and other mental health disorders.
+—  Perform impactful basic and translational research on the mechanisms of 
+multicomponent interventions in promoting healthy aging, health restoration, resilience, 
+and disease prevention in older populations.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+6 NIH defines an older adult as an individual 65 years of age or older.
+
+--- PAGE 64 matched=['Scientific Priorit', 'Strategic Plan'] ---
+62
+Priorities
+—  Develop a robust portfolio of implementation science research for dietary, psychological, 
+and physical complementary interventions.
+—  Examine potential differences in the use of implementation science frameworks 
+(Consolidated Framework for Implementation Research [CFIR], Reach Effectiveness 
+Adoption Implementation [Re-AIM], alone or in combination) for nutritional, psychological, 
+and physical complementary interventions.
+—  Conduct research on the adaptation of implementation science frameworks to increase 
+the use and reach of evidence-based complementary and integrative health interventions 
+in multiple settings (schools, communities, health care, mobile health [mHealth]).
+—  Develop a balanced portfolio of implementation science and effectiveness—
+implementation hybrid designs that combine elements of clinical effectiveness and 
+implementation research (i.e., hybrid type I, II, and III trials) of complementary and 
+integrative health interventions where there is enough evidence and for which multiple 
+independent research studies have been conducted. Investigators are encouraged to 
+use the NCCIH clinical research framework. (see page 23) 
+—  When appropriate, promote the use of innovative study designs (randomized cluster 
+trials, stepped-wedge designs, pragmatic trials) in implementation science and hybrid 
+effectiveness trials for complementary and integrative health interventions.
+—  Increase implementation science studies that address disparities and evaluate strategies 
+that make evidence-based complementary health interventions, including mHealth, 
+available to health disparity and other vulnerable populations. 
+—  Conduct research focused on tools and methods development specific for 
+implementation science on complementary and integrative health approaches. 
+—  Increase NCCIH training and career development opportunities in implementation 
+science for complementary and integrative health researchers. 
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 65 matched=['strategic plan'] ---
+63
+Complementary and Integrative Management of Pain 
+Introduction and Explanation of Need
+Chronic pain is the condition for which adults in the United States most often use 
+complementary and integrative health approaches. Under normal circumstances, pain is 
+an important physiological response that serves as a warning of actual or potential tissue 
+damage. Chronic pain can indicate ongoing tissue damage, such as inflammation, or can 
+persist due to central nervous system sensitization resulting from increased neuronal and 
+circuit activation in nociceptive pathways even after the tissue has healed. As a chronic 
+syndrome, pain adversely affects function and psychological and social well-being. Pain 
+is most often treated with pharmacologic and/or surgical interventions. However, these 
+treatments are often associated with adverse outcomes, including tissue damage following 
+surgery and harmful side effects associated with pharmacologic treatment, such as risk of 
+misuse and addiction, particularly in the case of treatment with opioids. Complementary 
+and integrative health approaches to pain management may offer safer, more effective, and 
+cost-efficient options.
+NCCIH has focused on research related to chronic pain since the publication of its last 
+strategic plan in 2016. Several programs have been initiated and led by NCCIH alone (e.g., 
+the Exploring the Mechanisms Underlying Analgesic Properties of Minor Cannabinoids 
+and Terpenes program) or in collaboration with other NIH Institutes and Centers (e.g., the 
+Trans-NIH Natural Products and Pain Working Group). NCCIH also participates in large 
+trans-NIH and trans-agency pain initiatives, such as the NIH-DoD-VA Pain Management 
+Collaboratory and HEAL, the latter of which aims to help stem the national opioid public 
+health crisis by evaluating innovative therapies for pain management and improving 
+treatment for opioid misuse and addiction. Although research evaluating the impact of 
+complementary and integrative approaches on pain remains a priority for NCCIH, a deeper 
+understanding of the mechanisms by which complementary approaches exert their effects 
+and identification of therapeutic biomarkers are needed to optimize treatments and to 
+predict those individuals or groups most likely to respond to specific treatments. Rigorous 
+basic, mechanistic, translational, clinical efficacy, and implementation research is needed 
+before complementary health approaches for pain management can become an integral 
+component of standard care. 
+Mapping a Pathway to Research on Whole Person Health
+
+--- PAGE 66 matched=['Scientific Priorit', 'Strategic Plan'] ---
+64
+What Does Success Look Like?
+—  Advanced understanding of multisystem pain mechanisms and phenotypes (e.g., 
+myofascial pain) and common comorbidities.
+—  Elucidation of mechanisms underlying overlapping pain conditions. 
+—  Increased focus on health disparities in pain and greater inclusion of women, racial and 
+ethnic minorities, and underserved populations in clinical trials/studies on pain.
+—  Expanded evidence base on the efficacy and effectiveness of complementary and 
+integrative approaches for pain management.
+—  Increased understanding of the multisystem mechanisms underlying the effects of 
+complementary and integrative approaches on pain.
+—  Leveraging HEAL and other trans-NIH and trans-agency programs to identify therapeutic 
+biomarkers for complementary and integrative health approaches on pain. 
+—  Improved methods for incorporating effective complementary and integrative approaches 
+into standard care to treat pain and decrease the unnecessary use of opioids.
+Priorities
+Basic and Mechanistic Research
+— Expand preclinical research elucidating the mechanisms of physical and/or psychological 
+interventions for pain.
+— Explore peripheral tissue mechanisms underlying the impact of complementary and 
+integrative health approaches on acute and/or chronic pain management.
+— Conduct research to elucidate the myofascial components of chronic pain as potential 
+targets for complementary and integrative health interventions, such as force-based 
+interventions (e.g., manual and movement-based therapies). 
+— Conduct basic research to elucidate mechanisms underlying musculoskeletal pain.
+— Identify novel, nonaddictive dietary supplement candidates to manage pain. 
+— Conduct basic research to elucidate the biological mechanisms that underlie the 
+analgesic properties of natural products and their derivatives.
+— Develop an understanding of how complementary health approaches impact multiple 
+biological systems that may be involved in chronic pain conditions (e.g., brain-gut-
+microbiome, myofascial tissue—brain).
+— Study behavioral, psychological, social, and physiological mechanisms underlying 
+complementary and integrative health interventions for pain management in specific 
+populations, including underserved populations and those underrepresented in research 
+(e.g., people with sickle cell disease pain, children, older adults, women, military 
+personnel/veterans).
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 68 matched=['Scientific Priorit', 'Strategic Plan'] ---
+66
+Complex Interactions Involving Nutritional Interventions
+Introduction and Explanation of Need
+Nutritional interventions have millennia of history as therapeutic agents. They commonly 
+include the phytochemicals found in fruits and vegetables, fermented foods containing 
+probiotic cultures, other natural products, and traditional medicine practices that rely heavily 
+on plants. In all cases, the interventions are delivered as complex mixtures and are thought 
+to act across multiple biological systems. Despite this, there is relatively little research 
+on the use of complex mixtures for their health-promoting effects or on the study of how 
+natural products impact multiple biological systems. In part, this is due to the difficulty in 
+systematically studying the complexity of multicomponent and multisystem interactions. 
+Despite the advances in all areas of medicine, scientists still struggle to rigorously study 
+complex multisystem interactions.
+Given the difficulty of assessing complex interactions with current approaches, innovative 
+strategies are needed to further elucidate how nutritional interventions, whether in the 
+form of botanicals, probiotics, or dietary constituents, may have health benefits. The 
+potential benefits of these complex interactions could manifest themselves in multiple ways. 
+This includes multiple components of a dietary intervention acting on a single biological 
+system (e.g., nervous or digestive), a single component acting on multiple systems (e.g., 
+omega-3 fatty acids), or multiple components acting on multiple systems (e.g., traditional 
+herbal medicine, probiotics). It also includes the possibility that these complex interactions 
+produce more than additive (i.e., synergistic) effects. Cocktail approaches are used 
+increasingly in modern medicine, as evidenced by current approaches in chemotherapy 
+and antiretroviral and antimicrobial regimens. While the principle of complex interactions 
+and synergy is mentioned often to justify research on natural products, rigorous efforts 
+to quantify these multicomponent and multisystem activities in nutritional interventions is 
+lacking. Classic pharmaceutical development seeks to identify a single active compound 
+that acts at a single target site. This has been a very successful endeavor, as evidenced 
+by the high percentage of pharmaceuticals derived from natural products, but it might 
+not readily apply to the study of multisystem and multicomponent interactions involving 
+nutritional interventions. Thus, a deeper understanding of the systems-level interactions 
+of natural products with human biology, including the microbiome, is needed to answer 
+fundamental questions regarding their health-promoting effects.
+What Does Success Look Like?
+—  NCCIH supports a robust portfolio of research focused on the study of nutritional 
+interventions, including individual plants/probiotics as well as multibotanical and 
+multistrain formulas, and their potentially synergistic interactions with single or multiple 
+biological systems. 
+—  Enhanced multisystem research approaches that tie together various cellular, gut 
+microbial, and genetic contributors to health restoration and disease prevention. 
+—  Substantial development or application of cutting-edge multidisciplinary approaches, 
+including bioinformatic and data sciences, to uncover contributions from multiple 
+constituents that may produce subtle changes individually yet yield outsized benefits 
+across multiple bio
+
+--- PAGE 70 matched=['Scientific Priorit', 'Strategic Plan', 'mission'] ---
+68
+—  Develop and validate in vitro and/or in vivo models capable of simultaneously assessing 
+multiple biological systems. 
+—  Develop and validate innovative systems biology models incorporating diverse 
+phytochemical inputs and their interaction with multiple biological systems.
+Low-Priority Topics
+—  Studies on combinations of macronutrients (fats, carbohydrates, proteins) for their 
+nutritional effects.
+—  Studies on vitamins, minerals, or amino acids individually or in combination for their 
+nutritional effects or to address nutritional deficiencies.
+—  Broad epidemiological studies of correlations between dietary patterns and health 
+outcomes.
+—  Research in humans using dietary constituents individually or in combination for 
+treatment or prevention of chronic disease conditions specifically within the mission of 
+other NIH Institutes and Centers (e.g., cancer, diabetes, cardiovascular disease).
+—  Studies on mechanisms already well established or known for a natural product or a 
+category of natural products.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 71 matched=['Objective 4', 'Strategic Plan'] ---
+69
+Enhancing the Complementary and  
+Integrative Health Research Workforce
+Introduction and Explanation of Need
+NCCIH is committed to training researchers with the expertise needed to conduct 
+successful basic, mechanistic, translational, clinical, and implementation studies on 
+complementary and integrative health approaches. Researchers from many different 
+scientific disciplines possess critical knowledge and technologies required for in-depth 
+investigation of the basic biological, physiological, and clinical effects and safety of 
+complementary health approaches and their integration into conventional medicine. As 
+detailed on our training webpage (https://www.nccih.nih.gov/training), NCCIH supports 
+a range of research training and career development programs aimed at increasing the 
+number and diversity of well-prepared, skilled investigators with knowledge and expertise 
+in both complementary and integrative health interventions and state-of-the-art research 
+methods. The 2021–2025 NCCIH Strategic Plan includes Objective 4: Enhance the 
+Complementary and Integrative Health Research Workforce, with two primary strategies:
+1 Support research training and career development opportunities to increase the diversity 
+and number of well-trained scientists conducting rigorous, cutting-edge research on 
+complementary and integrative health practices.
+2 Foster interdisciplinary collaborations and partnerships at individual and  
+institutional levels.
+NCCIH supports training and career development of investigators pursuing research topics 
+that are well aligned with our scientific strategic objectives. We seek to support trainees 
+across career stages pursuing basic, mechanistic, translational, and clinical science on 
+natural products, mind and body practices, and/or multicomponent approaches. We are 
+particularly committed to the development of a complementary and integrative health 
+research workforce that is representative of the diversity in American society, in support of 
+NIH’s Interest in Diversity (https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-031.
+html). In addition to enhancing the diversity of our research workforce, the Center is also 
+focused on supporting career development of clinician-scientists, including conventionally 
+trained physicians, complementary health practitioners, and other health care professionals 
+(e.g., clinical psychologists, nurses) who are interested in complementary and integrative 
+health research. This includes both individual-level training for clinician-scientists and 
+fostering institutional-level interdisciplinary partnerships to facilitate cross-training and 
+interdisciplinary research teams. We also seek to promote the success of NCCIH-funded 
+trainees as they progress to the next steps of their scientific careers and to identify best 
+practices to continually improve our training and career development portfolio.
+Mapping a Pathway to Research on Whole Person Health
+
+--- PAGE 72 matched=['Scientific Priorit', 'Strategic Plan'] ---
+70
+What Does Success Look Like?
+—  Increased diversity of researchers engaging in complementary and integrative health 
+research to enhance participation of individuals from groups that are underrepresented 
+in the biomedical, clinical, behavioral, and social sciences, as described in the Notice 
+of NIH’s Interest in Diversity (https://grants.nih.gov/grants/guide/notice-files/NOT-
+OD-20-031.html). 
+—  An expansion of clinician-scientists in the NCCIH training and career development 
+portfolio representing a diverse range of clinical training expertise.
+—  Support of institutional-level interdisciplinary collaborations that support cross-training 
+and development of interdisciplinary teams focused on complementary and integrative 
+health research.
+—  An improved career pipeline that produces more NCCIH-funded trainees, fellows, and 
+early career development awardees who successfully compete for subsequent NIH or 
+other Federally funded research awards.
+—  The NCCIH training and career development portfolio spans all career stages of basic, 
+mechanistic, translational, and clinical science, as well as research training in natural 
+products, mind and body practices, and/or multicomponent approaches.
+—  NCCIH evaluates its training and career development activities and retools any 
+underperforming activities.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 74 matched=['Scientific Priorit', 'Strategic Plan'] ---
+72
+Mechanisms and Biomarkers  
+of Mind and Body Approaches 
+Introduction and Explanation of Need
+Complementary and integrative health approaches include a broad range of practices and 
+interventions that may have originated outside of conventional medicine and are gradually 
+being integrated into mainstream health care. These approaches can be classified by 
+their primary therapeutic input, which may be nutritional, psychological, and/or physical. 
+Psychological and/or physical approaches encompass what have been commonly 
+considered mind and body approaches. Commonly used psychological approaches 
+include meditation and cognitive behavioral therapy, while physical approaches include 
+acupuncture, other manual therapies (soft tissue manipulation, massage, spinal and joint 
+manipulation, and related devices), and physical exercise. Some approaches, such as yoga 
+and tai chi, comprise both psychological and physical components. Psychological and/or 
+physical approaches have been generally used by the public to treat or manage disorders 
+and symptoms such as pain, sleep disturbance, stress, and anxiety, as well as to support 
+general health. 
+The majority of the mechanistic studies of psychological and physical approaches focus 
+on the neural system (human adult) and psychological and social systems, while other 
+physiological systems, organs, and tissues (e.g., immune, microbial, cardiovascular, 
+musculoskeletal, endocrine, respiratory, metabolic, digestive, reproductive) remain 
+understudied. Similarly, mechanistic studies involving combined multicomponent 
+approaches (e.g., yoga, massage) are scarce compared to studies evaluating single 
+interventions. Fundamental animal and human research on mechanisms impacting multiple 
+domains (biological, behavioral, social, environmental) that underly psychological and 
+physical interventions, as well as research on potential biomarkers to predict intervention 
+efficacy or treatment responses, are critical for developing strategies to optimize the 
+beneficial effects of these interventions. Such studies are scientifically challenging due to 
+individual heterogeneity (e.g., variability in genetic and epigenetic makeup or psychosocial 
+and environmental factors) and the current lack of optimal tools and technologies to 
+evaluate mechanistic and clinical effects. Nevertheless, recent advances in genomics, 
+neuroscience, stem cells, systems biology, neuroimaging, and predictive computational 
+modeling offer promising technological and conceptual resources and opportunities for 
+innovative and impactful mechanistic studies of physical and psychological approaches.
+What Does Success Look Like?
+Successful mechanistic studies of psychological and physical approaches include two 
+separate but interoperable accomplishments in model systems/organisms and/or human/
+clinical populations across the lifespan:
+—  Identification of predictive markers or biomarkers that can differentiate responders from 
+nonresponders to psychological and physical approaches.
+—  Identification of novel mechanisms of action underlying psychological and physical 
+approaches that may shed new insights into the fundamental science of these 
+approaches or be used to optimize the beneficial effects of these approaches alone or in 
+combination with other therapies.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 76 matched=['priority area', 'Scientific Priorit', 'Strategic Plan'] ---
+74
+Supporting Impactful Clinical Trials of Complementary 
+and Integrative Health Approaches  
+Introduction and Explanation of Need
+To achieve the NCCIH mission to determine, through rigorous scientific investigation, the 
+fundamental science, usefulness, and safety of complementary and integrative health 
+approaches and their roles in improving health and health care, NCCIH supports clinical 
+trials to assess the safety, efficacy, and effectiveness of these approaches. NCCIH defines 
+impactful clinical trials as those that 1) provide evidence to inform clinical practice guidelines 
+and health care policies or 2) provide sufficient preliminary data to inform the design of 
+and ability to conduct fully powered clinical trials. Fully powered trials must be rigorously 
+performed using randomized controlled designs with adequate study power to test the 
+primary hypothesis. To enhance generalizability and meet NIH policy requirements, it is 
+important that fully powered trials recruit participants from different geographic regions and 
+include a diverse sample of participants that reflects the U.S. patient population with the 
+condition being studied.
+NCCIH has developed a framework for human subjects research that describes the range 
+of research supported from basic and mechanistic studies through dissemination and 
+implementation science studies (see page 23). Within the framework, NCCIH prioritizes 
+the need for preliminary feasibility and acceptability data from the literature or a feasibility 
+study to have confidence that a fully powered efficacy or effectiveness study can be 
+conducted. For this priority area, NCCIH is emphasizing the support of clinical trials that 
+will inform clinical guidelines and health care policy decisions. NCCIH also has interest in 
+supporting randomized pragmatic clinical trials that enroll a generalizable population from 
+real-world settings and leverage data from electronic health records. It is important that the 
+interventions proposed for pragmatic and implementation trials have demonstrated efficacy 
+or effectiveness. 
+What Does Success Look Like?
+— Trials supported by NCCIH provide strong evidence for clinical guideline development 
+and health care policy decisions. 
+— The clinical portfolio comprises a range of clinical trials to assess the impact of 
+nutritional, psychological, and physical approaches, including feasibility trials, 
+randomized controlled efficacy trials, randomized controlled effectiveness trials, 
+randomized controlled pragmatic trials, and dissemination and implementation studies.  
+— Interventions found to be feasible in early-stage trials are moved into multisite clinical 
+trials to assess their safety and efficacy or effectiveness, and then interventions with 
+demonstrated efficacy or effectiveness are evaluated in pragmatic trials conducted in 
+health care systems, as well as dissemination and implementation studies.  
+— When appropriate, the portfolio includes trials with innovative designs to address unique 
+hypotheses about which complementary health approaches are most effective, for 
+whom, and under what conditions.  
+— NCCIH issues notices for clinical trials in specific scientific areas based on scientific need 
+and as funds allow.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 78 matched=['Scientific Priorit', 'Strategic Plan'] ---
+76
+Communications Strategies and Tools To Enhance 
+Scientific Literacy and Understanding of Clinical Research  
+Introduction and Explanation of Need
+Surveys conducted in the United States reveal that many citizens do not have a firm grasp 
+of basic scientific facts and concepts, nor do they understand the scientific process. 
+Without an understanding of the science of health, many consumers will continue to value 
+anecdotes over evidence, believe excessive claims made by supplement manufacturers 
+or TV doctors touting the latest “miracle cure,” and potentially make unwise and unsafe 
+decisions about their health. Those who do possess basic knowledge of the science 
+of health have the capacity to obtain, process, and understand basic information about 
+scientific research needed to make appropriate decisions about their health. Given the 
+current health policy and research emphasis on shared decision making with patients, 
+enhanced patient understanding of the science of health is also a system-level priority. 
+Health care professionals will bear a growing onus to explain and engage in dialogue with 
+patients about treatment options. Promoting understanding of the science of health among 
+a broad consumer base may ultimately make those discussions and decisions easier.
+There is also a particular need for an improved understanding of the science of health  
+for those who use complementary and integrative health approaches. Because many  
+of these approaches are readily available in the marketplace and because so many 
+individuals choose self-care options for their health, NCCIH sits at the crossroads between 
+research and real-world consumer use. Further, to enhance the value and impact of 
+NCCIH’s efforts in disseminating information, consumers need a basic understanding  
+of the research enterprise.
+What Does Success Look Like?
+— Continuing to build on and expand the existing Know the Science effort to educate the 
+public about the importance of understanding biomedical research so people can make 
+informed, evidence-based decisions about their health. 
+— A successful strategic effort includes qualitative and quantitative evaluation, usability 
+testing, expanded content development (e.g., new topics, to include bias and causation 
+versus correlation), support for scientific spokespeople, and outreach and dissemination.
+Priorities
+— To collaborate with partners within and external to the Federal Government committed 
+to enhancing consumers’ understanding of the science of health and addressing 
+misinformation that persists on the internet and in popular media and advertising.
+— To develop and evaluate easy-to-understand materials in a variety of platforms and for 
+diverse audiences.
+— To promote the use of these materials among the general public via direct outreach and 
+by targeting influential stakeholders.
+NCCIH Strategic Plan FY 2021–2025
+Top Scientific Priorities
+
+--- PAGE 80 matched=['Strategic Plan', 'mission', 'Division \nof '] ---
+78
+Statutory Authority  
+In October 1998, Public Law 105-277 , the Omnibus Consolidated and Emergency 
+Supplemental Appropriations Act, elevated the status and expanded the mandate of the 
+NIH Office of Alternative Medicine by authorizing the establishment of the National Center 
+for Complementary and Alternative Medicine (NCCAM). In December 2014, Public Law 
+113-235, the Consolidated and Further Continuing Appropriations Act, 2015, included 
+a provision to change NCCAM’s name to the National Center for Complementary and 
+Integrative Health.
+NCCIH Organizational Structure
+NCCIH is one of 27 Institutes and Centers of NIH, the Nation’s premier biomedical research 
+agency. NIH is the steward of medical and behavioral research for the Nation. The agency 
+is responsible to Congress and the U.S. taxpayers for carrying out its mission to seek 
+fundamental knowledge about the nature and behavior of living systems and the application 
+of that knowledge to enhance health, lengthen life, and reduce illness and disability, in a 
+manner that not only facilitates research but does so cost effectively and in compliance 
+with applicable rules and regulations.
+The NCCIH organizational structure includes an Office of the Director (OD), which provides 
+overall leadership for and administration of the Center’s components, including the Division 
+of Extramural Research (DER), the Division of Intramural Research (DIR), and the Division of 
+Extramural Activities (DEA).
+The NCCIH OD is responsible for planning, directing, and coordinating the programs and 
+activities of NCCIH, including research, training, education, and information dissemination 
+efforts, and providing guidance and policy direction to the offices and divisions of the 
+Center regarding management, program planning, program coordination, and program 
+evaluation. The OD includes the Office of Administrative Management; the Office of 
+Communications and Public Liaison; the Office of Policy, Planning, and Evaluation; and the 
+Office of Clinical and Regulatory Affairs.
+The NCCIH DER oversees the planning, development, and implementation of scientific 
+programs or areas of science that fulfill NCCIH’s mission. DER devises scientific policies, 
+research and training, and career development nationally through grants and contracts 
+to research organizations. The NCCIH DER is organized into two branches based on the 
+type of research being supported. Both the Clinical Research Branch and the Basic and 
+Mechanistic Research Branch oversee studies of complementary health approaches, 
+including natural products, pre-/probiotics, manual therapies, meditation, and meditative 
+movement interventions. 
+The NCCIH DIR, located on the NIH campus in Bethesda, Maryland, conducts basic, 
+clinical, and translational research focusing on the role of the brain in perceiving, modifying, 
+and managing pain. Research projects include investigating the role of the brain in pain 
+processing and control, and how factors such as emotion, attention, environment, and 
+genetics affect pain perception. The program includes research that explores how 
+chronic pain produces changes in the brain that can modify how the brain reacts to pain 
+medications like opioids. 
+NCCIH Strategic Plan FY 2021–2025
+Appendix
+
+--- PAGE 81 matched=['strategic plan', 'Vision'] ---
+79
+The NCCIH DEA develops, implements, and coordinates extramural programs and 
+policies within NCCIH and the extramural community. The division, through its Office 
+of Scientific Review, coordinates the receipt, referral, and scientific review of grants, 
+cooperative agreements, and research contracts. The division, through its Office of Grants 
+Management, oversees the processing of grants, cooperative agreements and contracts. 
+The division also coordinates meetings of the National Advisory Council for Complementary 
+and Integrative Health and manages the Center’s committee management activities.
+Description of the Strategic Planning Process
+From April 2020 through July 2020, stakeholders were offered several ways to contribute 
+their thoughts and feedback. This included responding to a request for information (RFI) 
+(https://grants.nih.gov/grants/guide/notice-files/NOT-AT-20-013.html) using a web form or 
+by email. The Center broadly disseminated information throughout the process to its many 
+stakeholder groups and individuals. In May 2020, the Center hosted the webinar and town 
+hall Whole Person Health: Mapping a Strategic Vision for NCCIH ( https://www.nccih.nih.
+gov/news/events/whole-person-health-mapping-a-strategic-vision-for-nccih-webinar-town-
+hall) in conjunction with the International Congress on Integrative Medicine and Health. In 
+July 2020, NCCIH hosted a Town Hall and Public Comment Session (https://www.nccih.nih.
+gov/news/events/nccih-strategic-planning-town-hall-public-comment-session) at which the 
+Center invited comments from stakeholders, experts, communities, and members of the 
+public, including but not limited to researchers and trainees across academia, industry, and 
+government; health care providers and health advocacy organizations; nongovernmental, 
+scientific, and professional organizations; and Federal agencies. Both NCCIH and NIH staff 
+also provided input to the development of the strategic plan throughout the process.
+The draft strategic plan was posted to the NCCIH website in February 2021, and an RFI 
+(https://grants.nih.gov/grants/guide/notice-files/NOT-AT-21-005.html) was issued for public 
+comment on the draft. 
+The National Advisory Council for Complementary and Integrative Health provided valuable 
+input and received updates during their public meeting sessions in September 2019; 
+February, June, and September 2020; and January 2021.
+Mapping a Pathway to Research on Whole Person Health

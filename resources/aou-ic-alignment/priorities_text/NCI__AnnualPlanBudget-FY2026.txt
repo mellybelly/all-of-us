@@ -1,0 +1,351 @@
+# NCI (AnnualPlanBudget-FY2026) — file: NCI_Annual_Plan_Budget_Proposal_FY2026.pdf
+# 10 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['TABLE OF CONTENTS'] ---
+Annual Plan & Professional Judgment 
+Budget Proposal for Fiscal Year 2026 
+TABLE OF CONTENTS 
+HIGHLIGHTED SCIENTIFIC OPPORTUNITIES IN CANCER RESEARCH 
+RESEARCH PORTFOLIO 
+STORIES OF CANCER RESEARCH 
+DIRECTOR’S MESSAGE & PROFESSIONAL JUDGMENT BUDGET PROPOSAL 
+1 
+« Director’s Message..................................................................................................................... 2 
+« NCI Professional Judgment Budget Proposal .................................................................. 4 
+« NCI Research Portfolio: Driving Discovery to End Cancer as We Know It............. 7 
+« Tackling the Emergence of Early-Onset Cancers in Young Adults ......................... 13 
+« Approaching Cancer as a Disease That Affects the Entire Body ...............................14 
+« Alleviating Financial Toxicity for Cancer Survivors and Caregivers ......................15 
+« Expanding the Utility of Cancer-Targeting Vaccines ................................................... 16 
+« Opting for a Novel Combination Treatment for Resistant Aggressive 
+B-Cell Lymphoma..................................................................................................................... 18 
+« Treating Precancer in Low-Resource Settings to Prevent Cervical Cancer ....... 20 
+« Lighting the Way to Detect Tumors During Surgery....................................................22 
+
+--- PAGE 3 matched=['mission'] ---
+3 
+NCI research is also illuminating artificial intelligence’s (AI) potential to tell us which treatments are most 
+likely to work, enhance screening for precancers before they progress to cancer, and help find some of the 
+hardest cancers to detect early. Approaches like these could greatly improve outcomes. 
+We are on the doorstep of much more progress. The rapid pace of cancer research discovery and 
+innovation, the availability of powerful technology and infrastructure, and a cadre of talented people 
+provide us with extraordinary opportunities for more lifesaving advances. 
+To achieve its full potential, the cancer research enterprise, known collectively as the National Cancer 
+Program, must be mobilized to work at full strength—together. That starts with an innovative workforce 
+empowered to produce the discoveries of tomorrow and reach people affected disproportionately by 
+cancer by addressing access to research and barriers to care. 
+It is critical that scientists have access to accurate data, representative of all patient populations, 
+to engineer new machine learning and AI algorithms that predict the best interventions. We must 
+revolutionize clinical research so that promising approaches and discoveries are tested in clinical studies 
+that are accessible, inclusive, nimble, and able to rapidly answer the most pressing questions for all 
+populations. 
+Finally, we must continue to generate the foundational scientific evidence necessary to strengthen cancer 
+prevention, enhance screening, and deliver optimal care to everyone confronted by cancer. 
+With strategic increased investments through NCI, the cancer research enterprise could be fully powered 
+to achieve the scientific breakthroughs required to reach the Cancer Moonshot℠ goal to reduce the cancer 
+death rate by 50% by 2047 and improve the experience of patients and families facing a cancer diagnosis. 
+As the largest funder and a key catalyst for all aspects of cancer science, NCI is the linchpin that unites 
+cancer research through the National Cancer Program. We are dedicated to bringing all stakeholders 
+together to achieve the mission to 
+advance scientific knowledge and help all people live longer, healthier 
+lives. 
+NCI investments in training, data, science, and infrastructure sustain cancer research performed at 
+cancer centers, hospitals, community clinics, and universities across the United States—assembling major 
+networks that empower the advances needed in our current era. These activities, in turn, advance not 
+only science, but the economic health of communities by creating jobs and fueling local entrepreneurship. 
+NCI’s nationwide research networks make it possible for people in all 50 states to participate in research. 
+In this role, NCI has a unique ability to reach deep into communities to understand people’s specific 
+challenges, while also shaping our national efforts to take advantage of transformative opportunities. 
+This proposal highlights four immediate scientific opportunities to move the needle against cancer even 
+further. They include reversing the alarming rise of cancer among young adults, understanding how 
+cancer in one organ site affects the entire body, identifying ways to overcome the financial hardships 
+that contribute to worse outcomes for many people, and developing vaccines to train the body’s immune 
+system to prevent or treat cancers. Of course, these four areas offer only a snapshot of the extraordinary 
+opportunities and pres
+
+--- PAGE 7 matched=['vision'] ---
+7 
+NCI RESEARCH PORTFOLIO: DRIVING DISCOVERY 
+TO END CANCER AS WE KNOW IT 
+NCI enables advances against cancer by investing in a broad portfolio of research, supporting the cancer 
+research workforce, and sustaining the infrastructure that enables cutting-edge research to succeed. All 
+these components are essential to lead progress against cancer and accomplish the goals of the National 
+Cancer Plan. 
+NCI’s support of basic, translational, and clinical research is helping to reduce the burden of cancer by 
+driving discovery to improve cancer risk assessment, prevention, detection, diagnosis, treatment, and 
+survivorship. Sustained and robust support for NCI’s work is needed to realize the long-term vision of 
+ending cancer as we know it for all populations. 
+Providing hope: The power of cancer biology research 
+Virtually every new cancer diagnostic, therapeutic, or preventive measure begins with addressing a basic 
+science research question. Through decades of carefully planned experiments in laboratories across the 
+country, researchers generate fundamental knowledge that often cuts across multiple types of cancer. 
+It’s these investments in cancer biology research that support the groundwork needed to discover and 
+advance lifesaving cancer interventions. Continued support is then required to build on these findings. 
+NCI is the largest funder of the basic research that is critical for making sustained progress against cancer. 
+Cancer survivors and those at risk of developing the disease rely on the innovative approaches that cancer 
+biology research delivers. 
+For example, through cancer biology research, NCI-supported researchers have: 
+• pinpointed a specific type of bacteria linked with colorectal cancer, which could inform new strategies 
+for cancer screening and treatment 
+
+--- PAGE 8 matched=['research areas'] ---
+8 
+• mapped interactions between tumor cells and their environment in stomach cancer to improve our 
+understanding of how the disease advances 
+• updated long-held beliefs about cell division that could change the way we treat some fast-growing 
+tumors 
+• identified an unexpected way tumor cells hide from the immune system, revealing a new target to help 
+expose the cancer to immune cells 
+Discoveries like these, and many others, open the door to new cancer prevention, interception, and 
+treatment options where few or none currently exist and provide hope that one day all cancers will be 
+treatable. 
+Read more about NCI’s related research areas, including cancer biology research, cancer genomics 
+research, and research on causes of cancer. 
+Reducing the burden: The potential of cancer prevention 
+While overall cancer mortality continues to decrease, researchers estimate that more than half of cancer 
+deaths are preventable. More research investments are needed to learn how to implement, improve, and 
+build on current prevention strategies and intercept cancer more effectively by improving treatment of 
+precancerous lesions. 
+Researchers have identified several preventable factors in cancer development, such as health behaviors, 
+exposure to cancer-causing agents, and social determinants of health. However, there is still much more 
+to learn about how changes in these risk factors influence cancer risk. The knowledge gained from cancer 
+prevention research can be used to refine guidelines and implement targeted measures to reduce the 
+incidence of cancer. 
+For example, NCI-funded researchers are investigating new ways to prevent precancerous conditions from 
+progressing to cancer and new ways to improve cancer screening in underserved areas. This research has 
+enabled progress in several areas. NCI-supported groups have: 
+• shown that treating a precancerous anal condition in people with HIV reduces their risk of anal cancer 
+by more than half 
+• launched the SHIP Trial Network to evaluate a self-collection method for human papillomavirus (HPV) 
+testing as a way to screen for cervical cancer, especially among underserved and under-screened 
+people 
+• found that simple reminders can increase the number of patients who complete follow-up testing after 
+an abnormal cancer screening result, which aids in cancer prevention and early intervention 
+• improved breast cancer risk prediction tools for Black women, who have a 40% higher rate of breast 
+cancer death than White women, by adding genetic information to the traditional questionnaire-based 
+factors that can inform screening decisions 
+Through rigorous scientific studies, researchers can assess the impact of cancer prevention strategies, 
+identify areas for improvement, and develop more efficient and accessible intervention approaches to 
+reduce the burden of cancer. 
+Read more about NCI’s related research areas, including cancer prevention research. 
+Intervening early: The urgency of cancer detection and 
+diagnosis research 
+Imagine if fewer people suffered and died from cancer because we detected and diagnosed the disease or 
+its precursors at the earliest possible stage. 
+
+--- PAGE 9 matched=['research areas'] ---
+9 
+Accurately identifying cancer—and precancerous lesions—and assessing its severity is the primary goal of 
+cancer detection and diagnosis research. Early detection can save lives. An imprecise approach, however, 
+can lead to overdiagnosis, overtreatment, and unnecessary physical, psychological, and financial harm. 
+Investing in cancer detection and diagnosis research can help develop more sensitive, accurate, and 
+cost-effective methods that provide information about not only the cancer type but also detailed genetic 
+information to support targeted cancer therapies and precision medicine. This research can also establish 
+the impact that screening could have on survival rates for selected cancer types. With the rise of multi-
+cancer detection tests, NCI launched the Cancer Screening Research Network to evaluate potential survival 
+benefits, or other outcomes, from this new type of tool. 
+With recent advances in NCI-funded detection and diagnosis technology, scientists have capitalized on 
+novel opportunities. For example, NCI-supported researchers have: 
+• developed a noninvasive method of detecting colorectal cancer using engineered bacteria that can 
+sense DNA shed by tumors into the gut 
+• identified four key warning signs that could help health providers find colorectal cancer at an earlier 
+and more treatable stage in younger adults, a population that has experienced rising rates of colorectal 
+cancer over the last few decades 
+• overcome the challenge of assembling a large and diverse data set for a rare brain cancer called 
+glioblastoma, enabling the creation of an AI model that can more accurately detect tumor boundaries 
+prior to surgery 
+• developed a urine-based test that can distinguish between slow-growing prostate cancers that pose 
+little risk and more aggressive cancers that need treatment, potentially helping some people avoid 
+unnecessary procedures 
+Cancer detection and diagnosis research is primed with these emerging technologies. Carefully assessing 
+their impact on cancer outcomes will limit risk and ensure benefit from these new screening and detection 
+methods. 
+Read more about NCI’s related research areas, including cancer screening and early detection research 
+and cancer diagnosis research. 
+Innovating treatment: The need for more effective and 
+less toxic cancer therapies 
+For more than 50 years, NCI has played a vital role in the development of more effective and less toxic 
+therapeutic options for patients with cancer. Despite the steady progress in improving treatments, some 
+forms of cancer still lack effective therapies, many cancers eventually develop resistance to treatment, 
+and not all people have equal access to cutting-edge treatments. Adding to the challenge, patients with 
+cancer often experience severe side effects from the disease and its treatment, which for childhood cancer 
+survivors can impact their quality of life for decades. 
+These challenges can be overcome. Investments in treatment research today will inspire and sustain the 
+safe and effective cures of tomorrow. For example, NCI-supported researchers have: 
+• pioneered groundbreaking research using lymphocytes (a type of immune cell) from a person’s own 
+tumor to treat their advanced melanoma, garnering FDA approval of a first-of-its-kind personalized 
+treatment 
+• completed a clinical trial that led to the first FDA approval of an immunotherapy for advanced 
+alveolar soft part sarcoma, a rare soft tissue cancer that requires frequ
+
+--- PAGE 10 matched=['research areas'] ---
+10 
+• conducted the MIRASOL trial, which led to FDA approval of a novel therapy to improve overall survival 
+in people with advanced ovarian cancer that had stopped responding to standard chemotherapy 
+More research is needed to ensure that all patients with cancer have safe and effective therapies and the 
+highest possible quality of life. 
+Read more about NCI’s related research areas, including cancer treatment research and research on 
+childhood cancers. 
+Improving public health: The role of cancer control and 
+health care delivery research 
+Each year, cancer has a significant impact on public health, affecting the nation’s economy and the quality 
+of life for millions of people in the United States. NCI invests in studies to identify population-wide trends 
+in cancer and to improve the delivery of cancer interventions. NCI also supports research that enables 
+people to live a healthy life after cancer. 
+More research is needed to design interventions that improve cancer prevention, screening, treatment, 
+and survivorship outcomes and to address why certain racial, ethnic, and rural populations suffer 
+disproportionately from some cancers. This research can inform policies that reduce cancer-causing 
+exposures, ensure greater compliance with health recommendations, minimize misinformation, and 
+address gaps in the health care system when cancer survivors transition from oncology care to primary 
+care. 
+Additional investments in cancer control and implementation research will improve the lives of cancer 
+survivors and the general population, while ensuring that all population groups benefit from advances in 
+cancer research. For example, NCI-supported groups have: 
+• estimated that more than 15,000 deaths could be prevented if 10% more of the eligible U.S. population 
+used lung, colorectal, breast, and cervical cancer screening tests 
+• revealed gaps in public awareness that drinking alcohol of any type raises the risk of cancer, a finding 
+that can support efforts to reduce the health impact of alcohol 
+• launched the Persistent Poverty Initiative to help alleviate the cumulative effects of persistent poverty 
+on cancer outcomes by building research capacity, fostering cancer prevention research, and promoting 
+the implementation of community-based programs 
+• discovered that the right side of the colon ages significantly faster than the left side in African 
+Americans, possibly explaining why these individuals are more likely to suffer from right-sided colon 
+cancer, which doesn’t respond as well to conventional chemotherapies 
+Researchers are working hard to understand population-level impacts on cancer control and to design and 
+test interventions along the cancer continuum that can address disparities and ensure good health for all 
+people. 
+Read more about NCI’s related research areas, including public health research and cancer and cancer 
+health disparities research. 
+Strengthening the research enterprise: The need for a 
+robust cancer research workforce and infrastructure 
+An extensive research infrastructure and a stable workforce comprise the backbone of the entire cancer 
+research enterprise, and NCI provides a level and scope of infrastructure and training that cannot be 
+matched by other organizations. Investing in these critical needs is of the greatest importance in leading 
+progress against cancer. 
+
+--- PAGE 11 matched=['research \nareas'] ---
+11 
+All cancer research requires a robust workforce and infrastructure. This includes cancer centers where 
+clinical trials can test new approaches to prevent and treat cancer, facilities that develop and manufacture 
+novel technologies and medicines, electronic databases to support large amounts of biomedical data, and 
+programs and initiatives to train a workforce that drives cancer research forward. 
+These elements need continued investments to remain strong and capitalize on new opportunities. With 
+continued investments, NCI has: 
+• launched the new Virtual Clinical Trials Office, an effort to accelerate nationwide participation in cancer 
+clinical trials with remote clinical research support staff who assist teams in community-based and 
+remote settings 
+• supported the next generation of cancer researchers through the K99/R00 Pathway to Independence 
+Program, which helped 95% of surveyed award recipients transition from postdoctoral research to 
+research independence 
+• engaged more than 500 middle-school, high-school, and undergraduate students and their teachers 
+through a Youth Enjoy Science (YES) Research Education Program at the University of Nebraska 
+Medical Center, increasing representation of Native Americans in pursuit of cancer careers 
+• released a comprehensive data set that combines molecular and clinical data from individual studies of 
+more than 1,000 tumors across 10 cancer types, which is publicly available through NCI’s cloud-based 
+Cancer Research Data Commons 
+Investing in the NCI-supported cancer research workforce and infrastructure ensures that all research 
+areas supported by the NCI budget produce the highest quality research in the most effective way possible. 
+Read more about NCI’s cancer research infrastructure and the Center for Cancer Training. 
+
+--- PAGE 12 matched=['goals and strategies'] ---
+12 
+HIGHLIGHTED SCIENTIFIC OPPORTUNITIES 
+IN CANCER RESEARCH 
+NCI continually pursues new and emerging scientific opportunities that, with 
+further investment, would catalyze progress in cancer research. 
+For example, harnessing the power of cancer data is allowing researchers to probe 
+unexplored features of cancer biology and tackle novel treatment approaches. 
+Unraveling the complexity of cancer metastasis is revealing surprising ways 
+that cancer spreads to other parts of the body. And revolutionizing clinical trials 
+is making the work of testing new cancer prevention, detection, and treatment 
+methods faster and more inclusive. 
+Building upon previous advances, researchers have more avenues to make 
+progress against cancer than ever before. Read about four important areas of 
+opportunity for fiscal year 2026 and how sustained investments in each area 
+would support the goals and strategies of the National Cancer Plan. 
+
+--- PAGE 14 matched=['research areas'] ---
+14 
+Approaching Cancer as a 
+Disease That Affects the 
+Entire Body 
+Cancer is a whole-body problem. We know that some 
+of cancer’s most devastating effects are extreme weight 
+loss, debilitating fatigue, pain, and accelerated aging, 
+which is particularly concerning for childhood cancer 
+survivors. Cancer can also affect healthy tissues and 
+organs, allowing tumors to spread to other parts of the 
+body. These whole-body effects of cancer can decrease 
+quality of life, hinder a person from receiving effective 
+treatments, and worsen outcomes for those living with 
+the disease. If we hope to meet the National Cancer Plan 
+goals to develop effective treatments and deliver optimal 
+care, we must identify, understand, and overcome the 
+systemic effects of cancer. 
+After decades of promoting collaborations and 
+supporting progress in cancer biology research, NCI is poised to unite discrete research areas that contribute to 
+our understanding of the effects of cancer on the entire body. We will continue to build on NCI-led basic science 
+research by supporting teams that look at the systemic effects of cancer from multiple angles. For example, a 
+deeper understanding of how healthy organs in the body interact and how those interactions differ in people with 
+cancer is crucial. This will require the collection, integration, and advanced computational analysis of diverse 
+types of data from specialized fields, as well as animal and engineered-tissue models that better reflect system-
+wide processes in the human body. 
+Not everyone who develops cancer will have the same set of symptoms and treatment responses, even those with 
+the same type of cancer and those receiving the same treatments. Understanding these differences will require 
+large studies with various groups of people and more advanced technologies that can probe for and detect cancer-
+related signals throughout the body. 
+The return on investment in this area of research is a clearer picture of how cancer communicates with and 
+affects the entire body. This knowledge is critical to inform proactive, personalized treatment plans that address 
+cancer and cancer-related symptoms and halt the spread of disease to other parts of the body—improving 
+outcomes for all. 
+
+
+--- PAGE 22 matched=['mission'] ---
+22 
+Lighting the Way to Detect 
+Tumors During Surgery 
+In 2010, a company called On Target Laboratories, based 
+in West Lafayette, Indiana, was founded with the goal of 
+helping doctors find cancers more easily during surgery. 
+Their first product was CYTALUX (pafolacianine), a molecule 
+that makes even the tiniest of tumors glow brightly in the 
+operating room. Today, surgeons are finding tumors in lungs 
+and ovaries more easily using this first-of-its kind tool. But 
+the path to bring CYTALUX from the laboratory into the 
+operating room took a lot of persistence from the small start-
+up company—a journey that was helped along with support 
+from NCI’s Small Business Innovation Research (SBIR) 
+program. 
+Seeing the need for innovation 
+Sumith Kularatne, Ph.D., vice president of research and 
+development for On Target, was part of the original team 
+that envisioned the potential of a tool like CYTALUX. Having 
+lost his grandfather to cancer when he was a young boy in Sri Lanka, Sumith has spent much of his life 
+blending his love of chemistry with a strong desire to help families affected by cancer. This led him to the 
+United States, where he eventually began researching molecules that could help reveal cancer cells during 
+surgery in real time. 
+“Surgeons are dealing with a challenging situation,” Sumith explained. Sometimes, a tumor is buried 
+underneath the surface of an organ, rendering it invisible to the naked eye. At other times, a tumor may 
+be too small or not solid enough for a surgeon to feel it with their fingers or surgical instruments. These 
+pitfalls, he continued, inspired On Target to develop a technology that could enhance the surgeon’s sense 
+of sight—like a pair of tumor-revealing glasses. 
+Advancing innovative research and technologies is the goal of NCI’s SBIR program, which funds 
+researcher-initiated projects that align with NCI’s mission. Through the federal SBIR program, small 
+businesses can receive funding, resources, and other support to help drive innovative technologies like 
+CYTALUX into the marketplace to benefit patients. 
+Making tumors glow 
+CYTALUX is a modified version of folate, commonly known as vitamin B9, that is attached to a fluorescent 
+dye. There are many more folate receptors on the surface of certain tumors than on surrounding cells 
+in the body. This overabundance of folate receptors provides a target that researchers can use to shuttle 
+cargo, such as the fluorescent dye in CYTALUX, to a tumor’s location. 
+Once CYTALUX binds to folate receptors and enters tumor cells, a special camera used during surgery 
+causes the dye to emit a bright green signal. This approach, the team found, worked well in animal models 
+of ovarian cancer, the cancer type with the largest concentration of folate receptors. 
+A logical next step was to test CYTALUX in lung cancer, which has a high proportion of folate receptors 
+and causes more deaths in the United States than any other cancer. While surgery remains the gold 
+standard for treating early-stage lung cancers, as many as a third to half of these cancers return, likely 
+because some tumors or tumor cells remained behind after the initial surgery. 
+CYTALUX binds to a tumor in the lung 
+and glows brightly. 
+Credit: On Target Laboratories 

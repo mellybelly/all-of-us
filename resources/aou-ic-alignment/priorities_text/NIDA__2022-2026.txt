@@ -1,0 +1,3565 @@
+# NIDA (2022-2026) — file: NIDA_Strategic_Plan_2022-2026.pdf
+# 54 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+Strategic Plan
+National Institute on Drug Abuse
+National Institutes of Health
+U.S. Department of Health and Human Services 
+
+--- PAGE 3 matched=['Strategic Plan'] ---
+Strategic Plan
+National Institute on Drug Abuse
+National Institute on Drug Abuse 
+National Institutes of Health
+U.S. Department of Health and Human Services
+6001 Executive Boulevard
+Bethesda, MD 20892-9561
+
+--- PAGE 5 matched=['Strategic Goal', 'CROSS-CUTTING PRIORIT', 'Vision'] ---
+1
+Contents
+INTRODUCTION ...................................2
+EXECUTIVE SUMMARY .......................4
+FOCUS ON PRESCRIPTION  
+DRUGS ..................................................7
+I. PREVENTION ..................................10
+Strategic Goal ............................................. 10
+Objectives .................................................. 10
+Introduction––The Value of Research- 
+Based Prevention Approaches ................... 10
+Strategic Approaches to Prevention  
+Research .....................................................12
+ 1.  How can NIDA research inform the  
+  focus of prevention? ......................12
+ 2.  Why do some people become  
+  addicted while others do not? ........12
+ 3.  Which parts of the brain are  
+  involved in drug abuse? ................19
+ 4.  How are research results used  
+  to improve practice? ......................19
+Our Vision for the Future of Prevention  
+of Drug Abuse and Addiction ....................21
+II. TREATMENT ..................................21
+Strategic Goal .............................................21
+Objectives ..................................................21
+Introduction––The Value of a Multipronged  
+and Integrated Approach to Addiction  
+Treatment ...................................................21
+Strategic Approaches to Treatment ............22
+ 1. How can NIDA research help develop  
+  and enhance medications and behavioral  
+  therapies to reduce drug abuse and  
+  prevent relapse? .............................23
+ 2. What if people have another mental  
+  disorder—how does that affect treatment  
+  for addiction? ................................29
+ 3.   How will treatments be tailored for  
+  optimal effectiveness? ...................30
+ 4.   How will drug abuse treatment reach  
+  the people who need it?  ................31
+Our Vision for the Future of Treatment  
+for Drug Abuse and Addiction ...................33
+III. HIV/AIDS ........................................34
+Strategic Goal .............................................34
+Objectives ..................................................34
+Introduction––The Need for Responsive  
+Prevention and Treatment Strategies .........34
+Strategic Approaches to HIV/AIDS  
+Research .....................................................36
+ 1.   How has the HIV/AIDS epidemic 
+  changed over the past few decades  
+  in the United States?......................36
+ 2.   How does NIDA plan to focus research  
+  efforts to better understand and prevent  
+  HIV infection in drug abusers and limit  
+  its progression?..............................37
+ 3.   What can be done to mitigate the  
+  health disparities associated with  
+  HIV/AIDS? ................................... 39
+ 4.   How is NIDA’s HIV research program  
+  contributing to global HIV prevention  
+  and treatment? ...............................40
+ 5. What are we doing to improve  
+  HIV/AIDS treatment and outcomes in  
+  drug abusers? .................................41
+What Is NIDA’s Vision of the Future? ......43
+IV. CROSS-CUTTING PRIORITIES ....44
+Major Goals ...............................................44
+ 1.  What are other health conditions  
+  that interact with drug abuse and  
+  addiction? ......................................44
+ 2.   How is NIDA addressing health  
+  disparities related to drug abuse  
+  and its consequences? ...................45
+ 3.   How does NIDA “get the word out”  
+  about the many facets of drug abuse and  
+  addi
+
+--- PAGE 6 matched=['Strategic Plan', 'mission'] ---
+ 
+2
+National Institute on Drug Abuse Strategic Plan
+Introduction
+The mission of the National Institute on Drug Abuse 
+(NIDA) is to lead the Nation in bringing the power of science 
+to bear on drug abuse and addiction. This charge has two 
+critical components: (1) to support and conduct research 
+across a broad range of disciplines and (2) to ensure the 
+rapid and effective dissemination and use of research results 
+to improve practice and inform policy. The ultimate goal 
+of NIDA’s drug abuse research program is to reduce the 
+burden of drug abuse and addiction
+* and their many adverse consequences 
+for individuals and society at large. By advancing the science of addiction, 
+NIDA is helping to change people’s perceptions, replacing stigma and shame 
+with a new understanding of addiction as a treatable disease. Much like any 
+other medical disease, addiction demands a public health solution.   
+Indeed, NIDA-supported scientific advances over the past three decades 
+have revolutionized our understanding of drug abuse and addiction. We 
+have informed the development of more effective prevention and treatment 
+approaches and have identified areas where more work is needed. For 
+example, while our national research surveys show continuing declines 
+in illicit drug use among teens––down 19 percent since 2001, according 
+to NIDA’s 2009 Monitoring the Future (MTF) survey of 8th-, 10th-, and 
+12th-graders––difficult challenges remain. These challenges include the 
+persistence of chronic drug abuse in a considerable number of teens (e.g., 
+5 percent of 12th-graders are daily marijuana users, a level statistically 
+unchanged since 2001)
+1 and the high rates of prescription drug abuse among 
+both adolescents and adults. This trend has prompted a near-doubling of 
+unintentional poisoning deaths nationwide since 1999,
+2 mainly from opioid 
+analgesic abuse (see “Emerging Issues and Challenges”).  
+* “Drug abuse,” as used throughout this report, refers to the repeated use of licit or illicit psychoactive 
+substances, which may or may not lead to “addiction,” which is defined as a complex brain disease 
+characterized by compulsive, at times uncontrollable, drug craving, seeking, and use that persist even 
+in the face of extremely negative consequences. These definitions differ from those in the Diagnostic 
+and Statistical Manual of Mental Disorders (DSM), which provides diagnostic criteria for drug abuse 
+and dependence, and does not in its present form include the term “addiction.”  We use the term 
+“addiction” to refer to what the DSM defines as “dependence.”   
+
+--- PAGE 7 matched=['Strategic Plan'] ---
+  
+3
+National Institute on Drug Abuse Strategic Plan
+ 
+We must continue to aggressively meet these challenges and work to prevent 
+the often devastating consequences of drug abuse and addiction that affect 
+all segments of society. Economic costs alone are estimated to exceed one-
+half trillion dollars annually in the United States—including health- and 
+crime-related costs, as well as productivity losses, such as those stemming 
+from workplace injuries and accidents. In 2008, 20 million Americans, or 8 
+percent of the population, aged 12 or older were current (past-month)
+ illicit 
+drug users.3 Staggering as these numbers are, however, they do not fully 
+describe the breadth of deleterious public health––and safety––implications, 
+which include family disintegration, loss of employment, accidents, failure 
+in school, and domestic violence and other crimes. Substance use and abuse 
+can also exacerbate a variety of health problems, including the spread 
+of infectious diseases such as HIV/AIDS, sexually transmitted diseases 
+(STDs), tuberculosis, and hepatitis C. Frequently comorbid with other 
+mental disorders, drug abuse also contributes significantly to the risk of 
+suicide and suicidal behaviors.
+4
+It is plain to see that drug abuse is a ubiquitous, complex, and urgent 
+problem that affects us all. Thus, NIDA continues to engage multiple 
+stakeholders across the community in efforts to integrate substance abuse 
+and addiction diagnosis, referral, and treatment into standard medical 
+practice as well as criminal justice settings, where drug abuse problems are 
+widespread. These settings offer good opportunities for treatment, which can 
+have considerable societal impact.
+The pages that follow describe broad strategies that NIDA plans to implement 
+over the coming years. A flexible, dynamic approach allows us to adapt to 
+changing needs and take advantage of scientific opportunities as they arise and 
+are revealed through our ongoing research.
+Nora D. V olkow, M.D. 
+Director, NIDA
+
+--- PAGE 8 matched=['Strategic goal', 'CROSS-CUTTING PRIORIT', 'Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+4
+Executive Summary
+For the past three decades, the National Institute on Drug Abuse (NIDA) has led the 
+way in supporting research to prevent and treat drug abuse and addiction and mitigate 
+the impact of their consequences, which include the spread of HIV/AIDS and other 
+infectious diseases. To confront the most pressing aspects of this complex disease and 
+to tackle its underlying causes, our strategic approach is necessarily a multipronged 
+one. It takes advantage of research programs in basic, clinical, and translational 
+sciences. This includes genetics, functional neuroimaging, social neuroscience, 
+medication and behavioral therapies, prevention, and health services, including 
+effectiveness and cost-effectiveness research. Our burgeoning portfolio has given us a large and 
+growing body of knowledge that informs our strategic directions for the future. These directions 
+are grouped into four major goal areas, reflected in the sections that follow:
+I.  PREVENTION
+II.  TREATMENT
+III. HIV/AIDS
+IV . CROSS-CUTTING PRIORITIES   
+These four sections and accompanying strategic goals and objectives are summarized below.
+I.  Prevention
+Strategic goal: To prevent the initiation of drug use and the escalation to 
+addiction in those who have already initiated use.  
+Our prevention research has led to today’s 
+improved understanding of addiction and 
+has positioned NIDA to build upon solid 
+epidemiological findings and new insights 
+from genetics and neuroscience. Findings 
+have revealed myriad contributors to 
+addiction and the involvement of multiple 
+brain circuits in addiction processes. A major 
+goal of our efforts is to better understand 
+why some people become addicted while 
+others do not. Our prevention efforts 
+encompass both illicit and licit drugs, such 
+as nicotine and prescription medications. We 
+support research that strives to identify the 
+factors that put people at increased risk of 
+drug abuse or protect them from it. Results 
+will lead to more effective counterstrategies, 
+particularly to prevent young people from 
+ever using drugs in the first place. We are 
+applying modern technologies (e.g., genetics 
+and brain imaging tools) to our 
+prevention studies and are devising creative 
+and targeted communications strategies to 
+encourage their use.  
+NIDA’s Prevention Objectives Include:
+1. To identify the characteristics and patterns 
+of drug abuse.
+2. To understand how genes, environment, 
+and development influence the various 
+risk and protective factors for drug abuse. 
+3. To improve and expand our understanding 
+of basic neurobiology as it relates to the 
+brain circuitry underlying drug abuse and 
+addiction.
+4. To apply this knowledge toward the de-
+velopment of more effective strategies to 
+prevent people from ever taking drugs and 
+from progressing to addiction if they do.
+
+--- PAGE 9 matched=['Strategic goal', 'Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+5
+II. Treatment
+Strategic goal: To develop successful treatments for drug abuse and addiction 
+and improve treatment accessibility and implementation. 
+Given the complex interactions of biological, 
+social, environmental, and developmental 
+factors that underlie drug abuse and 
+addiction, NIDA acknowledges the need to 
+take a “whole systems” approach to treating 
+this disease. We are well-positioned to 
+capitalize on recent discoveries that have 
+uncovered an expanded range of possible 
+brain targets that affect craving, euphoria, 
+motivation, learning, memory, and inhibitory 
+control––key contributors to addiction and 
+relapse. To bring about more customized 
+treatments, our comprehensive therapeutic 
+research portfolio pushes for more effective 
+medication and behavioral therapies. 
+Innovative approaches that consider genetic 
+variation, comorbid conditions (e.g., mental 
+illness, chronic pain), and the addicted 
+person’s changing needs over time will 
+usher in promising medications to counteract 
+drug-induced changes in the brain and 
+enhance behavioral therapies. Effectiveness 
+research helps us optimize strategies for 
+disseminating and implementing research-
+based treatments in health care and criminal 
+justice settings. This objective requires that 
+we continue to strengthen our productive 
+partnerships with treatment practitioners, 
+state substance abuse programs, and other 
+Federal agencies to move proven treatments 
+into clinical practice at the community level.  
+NIDA’s Treatment Objectives Include:
+1.  To develop effective medications and 
+behavioral interventions to treat drug 
+abuse and addiction and to prevent 
+relapse.
+2. To develop treatments for drug abuse and 
+addiction in association with comorbid 
+conditions.
+3. To develop the knowledge that leads to 
+personalized or customized treatments.
+4. To translate research-based treatments to 
+the community.
+III. HIV/AIDS
+Strategic goal: To diminish the spread of drug abuse-related human 
+immunodeficiency virus (HIV) and minimize the associated health and social 
+consequences, including acquired immunodeficiency syndrome (AIDS).
+Drug abuse continues to be a major vector 
+for the spread of HIV/AIDS through its 
+connection with other risky behaviors, such 
+as needle sharing and unprotected sex. Our 
+research advances the less-acknowledged 
+link between drug abuse in general and the 
+resulting impaired judgment that can lead to 
+risky sexual behavior and HIV transmission. 
+This linkage highlights the value of drug 
+abuse treatment in preventing the spread 
+of HIV . We plan to continue supporting 
+primary prevention research to find the most 
+ef
+fective HIV risk-reduction interventions 
+for different populations. Young people are 
+a major focus for these efforts, prompting 
+strategies that start early and can be 
+adapted as the individuals age. NIDA also 
+supports research to develop effective 
+secondary prevention strategies designed 
+to reduce HIV transmission. This includes 
+seeking out the best ways to incorporate 
+HIV education, testing, counseling, and 
+treatment referral, and supporting research 
+to identify and overcome barriers such as 
+
+--- PAGE 10 matched=['Cross-Cutting Priorit', 'Strategic Plan', 'mission'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+6
+stigma and access to treatment for HIV and 
+drug abuse. NIDA also sponsors research to 
+learn more about the multiple interactions that 
+occur with neurological complications from 
+HIV , substance abuse, and other comorbid 
+psychiatric disorders. This knowledge can 
+inform the development of more responsive 
+counterinterventions. Additionally, we 
+continue to target HIV/AIDS-related health 
+disparities and integrate HIV/AIDS initiatives 
+worldwide.  
+NIDA’s HIV/AIDS Objectives Include:
+1.  To support research to better understand 
+the etiology, pathogenesis, and spread 
+of HIV/AIDS among drug-abusing 
+populations.
+2. To help prevent the acquisition (primary 
+prevention) and transmission (secondary 
+prevention) of HIV among drug abusers 
+and their partners.
+3. To decrease the health disparities 
+associated with HIV/AIDS.
+4. To support international research on the 
+intertwined epidemics of drug abuse and 
+HIV/AIDS.
+5. To improve HIV treatment and outcomes 
+in drug abusers through a better under-
+standing of interactions with drugs of 
+abuse, HIV/AIDS disease processes, and 
+the medications used to treat both.
+IV. Cross-Cutting Priorities  
+Several additional priority areas span NIDA’s portfolio and contribute to our 
+overall mission to prevent or reduce drug abuse and addiction. These areas are 
+highlighted below.
+1.  To foster research on other health 
+conditions that may inform, influence, 
+or interact with drug abuse and addiction 
+(e.g., pain, compulsive behavioral disor-
+ders).
+2. To decrease health disparities related to 
+drug addiction and its consequences.
+3. To educate a variety of audiences (e.g., 
+criminal justice, medical, and educational 
+systems in the community; media; and 
+legislators) about the science underlying 
+drug abuse.
+4. To train and attract new investigators 
+with diverse experiences––including 
+those from minority or disadvantaged 
+backgrounds––and to actively recruit 
+chemists, physicists, bioengineers, and 
+mathematicians to conduct translational 
+research on drug abuse.
+5. To promote collaborative international 
+research activities that address nicotine 
+addiction, HIV/AIDS, and emerging 
+trends, as well as training and dissemina-
+tion of science-based information on drug 
+abuse.
+
+--- PAGE 11 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic PlanNational Institute on Drug Abuse Strategic Plan
+7
+Focus on Prescription Drugs
+Unlike illicit drug use, which shows a continuing downward trend, prescrip-
+tion drug abuse––particularly of stimulants and opioid pain medications––
+has seen a continual rise through the 1990s, and since 2002 has been at 
+unacceptably high levels among persons age 12 or older.
+5 
+†  The terms “prescription drug abuse” and “nonmedical use” are used interchangeably in this document and are based on the definitions 
+used by most national surveys measuring nonmedical use (i.e., the intentional use of an approved medication without a prescription, 
+in a manner other than how it was prescribed, for purposes other than prescribed, or for the experience or feeling the medication can 
+produce). Misuse refers to unintentional use of an approved medication in a manner other than how it was prescribed.
+Figure I-1
+8 of the top 13 drugs most commonly abused by high 
+school seniors are prescription or over-the-counter
+Past-Year Drug Abuse Among 12th-Graders, 2009
+Source: University of Michigan, 2008 Monitoring the Future Survey
+Nature and Scope 
+of the Problem
+In 2008, approximately 
+6 million Americans 
+reported current (in the 
+past month) nonmedical 
+use
+† of prescription 
+drugs—more than the 
+number abusing cocaine, 
+heroin, hallucinogens, 
+and inhalants combined.
+6 
+According to the 
+Monitoring the Future 
+(MTF) survey supported 
+by NIDA, 8 of the top 13 
+drugs most commonly 
+abused by high school 
+seniors are either 
+prescribed or purchased 
+over the counter (see Figure I–1). 
+While the MTF surveys students in the 
+8th, 10th, and 12th grades, other survey 
+research shows that young adults ages 
+18–25 are by far the greatest users 
+overall. This age group also shows the 
+biggest increases, compared to others, 
+in past-month, past-year, and lifetime 
+non-medical use between 2002 and 2008 
+(National Survey on Drug Use and Health 
+[NSDUH], 2009). Even though not prescribed 
+for them, many are using prescription drugs 
+for their intended purposes, such as to 
+
+--- PAGE 12 matched=['Strategic Plan'] ---
+National Institute on Drug Abuse Strategic Plan
+8
+relieve pain in the case of prescription opioids, 
+or to enhance alertness in the case of attention-
+deficit hyperactivity disorder (ADHD) medications. 
+A common perception is that because these are 
+legitimate pharmaceuticals that emanate from a 
+controlled system, they are less harmful than illicit 
+drugs. This belief is false, as evidenced by rising 
+numbers of people overdosing on or becoming 
+addicted to prescription drugs. Whether the intent is 
+to relieve pain, stay alert for a test, or get high, any 
+use without a physician’s evaluation or monitoring 
+can pose potentially grave health risks.  
+At the other end of the age spectrum is the 
+swelling population of older people who are 
+frequently prescribed psychotherapeutic drugs and 
+who may be especially vulnerable to the health 
+consequences of their abuse or misuse. This is 
+especially true if other medications or underlying 
+health conditions are involved. Thus, prescription 
+drug abuse and misuse affects populations of 
+all ages and is further complicated by differing 
+motivations and consequences for each.  
+Different Approach Needed From That 
+for Other Licit or Illicit Drugs
+Because they can greatly benefit health as well 
+as pose risks, prescription drugs present several 
+challenges on how best to guard against their 
+abuse.    
+Some patients, such as those with chronic pain, 
+may require prescription painkillers to effectively 
+alleviate their suffering. But for these patients and 
+their physicians, the issues can quickly become 
+complex and difficult to manage. For example, 
+physicians may need to decide whether presenting 
+symptoms indicate a need to increase the dose of 
+an opioid analgesic to adequately manage pain, or 
+signal a potential drug abuse problem. Moreover, 
+predicting who is at greatest risk for addiction is a 
+difficult and increasingly relevant problem, one that 
+is particularly urgent for war veterans returning from 
+Iraq and Afghanistan who sustain serious injuries. 
+Thus, NIDA continues to diligently support research 
+in this area, including pursuing pain medications 
+that have little or no addiction liability.
+Another challenge involves crafting prevention 
+messages to effectively combat the abuse of 
+prescription drugs without alarming patients who 
+need them. Because physicians are usually the 
+prescribers of these medications, involving them in 
+our efforts to curb prescription drug abuse is critical. 
+Dramatic increases in the number of prescriptions 
+written, greater social acceptance of using medica-
+tions, and aggressive marketing by pharmaceutical 
+companies have likely contributed to the current 
+broad “environmental availability” of prescription 
+drugs (see Figure I–2). This notion is consist-
+ent with 2008 NSDUH survey data wherein most 
+people report obtaining prescription drugs from 
+friends and family members for whom they were 
+prescribed. Thus, physicians need to be cognizant 
+of the various risks and serve as the front-line re-
+sponders when a problem is suspected, particularly 
+if a patient may be developing abuse or addiction 
+problems. NIDA continues to engage physicians 
+and physicians-in-training to raise their awareness.
+We are bolstering efforts to test and evaluate 
+treatments for addiction to prescription drugs, 
+tailoring interventions according to type of 
+medication and reason for its abuse. These 
+variables are often biased by age and gender. 
+To stay on top of who is us
+
+--- PAGE 13 matched=['Strategic Plan'] ---
+ 
+ 
+9
+National Institute on Drug Abuse Strategic Plan
+Figure I-2
+Projected Number of Prescriptions for Stimulants* Dispensed by  
+U.S. Retail Pharmacies, 1991-2009
+*excludes modafinil and atomoxetine products
+Dramatic increases in stimulant and opioid prescriptions
+Source: SDI’s Vector One®: National 
+Total Number of Prescriptions for Hydrocodone and Oxycodone  
+Products Dispensed by U.S. Retail Pharmacies, 1991-2009
+
+--- PAGE 14 matched=['Strategic Goal', 'Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+10
+I. Prevention
+Strategic Goal
+To prevent the initiation of drug use and the escalation to addiction in 
+those who have already initiated use.
+Objectives
+1. To identify the characteristics and patterns of drug abuse.
+2. To understand how genes, environment, and development influence 
+the various risk and protective factors for drug abuse. 
+3. To improve and expand our understanding of basic neurobiology as 
+it relates to the brain circuitry underlying drug abuse and addiction.
+4. To apply this knowledge toward the development of more effective 
+strategies to prevent people from ever taking drugs and from 
+progressing to addiction if they do.
+Introduction: The Value of Research-Based  
+Prevention Approaches
+The basic and clinical research sponsored by NIDA for more than 30 years 
+has led to a vast and growing body of knowledge that informs our strategic 
+directions for the future. And while multiple challenges remain, NIDA continues 
+to capitalize on opportunities to meet our short- and long-term goals. These are, 
+respectively, to prevent those who are abusing drugs from intensifying their 
+abuse and becoming addicted, and to develop and deploy the best strategies to 
+prevent drug use. 
+This expanding body of knowledge is leading to evidence-based prevention 
+strategies that build upon solid epidemiological, genetic, and neuroscience 
+research. Our prevention portfolio continues to examine the impact of both 
+micro- (e.g., family, peers) and macro- (e.g., poverty, stigma) environments, 
+using a data-driven approach to prevent drug abuse and addiction in all 
+populations.  
+Although NIDA recognizes that addiction only affects a subset of those 
+exposed, any illicit or inappropriate drug exposure can place an individual 
+at risk for serious health consequences. Even a one-time drug experience 
+
+--- PAGE 15 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+11
+could lead to accidents (e.g., drugged 
+driving) or disease (e.g., HIV/AIDS) 
+stemming from drug intoxication. 
+Because experimentation is a common 
+motivation for adolescents to use drugs, 
+our prevention messages must be aimed 
+at keeping young people from trying 
+drugs in the first place.  
+Indeed, the adolescent population 
+is of particular interest for NIDA 
+because drug abuse typically begins 
+during this period of heightened risk-
+taking (see Figure 1). By supporting 
+epidemiological studies, such as the 
+MTF survey, we are able to identify 
+emerging trends among adolescents and 
+guide responsive national prevention 
+efforts. For example, MTF revealed that 
+in 2008, prescription medications along 
+with over-the-counter drugs (cough 
+medicine), accounted for 8 of the top 13 
+drug abuse categories reported by 12th-
+graders
+7 (see “Focus on Prescription 
+Drugs”).  
+NIDA is vigorously pursuing research 
+on the effects of abusable substances 
+and how multiple factors––genes, the 
+environment, developmental variables, 
+and their interactions––influence 
+vulnerability to and protection 
+against addiction. The impact of drug 
+abuse varies throughout the lifespan. 
+NIDA therefore supports research 
+that spans from prenatal exposure to 
+older adulthood to uncover how life 
+transitions influence the likelihood and 
+trajectory of drug abuse and addiction. 
+Future studies will examine how 
+developmental shifts interact with genes 
+and the environment to influence disease 
+vulnerability and progression.  
+Adding to this understanding is our growing knowledge of 
+the multiple brain circuits associated with drug abuse and 
+addiction, such as those implicated in reward, inhibitory control, 
+emotional states, learning and memory
+, and interoception 
+(sensitivity to stimuli originating inside the body). In addition, 
+basic research on brain development is illuminating how age 
+affects the response to drugs, as well as addiction propensity and 
+progression. With the powerful tools of modern neuroimaging, 
+we can “see” how various brain mechanisms interact with drugs 
+of abuse to influence decisionmaking (e.g., willingness to take 
+risks). We can do this in real time, throughout development, and 
+as people engage socially.  
+Finally, NIDA is moving aggressively to tap into the power of 
+imaging research in order to develop more effective prevention 
+interventions. We know that specific target audiences––
+adolescents, young adults, pregnant women, and older adults––
+require tailored prevention approaches to more effectively 
+reduce their risks and enhance the value of protective factors.  
+Source: National Epidemiologic Survey on Alcohol and Related Conditions, 2003
+Individuals who initiate drug use early are more  
+likely to develop subsequent dependence.
+Figure 1
+
+
+--- PAGE 16 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+12
+Sidebar 1
+Whether or not the exposure to drugs of 
+abuse will lead to addiction is a function 
+of the interaction between multiple 
+domains, including genetic background, a 
+person’s response to a drug, and his or her 
+environment and developmental stage.
+Strategic Approaches to  
+Prevention Research
+The following section is organized according to four 
+guiding questions to describe NIDA’s approach of using 
+basic, clinical, and health services research to improve 
+our prevention efforts. 
+1. How can NIDA research inform the focus of 
+prevention?
+NIDA continues to identify areas of particular concern 
+and to spot trends early through our epidemiological 
+work in the field. We monitor national and regional 
+substance abuse trends through our nationwide 
+Community Epidemiology Work Group (CEWG), the 
+MTF survey, and other sources. These mechanisms help 
+us identify the who, what, where, and when 
+of drug abuse trends as well as associated 
+attitudes and consequences.  
+We also encourage research that capitalizes 
+on other databases available through our 
+sister Institutes and Federal agency partners, 
+such as the National Epidemiologic Survey 
+on Alcohol and Related Conditions, 
+sponsored by the National Institute on 
+Alcohol Abuse and Alcoholism (NIAAA), 
+and the National Survey of Parents and 
+Youth, sponsored by the White House Office 
+of National Drug Control Policy. In addition, 
+we support a number of longitudinal studies 
+that gather information on children’s 
+cognitive and emotional development, as 
+well as their vulnerability to addiction later 
+in life if they have been exposed to drugs.
+To continue to make the most of these 
+rich data sources and to improve upon 
+them, NIDA is encouraging researchers to 
+include genetics in epidemiological studies, 
+whenever relevant, to try to zero in on 
+gene-environment interactions at different 
+developmental stages. This potential treasure 
+trove of genetic information, combined with 
+brain imaging data, is likely to reveal even 
+more about the trajectory of addiction and 
+the contribution of social–environmental 
+factors. This, in turn, will lead to 
+increasingly customized interventions for 
+those at risk.
+2. Why do some people become addicted 
+while others do not?
+Our research has already identified many 
+factors that can either enhance or mitigate an 
+underlying propensity to initiate or continue 
+drug use. Exposure to drugs is, of course, 
+an environmental risk factor—along with 
+socioeconomic status, quality of parenting, 
+and peer group influence, to name a few. 
+Advances in genetics are allowing us to 
+identify biological factors, such as genetic 
+
+--- PAGE 17 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+13
+polymorphisms (normal genetic variations) 
+that confer increased vulnerability or 
+protection. Epigenetics research––the study 
+of long-term changes in gene function that 
+result from environmental impacts––will 
+lead to discoveries about the dynamic 
+interactions of genes with environment, 
+along with developmental factors (see 
+Sidebar 1). We know that addiction is a 
+multifactorial, complex, and chronic disease 
+of the brain so a better understanding 
+of the many contributors to drug abuse 
+and addiction, and the different ways 
+they operate at the individual, group, and 
+community levels, is critical to designing 
+more effective prevention messages.
+The influence of biological factors  
+on a person’s addiction risk
+Numerous biological factors confer 
+risk of or protection against drug abuse 
+and addiction. These include genetics, 
+developmental stage, gender, comorbid 
+diseases, and pharmacological response 
+or sensitivity to a drug’s effects. As 
+particular biological factors emerge from 
+epidemiological and clinical studies, they 
+can be put to the test in animal models (and 
+possibly even in vitro) to help validate, 
+trace, and explore their mechanisms for 
+conveying addiction risk.
+The use of animal models allows the 
+manipulation of genetic, environmental, 
+and developmental conditions to investigate 
+related changes in the brain and behavior. 
+NIDA researchers have developed relevant 
+models in different species that help reveal 
+various behavioral components of addiction. 
+For example, these models can help tease 
+apart susceptibility to drug taking, the role 
+of stress and social factors in triggering 
+drug-taking behaviors, and the transition 
+from controlled intake to compulsive drug 
+self-administration.  
+Why genes matter
+A
+ person’s genetic makeup plays an important role in his 
+or her addiction vulnerability and, possibly, in the decision 
+to take drugs in the first place. Research shows that 
+approximately 50 percent of the predisposition to addiction 
+can be attributed to genetics. However, this influence is 
+not a simple one. Like many complex diseases, addiction 
+is likely to display a multifactorial pattern of inheritance—
+which means that many genes contribute, each having 
+a relatively small effect—influenced by environmental 
+factors. A better understanding of these genetic influences 
+is critical to our prevention efforts. Indeed, ongoing 
+developments in the field of high-throughput genomic 
+screens herald a much faster means of identifying 
+specific gene variants that can contribute to (or guard 
+against) addiction. The resulting knowledge could then 
+be leveraged preventively to identify people at risk, well 
+before a substance use disorder emerges.
+In addition to the genetic vulnerabilities one is born 
+with, gene function or gene expression is also influenced 
+by environmental events. These in turn can alter brain 
+function and behavior, and ultimately addiction risk or 
+resilience. Epigenetic changes can be triggered, not just 
+by drug exposure, but also by factors such as maternal 
+behavior, aggression, and stress. Understanding the 
+causes and effects of epigenetic changes will engender 
+interventions to counter, prevent, or capitalize on them. 
+How a person’s environment affects his or her  
+risk of drug abuse or addiction
+Working in concert with biological risk and protective 
+factors are those that stem from our environment as 
+we progress from f
+
+--- PAGE 18 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+14
+Sidebar 2
+Environmental Factors Can 
+Increase Drug Abuse Risk
+Research demonstrates a relationship 
+between illicit drug use and adverse 
+childhood experiences (ACEs). A 
+retrospective study cohort of 8,603 adults 
+who attended a primary care clinic in 
+California completed a survey about 
+childhood abuse, neglect, and household 
+dysfunction; illicit drug use; and other health-
+related issues. Each ACE reported increased 
+the likelihood for early drug use (by age 14) 
+two- to fourfold and raised the risk of later 
+addiction; people with 5 or more  ACEs were 
+7–10 times more likely to report illicit drug 
+use problems than those with none.   
+Why it’s important: Research is needed 
+to understand and evaluate the impact of 
+environment and experience on the initiation 
+of drug use and subsequent problems at 
+any age. Progress in reducing drug use will 
+demand attention to various types of stressful 
+experiences, such as those identified in this 
+study.
+Source: Dube et al., 2003 – J Pediatr 111:564–572 
+Social neuroscience. The initial decision to 
+use drugs is often made in group situations, 
+yet little is known about how social dynamics 
+influence the basic cognitive and motivational 
+processes that go into that decision and 
+others involving risky behaviors. Social 
+neuroscience seeks to explain social behavior 
+in terms of its underlying neurobiological 
+mechanisms (genetic, epigenetic, hormonal, 
+biochemical, physiological). This discipline 
+is being increasingly applied to understand 
+a range of behaviors and experiences, 
+including aggression, affiliation, attitudes, 
+social decisionmaking, moral judgment, 
+sexuality, communication, and others. NIDA 
+is encouraging basic and clinical research 
+that applies a social neuroscience perspective 
+to drug abuse and decisionmaking over the 
+course of a person’s lifespan.
+Stress and trauma. Particularly if 
+experienced early in life, stress and trauma 
+can alter the brain and the response to stress 
+throughout life. In humans, subsequent social 
+stressors such as economic adversity, isolation, 
+and parental abuse and neglect are known 
+to influence age of first drug use, level and 
+duration of use, and psychiatric comorbidities. 
+The reasons are complex, but many people 
+who have experienced trauma may turn to 
+alcohol or other drugs to help themselves feel 
+better. Often, a vicious cycle ensues in which 
+abusing drugs to self-medicate engenders 
+additional stress and leads to repeated 
+substance abuse.  
+NIDA is seeking to better understand 
+how these variables influence drug abuse 
+vulnerability (see Sidebar 2) and how they 
+work in concert with a person’s larger 
+environment. Studies continue to reveal 
+that the interplay of biological and social 
+influences affects individual choices and 
+decisions about drugs. To learn more about 
+this interplay, NIDA supports research to 
+develop a comprehensive classification of 
+
+--- PAGE 19 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+15
+social and built environments (including 
+family, peers, school, neighborhood, 
+community, and culture). 
+Neurobiological underpinnings. Research 
+is needed to unravel how environmental 
+factors like social stress induce brain changes 
+that interact with drugs of abuse and alter 
+behavior. We also need research to learn how 
+to identify ways to counter or minimize stress 
+effects. Animal research has begun to reveal 
+mechanisms by which environmental variables 
+can positively and negatively affect drug abuse 
+risk. Further, brain imaging technologies 
+are increasingly being used as part of drug 
+abuse and addiction research in both animals 
+and humans to illuminate how the brain is 
+affected by stress and social influences (e.g., 
+peer pressure) within the context of drug 
+abuse or decisionmaking (see Sidebar 3). A 
+better understanding of how social and other 
+environmental factors influence behavior and 
+how they might be reversed is important for 
+prevention, particularly in adolescents.
+Why young people are at special risk
+The trajectory of drug use, abuse, and 
+addiction typically begins in adolescence but 
+sometimes even earlier. The greater risk of 
+young people becoming addicted involves 
+two major components. First, children and 
+adolescents are naturally inclined, and much 
+more likely than adults, to engage in risky 
+behaviors, which may include experimenting 
+with drugs of abuse. Current evidence––
+derived mainly from human brain imaging 
+studies––suggests that this phenomenon stems 
+from still-developing brain regions involved 
+in judgment, decisionmaking, and emotional 
+control, which do not fully mature until early 
+adulthood (see Sidebar 4). Second, because 
+the young developing brain is constantly 
+changing—physically and functionally—the 
+effects of psychoactive drugs may be more 
+pronounced and enduring if drug use starts 
+Sidebar 3
+Study Sheds Light on the 
+Underlying Connections Between 
+Social Stress and Drug Abuse 
+Behaviors
+In this study, monkeys that were transferred 
+from isolation to group living and became 
+dominant in the new social structure un-
+derwent biological changes that gave them 
+stronger 
+dopamine 
+signaling and 
+less interest 
+in cocaine 
+compared 
+to animals 
+that became 
+submissive. 
+These find-
+ings demon-
+strate that 
+alterations 
+in an organ-
+ism’s social 
+environment 
+can produce 
+profound 
+biological 
+changes that 
+have impor-
+tant behav-
+ioral consequences, includ-
+ing vulnerability to cocaine’s 
+rewarding effects.
+Why it’s important: The 
+emerging field of social neu-
+roscience will examine how 
+neurobiology and the social 
+environment interact in abuse 
+and addiction processes to  in-
+fluence initiation, maintenance, 
+treatment, and relapse.
+Source: Morgan et al., 2002 – Nat Neurosci 5:169 
+
+--- PAGE 20 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+16
+Sidebar 4
+Differential Rates of Brain 
+Maturation May Account for 
+Teenagers’ Risk-Taking Proclivity
+This study reported that the nucleus 
+accumbens, a part of the brain’s reward 
+circuitry, matured faster than the orbital 
+frontal cortex, which is involved in behavioral 
+inhibition and control. This pattern of 
+brain development was associated with a 
+different valuing of rewards by adolescents 
+as compared with adults and children, 
+suggesting that the relative immaturity of the 
+orbital frontal cortex in adolescents might 
+underlie their propensity toward risk-taking 
+behavior. 
+ 
+nucleus 
+accumbens
+orbital frontal 
+cortex
+Rate of maturation
+Source: Galvan et al., 2006 – J Neurosci 26:6885 
+Why it’s important:
+ These findings 
+suggest that maturing subcortical systems 
+become disproportionately activated (relative 
+to later maturing top-down control systems), 
+biasing the adolescent’s action toward 
+immediate gratification over long-term gains.
+early. Although this question is difficult to 
+investigate in humans, animal studies have 
+provided considerable evidence supporting this 
+hypothesis. NIDA continues to encourage both 
+basic and clinical research in this area. 
+Even the very earliest exposure (i.e., in 
+utero) can affect a variety of cognitive 
+and mental health outcomes later in life. 
+Abilities related to problemsolving, memory, 
+learning, language, and reasoning are all 
+vulnerable, as is a person’s risk for addiction. 
+For example, prenatal exposure to nicotine 
+was recently shown to influence the risk 
+for nicotine addiction 30 years later.
+8 This 
+outcome could reflect nicotine’s ability to 
+influence the expression of genes affecting 
+fundamental processes in the developing 
+brain. NIDA-supported longitudinal studies 
+of prenatal exposure to several drugs of abuse 
+help us understand the drug-specific impacts 
+on developmental outcomes. These include 
+outcomes affecting health, cognition, executive 
+function, emotion, and attention regulation. 
+How drug abuse risk varies across  
+the life span
+Significant developmental shifts occur 
+throughout life and can shape drug abuse 
+trajectories. Such transitions include post-
+high school, a time of greater independence 
+(associated with increased substance use and 
+progression from abuse to addiction); adult 
+role transitions, such as marriage, parenting, 
+and full-time work (associated with decreased 
+substance abuse); and older-age transitions, 
+such as retirement and age-related medical 
+issues (associated with increased potential for 
+substance abuse-related medical consequences). 
+Because the risk factors associated with a 
+person’s biology and environment vary as a 
+function of age, NIDA supports studies across 
+all age groups, with a particular focus on life 
+transitions.  
+
+--- PAGE 21 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+17
+It is clear that the course of drug addiction 
+is related to both biological and cultural 
+transitions. However, we need to further 
+investigate how these developmental 
+shifts interact with individual genetic and 
+environmental backgrounds to influence the 
+course of the disease. Doing so will lead to 
+developmentally appropriate interventions.
+The role of gender in drug abuse  
+and addiction
+Research has repeatedly shown that a broad 
+spectrum of differences related to gender (e.g., 
+social environment, physiological response to 
+drugs, sexual dimorphisms in brain circuitry 
+and hormones) can greatly influence not 
+only drug abuse trajectories but also the 
+characteristics of prevention (and treatment) 
+programs that work best for either females or 
+males.  
+For example, research has identified the 
+menstrual cycle (i.e., the estrous cycle in 
+animals) as a determinant of drug action––
+pharmacokinetic and behavioral––in both 
+animals and humans. In animals, many 
+behavioral effects of drugs are influenced 
+by the estrous cycle and are eliminated by 
+ovariectomy and subsequently restored by 
+administering estradiol.
+9 Suggestive evidence 
+from both animal and human studies indicates 
+that progesterone may also play a role in the 
+subjective effects of drugs and contribute to 
+gender differences in sensitivity to the drugs. 
+These differences, observed in preclinical and 
+clinical studies, highlight the complexities 
+of just one influence on behavior—hormonal 
+cycles in females––and emphasize the 
+continuing need for studies targeting the ways 
+in which gender influences drug abuse and 
+addiction risk.
+Sidebar 5
+People With Particular Gene 
+Variants May Suffer More Harmful 
+Effects From Drugs of Abuse
+A longitudinal study of people followed 
+from birth to adulthood highlights the 
+complex interactions between genetics, 
+drug exposure, and age of use in the risk of 
+developing a mental disorder. The catechol-
+O-methyltransferase (COMT) gene, which 
+comes in two forms, “Met” and “Val,” produces 
+an enzyme that regulates dopamine, a 
+brain chemical involved in schizophrenia.  
+Individuals with one or two copies of the 
+“Val” variant have a higher risk of developing 
+symptoms of psychosis (e.g., hallucinations, 
+delusions) or schizophrenic-type disorders if 
+they used cannabis in adolescence; no effect 
+was seen in those who did not carry this allele.
+20
+15
+10
+5
+0
+COMT genotype
+No adolescent cannabis use
+Adolescent cannabis use
+Percent with schizophreniform
+disorder at age 26
+Met/Met
+n= (151) (48)
+Val/Met
+(311) (91)
+Val/Val
+(148) (54)
+Genetic variation in COMT influences
+the harmful effects of abused drugs
+Why it’s important:
+ This study reveals 
+a new approach for understanding how 
+genetics, environment, and development 
+interact to increase vulnerability to drug-
+related consequences. 
+Source: Caspi et al., 2005 – Biol Psychiatry 57:1117–1127
+
+--- PAGE 22 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+18
+Sidebar 6
+Individuals vary in their response to drugs of abuse, 
+in part, because of genetic influences on brain circuits 
+that control emotional reactivity. The emerging field 
+of neurogenomics is beginning to reveal the crucial 
+pathways that connect genes to behaviors. 
+Genetic research has shown that functional variants 
+in the enzymes catechol-O-methyltransferase (COMT) 
+and monoamine oxidase (MAO); and in the serotonin 
+transporter (SERT) can affect the processing of 
+emotional stimuli, which may also be influenced by 
+other developmental and environmental factors.   
+COMT. This enzyme degrades the catecholamine neurotransmitters dopamine, 
+epinephrine, and norepinephrine. A less active variant of the gene for COMT 
+has been associated with improved working memory, executive functioning, and 
+attentional control, but also with a higher risk of anxiety-related behaviors. 
+MAO. This enzyme degrades the monoamines serotonin and dopamine. Several 
+genetic variations have been described that affect the levels of the MAO enzyme, 
+particularly during brain development, that contribute to individual differences in 
+aggressiveness.
+SERT. This protein on the surface of some neurons plays a role in turning off 
+the response to serotonin. Variations in a gene that regulates SERT expression 
+affect the processing of aversive stimuli in the amygdala, the emotion center of the 
+brain. Carriers of a short variant show stronger amygdala reactivity to stimuli and to 
+particular contexts that are relatively uncertain and perhaps more stressful. This may 
+put them at increased risk for developing anxiety disorders. 
+Why it’s important: Vulnerability to addiction and other mental disorders likely 
+resides in brain circuits regulating such functions as executive control and emotional 
+reactivity.  Identification of the genetic factors that influence these functions will 
+enhance our ability to identify those most at risk, allowing us to more effectively 
+target our prevention efforts. 
+Sources: Heinz et al., 2006 – Rev Neurosci 17(3):359–367; Volavka et al., 2004 – Ann NY Acad Sci 1036:393–398; 
+Heinz et al., 2007 – Biol Psychiatry 61(8):1011–1014
+
+--- PAGE 23 matched=['Strategic Plan', 'vision'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+19
+The relationship between drug abuse  
+and other mental illnesses
+Many people who have a substance abuse 
+disorder also have some other psychiatric 
+disorder, and vice versa. For example, close 
+to 90 percent of people with schizophre-
+nia smoke,
+10,11 for reasons that are not fully 
+understood. Other studies show that exposure 
+to certain drugs may increase risk for mental 
+illness in vulnerable individuals (see Sidebar 5 
+on page 17). Thus, a continuing NIDA priority 
+is to unravel the intimate connections between 
+drug abuse and addiction and other mental 
+disorders. Good prevention hinges on a better 
+understanding of whether these disorders have 
+a shared origin, and of when early drug use 
+increases the risk for mental illness––or vice 
+versa.  
+Because comorbidity intersects with the 
+missions of other National Institutes of Health 
+(NIH) constituents (e.g., National Institute of 
+Mental Health), NIDA continues to work with 
+our colleagues to encourage research on the 
+epidemiology, genetics, and neurobiological 
+bases of comorbidities. 
+3. Which parts of the brain are involved in 
+drug abuse?
+Research shows that the brain circuits 
+affected by drugs of abuse are mainly 
+those involved in reward, decisionmaking, 
+emotional reactivity (Sidebar 6), motivation, 
+and cognitive inhibition. Drugs of abuse tend 
+to activate reward and motivational circuits 
+more effectively than natural rewards, leaving 
+behind robust memories of their effects. The 
+interactions among the densely interconnected 
+circuits mentioned above determine the 
+final course of action for an individual. For 
+example, if the reward, motivation, and 
+memory circuits overcome the inhibitory 
+control circuit, a person may compulsively 
+seek the rewarding stimulus, which could be 
+drugs of abuse. Again, some of these circuits 
+are not fully mature until early adulthood, 
+making them potentially more vulnerable to 
+disruption by exposure to drugs.  
+Sidebar 7
+Research has revealed a number of basic 
+principles that underlie effective drug 
+prevention programs for youth. These are 
+highlighted in NIDA’s Preventing Drug 
+Use among Children and Adolescents, 
+a research-based guide for multiple 
+audiences, including parents, educators, 
+and community leaders.
+Our vision is broad and applies the full power of basic 
+and clinical research, neuropsychological testing, and 
+functional neuroimaging to help us understand not just 
+one molecule or one pathway at a time, but the addiction 
+circuitry as an integral part of a wider network. In this 
+network, pathways influence one another in highly 
+complex ways.
+4. How are research results used to improve practice?
+A general set of science-based prevention principles 
+has emerged from biological, psychological, and social 
+science discoveries. This knowledge has been used to 
+develop prevention programs with proven efficacy and 
+effectiveness (see Sidebar 7). Similarly, to capitalize 
+on new research findings, NIDA sponsors a Prevention 
+
+--- PAGE 24 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+20
+Sidebar 8
+Schools Adopt 
+Smarter Strategies 
+To Get the Message 
+Across
+Similar to ATLAS (Athletes 
+Training and Learning 
+to Avoid Steroids) for 
+male athletes, ATHENA 
+(Athletes Targeting Healthy 
+Exercise and Nutrition Alternatives) for 
+female athletes has the goal of increasing 
+healthy behavioral choices and preventing 
+drug abuse. Program activities, delivered 
+by coaches during a sports team’s usual 
+practice schedule, focus on the benefits 
+of healthy sports nutrition and effective 
+exercise training, as well as the dangers 
+associated with drug abuse and other 
+unhealthy behaviors. This intervention 
+correlated with reduced use of drugs— 
+including abuse of diet pills, stimulants, 
+and steroids—as well as with other 
+positive changes, such as healthier eating 
+behaviors.
+ 
+Why it’s important: Innovative 
+prevention programs incorporated into the 
+school setting present an effective way 
+to reach young people, particularly when 
+delivered by role models whom young 
+people naturally admire and respect.
+Source: Elliot et al., 2004 – Arch Pediatr Adolesc Med 158:1043
+Network of research centers nationwide. This network 
+integrates research from various disciplines to stimulate 
+its translation and to inform basic science hypotheses 
+that may help develop new approaches or refine existing 
+programs. 
+NIDA is also exploring new areas in prevention science, 
+such as the effects of physical activity on substance 
+abuse. Assessing aggregated neighborhood risk factors 
+can inform strategies for more effective programs that 
+yield lasting results. These would synthesize 
+family, school, and community efforts. 
+Indeed, emerging research demonstrates 
+that prevention interventions can have 
+long-term and even cross-over effects (e.g., 
+on driving behaviors and psychological 
+functioning),
+12,13 and can alter life 
+trajectories.   
+Although NIDA-supported research has 
+identified effective prevention programs, 
+they are not being widely implemented. 
+Therefore, we are looking to expand 
+research efforts on the factors that influence 
+the adoption and long-term sustainability 
+of evidence-based prevention initiatives in 
+schools and other settings.
+How science can help refine prevention 
+messages
+NIDA recognizes that, along with addressing 
+risk and protective factors, effective 
+messages also depend on incorporating 
+imaginative communication strategies aimed 
+at different target audiences. Such a tailored 
+approach is reflected in NIDA’s successful 
+school-based prevention programs for male 
+and female athletes (see Sidebar 8).  
+Changing times require innovative research-
+based communication tools to help us 
+decode and incorporate the preferences 
+of young people, so that our prevention 
+messages are salient. Closer attention to 
+prevention science is increasingly critical in 
+a media environment where the landscape is 
+constantly changing. For example, research 
+on health-related e-tools, social networking 
+sites, virtual worlds, and other new media is 
+crucial. Trends suggest that the Internet may 
+be an inexpensive and effective means of 
+delivering interventions with a wide reach.     
+Our ultimate goal is to improve message 
+effectiveness with the intended audience. 
+The addition of new tools and methods of 
+
+--- PAGE 25 matched=['Strategic Goal', 'Strategic Plan', 'Vision'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+21
+analysis help refine our interventions 
+and provide a means of testing how the 
+brain reacts to prevention messages. 
+Neuroimaging technology could be 
+applied to reveal how people process 
+media messages in anti-drug advertising. 
+Though we are not yet ready to design a 
+prevention strategy on the basis of how 
+adolescents might view a message in 
+comparison to adults, the fundamental 
+research that will form the basis for 
+scientifically rational design is now 
+under way. Indeed, these studies may 
+spark a new generation of effective, 
+tailored, anti-drug messaging that 
+integrates cultural and social influences.  
+Our Vision for the Future 
+of Prevention of Drug 
+Abuse and Addiction 
+We envision a future where new 
+knowledge and leading-edge 
+technologies produce selective, cost-
+efficient, and effective prevention 
+products and initiatives. Our prevention 
+toolkit someday will allow us to develop 
+messages that flow from a dramatically 
+better understanding of the many 
+complex and interdependent phenomena 
+that characterize drug abuse and 
+addiction. Improved prevention efforts 
+will incorporate what we have learned 
+about genetic contributions to addiction 
+vulnerability, about the function of 
+the human brain and developmental 
+processes under normal conditions 
+or after drug exposure, and about 
+specific brain and behavioral responses 
+associated with an individual’s age and 
+social context. We are working toward 
+a future in which early recognition of 
+significant addiction risk is no different 
+from early recognition of any other 
+chronic disease, such as hypertension, 
+diabetes, or asthma. 
+II. Treatment
+Strategic Goal
+To develop successful treatments for drug 
+abuse and addiction and improve treatment 
+accessibility and implementation.
+Objectives
+1. To develop effective medications and 
+behavioral interventions to treat drug abuse 
+and addiction and to prevent relapse.
+2. To develop treatments for drug abuse and 
+addiction in association with comorbid 
+conditions.
+3. To develop the knowledge that leads to 
+personalized or customized treatments.
+4. To translate research-based treatments to 
+the community.
+Introduction: The Value of a Multipronged and 
+Integrated Approach to Addiction Treatment 
+Decades of research have led to today’s improved understanding of 
+addiction as a chronic, relapsing brain disease caused by the complex 
+interaction of genetic, social, environmental, and developmental 
+factors. NIDA therefore recognizes the need for a whole systems 
+approach to treating drug abuse and addiction. 
+Drugs of abuse alter normal brain functioning in profound and long-
+lasting ways so that the brain can become “reengineered” to seek 
+the drug above all else. This behavior occurs because the addicted 
+person is conditioned to need the drug and finds it difficult, if not 
+impossible, to resist. This dysfunctional state makes the addicted 
+individual vulnerable to relapse triggers, even absent of conscious 
+awareness of them. 
+NIDA supports multidisciplinary research addressing the multiple 
+factors that can influence drug abuse and addiction trajectories. 
+Research results inform treatment strategies to facilitate abstinence 
+and prevent relapse. New findings continue to inspire development 
+
+--- PAGE 26 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+22
+of medications and behavioral interventions to 
+counteract drug-induced alterations in the circuits 
+responsible for motivational, cognitive, and emotional 
+functions. Advances come from the continued 
+application of approaches that tap into potential benefits 
+of the following:
+• Expanding the range of drugs or populations that 
+can be targeted with addiction medications that have 
+already been approved.  
+• Developing medications for molecules and circuits 
+affected by specific drugs, as well as for targets more 
+generally affected by many drugs. 
+• Developing research-based treatments that match an 
+addicted person’s changing needs, attitudes, and 
+motivations over time. 
+• Developing medications to restore cognitive functions 
+disrupted by addiction, which may have impeded the 
+success of behavioral therapies. 
+• Weakening the power of relapse triggers.
+• Taking into account the influence of 
+comorbid conditions (e.g., mental 
+illness, chronic pain, HIV/HCV) 
+and genetic makeup to achieve truly 
+customized treatments. 
+NIDA recognizes that despite major 
+strides in treatment research, only limited 
+improvements have occurred in nonresearch 
+settings. A scientific approach must be 
+brought to bear on understanding how to 
+most effectively test and disseminate 
+research-based treatments and how health 
+services systems and settings influence 
+treatment implementation. Ultimately, it is 
+our goal to make research-based treatments 
+user-friendly, cost-effective, and available 
+to a broad range of practitioners and their 
+patients.
+Strategic Approaches to 
+Treatment
+NIDA supports research to develop 
+treatments that address the multiple and 
+specific needs of a person trying to recover 
+from drug abuse and addiction. The 
+addition of tools such as neuroimaging 
+technologies and those designed to generate 
+detailed genetic information may help us 
+to individualize treatments and predict 
+treatment response. This knowledge will 
+lead to more targeted and cost-effective 
+approaches for greater specificity.
+For more information 
+visit our Web site at: 
+www.drugabuse.gov
+
+--- PAGE 27 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+23
+1. How can NIDA research help develop 
+and enhance medications and 
+behavioral therapies to reduce drug 
+abuse and prevent relapse?
+NIDA’s approach to medications 
+development
+NIDA supports a dual strategy: one that 
+takes advantage of already-approved 
+medications with putative addiction 
+applications, and the other that develops 
+new compounds to interact with novel 
+targets for treating drug abuse and addiction 
+and their health consequences. In both cases, 
+NIDA encourages researchers to work with 
+commercial companies. The advantages 
+of testing already-approved medications 
+include the availability of safety profile 
+information, lower development costs, and 
+shorter times for obtaining FDA approval.
+On the other hand, the development of 
+new compounds may be more responsive 
+to breakthrough scientific discoveries. For 
+instance, NIDA research has uncovered 
+several components of the cannabinoid 
+system, along with heterodimeric receptors 
+(i.e., receptors that combine, or “dimerize,” 
+to create targets with novel biological 
+properties that could be harnessed to provide 
+a broader array of medication options). 
+This approach is already being exploited 
+to develop medications for chronic pain 
+that could circumvent the problematic side 
+effects (e.g., tolerance and dependence) of 
+many current medications (see Sidebar 9).
+Sidebar 9
+Pain Management: Alternative 
+Approaches Promise Pain Relief 
+Without Abuse Liability
+ 
+Glia. Research reveals that glial cells 
+(historically regarded as supporting 
+players) play key roles in regulating pain 
+signals. Through the secretion of a host of 
+molecules, glial cells influence pain and 
+inflammatory processes. Targeting glia and 
+their soluble products may provide a novel 
+and effective therapy for controlling clinical 
+pain syndromes.
+CB2. 
+Activation of cannabinoid type 2 
+(CB2) receptors inhibits acute, inflammatory, 
+and neuropathic pain responses in animal 
+models. Since these receptors are located 
+largely outside the brain, selective CB2 
+agonists are promising candidates for the 
+treatment of acute and chronic pain without 
+the psychoactive effects.  
+Opioid receptor heterodimers.  
+Opioid receptors exist as dimers––protein 
+molecules composed of two linked 
+subunits––whose variable makeup affects 
+resulting pharmacology. Strategies are being 
+developed to identify compounds that will 
+specifically bind and activate different opioid 
+receptor combinations. Such compounds 
+could represent the next generation of 
+pain relievers with decreased side effects, 
+including reduced drug abuse liability.
+Sources: Watkins LR et al., 2007 – Brain Behav Immun 21:131–146; 
+Whiteside GT et al., 2007 – Curr Med Chem 14:917–936; Daniels et al., 
+2005 – PNAS 102(52):19208–19213  
+
+--- PAGE 28 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+24
+Sidebar 10
+Animal Models Are Crucial to 
+Research on Drug Abuse and 
+Addiction
+Animal models have greatly contributed 
+to our understanding of addiction’s 
+underlying substrates, the abuse liability 
+of novel compounds, the role of candidate 
+vulnerability genes and stress in relapse, and 
+the persistence of drug taking. They allow 
+scientists to rigorously control and analyze 
+biological and environmental factors related 
+to drug abuse and test novel approaches to 
+prevention and treatment.  The noteworthy 
+development of buprenorphine as a treatment 
+for opiate addiction began with studies 
+using animal models, as is the case for most 
+medications being tested in human clinical 
+trials.  
+Self-administration, or the voluntary intake 
+of abusable substances by animals, is now 
+among the most widely used paradigms 
+by pharmaceutical companies around the 
+world to evaluate the abuse liabilities of new 
+medications. Because animals will self-
+administer nearly all drugs of abuse and 
+continue to take them when available, they 
+allow us to study the chronic effects of drugs 
+on their brains and behavior.
+Source: Caine, et al. (ed), 1993 – Behavioural Neuroscience: A 
+Practical Approach, Vol. 2 117–143
+Regardless of the approach used, NIDA 
+takes advantage of the combination of 
+validated animal models and translational 
+human laboratory studies to develop and test 
+medications (see Sidebar 10).
+How behavioral treatments help drug 
+abusers
+Behavioral therapies have already 
+been successfully developed to help 
+individuals with addictions engage in the 
+treatment process, modify their attitudes 
+and behaviors, and nurture those skills 
+that are conducive to a healthy lifestyle. 
+These treatments can also enhance the 
+effectiveness of medications (and vice versa) 
+and help people stay in treatment longer. 
+Addiction to drugs such as cocaine and 
+methamphetamine can disrupt cognitive 
+functioning and interfere with treatment 
+retention and efficacy. Therefore, NIDA is 
+supporting research on medications such 
+as Modafinil (which is currently FDA-
+approved for treating narcolepsy) as an 
+adjunct to behavioral therapy because of 
+their proven cognitive-enhancing proper-
+ties. Early results are promising for cocaine 
+treatment, and research in methamphetamine 
+abusers is under way.
+14 
+NIDA also plans to explore cutting-edge 
+cybertechnologies for both developing new 
+treatments and expanding treatment delivery. 
+New technologies are opening the door to 
+shared virtual worlds (environments, social 
+networks, communities), digitally controlled 
+environments, augmented realities, 
+robotics, and brain computer interfaces, 
+among many others. All these could have 
+applications in drug abuse treatment. 
+NIDA is already exploring the potential 
+of computer-delivered interventions as a 
+comparatively low-cost means of widely 
+disseminating evidence-based approaches 
+while ensuring treatment fidelity. Early 
+
+--- PAGE 29 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+25
+studies of cognitive-behavioral therapy 
+and community reinforcement approaches 
+support the feasibility and acceptability of 
+this strategy.
+15,16
+What effective treatments are  
+designed to do
+Drug abuse disrupts the brain circuits 
+involved in reward, memory/learning, and 
+control over behavior. Memories linked to 
+the drug experience, for example, can trigger 
+powerful drug cravings that can “mute” 
+other parts of a person’s life so that drug 
+seeking and use become an all-consuming 
+focus. Craving is therefore a major 
+contributor to relapse, posing what seems 
+an insurmountable challenge to an addicted 
+person (see Sidebar 11). NIDA’s strategic 
+approaches to treatment are thus being 
+employed to (1) counter relapse triggers, (2) 
+strengthen self-control, and (3) reinstate the 
+reward value of natural reinforcers while 
+decreasing that of drug stimuli.
+Prevent Relapse. The most frequent 
+triggers of relapse include stress, exposure to 
+conditioned cues, and priming (re-exposure 
+to drugs of abuse). Medications that block 
+reinstatement of drug-taking behaviors in 
+animals by these three triggers are now 
+being tested in humans.
+Both clinical reports and preclinical studies 
+have documented the important role that 
+stress plays in relapse. Medications or 
+behavioral treatments that can interfere 
+with or mitigate the response to stress may 
+thus offer promise for relapse prevention. 
+Corticotropin-releasing factor (CRF) is 
+known to be a key brain chemical involved 
+in organizing the brain and body response to 
+stress. Thus, medications that target CRF are 
+of interest. Animal studies have shown that 
+compounds that block CRF signals attenuate 
+the reinstatement of drug taking following 
+Sidebar 11
+Brain Region Linked to Reduced 
+Drug Craving
+Despite being aware of negative 
+consequences, many smokers have 
+serious difficulty quitting, and those who 
+quit experience urges to smoke and often 
+relapse.  A recent study of patients who 
+had suffered various brain injuries revealed 
+a new role for the insula (shown in red) in 
+regulating conscious urges, including drug 
+craving.  Researchers at the University 
+of Iowa monitored the quit histories of 
+approximately 70 smokers and found that 
+those with specific damage to the insula 
+were much more likely to quit easily and 
+immediately and to remain abstinent than 
+those with damage to other brain areas. 
+Why it’s important: This discovery could 
+identify a new target to inhibit craving.
+Source: Naqvi, N. et al., 2007 – Science 315:531
+exposure to stressors. Since drug withdrawal syndromes 
+and the often chaotic lifestyles of drug abusers are 
+manifestly stressful states, strategies that improve coping 
+mechanisms or reduce the stress response could help 
+prevent stress-induced relapse.
+
+--- PAGE 30 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+26
+Sidebar 12
+Compound Reduces Marijuana’s 
+Intoxicating Effects and May Help 
+Prevent Relapse From Drug Exposure 
+(Priming) and Environmental Cues
+Marijuana smokers 
+given an experimental 
+compound (SR141716, 
+rimonabant) reported 
+reduced highs (and smaller 
+heart rate increases) 
+compared with untreated 
+smokers (see A). Because 
+SR141716 partially blocks 
+the intoxicating effects 
+of marijuana’s active 
+ingredient (THC), it may 
+prove valuable in treating 
+marijuana addiction and 
+perhaps other addictions 
+as well.  Indeed, in a rat 
+model of relapse to drug seeking, SR141716 
+dramatically reduced resumption of cocaine-
+seeking triggered by two of the three most 
+common relapse triggers: a priming dose of 
+cocaine and conditioned cues associated with 
+cocaine reward (see B). The compound did not 
+reduce cocaine-seeking triggered by stress.
+(A)
+(B)
+Why it’s important: 
+The cannabinoid system 
+is a new player in our understanding of the 
+rewarding effects of drugs, and compounds 
+that target this system may have application for 
+not only marijuana treatment, but also for other 
+drugs since they can block relapse triggers.
+Sources: Huestis et al., 2001 – Arch Gen Psychiatry 58(4):322–328; 
+De Vries et al., 2002 – Pharmacol Rev 54:1–42
+Conditional cues  are stimuli (e.g., people, 
+places, moods, things) that become 
+associated with the drug experience 
+and can serve as triggers to relapse. 
+Conditioned cues can pose formidable 
+obstacles to successful therapy for many 
+individuals because they can elicit craving 
+without conscious recognition of their 
+influence. Medications designed to blunt 
+conditioned responses or promote their 
+extinction (an active process whereby 
+previously learned associations are 
+weakened) could enhance the efficacy of 
+psychotherapeutic interventions. A proof-
+of- concept for this approach has already 
+been shown with D-cycloserine (DCS), a 
+partial agonist of the NMDA (glutamate) 
+receptor. DCS may facilitate extinction 
+and promote new learning, and has been 
+successfully used in conjunction with 
+psychotherapy for treating acrophobia (the 
+fear of heights).
+17  Medications available 
+for other indications are also being tested 
+for their ability to reduce cue-induced 
+drug cravings.
+Priming, or drug exposure, is the response 
+to a drug in a formerly addicted person 
+that propels him or her to further drug 
+use and, often, to relapse. Data show that 
+people in treatment who “slip” are at 
+higher risk of relapse or of returning to 
+former levels of drug abuse.  
+Research in this area has already produced 
+positive results. Cannabinoid and opioid 
+antagonists, for example, have been shown 
+to block the priming response in animals 
+and suppress their self-administration of 
+drugs in a relapse model of drug seeking 
+(see Sidebar 12).  
+Another strategy being explored is to 
+block priming attempts by harnessing 
+the immune response. The rationale is to 
+develop “vaccines” that induce the body 
+to produce drug-specific antibodies. At 
+
+--- PAGE 31 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+27
+high enough concentration, these antibodies 
+would sequester drug molecules while they 
+are still in the bloodstream, preventing them 
+from reaching the brain and exerting their 
+psychoactive effects. Nicotine and cocaine 
+vaccines have already been developed and 
+are undergoing further testing in animals 
+and humans. A methamphetamine vaccine 
+is in development. NIDA has also requested 
+proposals for a heroin vaccine, which could 
+be particularly valuable in areas of the 
+world where opioid agonist medications 
+are not accepted. NIDA plans to continue 
+supporting research on strategies designed to 
+block the priming response.
+Strengthening Self-Control. The decision-
+making circuits of the human brain, which 
+are not even fully developed until a per-
+son’s mid-20s, govern our ability to control 
+impulses. Drug abuse and addiction can 
+severely disrupt these processes, contribut-
+ing to the compulsive features of addiction. 
+A complementary strategy supported by 
+NIDA is to strengthen the function of brain 
+regions involved with decisionmaking and 
+inhibitory control (distributed throughout the 
+frontal cortex).  
+Noninvasive brain stimulation and 
+“neurofeedback” may prove to be useful 
+therapeutic tools in this context. Researchers 
+are exploring the use of technologies 
+such as repetitive transcranial magnetic 
+stimulation (rTMS) and feedback training 
+using real-time functional magnetic 
+resonance imaging (fMRI) (see Sidebar 
+19 on page 33) to noninvasively influence 
+brain activity in specific regions. Though 
+not yet demonstrated for addiction, these 
+techniques show promising results in 
+managing depression and in influencing pain 
+perception, respectively.
+18 Further validating 
+research could render these technologies 
+powerful psychotherapeutic interventions for 
+rescuing the circuits and behaviors impaired 
+by addiction.  
+Sidebar 13
+Overexpression of Dopamine D2 
+Receptors Reduces Alcohol Self-
+Administration in Rats
+  
+Addiction is characterized 
+by decreased sensitivity 
+to natural rewards, likely 
+related to diminished function 
+in dopamine brain circuits.  
+Human brain imaging studies 
+have provided substantial 
+evidence showing that 
+individuals addicted to a variety 
+of substances have low levels 
+of dopamine type 2 receptors 
+(DRD2) in the striatum (a part 
+of the reward circuit).
+In this experiment, researchers 
+sought to determine whether 
+increasing levels of DRD2 in 
+the brain could reduce alcohol 
+consumption in animals trained 
+to self-administer the drug. 
+Brain levels of DRD2 in rats 
+were increased by injecting a 
+virus that expresses high levels 
+of DRD2 protein in a key area 
+of the brain’s reward pathway 
+(see A). This manipulation led 
+to an overexpression of DRD2 
+receptors that dissipated over 
+time (see B) and a corre-
+sponding decrease in alcohol 
+consumption that resumed 
+when the receptors returned to 
+baseline (low) levels (see C).
+Why it’s important: 
+Although the use of viral 
+vector–delivered genes is not 
+practical for clinical use, these 
+results provide a proof-of-
+concept that enhancement 
+of dopamine D2 receptors 
+may be a useful approach 
+for treating drug abuse. Medications and 
+behavioral strategies to reinstate dopamine 
+receptor function in the reward circuitry may be 
+beneficial in treating addiction. 
+Source: Thanos et al., 2001 – J Neurochem 78(5):1094–1103
+
+--- PAGE 32 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+28
+Sidebar 14
+Co-occurrence of addiction and other 
+mental disorders is common. Substance 
+abuse sometimes begins as a way to 
+alleviate symptoms of a mental illness. 
+Further, substance abuse may increase 
+the vulnerability to other mental illnesses.  
+Also, some of the factors that contribute to 
+substance abuse and other mental illnesses 
+are the same. Stress is one example, and 
+patients suffering from post-traumatic stress 
+disorder (PTSD) have high rates of drug and 
+alcohol abuse. Because of the projected 
+increases in PTSD due to members of the 
+military returning from service, NIDA will 
+increase its research investment in this 
+area and collaborate with the Department 
+of Veterans Affairs, the Substance Abuse 
+and Mental Health Services Administration 
+(SAMHSA), and multiple NIH Institutes—
+NIMH, National Cancer Institute, NIAAA, 
+and the National Heart, Lung and Blood 
+Institute––in developing its research agenda.
+Reinstating the Value of Natural Rewards. Drug abuse 
+and addiction impair the reward system, diminishing the 
+value of formerly rewarding stimuli in a person’s life. 
+NIDA therefore seeks approaches to counter drugs’ effects 
+on brain systems affecting reward and motivation—and 
+help restore the value of natural rewards. 
+Animal research has demonstrated the 
+feasibility of modulating the dopamine 
+reward system in ways that affect sensitivity 
+to drug taking. For example, alcohol-
+preferring rats induced to overexpress 
+dopamine receptors in the nucleus 
+accumbens (a part of the reward circuitry) 
+decreased their alcohol consumption (see 
+Sidebar 13 on page 27). Further, in studies 
+of nonhuman primates, social factors have 
+been shown to influence the function of 
+the dopamine system and vulnerability to 
+drug taking (see Sidebar 4 on page 16). 
+These studies suggest a malleable reward 
+system that may be capable of recovering 
+from drug addiction. The goal would be to 
+heighten dopamine system sensitivity in 
+drug-addicted individuals so as to enhance 
+the value of natural reinforcers (i.e., social 
+interactions, eating good food, etc.).
+How patients sustain recovery
+There are many pathways to recovery. Some 
+patients may require lengthy treatment 
+protocols in residential therapeutic settings, 
+while others may benefit from less intensive 
+outpatient treatment. The goal is the same: to 
+help patients develop the internal motivation 
+and skills to abstain from drugs and regain 
+their lives.
+However, because of the chronic nature of 
+addiction, continuing care (e.g., “booster” 
+treatment sessions, recovery groups, and 
+other social support systems) can be crucial 
+to a person’s ability to sustain a drug-free 
+lifestyle. A patient may require varying 
+combinations of services and treatment 
+components during the course of recovery. 
+Along with counseling, psychotherapy, and 
+medical services, patients may also benefit 
+from family therapy, parenting instruction, 
+vocational rehabilitation, and social and 
+legal services. NIDA continues to support 
+
+--- PAGE 33 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+29
+research to better understand how such 
+therapies work and how to implement them 
+in community settings to engage and keep 
+patients in treatment and prevent relapse.
+2.  What if people have another mental 
+disorder—how does that affect 
+treatment for addiction?
+Mental illness is highly comorbid with 
+substance use disorders. In fact, as many 
+as 6 in 10 people who have an illicit drug 
+use disorder also suffer from other mental 
+illnesses.
+19 Having both can greatly increase 
+the challenge of diagnosing and treating the 
+disorders; and ignorance of or failure to treat 
+one disorder can jeopardize the chances of a 
+successful intervention for the other. Patients 
+with co-occurring disorders often exhibit 
+symptoms that are more persistent, severe, 
+and refractory to treatment, compared with 
+those with just one disorder. Health care 
+providers and caregivers should therefore 
+be aware that drug abuse and other mental 
+illnesses often occur together, necessitating 
+a comprehensive treatment approach (see 
+Sidebar 14). Thus, NIDA supports research 
+aimed at adapting and integrating treatments 
+that tackle these overlapping conditions, 
+which affect some of the same circuits in the 
+brain.  
+For some mental disorders, pharmaco-
+therapies are already available to alleviate 
+symptoms. Medications such as stimulants, 
+antidepressants, mood stabilizers, and neu-
+roleptics may be critical to treatment success 
+for ADHD, depression, anxiety disorders, 
+bipolar disorder, and schizophrenia. How 
+these medications are affected by, or alter 
+the effects of, abused substances is not well 
+understood. Some medications may even 
+prove efficacious for treating both drug ad-
+diction and other mental illnesses. Effective 
+Sidebar 15
+Groundbreaking Genetics Tools 
+Will Lead to More Personalized 
+Prevention and Treatment 
+Approaches for Drug Abuse and 
+Addiction
+New knowledge derived from large, 
+comprehensive genetic databases, com-
+bined with new genetics technology, will 
+allow researchers to study thousands of 
+addiction-relevant gene variants at once.  
+Potential applications of this knowledge 
+include studies to understand how genetic 
+differences contribute to brain develop-
+ment and to differential brain responses 
+to drugs of abuse. This knowledge could 
+also be applied to prospective epidemio-
+logical studies to understand how genes 
+and environment interact throughout the 
+lifespan to modulate addiction risk. Clini-
+cal trials could use genetic information to 
+tailor treatments based on a patient’s ge-
+netic makeup (i.e., to enhance treatment 
+effectiveness and minimize, or even pre-
+vent, adverse effects).  Finally, genetics 
+could inform studies aimed at advancing 
+the understanding of disease vulnerability 
+in relation to psychiatric comorbidity (i.e., 
+depression, ADHD, schizophrenia).
+
+--- PAGE 34 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+30
+Sidebar 16
+Gene Cluster Linked to Nicotine 
+Dependence and Associated 
+Diseases
+A recent study provides an example of how 
+genome-wide analyses are being used to 
+identify novel candidate mechanisms of 
+disease vulnerability and therapeutic targets. 
+Here, investigators interrogated the genomes 
+of close to 11,000 Icelandic smokers with 
+a platform displaying over 306,000 single 
+nucleotide polymorphisms (SNPs)––or 
+single-base changes in a person’s DNA 
+(millions of which have been catalogued 
+by the Human Genome Project). The study 
+identified a cluster of three nicotinic receptor 
+subunit genes (α3, α5, and β4) linked to 
+smoking quantity, nicotine dependence, and 
+the 
+risk of two smoking-related diseases: lung 
+cancer and peripheral arterial disease.
+ 
+Why it’s important: Identification of 
+this genetic cluster converges with growing 
+evidence from prior studies of its linkage 
+to nicotine dependence and to serious 
+health consequences. This new information 
+reveals a novel target for the development of 
+medications to treat tobacco addiction and 
+related diseases.    
+Source: Thorgeirsson et al., 2008  –  Nature 452:638–642
+medications also exist for opioid, alcohol, 
+and nicotine addictions. However, their use 
+has not been well studied in comorbid popu-
+lations or among those taking other psycho-
+active medications. Various forms of be-
+havioral treatment, alone or in combination 
+with medications, can be the cornerstone 
+to achieving successful outcomes for both 
+substance abuse and other mental disorders. 
+Their use in comorbid populations should 
+also be evaluated.
+  
+3. How will treatments be tailored for 
+optimal effectiveness?
+NIDA’s research program is poised to 
+play an important role in developing 
+treatments that can take individual and 
+group vulnerabilities into account. Doing so 
+will help us derive more personalized and, 
+thus, more effective treatments for people 
+with drug use disorders. To this end, NIDA 
+is capitalizing on advances in genetics, 
+epigenetics, and brain imaging technology, 
+and on research revealing the influence of 
+environmental and developmental factors.  
+Genetic expression profiles are affected 
+by substance abuse and can change 
+throughout development. To investigate, 
+NIDA researchers are constructing a 
+comprehensive database of single nucleotide 
+polymorphisms (SNPs) relevant to addiction 
+(http://zork.wustl.edu/nida/neurosnp.html) 
+(see Sidebar 15 on page 29). SNPs are 
+variations in DNA sequence that occur when 
+a single nucleotide in the genome sequence 
+is altered. By assembling all genes identified 
+as biologically relevant to addiction, NIDA 
+is helping to identify potential novel targets 
+for the development of medications (see 
+Sidebar 16). We are also expanding the 
+knowledge base so that next-generation 
+pharmaceuticals can use information about 
+a person’s genetic makeup to predict how 
+
+--- PAGE 35 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+31
+he or she will respond to a therapeutic 
+medication. Promising findings have 
+already emerged relative to the treatment 
+of nicotine and alcohol addictions. 
+NIDA is encouraging research that 
+develops and evaluates new platforms 
+for potential use in screening for the 
+telltale signatures of chronic drug abuse 
+in blood cells, serum, or saliva. Looking 
+at messenger RNA (mRNA), epigenetic 
+marks, and protein expression profiles 
+(proteomics) could dramatically enhance 
+our ability to diagnose chronic drug 
+exposure in primary care and other 
+settings.
+4. How will drug abuse treatment reach 
+the people who need it?
+NIDA’s clinical trials are the foundation 
+for testing and evaluating promising 
+drug abuse and addiction treatments. We 
+support research trials for all phases of 
+medications and behavioral treatment 
+development. We also encourage 
+collaboration with industry to optimize 
+costs and resource allocation and to more 
+efficiently develop or adapt treatments. 
+As effective treatments emerge, NIDA 
+tests them in real-world settings. These 
+efforts are exemplified by our National 
+Drug Abuse Treatment Clinical Trials 
+Network (CTN) and our collaborative 
+Criminal Justice Drug Abuse Treatment 
+Studies (CJ-DATS) (see Sidebar 18 on 
+page 32). The CTN studies, for example, 
+continue to reveal information for 
+optimizing the treatment of comorbid 
+conditions and the translation of new 
+medications to community settings. 
+They also assess novel interventions to 
+reduce HIV risk among drug-abusing 
+populations. CJ-DATS broadens the 
+testing of proven drug abuse treatments 
+Sidebar 17
+Methadone 
+Maintenance 
+ 
+Works for Prisoners 
+More than 200 heroin-
+dependent inmates in 
+Baltimore were randomly 
+assigned to one of three 
+groups: (1) educational 
+counseling only; (2) 
+counseling in prison with 
+the opportunity to enroll in 
+methadone maintenance 
+treatment upon release; 
+and (3) counseling and 
+methadone maintenance 
+during incarceration, 
+with transfer to 
+community-based 
+methadone maintenance after release. Six 
+months after release, those who began 
+methadone maintenance in prison were 
+significantly more likely to enter and remain 
+in community-based treatment, were less 
+likely to test positive for illicit opioids, and 
+had significantly fewer days of heroin use 
+and criminal activity than participants who 
+received counseling only.  
+Why it’s important: Despite its 
+demonstrated effectiveness in treating 
+opioid abuse, methadone maintenance 
+is rarely provided in correctional facilities. 
+However, this study shows that methadone 
+maintenance treatment begun prior to or 
+upon release from prison is an inexpensive 
+and effective intervention that may prevent 
+the devastating cycle that can happen to 
+formerly incarcerated drug abusers who go 
+untreated—that is, a return to drug abuse 
+upon re-entry to the community, further 
+criminal activity, exposure to infectious 
+diseases, and re-arrest and imprisonment.
+Sources: Kinlock et al., 2007 – Drug Alcohol Depend 91(2–3): 220-227;  
+Kinlock et al., 2008 – Crim Justice Behave 35(1): 34-47; Gordon et al., 
+2008 – Addiction 103: 1333–1342 
+
+--- PAGE 36 matched=['Strategic Plan', 'mission'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+32
+Sidebar 18
+Science Reveals Treatments that 
+Work for Drug Abuse 
+and Addiction
+Research has revealed a number of basic 
+principles that underlie effective drug 
+addiction treatment, as highlighted in NIDA’s 
+treatment guides for the general population 
+and for criminal justice offenders.
+in criminal justice settings, including CJ settings with adolescents. 
+It continues to solicit the greater involvement of public health and 
+public safety institutions across all system levels. NIDA plans to 
+support ongoing research on drug courts to learn how they work and 
+how to advance their use, looking at the judge’s role in changing 
+drug court participant behavior and outcomes, for example.  
+All of these initiatives allow NIDA to exploit an open-channel 
+communication approach with relevant stakeholders to collect 
+information on how to generalize and further enhance treatments so 
+they are more community/justice system-friendly.  
+Overcoming barriers to more rapidly translate  
+research findings  
+NIDA’s overall mission is not just to develop knowledge about drug 
+abuse but also to disseminate that knowledge into practical use. 
+We engage in multiple activities aimed at closing the unacceptably 
+long lag between the discovery of effective treatment interventions 
+and their integration into community clinical practice.
+20 Despite 
+major strides in drug abuse treatment research, the adoption of 
+science-based programs has been rather limited. This may relate to 
+several unique characteristics that distinguish 
+treatment for drug abuse from that for most 
+other diseases, including: 
+• service delivery outside of mainstream 
+health care settings;
+• overburdened treatment systems, often 
+with low pay and high staff turnover rates;
+• external (i.e., court-mandated) pressure on 
+individuals seeking care;
+• nonreimbursement for costs of care;
+• reliance on public sources for program 
+funding; and
+• stigma attached to the disease and to those 
+seeking treatment for it.
+NIDA continues to support research that 
+addresses the organizational, workforce, 
+funding, and policy issues known to 
+influence the success of addiction treatment. 
+This includes cost-effectiveness and 
+implementation research to determine how 
+best to overcome systemic obstacles and 
+foster the adoption of proven treatments 
+by communities nationwide (see Sidebar 
+18). Moreover, we continue to build our 
+productive partnerships with state agencies 
+and encourage them to team with research 
+organizations to enhance their research 
+capacity and their delivery of publicly 
+supported drug abuse treatments. 
+NIDA is also working to engage the medical 
+community in drug abuse screening and 
+referral to treatment. Primary care physicians 
+are ideally positioned to serve as the first 
+line of defense for detecting drug use 
+early and for referring symptomatic drug-
+abusing patients to specialized treatment. 
+Therefore, NIDA continues to make research 
+on screening and brief intervention (SBI) a 
+strategic priority, focusing first on primary 
+care and emergency room physicians. SBI 
+has already been shown to be effective in 
+reducing alcohol and tobacco use, though 
+more research is needed for effects on illicit 
+and prescription drug abuse. Also, drug abuse 
+can influence the course and progression of 
+
+--- PAGE 37 matched=['Strategic Plan', 'Vision', 'research areas'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+33
+other medical diseases (including adherence 
+to treatment regimens), underscoring the need 
+for screening.   
+Our Vision for the Future of 
+Treatment for Drug Abuse and 
+Addiction 
+NIDA’s research program is entering an 
+exciting new era in which treatments will 
+be increasingly tailored to the individual––a 
+more personalized approach that will 
+translate into better and more cost-effective 
+treatments for substance abuse disorders. This 
+approach will be more effective than past 
+approaches thanks to our new understanding 
+of the plastic adaptations that characterize 
+addiction. These adaptations erode the very 
+same neural substrates that enable functions 
+such as self-control, decisionmaking, accurate 
+reward prediction, motivation, and memory. 
+We are committed to harnessing knowledge 
+on how drugs affect circuits and behaviors 
+and parlaying it into effective treatments to 
+restore the addicted brain and allow people to 
+regain their cognitive abilities and capacity to 
+enjoy life.
+Glimpses of this future can already be 
+seen in various research areas. Indeed, 
+next-generation screening and monitoring 
+devices, therapeutic compounds, behavioral 
+interventions, and neurofeedback training 
+(see Sidebar 19) suggest a panoply of 
+treatment options to efficiently counteract 
+the drug-induced breakdown in brain 
+neurochemistry. Addiction treatments will 
+become increasingly adept at reducing 
+the rewarding properties of drugs while 
+enhancing those of healthier alternatives. 
+Inhibiting conditioned memories and 
+strengthening cognitive control are other 
+treatment objectives.  
+In the future, we will seize upon new 
+therapeutic opportunities stemming from 
+deciphering an individual’s genetic code to 
+better prevent and cure disease. At the same 
+time, however, we must recognize the responsibility that comes 
+with such technological advances to ensure confidentiality and 
+privacy.  
+NIDA is constantly striving to transform scientific insight into 
+effective and responsible public health interventions. This 
+endeavor continues to be shaped by promising discoveries and by 
+the accompanying need to consider ethical concerns when treating 
+illnesses like drug addiction.
+Sidebar 19
+Neurofeedback Offers Exciting 
+Potential for Future Use with 
+Addicted Patients
+Researchers are exploring the use of 
+neurofeedback, where subjects are trained 
+to modulate neural activity in specific 
+regions of their brains by having pictorial 
+representations of the activity in those areas 
+fed back to them in real time. Though not yet 
+demonstrated for addiction, this technique 
+has shown promising results for altering the 
+perception of pain in some healthy adults 
+and chronic pain patients. 
+Why it’s important:
+ This line of 
+research could evolve into a powerful 
+psychotherapeutic intervention capable 
+of restoring function to the circuits and 
+behaviors impaired by addiction.
+Source: DeCharms et al., 2006 – Proc Natl Acad Sci 102(51):18626–
+18631
+
+--- PAGE 38 matched=['Strategic Goal', 'Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+34
+III. HIV/AIDS
+Strategic Goal
+To diminish the spread of drug abuse-related human immunodeficiency 
+virus (HIV) and minimize the associated health and social consequences, 
+including acquired immunodeficiency syndrome (AIDS).
+Objectives
+1. To support research to better understand the etiology, pathogenesis, 
+and spread of HIV/AIDS among drug-abusing populations.
+2. To help prevent the acquisition (primary prevention) and transmission 
+(secondary prevention) of HIV among drug abusers and their partners.
+3. To decrease the health disparities associated with HIV/AIDS.
+4. To support international research on the intertwined epidemics of drug 
+abuse and HIV/AIDS.
+5. To improve HIV treatment and outcomes in drug abusers through a 
+better understanding of interactions with drugs of abuse, HIV/AIDS 
+disease processes, and the medications used to treat both.
+Introduction: The Need for Responsive Prevention  
+and Treatment Strategies
+HIV/AIDS remains one of the most serious medical consequences of drug abuse. 
+Thus, NIDA continues to support research to improve HIV prevention among 
+drug abusers and enhance treatment access and use for HIV/AIDS and other co-
+occurring conditions, particularly hepatitis C (HCV) infection (85–90 percent of 
+HIV-positive injection drug users [IDUs] are also HCV-positive). For example, 
+NIDA continues to study HCV treatment patterns in patients with and without 
+HIV co-infection to examine clinical outcomes following treatment.      
+Our strategic plan relies on research across diverse areas, including basic science, 
+epidemiology, prevention, health disparities, medical interactions, and disease 
+consequences. To effectively diminish the spread and consequences of HIV/
+AIDS, we must better understand how HIV is transmitted among different 
+groups and communities. Genetics research will elucidate individual factors that 
+determine vulnerability or resistance to infection and to disease progression. 
+Epigenetic studies may offer clues as to how the virus becomes incorporated into 
+
+--- PAGE 39 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+35
+cells, but remains latent. In addition, studies 
+that advance our knowledge of the changing 
+behavioral and social epidemiology of drug 
+abuse, HIV/AIDS, and comorbid conditions 
+will help guide our approach to preventing 
+HIV transmission. W
+e have already learned 
+important lessons by focusing on (1) the 
+link between drug abuse and risky sexual 
+behaviors and (2) the distinct characteristics 
+of the epidemic among special populations 
+(women, youth, minorities, prisoners).
+A key step in curtailing the spread of HIV 
+is improving our understanding of why 
+certain populations are exceptionally 
+vulnerable, along with developing primary 
+prevention strategies that target infection 
+among high-risk groups. The Centers for 
+Disease Control and Prevention (CDC) 
+estimates that 21 percent of people living 
+with HIV in the United States do not know 
+they are infected,
+21 which heightens their 
+risk of unknowingly transmitting the virus.  
+Therefore, NIDA also supports research to 
+develop effective secondary prevention 
+strategies that promote testing and education 
+among the undiagnosed to further reduce 
+HIV transmission. NIDA is building on 
+earlier research that helped prompt the 
+CDC’s decision to broaden its guidelines 
+for providing HIV screening to populations 
+at risk. An important aspect of encouraging 
+testing and counseling is the need to make 
+followup treatment more accessible to 
+people with HIV and substance abuse 
+problems.
+A disproportionate number of affected 
+people are ethnic minorities, whose access to 
+and utilization of treatment options is often 
+limited. Such health disparities particularly 
+affect African-Americans, who also tend to 
+be late testers, putting them at greater risk 
+for disease transmission and accelerated 
+disease progression. Gathering meaningful 
+data on the various factors contributing to 
+these disparities is integral to efforts to resolve them 
+through earlier diagnosis and treatment. Moreover, HIV/
+AIDS associated with drug use continues to expand 
+globally. International research that systematically 
+monitors changes and patterns in the transmission and 
+manifestation of HIV disease will more effectively 
+prevent and treat the AIDS epidemic.
+Treatment with highly active antiretroviral therapy 
+(HAART) can dramatically reduce HIV-related 
+morbidity and mortality. HAART is enabling more 
+people to live longer with HIV , helping to redefine 
+it as a chronic illness. This circumstance brings 
+about accompanying chronic medical disease 
+consequences—particularly, adverse consequences 
+for the brain. Moreover, interactions between 
+neurological complications, substance abuse, and other 
+comorbid psychiatric disorders may contribute to poor 
+adherence and worse outcomes, requiring responsive 
+counterinterventions. To optimize HAART for drug 
+abusers, we must investigate interactions between 
+HAART, drugs of abuse, and medications used to treat 
+addiction. More research is needed to better understand 
+and address the long-term clinical complications in drug-
+abusing populations. 
+Finally, because HIV/AIDS extends across many public 
+health domains, NIDA is collaborating on projects 
+with other NIH Institutes and Centers, focusing on 
+complementary work in the areas of drug abuse, HIV/
+AIDS, and other sexually transmitted diseases (STDs). 
+
+
+--- PAGE 40 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+36
+Figure 2
+AIDS from injection drug use has declined steadily 
+while risk from heterosexual contact has increased
+*Heterosexual contact with a person known to have, or to be at high risk for, HIV infection.
+Percentages of AIDS Cases Among Adults and  
+Adolescents by Transmission Category and Year of  
+Diagnosis In United States and Dependent Areas
+Note: Data have been adjusted for reporting delays and missing 
+risk-factor information. 
+Source: CDC, U.S. Department of Health and Human Services, 2008
+Strategic Approaches to  
+HIV/AIDS Research
+NIDA continues to encourage basic, clinical, services, 
+and natural history research that explores the underlying 
+mechanisms of HIV-associated health outcomes in the 
+context of drug abuse. 
+1. How has the HIV/AIDS epidemic changed over the 
+past few decades in the United States?
+The patterns of HIV/AIDS relative to drug abuse are 
+changing in this country. Formerly, injection drug use 
+was a main vector through which HIV was spread. 
+However, over the past three decades, a substantial 
+reduction has occurred in the proportion of new HIV/
+AIDS cases attributable to injection drug use. NIDA 
+research that has resulted in improved 
+treatment for injection drug users (e.g., 
+methadone and buprenorphine for heroin 
+addiction) has contributed to this decline. 
+At the same time, the proportion of cases 
+attributable to high-risk heterosexual 
+contact has increased steadily (see  
+Figure 2).  
+Recent findings illustrate the trend in HIV 
+infection moving from injection drug use 
+to noninjection drug use (see Sidebar 20). 
+Drug use impairs people’s judgment and 
+lowers their inhibitions, which can lead to 
+impulsive and unsafe behaviors; therefore, 
+effective drug abuse treatment is also HIV 
+prevention. Indeed, the integration of HIV 
+risk-reduction interventions into drug abuse 
+treatment is imperative.  
+Epidemiological and natural history 
+studies help us to monitor epidemic 
+trends, follow more closely the changing 
+clinical manifestations of HIV disease 
+and comorbid conditions, and measure the 
+effects of HIV prevention efforts among 
+drug abusers. New studies will also inform 
+the development of effective primary 
+and secondary prevention interventions. 
+Looking at diverse settings can help us 
+characterize individual risk factors as 
+well as the influence of social and sexual 
+networks, environmental contexts, and 
+their interactions. Such research will help 
+elucidate HIV transmission dynamics, the 
+disparate health effects of drug use and 
+HIV/AIDS among different populations, 
+and the best ways to reach them. 
+NIDA is focusing more intently on criminal 
+justice populations to learn how best to 
+address the special risks of a group with 
+high drug abuse and background infection 
+rates compared with the general population. 
+This pertains to populations both in prison 
+or jail and upon return to the community.
+
+--- PAGE 41 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+37
+For more information 
+visit our Web site at: 
+www.drugabuse.gov
+2. How does NIDA plan to focus research 
+efforts to better understand and 
+prevent HIV infection in drug abusers 
+and limit its progression? 
+NIDA’s basic research portfolio will focus 
+on host and viral factors related to HIV 
+susceptibility and progression in drug 
+abusers. Genetics, epigenetics, proteomics, 
+and other related high-throughput 
+technologies will be employed. These can 
+help identify changes in gene and protein 
+expression, as well as molecular signatures 
+of disease vulnerability and progression in 
+both humans and model organisms.  
+Another promising new area of study with 
+respect to AIDS progression involves 
+the depletion of T cells in gut-associated 
+lymphoid tissue (GALT) in the very early 
+stages of HIV infection. This depletion––and 
+how well it is restored with antiretroviral 
+treatment––seems to determine the 
+outcome of infection, or how quickly AIDS 
+progresses. NIDA is interested in research 
+on the link between substance abuse and 
+the GALT immune responses. We also want 
+to learn more about the impact of HAART 
+on the restoration of the gastrointestinal 
+mucosal immune system––within the 
+context of substance abuse. A new research 
+initiative will encourage basic and clinical 
+research in these areas.  
+Sidebar 20
+Non-Injection Drug Abuse is Also 
+Risky for Spreading HIV
+Rates of HIV infection are converging in 
+drug abusers who inject drugs and those 
+who do not inject. This indicates that HIV is 
+being spread among drug abusers by means 
+other than needle sharing (i.e., risky sexual 
+behaviors). 
+Why it’s important: 
+We need to shift 
+focus toward reducing risky sexual behaviors 
+among drug abusers, regardless of the route 
+of drug administration.
+Source: Des Jarlais et al., 2007 AIDS, 21:231–235
+Primary prevention efforts to reduce drug  
+abuse–HIV risk 
+behaviors
+HIV prevention must be a component of early drug abuse 
+prevention efforts. Therefore, NIDA-supported research aims 
+to develop and test new age-appropriate behavioral HIV 
+risk-reduction interventions that start with the youngest age 
+groups and “grow” along with them. NIDA is supporting 
+initiatives aimed at developing youth- and community-
+based HIV prevention programs designed specifically for 
+urban youth, a population that is considered particularly 
+
+--- PAGE 42 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+38
+Sidebar 21
+Interactive “Video Doctor” 
+Approach Shows Promise for 
+Reducing Drug Use and HIV Risk 
+Behaviors
+A novel “video doctor” intervention in primary 
+care settings reduced risky behaviors among 
+HIV-positive patients. Using computer 
+simulation, an actor-portrayed physician 
+engaged patients in a confidential “face-
+to-face” discussion about their behaviors. 
+The intervention group reported significantly 
+reduced drug use, risky drinking, and 
+unprotected sex, an effect that persisted at 
+the 6-month followup.  
+Why it’s important: 
+Such interventions 
+could provide a comparatively low-cost 
+means of reaching and teaching patients and 
+may be an important addition to risk reduction 
+efforts in routine clinical practice.
+Source: Gilbert P. et al., April 2008 – PLoS ONE 3(4): e1988.
+vulnerable to drug abuse and HIV exposure. 
+We continue to support research to develop 
+innovative means of delivering prevention 
+programs to various high-risk populations.
+Secondary prevention efforts to reduce 
+HIV risk behaviors  
+More attention needs to be given to strate-
+gies for how best to incorporate HIV educa-
+tion, testing, counseling, and referral into 
+drug abuse treatment and outreach efforts. 
+This direction requires that we identify 
+and address barriers, including stigma and 
+treatment access—both for HIV and drug 
+abuse––that restrict the benefits associated 
+with early HIV detection and linkage to 
+care. It also requires finding creative new 
+ways to reach and motivate patients (see 
+Sidebar 21).
+To assist in these efforts, NIDA is pursuing 
+research on the best ways to integrate testing 
+and counseling into drug abuse treatment 
+settings in communities, among criminal 
+justice populations, and in international 
+regions hit especially hard by the epidemic. 
+This includes efforts to advance the 
+adoption of rapid-screen technologies. 
+Screening for HIV in health care settings 
+is as cost-effective as screening for other 
+common diseases;
+22 thus, it makes sense to 
+incorporate screening among populations 
+where HIV risk is higher than average. 
+Individuals who learn they are HIV-positive 
+can significantly reduce their risk behaviors 
+and, when linked to HAART, become less 
+efficient transmitters from the resulting 
+reduction in viral load. Therefore, such 
+screening would not only provide important 
+health and survival benefits for those 
+with HIV , but would also help mitigate 
+the likelihood of HIV transmission to 
+noninfected people.  
+In community treatment programs affili-
+ated with NIDA’s CTN and in the criminal 
+justice system through our collaborative 
+CJ-DATS initiative, NIDA plans to test HIV 
+
+--- PAGE 43 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+39
+rapid-screen technologies plus counseling to 
+reduce risky sexual behaviors. To improve 
+HIV outcomes for criminal justice popula-
+tions before and after release, NIDA
+ will 
+test a new approach termed “Seek, Test, and 
+Treat,” which involves reaching out to high-
+risk, hard-to-reach groups who have not 
+recently been tested (seek), providing HIV 
+testing (test), and initiating, monitoring, and 
+maintaining HAART therapy for those who 
+test positive (treat). It also involves provid-
+ing drug abuse treatment, without which 
+individuals may not comply with their anti-
+viral medications. NIDA hopes this initiative 
+will not only expand access to HIV testing 
+for those in the criminal justice system, but 
+will improve the provision and maintenance 
+of HAART following community reentry, 
+when treatment lapse and viral load rebound 
+can heighten risk of HIV transmission.  
+3. What can be done to mitigate the 
+health disparities associated with HIV/
+AIDS?
+While all groups are affected by HIV/
+AIDS, not all are affected equally
+. Associ-
+ated health disparities fall disproportionately 
+on ethnic minorities, particularly African-
+Americans, who are at especially high risk 
+for developing AIDS. Even though they 
+comprise only 13 percent of the U.S. popu-
+lation, African-Americans accounted for 
+approximately half of the total AIDS cases 
+diagnosed in 2007.
+23 Consequences have 
+been particularly harsh on African-American 
+women, who accounted for 68 percent of the 
+female HIV/AIDS diagnoses from 2001 to 
+2004.
+24 Focused research is needed to un-
+derstand the factors leading to such dispari-
+ties and to develop targeted interventions to 
+reduce HIV/AIDS and its consequences.
+Studies are also needed to characterize the 
+risk-mitigating roles of culture, family, 
+and environmental factors. Indeed, recent 
+research suggests that a strategy of targeting 
+risk behaviors at the individual level may 
+work for Caucasians but not for African-Americans, a population 
+that appears to be at very high risk for STDs even if their behavior is 
+normative
+25 (see Sidebar 22).
+In addition, although the rates of testing are approximately equal 
+across ethnic groups, minority members tend to be tested late in 
+the course of infection and frequently experience delays in being 
+linked to treatment. This delay contributes to meaningful health 
+disparities in terms of disease consequences. W
+e hope to improve 
+this situation by increasing knowledge of HIV treatment, which is 
+currently less among African-Americans and Hispanics than among 
+Sidebar 22
+Racial Health Disparities Go 
+Beyond Individual Risk Factors
+A study examining the relationship between 
+race and sexually transmitted disease (STD)/
+HIV prevalence showed Caucasian young 
+adults in the United States to be at elevated 
+STD/HIV risk only when their behavior is 
+high-risk; whereas African-American young 
+adults are at high risk even when their 
+behavior is normative. 
+Why it’s important: 
+This study suggests 
+that factors other than individual risk 
+behaviors appear to account for racial health 
+disparities, which argues for population-level 
+interventions.
+Source: Hallfors et al., 2007 – Am J Public Health 97(1):125–132
+
+--- PAGE 44 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+40
+Sidebar 23
+NIDA Public Health Campaign 
+Encourages Teens to ‘Learn the 
+Link’ Between Drug and Alcohol 
+Use and HIV
+NIDA’s multimedia “Learn the Link” campaign 
+uses TV, print, and Web public service 
+announcements to send the message to 
+America’s youth that using drugs and alcohol 
+can have serious consequences, including 
+HIV infection (http://hiv.drugabuse.gov/
+index.html). NIDA’s new Spanish-language 
+public service announcement is designed to 
+reach Hispanic youth with culturally sensitive 
+messages about HIV prevention.
+Caucasians. NIDA is encouraging studies investigating 
+the relationship of disease progression to treatment and 
+service availability, awareness, and use by African-
+Americans and other minority groups.    
+Finally, aggressive outreach must be part of our 
+strategy. Media campaigns must strive to inform high-
+risk subgroups of the prevalence of HIV infection (see 
+Sidebar 23); reduce stigma associated with testing; 
+and provide testing, counseling, and treatment services 
+through nontraditional avenues.
+For more information 
+visit our Web site at: 
+www.drugabuse.gov
+4. How is NIDA’s HIV research program 
+contributing to global HIV prevention 
+and treatment?
+It is estimated that about 30 percent of 
+new HIV infections worldwide (outside 
+sub-Saharan Africa) stem from injection 
+drug use.
+26 Drug intoxication contributes 
+an additional burden of new infections by 
+facilitating risky sexual behaviors that can 
+transmit HIV . In Eastern Europe and Central 
+Asia, for example, intravenous drug use is 
+driving 62 percent of new infections
+27 and 
+fueling a multidrug-resistant tuberculosis 
+epidemic as well as higher rates of sexually 
+transmitted diseases and HCV . Thus, our 
+disease prevention strategies seek both 
+to increase rates of HIV screening and to 
+advance culturally relevant educational 
+interventions that include information about 
+drug abuse as a major vector for the spread 
+of disease.
+NIDA’s multifaceted response works to 
+better integrate international initiatives 
+by region and to take advantage of the 
+international research infrastructure funded 
+by the National Institute of Allergy and 
+Infectious Diseases. The latter aims to 
+develop research that targets drug abuse 
+treatment programs for their utility as HIV 
+and HCV prevention approaches in different 
+international settings (see Sidebar 24). These 
+involve behavioral as well as medication 
+interventions, such as the development of 
+a heroin vaccine to help decrease injection 
+transmission of HIV .
+
+--- PAGE 45 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+41
+5. What are we doing to improve HIV/
+AIDS treatment and outcomes in drug 
+abusers?
+The development of HAART has enabled 
+many HIV-infected individuals to experience 
+remarkable improvements in their general 
+health and quality of life. However, since 
+drug abuse can interfere with the efficacy 
+of HAART, an urgent need exists to better 
+understand drug interactions, both between 
+drugs of abuse and HAART and between 
+prescribed anti-addiction medications and 
+HAART. This interaction can decrease the 
+efficacy of a given treatment.
+Recent studies show that injection drug 
+users can benefit from HAART therapy 
+just as people do who do not inject drugs.
+28 
+Nonetheless, nonadherence to antiretroviral 
+therapy could impact treatment response or 
+the development of resistance to HAART. 
+Adherence can be particularly problematic 
+for drug abusers with chaotic lifestyles, 
+which can interfere with their ability to 
+follow prescribed regimens. In addition, 
+because HAART reduces viral load, some 
+patients mistakenly believe that they do not 
+need to adhere to the treatment regimen or 
+that reduced viral load means elimination 
+of the risk of transmitting HIV . This belief 
+can, in turn, lead to complacency about 
+risk behaviors and resumption of unsafe 
+sex and injection practices. NIDA supports 
+research to better assess the extent to which 
+HIV-positive drug abusers adhere to their 
+HAART medications, along with research 
+to improve medication adherence among 
+substance abusers.  
+Sidebar 24
+Effective Drug Abuse Medications 
+Being Adopted by HIV-Plagued 
+Countries
+Malaysia has lagged behind in the treatment 
+of drug addiction and related disorders, even 
+as it is coping with the second highest HIV 
+prevalence rate among adult populations 
+and the highest proportion of HIV cases 
+from injection drug use. Historically, drug 
+abusers were “rehabilitated” involuntarily 
+in correctional facilities. This primarily 
+criminal treatment approach had limited 
+effectiveness, which led to widespread public 
+dissatisfaction and the recent introduction 
+of medications for addiction. These include 
+naltrexone (1999), buprenorphine (2001), 
+and methadone (2003). 
+Why it’s important: These drug 
+treatment programs, rapidly embraced by 
+the country’s medical community, have 
+resulted in tens of thousands of opiate-
+dependent patients receiving medical 
+treatment. A similar success story is starting 
+to unfold in China as well. Such treatment 
+success stories encourage other countries to 
+establish their own drug treatment programs.  
+Russia, for example, continues to prohibit 
+the use of opioid agonist maintenance 
+treatments.
+Source: Mazlan et al., 2006 – Drug Alcohol Rev 25(5):473–478
+
+--- PAGE 46 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+42
+Sidebar 25
+HIV
+Pharmacogenomics is Transforming 
+our Ability to Predict Medication 
+Effectiveness
+The harnessing of increasingly powerful genomic 
+tools and databases is already having an impact on 
+our ability to predict response to medications and 
+to deliver treatments. Continuous advances in the 
+nascent field of pharmacogenomics are bound to 
+greatly increase the efficacy of pharmacotherapeutics 
+by matching a medication with the patients who, 
+based on their genetic background, are most likely to 
+benefit from it and suffer the least adverse effects.
+Case in point: Abacavir (Ziagen) is an antiretroviral medication that works by slowing 
+the spread of HIV infection in the body. Abacavir is not a cure and does not prevent the 
+spread of HIV, but it is used in combination with other medications to treat HIV infection 
+in patients with or without AIDS. Unfortunately, excitement over abacavir’s therapeutic 
+promise has been dampened by severe allergic reactions that can lead to death. However, 
+recent studies have established that the serious and sometimes fatal hypersensitivity 
+reactions are significantly more common in patients with a particular human leukocyte 
+antigen (HLA) allele, HLA-B*5701. 
+Why it’s important: The research suggests that a pretreatment genetic screen for 
+HLA-B*5701 can reduce the risk of hypersensitivity reaction to abacavir by close to 100 
+percent, enhancing the therapeutic potential of this promising medication.  
+Source: Mallal et al., 2008 – NEJM 358:568–579
+Integrating treatment of HIV and HCV 
+with drug abuse treatment services is one 
+of NIDA’s pivotal goals. This requires us to 
+identify the organizational factors that limit 
+the provision of coordinated drug abuse, 
+HIV , HCV , and other treatment services; 
+evaluate innovative approaches to achieve 
+better treatment coordination; and determine 
+the behavioral and social supports needed by 
+drug abusers to engage in and adhere to HIV 
+treatment regimens.
+Supporting studies to examine conditions 
+that result from HIV/AIDS infection and 
+drug abuse 
+Because of HIV’
+s ability to invade the brain, 
+it is often complicated by central nervous 
+system dysfunction. Before the advent of 
+HAART, approximately 20 percent of those 
+living with HIV eventually developed HIV-
+associated dementia (HAD),
+29 characterized 
+by a loss of mental functioning with notable 
+
+--- PAGE 47 matched=['Strategic Plan', 'Vision'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+43
+motor deficits. HAART has reduced the 
+prevalence of HAD; however, the preva
+-
+lence of milder forms of neurological 
+complications may be increasing because 
+more people are living longer with the 
+disease.
+30
+Emerging evidence suggests a relationship 
+between drug abuse (particularly 
+stimulants) and accelerated or more 
+severe nervous system complications 
+of HIV (or neuroAIDS). Because HIV-
+positive drug abusers can suffer greater 
+neurological complications, it is critical to 
+better understand how drug abuse affects 
+disease progression and pathology. NIDA 
+is encouraging both animal and human 
+studies examining the interactions between 
+drugs of abuse and HIV with respect to 
+neuropathological and neurobehavioral 
+effects.
+We are also interested in research tools 
+that may provide information on latent 
+viral infection in the brain. Animal 
+models are valuable for examining the 
+basic mechanisms of HIV-associated 
+disease progression and resulting brain 
+dysfunction in the context of substance 
+abuse. A broad range of anticipated 
+studies will increase collaboration among 
+researchers in multiple areas, including 
+drug abuse, virology, neurobiology, and 
+immunology. 
+What Is NIDA’s Vision of the Future?
+Our ultimate vision is the eradication of HIV/
+AIDS throughout the world. This would require the 
+development and worldwide distribution of effective 
+prevention strategies (behavioral interventions and, 
+perhaps, a vaccine) and therapeutic interventions. We 
+will also ensure that drug abusers are represented in 
+trials for all types of interventions as we strengthen 
+our national collaborative network to conduct clinical 
+trials. Expected areas of research concentration include 
+promising behavioral, microbicidal, prophylactic, 
+therapeutic, and vaccine modalities in HIV-infected 
+patients and those at risk of infection. Further, through 
+pharmacogenomic studies, we expect to be able to 
+tailor therapies to minimize adverse reactions and 
+drug interactions (see Sidebar 25). And, given that 
+drug abuse may play a unique role in exacerbating 
+neurologic and psychiatric consequences, the future 
+should see significant efforts applied to understanding 
+their pathogenesis and to developing better therapies for 
+addressing associated impairments. Finally, we envision 
+adapting and translating interventions proven effective in 
+this country to other areas of the world. 
+For more information 
+visit our Web site at: 
+www.drugabuse.gov
+
+--- PAGE 48 matched=['CROSS-CUTTING PRIORIT', 'Strategic Plan', 'mission'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+44
+IV. CROSS-CUTTING PRIORITIES
+Several additional priority areas span NIDA’s portfolio and contribute 
+to our overall mission to prevent or reduce drug abuse and addiction.
+These areas are highlighted below.
+Major Goals 
+1. To foster research on other health conditions that may inform, 
+influence, or interact with drug abuse and addiction (e.g., pain, compulsive 
+behavioral disorders).
+2. To decrease health disparities related to drug addiction and its 
+consequences.
+3. To educate a variety of audiences (e.g., criminal justice, medical, and 
+educational systems in the community; media; and legislators) about the 
+science underlying drug abuse.
+4. To train and attract new investigators with diverse experiences—
+including those from minority or disadvantaged backgrounds—and to 
+actively recruit chemists, physicists, bioengineers, and mathematicians to 
+conduct translational research on drug abuse.
+5. To promote collaborative international research activities that address 
+nicotine addiction, HIV/AIDS, and emerging trends, as well as training 
+and dissemination of science-based information on drug abuse.
+.
+NIDA has built a solid foundation designed to 
+achieve these goals by nurturing interactions 
+with different NIH Institutes, agencies, and 
+other stakeholders, and by supporting research 
+and outreach that respond to the following five 
+questions:
+1. What are other health conditions that 
+interact with drug abuse and addiction?
+Multiple health conditions share important 
+features with drug abuse and addiction. 
+Thus, research in these areas may inform and 
+impact drug abuse research and vice versa. 
+For example, the brain circuitry involved in 
+natural rewards that motivate us to engage in 
+everyday survival behaviors, such as eating, 
+overlaps with the neural circuitry engaged 
+by addictive drugs to reinforce drug taking. 
+These brain circuits are part of normal adaptive 
+processes; and when challenged with powerful
+reinforcers such as drugs of abuse or fattening 
+foods, these circuits can bring about a loss of 
+control and subsequent addiction or obesity, 
+respectively.   
+Understanding the biological underpinnings 
+of how addiction and other independent or 
+co-occurring disorders (e.g., compulsive 
+behavioral disorders, pain, etc.) interrelate 
+may give us insight into more effective 
+treatment and prevention approaches for 
+these disorders. NIDA continues to encourage 
+research to explore these linkages from several
+perspectives—basic biology, epidemiology, 
+prevention, and treatment––with the hope of 
+leveraging the science from one disorder to 
+inform another.
+
+--- PAGE 49 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+45
+Compulsive Behavior Disorders. A number of 
+mental disorders have hallmark symptoms (e.g., 
+compulsive behaviors and obsessive thinking) 
+similar to those of addiction, with obsessive-
+compulsive disorders (OCDs) and eating dis-
+orders among the most common. Their shared 
+symptomatology may reflect similarities in 
+the brain regions affected by the disorder. For 
+example, the orbitofrontal cortex, which has 
+been associated with the subjective experience 
+of drug craving in addicted subjects, has also 
+been implicated in OCD behaviors. Similarly, 
+reduced brain activity of dopamine, a naturally 
+occurring substance that regulates feelings of 
+pleasure, has been implicated both in drug ad-
+diction and in obesity, which may reflect a com-
+mon motivational deficit, but with food instead 
+of drugs. Thus, NIDA seeks to understand the 
+common etiologies of these disorders at the 
+genetic, molecular, cellular, and circuit levels. 
+Pain. For the more than 50 million Americans 
+with chronic pain, prescription opioid pain 
+medications are a necessary and useful treat-
+ment. However, opioid treatment can produce 
+negative health consequences, such as physical 
+dependence and addiction. The prevalence of 
+chronic pain and how to prevent, reduce, and 
+treat its negative health consequences are not 
+well understood. NIDA continues to examine 
+the factors (including pain itself) that predis-
+pose or protect pain patients from opioid abuse 
+and addiction. We also are pursuing ways 
+to prevent opioid abuse when treating pain, 
+including supporting development of novel 
+pain medications with reduced or no abuse and 
+addiction liability. 
+2. How is NIDA addressing health 
+disparities related to drug abuse and its 
+consequences?
+The pattern of addictions and the burden of 
+disease are not shared equally among members 
+of our population. For example, the dispro-
+portionate abuse of methamphetamine among 
+American Indians and Alaskan Natives––higher 
+than any other subgroup––prompts a need for 
+targeted interventions that can effectively reach 
+these groups. However, contrary to a common stereotype, overall 
+rates of drug abuse among racial and ethnic minorities, particularly 
+African-Americans and Hispanics, are similar to rates in the gener-
+al population. Nonetheless, these groups incur greater medical and 
+social consequences of their drug use than Whites (see Figure 3), 
+including involvement with the criminal justice system and greater 
+disease vulnerability (see section III, “HIV/AIDS”).
+Figure 3
+Incarceration rates and HIV incidence in IDUs are 
+disproportionately higher in ethnic minorities 
+(A)
+(B)
+Ethnic Breakdown of (A) Incarceration Rates for Drug 
+Abusers, 2006, and (B) Incidence of HIV in IDUs, 2007
+Sources: (a) U.S. Census Bureau, Population Estimates Program, 2006; 
+NSDUH, 2007; U.S. DOJ, BJS, Prisoners in 2006, Bulletin (b) U.S. Census 
+Bureau, Population Estimates Program, 2007; NSDUH, 2008; CDC, HIV/
+AIDS Surveillance in Injection Drug Users (through 2007)
+
+--- PAGE 50 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+46
+Sidebar 26
+NIDA-Developed Materials on 
+Drug Abuse Widely Used in School 
+Curricula 
+Brain Power! The NIDA Junior Scientist 
+Program is designed to take students 
+through a step-by-step exploration of the 
+scientific process and how to apply it to learn 
+about the brain and the effects of drugs 
+on the nervous system and body.  Such 
+materials have already been developed for 
+elementary and middle school grades K-9.
+NIDA has developed a separate Strategic Plan on Reduc-
+ing Health Disparities that includes research, infrastruc-
+ture and capacity building, and community outreach 
+components (for more details, see http://www.drugabuse.
+gov/StrategicPlan/HealthStratPlan.html). Brief high-
+lights of our ongoing and planned activities follow:
+• Epidemiologic data clearly show that minority groups 
+differ in drug use patterns, preferences, accessibility, 
+and risks. Thus, research is needed to look at factors 
+that convey protection or risk across different ethnic 
+and age categories. Studies must examine the role 
+of culture, religion, ethnic identity, family, peer, 
+and environmental/community-level factors in drug 
+initiation and drug abuse trajectories. 
+• We must also better understand the racial/
+ethnic implications of genetic variation 
+that modifies the neurotoxicity of differ-
+ent drugs, as well as the neurobiological 
+processes underlying tolerance, depen-
+dence, and relapse. Pharmacokinetic 
+studies have revealed distinct differences 
+in some ethnic populations’ ability to 
+metabolize different drugs–– this affects 
+sensitivity to the drugs’ or medications’ 
+pharmacological effects.
+3. How does NIDA “get the word out” 
+about the many facets of drug abuse 
+and addiction to better prevent it? 
+As the supporter of most of the world’s 
+research on the health aspects of drug abuse 
+and addiction, NIDA is uniquely positioned 
+to educate the public and displace long-held 
+mistaken beliefs about drug abuse with sci-
+entific evidence about drugs and addiction. 
+Because most drug use begins during ado-
+lescence, it is vitally important that youth 
+are informed of drugs’ effects on their devel-
+oping brains and bodies to help them choose 
+not to use drugs.  
+• NIDA continues to develop and update 
+science-based educational materials for 
+grades K–12 (and beyond) and dissemi-
+nate them for free to schools (see Sidebar 
+26). By exposing children of all ages to 
+neurobiology and drug education in fun, 
+age-appropriate, and relevant ways, we 
+hope to prevent them from using drugs 
+and also spark their interest in scientific 
+careers.    
+• NIDA is updating the design of our 
+“NIDA for Teens” Web site (http://teens.
+drugabuse.gov), aimed primarily at 
+educating middle school adolescents ages 
+11–15 (as well as their parents and teach-
+ers) on the science behind drug abuse. We 
+have enlisted the help of teens in develop-
+
+--- PAGE 51 matched=['Strategic Plan', 'mission'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+47
+ing this site to ensure that the content ad-
+dresses appropriate questions and timely 
+concerns. Interactive games are among 
+the recent additions. 
+• NIDA intends to expand our foray into 
+new media. We have begun a blog aimed 
+at teens and use it as a two-way com-
+munications tool, responding to the 
+many comments it elicits.  NIDA has 
+also started “tweeting” and continues to 
+place short, topical videos on YouTube, as 
+well as host a MySpace page on the link 
+between drugs and HIV . As an expansion 
+of our annual “Chat Day,” where students 
+from across the country learn the facts 
+about drug abuse from NIDA scientists, 
+NIDA plans in 2010 to launch “National 
+Drug Facts Week,” with Chat Day at 
+its center.  Other events will take place 
+nationwide to arm teens with information 
+that can help them make healthy deci-
+sions.
+• NIDA continues to design and develop 
+public information and education cam-
+paigns, as well as materials on drug abuse 
+and addiction for a variety of audiences. 
+For example, we are building on the suc-
+cess of our award-winning public service 
+announcement on the link between drug 
+abuse and HIV/AIDS risk, and continue 
+to take advantage of mainstream and 
+emerging media vehicles such as HBO 
+broadcasts (see Sidebar 27) and Internet 
+chats.   
+4. How does NIDA help ensure a 
+continuing supply of well-trained 
+scientists equipped to conduct high-
+impact drug abuse research? 
+An important part of NIDA’s mission is 
+to  promote an ongoing source of trained 
+clinicians and clinical research scientists 
+from diverse backgrounds who can conduct 
+research on various aspects of addiction, 
+including HIV/AIDS, health disparities, 
+Sidebar 27
+NIDA Works with HBO and Other 
+Partners to Present ‘Addiction’ 
+Documentary
+NIDA partnered with HBO, NIAAA, and 
+the Robert Wood Johnson Foundation 
+on a groundbreaking and Emmy Award–
+winning documentary called Addiction. 
+The feature-length film is part of a 
+multimedia public health campaign that 
+also included a Web site, book, and 
+community outreach activities. The goal 
+of this project, launched in 2007, was to 
+help Americans understand addiction 
+as a chronic yet treatable brain disease 
+through spotlighting promising scientific 
+advancements and personal testimonials. 
+Circulation of these materials has reached 
+tens of millions.
+
+--- PAGE 52 matched=['Strategic Plan', 'research areas'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+48
+Sidebar 28
+Research Training Programs 
+Ensure Continuing Supply of 
+Investigators Studying Drug Abuse 
+and Addiction
+NIDA offers a strategic set of funding 
+mechanisms to support the development of 
+research scientists through various stages 
+of their careers. These awards are designed 
+to ensure that scientists of the very highest 
+caliber are available in adequate numbers 
+and in the appropriate research areas and 
+fields to meet the Nation’s need for drug 
+abuse and addiction research.
+and other issues critical to drug abuse research. We also 
+need to reach across domains to engage scientists from 
+fields such as mathematics, bioengineering, and physics 
+to apply their knowledge to the study of drug abuse and 
+addiction.      
+To sustain our research infrastructure, NIDA continues 
+to support training initiatives that support a broad range 
+of scientists, from diverse backgrounds, both within 
+and across scientific boundaries (see Sidebar 28). The 
+following briefly summarize several initiatives:
+• National Research Service Awards 
+(NRSA) to institutions and individuals, 
+including the predoctoral diversity 
+awards. NIDA currently funds more than 
+50 institutional training sites for both 
+predoctoral and postdoctoral fellows 
+nationwide.
+• Career Development (Mentored K) 
+Awards for emerging scientists or those 
+changing career trajectories to study drug 
+abuse and its related consequences (e.g., 
+HIV/AIDS). These include the Mentored 
+Clinical Scientist Development Award 
+(K08) and Mentored Patient-Oriented 
+Research Career Development Award 
+(K23), designed to provide “protected 
+time” for clinically trained individuals 
+to participate in an intensive, supervised 
+training program in biomedical or patient-
+oriented drug abuse research. The K25 
+Award is for quantitative scientists 
+interested in applying their expertise to 
+research related to drug abuse or HIV/
+AIDS.
+• Pathway to Independence (PI) 
+Award Program (K99/R00), designed 
+to augment existing programs that 
+provide mentored research and career 
+development experiences for new 
+investigators. This program provides a 
+unique opportunity for highly promising 
+postdoctoral scientists to obtain support 
+for both the initial 1–2-year mentored 
+phase and the later independent phase, 
+before applying for an NIH R01 grant.  
+• Dissertation Awards (R36) for specific 
+drug abuse topic areas; Research 
+Education Awards (R25) for curriculum 
+and program development; and Small 
+Grant Programs (R03) to allow 
+researchers new to a field to obtain data 
+for developing research programs in 
+needed areas, such as imaging, AIDS, 
+behavioral research, and chemistry. 
+
+--- PAGE 53 matched=['Strategic Plan', 'mission'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+49
+Diversity Supplements and other 
+training experiences are available for 
+minority students, beginning in high 
+school and continuing through their 
+postdoctoral phase and beyond.  
+• NIH Loan Repayment Programs, 
+a vital component of our Nation’s 
+efforts to attract health professionals to 
+research careers, are reflective of NIDA’s 
+commitment to developing clinical and 
+pediatric researchers.
+• Diversity-Promoting Institutions’ Drug 
+Abuse Research Programs (DIDARP) 
+include grants and cooperative 
+agreements, aimed at building research 
+capacity at institutions serving minority 
+populations.
+5. What are NIDA’s strategic    
+international priorities? 
+Since the early 1990s, the NIDA 
+International Program has worked to create 
+local, regional, national, and international 
+networks that advance scientific knowledge 
+through research. The International Program 
+extends our mission through building 
+up other countries’ research capacities 
+to address the public health impact of 
+drug abuse and addiction by creating 
+opportunities for collaboration, training, 
+and scientific exchange, and disseminating 
+that knowledge to scientists, treatment 
+providers, and policymakers around the 
+world. These efforts help to translate our 
+domestic successes in curtailing drug abuse 
+and related consequences, such as with HIV/
+AIDS, to other countries, and allow us to 
+learn from their strides in disease prevention 
+and eradication.
+Stemming the global spread of drug abuse-related HIV 
+is a top NIDA priority for our international efforts (see 
+section III, question 5), and one for which international 
+collaboration is vital. Through our International 
+Program, NIDA is facilitating collaborations with 
+partners in about 20 countries, developing research 
+networks and tailoring studies to meet local needs 
+and conditions. In addition, NIDA is to become a 
+Collaborating Center of the World Health Organization, 
+formalizing the long-standing cooperation between the 
+two agencies.      
+Among the top priorities are reducing nicotine addiction 
+and gaining knowledge about new drug abuse trends 
+internationally. While smoking prevention and cessation 
+programs have contributed to a significant decline 
+in the United States, the rest of the world continues 
+to experience high rates of smoking and associated 
+illnesses. NIDA continues to work cooperatively with 
+other countries to reduce smoking worldwide and 
+to share the latest research findings by facilitating 
+collaboration with U.S.-based resources.  
+As new drug abuse threats emerge around the world, 
+we identify and address them. NIDA has identified 
+five research priorities for which we are advancing 
+international collaborative efforts to set standards, 
+design comparative research protocols, and improve data 
+collection on core variables—all to ensure a scientific 
+approach to the study of these priorities. These five 
+priorities are (1) linkages between HIV/AIDS and drug 
+abuse; (2) adolescent and prenatal tobacco exposure; (3) 
+inhalant abuse; (4) methamphetamine; and (5) drugged 
+driving.   
+As part of efforts to increase the capacity and capability 
+of affected countries, NIDA’s International Program 
+works closely with the Fogarty International Center, 
+whose mission is to facilitate international cooperation 
+throughout NIH. In collaboration with the Fogarty 
+International Center’s AIDS International Training 
+and Research Program, we support
+
+--- PAGE 54 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan
+ 
+50
+References
+1 Johnston, L.D., O’Malley, P.M., Bachman, J.G., and Schulenberg, J.E. (2009). Monitoring the Future National 
+Results on Adolescent Drug Use: Overview of Key Findings, 2008 (NIH Publication No. 09-7401). Bethesda, MD: 
+National Institute on Drug Abuse.
+2 Paulozzi, L.J., Budnitz, D.S., and Yongli, X. (2006).  Increasing deaths from opioid analgesics in the United 
+States. Pharmacoepidemiology and Drug Safety 15:618–627.
+3 Substance Abuse and Mental Health Services Administration. (2009). Results from the 2008 National Survey on 
+Drug Use and Health: National Findings (Office of Applied Studies, NSDUH Series H-36, HHS Publication No. 
+SMA 09-4434). Rockville, MD. 
+4 Tanney, B. (2000). Psychiatric diagnoses and suicidal acts. In R.W. Maris, A.L. Berman, and M.M. Silverman, 
+eds., Comprehensive Textbook of Suicidology. New York, NY: Guilford Press. 
+5 Substance Abuse and Mental Health Services Administration. The NSDUH Report: Patterns and Trends in 
+Nonmedical Prescription Pain Reliever Use: 2002 to 2005. (2007).  Rockville, MD. 
+6 Substance Abuse and Mental Health Services Administration. (2009). Results from the 2008 National Survey on 
+Drug Use and Health: National Findings (Office of Applied Studies, NSDUH Series H-36, HHS Publication No. 
+SMA 09-4434). Rockville, MD.
+7 Johnston, L.D., O’Malley, P.M., Bachman, J.G., and Schulenberg, J.E. (2009). Monitoring the Future National 
+Results on Adolescent Drug Use: Overview of Key Findings, 2008 (NIH Publication No. 09-7401). Bethesda, MD: 
+National Institute on Drug Abuse.
+8 Buka, S.L., Shenassa, E.D., and Niaura, R. (2003). Elevated risk of tobacco dependence among offspring of 
+mothers who smoked during pregnancy: A 30-year prospective study. Am J Psychiatry 160(11):1978–1984.
+9 Perrotti, L.I., Russo, S.J., Fletcher, H., Chin, J., Webb, T., Jenab, S., and Quinones-Jenab, V . (2001). Ovarian 
+hormones modulate cocaine-induced locomotor and stereotypic activity. Annals of the New York Academy of 
+Sciences 937:202–216. 
+10 Margolese, H.C., Malchy, L., Negrete, J.C., Tempier, R., and Gill, K. (2004). Drug and alcohol use among 
+patients with schizophrenia and related psychoses: Levels and consequences. Schizophrenia Research 67(2–
+3):157–166. 
+11 Kalman, D., Morissette, S.B., and George, T.P. (2005). Co-morbidity of smoking in patients with psychiatric and 
+substance use disorders. Am J Addict 14(2):106–123.
+12 Griffin, K.W., Botvin, G.J., and Nichols, T.R. (2004). Long-term follow-up effects of a school-based drug abuse 
+prevention program on adolescent risky driving. Prevention Science 5:207–212.
+
+--- PAGE 55 matched=['Strategic Plan'] ---
+  
+National Institute on Drug Abuse Strategic Plan
+51
+13 Wilcox, H.C., Kellam, S.G., Brown, C.H., Poduska, J.M., Ialongo, N.S., Wang, W., and Anthony, J.C. (2008). 
+The impact of two universal randomized first- and second-grade classroom interventions on young adult suicide 
+ideation and attempts. Drug and Alcohol Dependence 95(Suppl 1):560–573.
+14 Dackis, C.A., Kampman, K.M., Lynch, K.G., Pettinati, H.M., and O’Brien, C.P. (2005). A double-blind, placebo-
+controlled trial of modafinil for cocaine dependence. Neuropsychopharmacology 30(1):205–211.
+15 Bickel, W.K., Buchhalter, A.R., Marsch, L.A., and Badger, G.J. (2008). Computerized behavior therapy for 
+opioid-dependent outpatients: A randomized controlled trial. Experimental and Clinical Psychopharmacology 
+16(2):132–143.
+16 Carroll, K., Bell, S., Martino, S., Nich, C., Babuscio, T., Nuro, K., Gordon, M., Portnoy, G., and Rounsaville, B. 
+(2007). Computer-assisted delivery of cognitive-behavioral therapy for addiction: A randomized clinical trial of 
+CBT4CBT. The American Journal of Psychiatry 165(7):881–888. 
+17 Ressler, K.J., Rothbaum, B.O., Tannenbaum, L., Anderson, P., Graap, K., Zimand, E., Hodges, L., and Davis, M. 
+(2004). Cognitive enhancers as adjuncts to psychotherapy. Archives of General Psychiatry 61:1136–1144.
+18 deCharms, C.R., Maeda, F., Glover, G.H., Ludlow, D., Pauly, J.M., Soneji, D., Gabrieli, J.D.E., and Mackey, S.C. 
+(2005). Control over brain activation and pain learned by using real-time functional MRI. PNAS 102:18626–18631.
+19 Conway, K.P., Compton, W., Stinson, F.S., and Grant, B.F. (2006). Lifetime comorbidity of DSM-IV mood and 
+anxiety disorders and specific drug use disorders: Results from the National Epidemiological Survey on Alcohol 
+and Related Conditions. Journal of Clinical Psychiatry 67(2):247–257. 
+20 Institute of Medicine. (2001). Crossing the Quality Chasm: A New Health System for the 21st Century. Available 
+at: http://www.nap.edu/books/0309072808/html. 
+21 Centers for Disease Control and Prevention. (2008). HIV Prevalence Estimates—United States, 2006. Morbidity 
+and Mortality Weekly Report 57(39):1073-1076. Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/
+mm5739a2.htm.
+22 Paltiel, A.D., Weinstein, M.C., Kimmel, A.D., Seage, G.R. III, Losina, E., Zhang, H., Freedberg, K.A., and 
+Walensky, R.P. (2005). Expanded screening for HIV in the United States—an analysis of cost-effectiveness. New 
+England Journal of Medicine 352(6):586–595.
+23 Centers for Disease Control and Prevention. (2007). HIV/AIDS Statistics and Surveillance. Available at: http://
+www.cdc.gov/hiv/topics/surveillance/basic.htm#exposure.
+24 Centers for Disease Control and Prevention. (2004). Diagnosis of HIV/AIDS-32 States 2000–2003. Morbidity 
+and Mortality Weekly Report 53(47):1106–1110. Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/
+mm5347a3.htm.
+References
+
+--- PAGE 57 matched=['Strategic Plan'] ---
+ 
+National Institute on Drug Abuse Strategic Plan

@@ -1,0 +1,9 @@
+focus_area_code,focus_area_name,pre_2023,post_2023,share_pre,share_post,trend_score,ratio_post_pre
+FA1,Prevalent Common & Rare Conditions,83,925,0.5287,0.7601,0.2314,11.145
+FA2,Maternal & Child Health,1,36,0.0064,0.0296,0.0232,36.0
+FA3,Healthy Aging & Resilience Across the Lifespan,2,73,0.0127,0.06,0.0472,36.5
+FA4,Return of Results on Individual & Population Health,31,123,0.1975,0.1011,-0.0964,3.968
+FA5,"Lifestyle, Substance, & Behavioral Health",14,240,0.0892,0.1972,0.108,17.143
+FA6,Environment,0,7,0.0,0.0058,0.0058,inf
+FA7,Health Equity,87,615,0.5541,0.5053,-0.0488,7.069
+FA8,Genetics & Biology,47,686,0.2994,0.5637,0.2643,14.596

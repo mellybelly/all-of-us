@@ -1,0 +1,658 @@
+# NHGRI (2020) — file: NHGRI_Strategic_Vision_2020.pdf
+# 6 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['vision'] ---
+As published in
+Strategic vision for 
+improving human health at 
+The Forefront of Genomics
+28 October 2020
+
+--- PAGE 2 matched=['vision'] ---
+Nature | Vol 586 | 29 October 2020 | 683 
+Perspective      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strategic vision for improving human health 
+at The Forefront of Genomics 
+https://doi.org/10.1038/s41586-020-2817-4 
+Received: 30 June 2020 
+Accepted: 4 September 2020 
+Published online: 28 October 2020 
+Eric D. Green1 ✉, Chris Gunter1, Leslie G. Biesecker1, Valentina Di Francesco1, Carla L. Easter1, 
+Elise A. Feingold1, Adam L. Felsenfeld1, David J. Kaufman1, Elaine A. Ostrander1, 
+William J. Pavan1, Adam M. Phillippy1, Anastasia L. Wise1, Jyoti Gupta Dayal1, Britny J. Kish1, 
+Allison Mandich1, Christopher R. Wellington1, Kris A. Wetterstrand1, Sarah A. Bates1, 
+Darryl Leja1, Susan Vasquez1, William A. Gahl1, Bettie J. Graham1, Daniel L. Kastner1, Paul Liu1, 
+Laura Lyman Rodriguez1, Benjamin D. Solomon1, Vence L. Bonham1, Lawrence C. Brody1, 
+Carolyn M. Hutter1 & Teri A. Manolio1 
+Starting with the launch of the Human Genome Project three decades ago, and 
+continuing after its completion in 2003, genomics has progressively come to have a 
+central and catalytic role in basic and translational research. In addition, studies 
+increasingly demonstrate how genomic information can be efectively used in clinical 
+care. In the future, the anticipated advances in technology development, biological 
+insights, and clinical applications (among others) will lead to more widespread 
+integration of genomics into almost all areas of biomedical research, the adoption of 
+genomics into mainstream medical and public-health practices, and an increasing 
+relevance of genomics for everyday life. On behalf of the research community, the 
+National Human Genome Research Institute recently completed a multi-year process 
+of strategic engagement to identify future research priorities and opportunities in 
+human genomics, with an emphasis on health applications. Here we describe the 
+highest-priority elements envisioned for the cutting-edge of human genomics going 
+forward—that is, at ‘The Forefront of Genomics’ . 
+Beginning in October 1990, a pioneering group of international 
+researchers began an audacious journey to generate the first map and 
+sequence of the human genome, marking the start of a 13-year odyssey 
+called the Human Genome Project1– 3. The successful and early comple-
+tion of the Project in 2003, which included parallel studies of a set of 
+model organism genomes, catalysed enormous progress in genomics 
+research. Leading the signature advances has been a greater than one 
+million-fold reduction in the cost of DNA sequencing4. This decrease has 
+allowed the generation of innumerable genome sequences, including 
+hundreds of thousands of human genome sequences (both in research 
+and clinical settings), and the continuous development of assays to 
+identify and characterize functional genomic elements5,6. These new 
+tools, together with increasingly sophisticated statistical and compu-
+tational methods, have enabled researchers to create rich catalogues of 
+human genomic variants7,8, to gain an ever-deepening understanding of 
+the functional complexities of the human genome5, and to determine 
+the genomic bases of thousands of human diseases9,10. In turn, the past 
+decade has brought the initial realization of genomic medicine11, as 
+research successes have been converted into powerful tools for use 
+in healthcare, including somatic genome analysis for cancer (enabling 
+development of targeted
+
+--- PAGE 3 matched=['vision'] ---
+684 | Nature | Vol 586 | 29 October 2020 
+Perspective      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+  
+ 
+  
+ 
+ 
+ 
+Fig. 1 | Four-area strategic 
+framework at The Forefront of 
+Genomics.  Together, the indicated 
+progressive and interrelated areas 
+serve to organize the major 
+elements in the strategic vision 
+described here. 
+Guiding 
+principle s 
+and values 
+Robust 
+foundation 
+for genomic s 
+Breaking 
+down 
+barrier s 
+Compellin g 
+genomic s 
+research 
+projects 
+The planning process continually encountered the realities associ-
+ated with the broad and extensive use of genomics and the impractical-
+ity of being comprehensive, which together served to focus attention 
+on the most cutting-edge opportunities in human genomics. This 
+experience affirmed NHGRI’s recently rearticulated role in providing 
+genomics leadership at the NIH, embodied by our newly conceived 
+organizational mantra: ‘The Forefront of Genomics’ . We ultimately 
+linked this mantra to the strategic planning process to help guide the 
+formulation of input. From the ensuing discussions, it became appar-
+ent that responsible stewardship is a central aspect of being at (and 
+pushing forward) The Forefront of Genomics, specifically in the four 
+major areas detailed in Fig. 1, Boxes 1–4 , and below. 
+Principles and values for human genomics 
+As genomics has matured as a discipline, the field has embraced a grow-
+ing set of fundamental principles and values that together serve as 
+a guiding compass for the research efforts—some of these emerged 
+organically within the field, whereas others have been adopted from 
+the broader scientific community. The growing complexities of human 
+genomics and its many applications (especially in medicine) at The 
+Forefront of Genomics make it imperative to reaffirm, sharpen, and 
+even extend these tenets, such as those highlighted in Box 1. 
+Many of these principles and values have been informed by the rec-
+ognized area of genomics that focuses on ethical, legal, and social 
+implications (ELSI) research17, which was established at the beginning 
+of the Human Genome Project to ensure that the eugenics movement 
+and other misuses of genetics are not repeated. ELSI research has since 
+grown to encompass a broad portfolio of studies that examine issues 
+at the interface of genomics and society, the results of which have 
+informed policies and laws related to genetic discrimination, intel -
+lectual property, data sharing, and informed consent18. Similar efforts 
+seek to ensure that the benefits of genomics are available to all members 
+of society19. Genomics, like other scientific fields, must reckon with 
+systematic injustices and biases, fully mindful of their importance for 
+health equity. In the future, ELSI research needs to focus on aspects of 
+genomic medicine implementation that present challenging questions 
+about legal boundaries, study governance, data control, privacy, and 
+consent. Complex societal issues must also be studied, including the 
+expanded application of genomics in non-medical realms (for example, 
+ancestry testing, law enforcement, and genetics-based marketing of 
+consumer goods)20 . Finally, ELSI research should also examine the 
+implications of studying genetic associations with bio-behavioural 
+traits (such as intelligence, sexual behaviour, social status, and edu-
+cational attainment)21 and of a future in which machine learning and 
+artificial intelligence are used to adapt risk communication and clini-
+cal decisions ba
+
+--- PAGE 9 matched=['vision'] ---
+690 | Nature | Vol 586 | 29 October 2020 
+Perspective      
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+  
+Box 5 
+Bold predictions for human 
+genomics by 2030 
+Some of the most impressive genomics achievements, when 
+viewed in retrospect, could hardly have been imagined ten years 
+earlier. Here are ten bold predictions for human genomics that 
+might come true by 2030. Although most are unlikely to be fully 
+attained, achieving one or more of these would require individuals 
+to strive for something that currently seems out of reach. These 
+predictions were crafted to be both inspirational and aspirational in 
+nature, provoking discussions about what might be possible at The 
+Forefront of Genomics in the coming decade. 
+1. Generating and analysing a complete human genome 
+sequence will be routine for any research laboratory, becoming 
+as straightforward as carrying out a DNA purification. 
+2. The biological function(s) of every human gene will be 
+known; for non-coding elements in the human genome, such 
+knowledge will be the rule rather than the exception. 
+3. The general features of the epigenetic landscape and 
+transcriptional output will be routinely incorporated into 
+predictive models of the effect of genotype on phenotype. 
+4. Research in human genomics will have moved beyond population 
+descriptors based on historic social constructs such as race. 
+5. Studies that involve analyses of genome sequences and 
+associated phenotypic information for millions of human 
+participants will be regularly featured at school science fairs. 
+6. The regular use of genomic information will have transitioned 
+from boutique to mainstream in all clinical settings, making 
+genomic testing as routine as complete blood counts. 
+7. The clinical relevance of all encountered genomic variants will 
+be readily predictable, rendering the diagnostic designation 
+‘variant of uncertain significance (VUS)’ obsolete. 
+8. An individual’s complete genome sequence along with 
+informative annotations will, if desired, be securely and readily 
+accessible on their smartphone. 
+9. Individuals from ancestrally diverse backgrounds will benefit 
+equitably from advances in human genomics. 
+10. Breakthrough discoveries will lead to curative therapies 
+involving genomic modifications for dozens of genetic diseases. 
+the use of genomics in medicine from diagnosing and treating disease 
+to maintaining health. 
+Sharp barriers between research and clinical care obstruct the virtuous 
+cycle of moving scientific discoveries rapidly into clinical care and bring-
+ing clinical observations back to the research setting82 (Fig. 3). Learning 
+healthcare systems—in which real-time data on outcomes of healthcare 
+delivery are accessed and used to enhance clinical practice—can lead to 
+continuous care improvement, but only if the barriers between research 
+and clinical care are reduced115. For example, offering genome sequenc-
+ing to all members of a healthcare system, performed in conjunction 
+with research and participant engagement and provided in real time81, 
+could help to assess the clinical utility of genomic information and 
+may allow providers to improve disease diagnosis and management. 
+System-wide implementation of such an experiment requires not only 
+extensive patient and provider education, sophisticated informatics 
+capabilities, an
+
+--- PAGE 10 matched=['vision'] ---
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+   
+  
+ 
+  
+   
+ 
+  
+   
+  
+ 
+  
+  
+  
+  
+ 
+  
+ 
+  
+ 
+  
+    
+ 
+ 
+  
+  
+ 
+   
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+   
+  
+  
+  
+   
+ 
+ 
+  
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+  
+   
+ 
+ 
+  
+  
+  
+  
+ 
+  
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+to protect individuals while maximizing the societal benefits of genom-
+ics…. ” With the 2020 strategic vision described here providing a thought-
+ful guide and with enduring feelings of wonder, urgency, ambition, and 
+social consciousness providing unfettered momentum, we are ready 
+to embark on the next exciting phase of the human genomics journey. 
+Epilogue: COVID-19 and genomics 
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) 
+emerged as a global threat to public health at the end of the multi-year 
+process that generated the above strategic vision. Nonetheless, the 
+COVID-19 pandemic provides a potent lesson about how a tiny string 
+of nucleic acids can wreak global havoc on humankind. Understanding 
+the mechanisms involved in the transmission of the virus, viral invasion 
+and clearance, as well as the highly variable and at times disastrous 
+physiological responses to infection, are fertile grounds for genom-
+ics research. Genomics rapidly assumed crucial roles in COVID-19 
+research and clinical care in areas such as (1) the deployment of DNA- 
+and RNA-sequencing technologies for diagnostics, tracking of viral 
+isolates, and environmental monitoring; (2) the use of synthetic nucleic 
+acid technologies for studying SARS-CoV-2 virulence and facilitating 
+vaccine development; (3) the examination of how human genomic 
+variation influences infectivity, disease severity, vaccine efficacy, and 
+treatment response; (4) the adherence to principles and values related 
+to open science, data sharing, and consortia-based collaborations; 
+and (5) the provision of genomic data science tools to study COVID-19 
+pathophysiology. The growing adoption of genomic approaches and 
+technologies into myriad aspects of the global response to the COVID-19 
+pandemic serves as another important and highly visible example of the 
+integral and vital nature of genomics in modern research and medicine. 
+1. The Human Genome Project; https://www.genome.gov/human-genome-project 
+(accessed 28 June 2020) 
+2. Lander, E. S. et al. Initial sequencing and analysis of the human genome. Nature 409, 
+860–921 (2001). 
+3. International Human Genome Sequencing Consortium. Finishing the euchromatic 
+sequence of the human genome. Nature 431, 931–945 (2004). 
+4. NHGRI. The cost of sequencing a human genome; https://www.genome.gov/ 
+about-genomics/fact-sheets/Sequencing-Human-Genome-cost (accessed 12 June 2020) 
+5. Moore, J. E. et al. Expanded encyclopaedias of DNA elements in the human and mouse 
+genomes. Nature 583, 699–710 (2020). 
+6. Shema, E., Bernstein, B. E. & Buenrostro, J. D. Single-cell and single-molecule epigenomics 
+to uncover genome regulation at unprecedented resolution. Nat. Genet. 51, 19–25 (2019). 
+7. The 1000 Genomes Project Consortium et al. A global reference for human genetic 
+variation. Nature 526, 68–74 (2015). 
+8. Karczewski, K. J. et al. The mutational constraint spectrum quantified from variation in 
+141,456 humans. Nature 581, 434–443 (2020). 
+Analysis of a large dataset of exome sequences, yielding important descriptions of the 
+extent and nature of human genomic variation and insights into protein evolution. 
+9. Posey, J. E. et al. Insights into gene
+
+--- PAGE 11 matched=['vision'] ---
+692 | Nature | Vol 586 | 29 October 2020 
+Perspective      
+  
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+ 
+  
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+55. Sanderson, S. C. et al. Public attitudes toward consent and data sharing in biobank 
+research: a large multi-site experimental survey in the US. Am. J. Hum. Genet. 100, 
+414–427 (2017). 
+Survey results from 13,000 individuals regarding participation in research in which 
+their data are shared with others, yielding insight into factors that predict a willingness 
+of people to participate in research and concerns about data privacy. 
+56. Milne, R. et al. Trust in genomic data sharing among members of the general public in the 
+UK, USA, Canada and Australia. Hum. Genet. 138, 1237–1246 (2019). 
+57. Grishin, D., Obbad, K. & Church, G. M. Data privacy in the age of personal genomics. Nat. 
+Biotechnol. 37, 1115–1117 (2019). 
+58. Genomic Literacy, Education and Engagement Initiative; https://www.genome.gov/ 
+leadership-initiatives/Genomic-Literacy-Education-Engagement-Initiative (accessed 29 
+June 2020) 
+59. Manolio, T. A. & Murray, M. F. The growing role of professional societies in educating 
+clinicians in genomics. Genet. Med. 16, 571–572 (2014). 
+60. Krakow, M., Ratcliff, C. L., Hesse, B. W. & Greenberg-Worisek, A. J. Assessing genetic 
+literacy awareness and knowledge gaps in the US population: results from the health 
+information national trends survey. Public Health Genomics 20, 343–348 (2017). 
+61. LaRue, K. M., McKernan, M. P., Bass, K. M. & Wray, C. G. Teaching the genome generation: 
+bringing modern human genetics into the classroom through teacher professional 
+development. J. STEM Outreach 1, 48–60 (2018). 
+62. Mboowa, G. & Sserwadda, I. Role of genomics literacy in reducing the burden of common 
+genetic diseases in Africa. Mol. Genet. Genomic Med. 7, e00776 (2019). 
+63. Veilleux, S., Bouffard, M. & Bourque Bouliane, M. Patient and health care provider needs 
+and preferences in understanding pharmacogenomic and genomic testing: a meta-data 
+analysis. Qual. Health Res. 30, 43–59 (2020). 
+64. Kung, J. & Wu, C.-T. Leveling the playing field: closing the gap in public awareness of genetics 
+between the well served and underserved. Hastings Cent. Rep. 46, 17–20 (2016). 
+65. Stephens, Z. D. et al. Big data: astronomical or genomical? PLoS Biol. 13, e1002195 (2015). 
+66. Attwood, T. K., Blackford, S., Brazas, M. D., Davies, A. & Schneider, M. V. A global 
+perspective on evolving bioinformatics and data science training needs. Brief. Bioinform. 
+20, 398–404 (2019). 
+67. Genomics Education Partnership; http://gep.wustl.edu/ (accessed 16 June 2020). 
+68. Campion, M., Goldgar, C., Hopkin, R. J., Prows, C. A. & Dasgupta, S. Genomic education 
+for the next generation of health-care providers. Genet. Med. 21, 2422–2430 (2019). 
+69. McClaren, B. J. et al. Development of an evidence-based, theory-informed national survey 
+of physician preparedness for genomic medicine and preferences for genomics 
+continuing education. Front. Genet. 11, 59 (2020). 
+70. Dougherty, M. J., Wicklund, C. & Johansen Taber, K. A. Challenges and opportunities for 
+genomics education: Insights from an Institute of Medicine Roundtable Activity. J. Contin. 
+Educ. Health Prof. 36, 82–85 (2016). 
+71. NHGRI. Inter-Society Coordinating Committee for Pra

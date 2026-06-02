@@ -1,0 +1,1848 @@
+# NHLBI (FY2026-2030) — file: NHLBI_Strategic_Vision_FY2026-2030.pdf
+# 55 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['VISION'] ---
+ THE NHLBI STRATEGIC VISION       1
+BRINGING RESEARCH TO LIFE 
+THE NHLBI 
+STRATEGIC VISION
+FY 2026–2030
+
+--- PAGE 2 matched=['VISION'] ---
+2        NHLBI STRATEGIC VISION   |    FY 2026–2030
+National Heart, Lung, and Blood Institute
+National Institutes of Health
+www.nhlbi.nih.gov
+ACKNOWLEDGEMENTS  
+The NHLBI appreciates the extensive input from its staff; the National Heart, Lung, and Blood Advisory Council  
+and Board of External Experts, a working group of the Council; and the heart, lung, blood, and sleep communities  
+in the development of this Strategic Vision.
+BRINGING RESEARCH TO LIFE
+THE NHLBI  
+STRATEGIC VISION 
+FY 2026–2030
+The NHLBI Strategic Vision was released on October 1, 2025, and aligns 
+w
+ith current administration priorities and programmatic goals.   
+It will be implemented through September 31, 2030.
+
+--- PAGE 3 matched=['Objective 1', 'Strategic Plan', 'TABLE OF CONTENTS'] ---
+3        NHLBI STRATEGIC VISION   |    FY 2026–2030
+TABLE OF CONTENTS
+4 Director’s Message 
+6  Strategic Plan Framework
+7 Overview
+16  Strategic Priorities 
+1
+6 Capacity Priorities
+1
+9 Operational Priorities
+23 
+Research Priorities 
+  26 Objective 1
+30 
+Objective 2
+  33 Objective 3
+  36 
+Objective 4
+  39 Objective 5
+  44 Objective 6
+  48 Objective 7
+  50 Objective 8  
+55  Appendix 
+
+--- PAGE 4 matched=['VISION', 'mission'] ---
+4        NHLBI STRATEGIC VISION   |    FY 2026–2030
+DIRECTOR’S MESSAGE
+Transformative vision propels science and its application to advance 
+health and health care, and for over 75 years, the public has entrusted 
+the National Heart, Lung, and Blood Institute (NHLBI) to support and 
+advance research and its translation to improve lives and save lives  
+for people across our nation and around the world. As a public service science institute, our 
+mission is to simultaneously see over the horizon to identify future challenges and opportunities 
+while discovering and applying solutions to our current and newly emergent health and public 
+health challenges. 
+NHLBI’s transformative vision comes from the public we serve — from people and communities 
+from every walk of life who bring unique, diverse, and complementary expertise, insights, and 
+lived experience to inform, inspire, and innovate. In this context, the collaborative Strategic Vision 
+we first developed in 2016 catalyzed and powered advances across heart, lung, blood, and sleep 
+(HLBS) science and medicine, moving the entire biomedical enterprise forward to achieve health 
+and healthcare milestones that appeared as distant goals when we glimpsed them over the 
+horizon 8 years ago. 
+Your contributions — driven by collaborative community action — energized discovery science 
+and its application to gene therapies so that in 2024, multiple U.S. Food and Drug Administration 
+(FDA)-approved therapeutics now exist to ameliorate sickle cell disease, bringing hope and better 
+health to the individuals and families that have so long born the burden of this transgenerational 
+disorder. Similarly, our collaborative partnerships enabled our swift, agile, multifaceted, and 
+ongoing responses to the COVID-19 pandemic. Discovery science provided us the tools while 
+community-powered implementation efforts translated this science into action to save lives and 
+improve health outcomes in every community, including those bearing the gravest burdens —  
+our most underserved and high-risk populations.
+Through forward-thinking collaboration with stakeholders and partners, we revisited our  
+Strategic Vision to update our collective “view” over the horizon and to assess emergent 
+hypersonic technological developments that are exponentially accelerating scientific  
+discoveries and medical advances.
+ 
+
+--- PAGE 5 matched=['VISION'] ---
+5        NHLBI STRATEGIC VISION   |    FY 2026–2030
+Throughout this update, we have renewed and expanded our commitment to diverse and inclusive 
+partnerships, collaborative community-based research, and the rapid translation of discovery 
+science into public health improvements and frontline, personalized, point-of-care medicine. 
+The updated NHLBI Strategic Vision better enables us to adapt and leverage emergent science and 
+technology to redress today’s most pressing health issues, while helping us anticipate the future with 
+foresight and compass points to guide our actions and facilitate our progress. Although emerging 
+tools like artificial intelligence and machine learning promise to further our understanding of human 
+biology and to accelerate improvements in health and health care, we remain deeply committed to 
+the ethical application of all scientific and technological discoveries to ensure health for all, and to 
+ameliorate health disparities, including addressing the social determinants of health (SDOH) that are 
+the very foundations of good health. Well health, health promotion, disease prevention, and treatment 
+are inseparable from SDOH, and some of our greatest challenges now and in the future revolve 
+around whole health and the health of our environment. 
+As new discoveries are made and our understanding of human biology increases, our Strategic 
+Vision will continue to evolve, serving as evergreen guidance to allow us to adaptively respond 
+to rapidly changing challenges, opportunities, discoveries, and resources. Fundamental biology, 
+implementation science, and community partnerships have been the backbone of NHLBI’s research 
+since our founding 75 years ago, and those tenets will continue to power transformative science and 
+its implementation for better health and health care.
+A cornerstone of our public service science is the continuous and productive engagement of a broad, 
+diverse, and inclusive circle of partners. Your synergistic and complementary voices provide robust, 
+resilient, and adaptive guidance enabling and empowering swift, efficient, and effective leveraging of 
+unprecedented scientific opportunities to redress HLBS health challenges now and in the generations 
+that follow. 
+We are deeply grateful for your partnership and for your individual and collective expertise and 
+input as we continue our work together to achieve better health, equitable top-tier health care, and 
+effective and responsive public health that improves lives and saves lives for all people across our 
+country and around our world.
+Sincerely,
+Gary H. Gibbons, M.D
+. 
+Director, NHLBI
+
+--- PAGE 6 matched=['CROSSCUTTING THEME', 'STRATEGIC PLAN', 'VISION'] ---
+6        NHLBI STRATEGIC VISION   |    FY 2026–2030
+NHLBI STRATEGIC PLAN FRAMEWORK 
+OVERVIEW OF THE NHLBI 
+MISSION: The National Heart, Lung, and Blood Institute (N HLBI) provides global leadership for a research, training, and education program to 
+promote the prevention and treatment of heart, lung, and blood diseases and sleep disorders to enhance the health of all individuals so that they can 
+live longer and more fulfilling lives. 
+NHLBI STRATEGIC GOALS 
+UNDERSTAND HUMAN BIOLOGY 
+To expand knowledge of the molecular, cellular, and physiological mechanisms 
+governing the normal function of HLBS systems as essential elements for 
+sustaining human health. 
+To enable and develop a diverse biomedical workforce equipped with the 
+essential research resources to pursue emerging opportunities in science. 
+DEVELOP WORKFORCE 
+AND RESOURCES 
+REDUCE HUMAN DISEASE 
+To extend our knowledge of the pathobiology of HLBS disorders and enable 
+clinical investigations that advance the prediction , prevention , preemption , 
+treatment, and cures of human diseases . 
+To facilitate innovation and accelerate research translation across the entire research 
+spectrum, bridging basic to clinical, clinical to practice, and population to health impact. 
+ADVANCE TRANSLATIONAL 
+RESEARCH 
+ct~ 
+STRATEGIC OBJECTIVES 
+0 
+e 
+e e 
+0 
+0 
+0 
+0 
+Understand normal biological function and resilience 
+Investigate newly discovered pathobiological mechanisms important to the onset and progression of heart, lung, 
+and blood diseases and sleep disorders 
+Investigate factors that account for differences in health status among populations 
+Identify factors that account for individual differences in pathobiology and in response to treatments 
+Develop and optimize novel diagnostic and therapeutic strategies to prevent, treat, and cure heart, lung, and blood 
+diseases and sleep disorders 
+Optimize clinical and implementation research to improve health and to reduce disease 
+Leverage emerging opportunities in data science to open new frontiers in research on heart, lung, and blood diseases 
+and sleep disorders 
+Further develop and sustain a scient ific workforce capable of accomplishing the NHLBI mission 
+CROSSCUTTING THEMES 
+• 
+' 
+• 
+. 
+• 
+Harnessing data science 
+and new technologies to 
+drive scientific discovery 
+and precision health 
+Using novel approaches for 
+addressing health disparities 
+and tackling their biological 
+underpinnings for heart, lung, and 
+blood diseases and sleep disorders 
+Furthering the 
+science on the 
+importance of 
+lifestyle behaviors 
+Leveraging the power 
+of community and 
+patient engagement 
+Supporting women's 
+health through 
+the lifespan 
+
+--- PAGE 7 matched=['VISION', 'MISSION'] ---
+7        NHLBI STRATEGIC VISION   |    FY 2026–2030
+OVERVIEW
+MISSION 
+The National Heart, Lung, and Blood Institute 
+(NHLBI) provides global leadership for a research, 
+training, and education program to promote the 
+prevention and treatment of heart, lung, and 
+blood diseases and sleep (HLBS) disorders and 
+enhance the health of all individuals so that they 
+can live longer and more fulfilling lives. The NHLBI 
+stimulates basic discoveries about the causes of 
+disease, enables the translation of basic discoveries 
+into clinical practice, fosters training and mentoring 
+of emerging scientists and physicians, and 
+communicates research advances to the public. 
+Partnerships are imperative to advancing the 
+Institute’s mission. The NHLBI creates and supports 
+a robust, collaborative research infrastructure in 
+partnership with private, public, and community 
+organizations, in addition to academic institutions, 
+industry, and other government agencies. 
+Collaborations with patients, families, healthcare 
+professionals, scientists, professional societies, 
+patient advocacy groups, community organizations, 
+and the media are essential to promoting the 
+application of research results and leveraging 
+resources to address public health needs. The 
+NHLBI also fosters ongoing relationships with 
+international organizations to help reduce the 
+burden of HLBS diseases and disorders worldwide. 
+NHLBI’S ENDURING  
+PRINCIPLES 
+• Value investigator- 
+initiated fundamental
+discovery science
+• Maintain a balanced
+cross-disciplinary portf
+olio
+(basic, translational,
+clinical, population science)
+• Train and nurture a
+diver
+se new generation
+of leaders f
+or the
+biomedical workforce
+• Support implementation
+science that empowers
+patients and enables
+partners to improve health
+• Innovate an evidence-
+based elimination of
+health inequities in
+the United States and
+around the world
+
+
+--- PAGE 8 matched=['VISION'] ---
+8        NHLBI STRATEGIC VISION   |    FY 2026–2030
+RELEVANT MANDATES
+In June 1948, President Harry S. Truman signed 
+the National Heart Act (Public Law 80-655), which 
+created and established the National Heart Institute 
+(NHI). That August, Surgeon General Leonard A. 
+Scheele, by General Circular No. 36, Organization 
+Order No. 14, established the NHI as one of the 
+Institutes at the National Institutes of Health (NIH). 
+On November 10, 1969, the NHI was renamed the 
+National Heart and Lung Institute (NHLI) to reflect the 
+expansion of the NHI’s functions. Three years later, 
+the National Heart, Blood Vessel, Lung, and Blood 
+Act of 1972 (P .L. 92-423) expanded the Institute’s 
+authority to advance the national response against 
+heart, blood vessel, lung, and blood diseases. The act provided for intensified and coordinated 
+Institute activities in accordance with a comprehensive, specified National Heart, Blood Vessel, 
+Lung, and Blood Disease Program to be planned by the director and the Advisory Council.
+In June 1976, Title I of the Health Research and Health Services Amendments of 1976 (P .L. 94-
+278) redesignated the NHLI as the NHLBI to even further reinforce the national fight against
+heart, blood vessel, lung, and blood diseases. It authorized the NHLBI to conduct research in the
+use of blood and blood products and in the management of blood resources. In June 1993, the
+NIH Revitalization Act of 1993 (P .L. 103-43) established the National Center on Sleep Disorders
+Research (NCSDR) within the NHLBI. The NHLBI currently operates under the Research and
+Investigation Section 301, U.S. Code Citation 428241; National Heart, Lung, and Blood Institute
+Section 401(a), U.S. Code Citation 42281. The NHLBI director and the National Heart, Lung,
+and Blood Advisory Council continue to plan the national program under the basic P .L. 92-423
+provisions with some refinements.
+ORGANIZATION
+An organization chart can be found in appendix I.
+
+--- PAGE 9 matched=['VISION'] ---
+9        NHLBI STRATEGIC VISION   |    FY 2026–2030
+THE BURDEN OF HEART, LUNG, BLOOD, AND SLEEP DISORDERS
+Since its inception, the NHLBI community has fostered a legacy of research excellence through 
+groundbreaking fundamental discovery science, landmark clinical trials and population-based 
+cohort studies, and innovative health education and dissemination efforts. Despite the significant 
+advances in treatment and prevention made during these decades, the chronic conditions 
+resulting from HLBS diseases and disorders still pose a major health and economic burden on 
+the United States. Through its broad research portfolio, the NHLBI is tasked with combating not 
+only the major causes of death and disability, but also rare disorders such as sickle cell disease, 
+thalassemia, and pulmonary fibrosis. Although these disorders are rare in the overall population, 
+the burdens they place on those affected are enormous. Despite research advances, HLBS 
+diseases and disorders continue to be among the leading causes of death and disability in the 
+United States.
+Heart disease and 
+hypertension are among the 
+most common, costly, and 
+preventable health conditions 
+in the United States.
+1
+Despite progress in treating  
+and preventing complications  
+of numerous blood diseases,  
+many people still face challenges 
+and a diminished quality of life.
+2 
+Obstructive pulmonary 
+diseases remain a leading 
+cause of death and disability  
+ in the United States.
+2 
+Sleep dysfunction and 
+insufficient sleep affect 
+millions of Americans  
+and are associated with 
+cognitive impairments.
+2 
+Many of these diseases have a disproportionate impact on people of color, people living in rural 
+communities, and other underserved populations.
+2 
+Source: (1) NIH.gov, (2) NHLBI ADV
+ANCING Heart, Lung, Blood, and Sleep Research
+BUILDING ON PAST SUCCESS TO PREPARE FOR THE FUTURE
+The NHLBI must anticipate and capitalize on emerging scientific opportunities as well as foresee 
+and identify approaches to overcome new barriers to progress. Strategic visioning is a process 
+that was initiated in recognition of these needs and in acknowledgment of the transformational 
+scientific advances that are emerging at an accelerating pace. 
+
+--- PAGE 10 matched=['VISION'] ---
+10       NHLBI STRATEGIC VISION   |    FY 2026–2030
+Investigator-initiated ideas are the principal 
+way we support science, but the complex and 
+nuanced nature of emerging threats to public 
+health require creative solutions that help 
+address problems that are complex, highly 
+evolving, and that have undefined endpoints.  
+This unique approach is evident in NHLBI’s 
+responses to the burden of sickle cell disease 
+and to the COVID-19 pandemic.
+The Cure Sickle Cell initiative was created by the NHLBI in 2018 to use emerging safe and 
+promising genetic therapies to improve the lives of individuals living with sickle cell disease. 
+This initiative actively engages the sickle cell disease community — patients, family members, 
+caregivers, and advocates — to work together on a path to a cure. Cure Sickle Cell encourages 
+collaboration among researchers, industry, nonprofit organizations, and policy-making agencies, 
+all of whom play a role in exploring the scientific questions needed to safely and effectively 
+advance potential therapies.
+In response to the COVID-19 pandemic, the NHLBI evolved a strategy not unlike that of the Cure 
+Sickle Cell initiative. In June 2020, the NHLBI developed the Collaborating Network of Networks for 
+Evaluating COVID-19 and Therapeutic Strategies (CONNECTS) initiative. This program facilitated 
+collaboration between experts in pulmonary, critical care, and cardiothoracic surgeries and 
+enabled the development of a master protocol for research on treatments to reduce serious 
+illness and death in patients with COVID-19. In 2020, the NHLBI initiated three clinical trials that 
+later became part of CONNECTS and the NIH Accelerating COVID-19 Therapeutic Interventions 
+and Vaccines (ACTIV) public–private partnership. The goal was to develop a coordinated research 
+strategy for prioritizing and speeding the development of the most promising treatments and 
+vaccines. Known as ACTIV-4, this program investigated the efficacy of anticoagulation and 
+antithrombotic therapy in reducing life-threatening thrombotic cardiovascular and pulmonary 
+complications in newly diagnosed COVID-19 patients not requiring hospital admission, COVID-19 
+patients hospitalized with moderate and severe disease, and patients recovering from COVID-19.  
+
+
+--- PAGE 11 matched=['VISION', 'mission'] ---
+11       NHLBI STRATEGIC VISION   |    FY 2026–2030
+The NHLBI has either expanded or enhanced innovative and collaborative approaches to other 
+complex challenges to HLBS health. Some notable examples include:
+PROJECTS
+The Alliance for Community 
+Engagement – Partnership 
+for Action Toward Health 
+(ACE-PATH)
+ACE-PATH seeks to empower communities cumulatively and disproportionately 
+affected by social determinants of health (SDOH) and health disparities across the 
+United States. Its primary goal is to maximize community engagement to achieve 
+optimal health despite climate related risks. Supported community-engaged research 
+projects are charged to (1) Identify, develop, and test effective community-engaged 
+strategies to improve the adoption and use of specific treatments or tools to respond 
+to community health challenges. (2) Support community-engaged research to enhance 
+the adoption, integration, and sustainment of interventions addressing the impacts of 
+local health stressors. (3) Build trust and strong partnerships with all interested 
+parties to exchange knowledge and encourage implementation of promising practices 
+to strengthen and improve community health. (4) Inform strategies to reduce the 
+effects of prioritized local health stressors in U.S. communities.
+Accelerating Medicines 
+Partnership® (AMP®)
+AMP® is a public–private partnership between the NIH, the U.S. Food and Drug 
+Administration (FDA), multiple biopharmaceutical and life science companies, 
+and nonprofit and other organizations. It aims to transform the current model for 
+developing new diagnostics and treatments. Thus far (2024), AMP has supported nine 
+scientific projects, one of which the NHLBI sponsors, which addresses heart failure.
+Community Engagement 
+Alliance (CEAL) 
+CEAL’s mission is to improve health outcomes, and strengthen community 
+partnerships through community-engaged research that addresses health 
+disparities. The alliance includes various initiatives that promote community-engaged 
+research aimed at improving the health and well-being of communities that most 
+often experience health disparities. These initiatives encourage community-driven, 
+intervention-based research to address disparities in the context of SDOH, as well 
+as the Community Engagement Alliance Consultative Resource (CEACR), a unique 
+program that provides targeted consultations to researchers looking to improve  
+their community engagement and participation efforts.
+Precision Medicine and  
+Data Science Programs: 
+BioData Catalyst and  
+Trans-Omics for Precision 
+Medicine (TOPMed)
+NHLBI’s TOPMed contributes to NIH’s precision medicine enterprise through the 
+integration of whole-genome sequencing and other omics data (e.g., metabolic 
+profiles, epigenomics, protein and RNA expression patterns) with behavioral, 
+imaging, environmental, and clinical data. NHLBI’s Biodata Catalyst is a cloud-based 
+ecosystem that offers researchers data, analytic tools, applications, and workflows 
+in secure workspaces. It increases access to NHLBI datasets and provides innovative 
+data analysis capabilities to help researchers accelerate discoveries and develop 
+new diagnostic tools, therapeutics, and prevention strategies.
+NIH-Global Alliance for 
+Chronic Diseases (GACD) 
+Partnership
+This global partnership, with NIH participation, supports implementation and 
+multimorbidity research to reduce the noncommunicable disease burden in low- and 
+middle-income countries, as well as for the first t
+
+--- PAGE 12 matched=['VISION'] ---
+12       NHLBI STRATEGIC VISION   |    FY 2026–2030
+PROJECTS
+Helping to End Addiction 
+Long-term® (NIH HEAL 
+Initiative®)
+HEAL is an aggressive NIH-wide, interagency effort to speed up scientific solutions 
+that stem the national opioid public health crisis. The NHLBI, as part of the HEAL 
+initiative, explores our current understanding of pain and works to establish 
+biomarkers for pain and to develop non-opioid therapeutics for pain management.
+NIH Implementing a  
+Maternal health and 
+PRegnancy Outcomes  
+Vision for Everyone 
+(IMPROVE)
+An NIH-wide initiative, IMPROVE aims to reduce preventable causes of maternal 
+morbidity and mortality and to improve health for women before, during, and after 
+delivery. IMPROVE supports the IMPROVE Community Implementation Program 
+(IMPROVE-CIP) in partnership with the NHLBI and focuses on decreasing maternal 
+health disparities related to mental health, substance use, psychosocial factors, and 
+social and structural determinants of health. IMPROVE-CIP uses implementation 
+science to bring known effective maternal health interventions into communities 
+severely affected by maternal health disparities.
+Maternal Health Community 
+Implementation Program 
+(MH-CIP)
+The MH-CIP program aims to reduce maternal deaths and improve maternal health 
+outcomes, especially in populations that are disproportionately affected by high 
+rates of pregnancy-related complications and deaths. MH-CIP develops and tests 
+community-based implementation strategies to increase the adoption, uptake, scale-
+up, and scale-out of evidence-based interventions that improve health before, during, 
+and after pregnancy. The program emphasizes community-engaged implementation 
+research that is firmly connected to and embedded in affected communities.
+Nulliparous Pregnancy 
+Outcomes Study: Monitoring 
+Mothers-to-Be Heart Healthy 
+Study (nuMOM2b HHS)
+Funded by the NHLBI, this study examines the effects of pregnancy complications on 
+future cardiovascular health, including social factors that correlate with the future 
+heart health of new parents, especially in communities of color.
+Risk Underlying Rural  
+Areas Longitudinal  
+(RURAL) cohort study
+Established in 2019, this study is addressing the high burden of chronic heart and 
+lung disease in America’s heartland. RURAL is monitoring individuals in 10 rural 
+communities in Alabama, Kentucky, Louisiana, and Mississippi by using community-
+engaged partners and high-tech mobile research units to collect data including 
+medical histories, familial, lifestyle, and behavioral factors.
+Multi-ethnic Observational 
+Study in American Asian  
+and Pacific islander 
+Communities (MOSAAIC) 
+initiative
+The MOSAAIC initiative is a seven-year study, launched in 2023, that focuses on 
+studying cardiovascular health, lung health, mental health, and social determinants 
+of health in individuals that self-identify as having ancestral background from 
+East Asia, South Asia, Southeast Asia; or self-identify as Native Hawaiian and/or 
+Pacific Islander.
+Early Intervention to 
+Promote Cardiovascular 
+Health of Mothers and 
+Children (ENRICH) Initiative
+The ENRICH initiative is a seven-year community-based, parallel group, two arm, 
+cluster-randomized trial that focuses on enriching evidence-based maternal  
+and child health Home Visiting (HV) with cardiovascular health promotion content 
+(ENRICHed HV) and compares it with usual HV through partnership, collaboration  
+and engagement of HV agencies. About 3,200 parent
+
+--- PAGE 13 matched=['VISION', 'mission'] ---
+13       NHLBI STRATEGIC VISION   |    FY 2026–2030
+NHLBI has demonstrated a consistent 
+commitment to accomplishing its mission. 
+As we march into the future, we will use 
+innovative problem-solving strategies to 
+address the burden of heart, lung, and blood 
+diseases and sleep disorders. 
+STRATEGIC VISION  
+PLANNING PROCESS
+Strategic visioning is a process that was 
+initiated in recognition of the transformational 
+scientific advances that are emerging at 
+an accelerating pace. By design, the NHLBI 
+Strategic Vision is a dynamic document, 
+regularly updated with input from people at 
+the leading edge of health and science. Many 
+research goals that once seemed remote 
+are now within reach, and innovative technologies have rendered mundane scientific processes 
+more facile. For example, in the next decade, preventable cardiovascular disease deaths for all 
+age groups could decline by more than 30 percent with greater adoption of proven prevention 
+and treatment strategies. A stroke-free era for children worldwide with sickle cell disease is now 
+imaginable. The NHLBI Strategic Vision is the culmination of an unprecedented effort to engage 
+communities in identifying and prioritizing the most compelling science for which the NHLBI 
+provides leadership. 
+Over the next 5 years, these collective ideas could catalyze the closing of large gaps in knowledge 
+and could break through significant barriers to research progress in adherence to the Institute’s 
+enduring principles.  
+This document reflects an update of the 2016 Strategic Vision, which included more than 100 
+compelling questions and critical challenges that aligned with eight scientific objectives and four 
+goals. For this update, the NHLBI harnessed collective inputs and community-level participation 
+to highlight areas of emerging needs and scientific advancements. 
+STRATEGIC VISION INPUT FUNNEL
+Past Meeting 
+ Discussion
+Board of  
+External Experts  
+(BEE)/ Council  
+Inputs
+Request f
+or  
+Information  
+(RFI)/ Public  
+Input 
+New or Revised Compelling Questions (CQs) and Critical 
+Challenges (CCs) for FY 2026–2030 Strategic Vision 
+
+--- PAGE 14 matched=['STRATEGIC PLAN', 'VISION'] ---
+14       NHLBI STRATEGIC VISION   |    FY 2026–2030
+Focus areas were identified following an extensive 
+review of past meetings and discussions by NHLBI 
+leadership, including the National Heart, Lung, 
+and Blood Advisory Council, the Board of External 
+Experts, and a working group of council and division 
+leaders. Input from constituents — scientists, 
+medical professionals, policymakers, patients, 
+patient advocates, and professional groups — was 
+solicited through a series of webinars and a request 
+for information (RFI) that received 141 individual 
+responses and over 700 answers to prompted 
+questions on various topics. These included 
+harnessing data science and new technologies to 
+drive scientific discovery and precision health, using 
+novel approaches for addressing health disparities 
+and tackling their biological underpinnings for HLBS 
+diseases and disorders, leveraging the power of 
+community and patient engagement, furthering the 
+science on the importance of lifestyle behaviors, 
+supporting women’s health through the lifespan, and addressing and reducing the impact of 
+“place” (geography, climate, rural/urban, neighborhood) on HLBS health. 
+Input sought included perspectives on critical research needs or compelling questions for any of 
+the focus areas, perspectives on challenges or barriers that needed to be addressed to support 
+progress, and the relevance of the eight objectives for the NHLBI Strategic Vision and any 
+critical challenges or questions that were not already incorporated in the NHLBI Strategic Vision. 
+Feedback that resonated as high priorities for the Institute based on timeliness, feasibility, and 
+potential to advance the field of study was incorporated into the updated Strategic Vision.
+IMPLEMENTATION OF THE STRATEGIC PLAN
+The NHLBI continually assesses and monitors progress toward the previously described four 
+goals and eight objectives while responding to new challenges and building on emerging 
+discoveries. We recognize fully that the Strategic Vision alone is insufficient to affect change 
+without meaningful oversight and implementation. 
+
+
+--- PAGE 15 matched=['goals and objectives', 'VISION'] ---
+15       NHLBI STRATEGIC VISION   |    FY 2026–2030
+To confirm that NHLBI-funded activities remain in alignment with the Institute’s priorities, 
+periodic analyses are conducted to evaluate research portfolios for potential gaps and 
+opportunities in meeting the goals and objectives of the Strategic Vision. In addition, each 
+division engages publicly through workshops and other efforts to garner inputs and insights 
+supporting the establishment priorities for science. The divisions are assessed on an ongoing 
+basis regarding their oversight of scientific programs and portfolios to achieve these objectives 
+and to ensure that ideas and operations align with the Strategic Vision. 
+NHLBI leadership engages frequently and meaningfully in cross-disciplinary collaboration 
+to ensure that NHLBI priorities remain dynamic and responsive and that decisions about 
+scientific programs and policies are informed by scientific evidence and input from the scientific 
+community. Every year the Advisory Council convenes with the Board of External Experts 
+to discuss progress made and to keep a pulse on priorities that the NHLBI can support and 
+barriers it can address. Past meetings have included discussions on emerging topics of interest, 
+including the impact of climate, data science, and health disparities. Throughout the year the 
+director, Dr. Gary Gibbons, routinely participates in listening sessions to hear from scientists, 
+patient advocates, and community health leaders across the globe and to discuss health 
+concerns and research opportunities. These encounters serve to identify emerging opportunities 
+and to obtain expert advice and guidance on the implementation of the Strategic Vision.
+
+
+--- PAGE 16 matched=['Objective 8', 'goals and objectives', 'VISION'] ---
+16       NHLBI STRATEGIC VISION   |    FY 2026–2030
+STRATEGIC PRIORITIES
+NHLBI CAPACITY AND OPERATIONAL PRIORITIES
+The NHLBI is committed to excellence in its stewardship of the trust of the American public and of 
+the taxpayer funds appropriated by Congress. This commitment aims to ensure that all research 
+and administrative resources are used responsibly to advance the mission to prevent and treat 
+heart, lung, and blood diseases and sleep disorders. 
+Capacity Priorities
+WORKFORCE DEVELOPMENT
+To support the staff working at NIH, the NHLBI 
+employs internal programs and training 
+opportunities to promote the professional 
+growth and development of its workforce. These 
+programs aim to foster an appreciation for and 
+commitment to workforce excellence and cultural 
+competency, as well as promote the professional 
+growth of individuals within the Institute. The 
+NHLBI also supports NIH-funded programs that 
+attract, recruit, and retain researchers from 
+varying backgrounds throughout all stages of 
+their careers.
+Recruit and Retain
+A commitment to promoting scientific opportunities to all groups equally begins with investing in 
+the Institute’s workforce through planned and thoughtful recruitment and retention efforts. 
+Strategic Objective 8 is focused 
+on the development of a scientific 
+workforce that is capable of 
+accomplishing the NHLBI mission. 
+However, capacity and operational 
+priorities are integral to the identity 
+of the NHLBI and are represented 
+throughout the Strategic Vision’s 
+goals and objectives.
+
+--- PAGE 17 matched=['VISION'] ---
+17       NHLBI STRATEGIC VISION   |    FY 2026–2030
+The NHLBI has numerous programs and 
+initiatives intended to encourage individuals to 
+either join the research workforce or further 
+the career they have started. These programs 
+include opportunities for summer research 
+experiences for high school students, which 
+allow a chance for trainees, including those 
+from disadvantaged communities, to hear 
+and get excited about a public service career 
+in the biomedical sciences. For those already 
+focused on the sciences, the Helena Mishoe 
+Fellowship supports postbaccalaureate 
+individuals in biomedical research. Additional 
+NHLBI training programs help junior faculty 
+and transitioning postdoctoral candidates 
+launch their academic research careers and 
+navigate the complex landscape of academic career progression. The NHLBI has also established 
+re-entry programs for established investigators who have had their research careers interrupted 
+for life events such as child-rearing or personal or family illness or injury.
+Train Staff to Build a Collaborative and Engaging Workplace
+A commitment to teamwork and excellence begins with increasing cultural competency among 
+staff, which helps develop an environment in which everyone feels welcomed, respected, and 
+free to be their authentic selves. The Institute’s Training and Leadership Development Program 
+provides multiple professional development offerings to support this effort. These trainings 
+are dynamic — adapting as needs are identified — and address topics such as the basics of 
+teamwork and the role staff play in supporting a collaborative and supportive workplace. The 
+trainings aim to promote a sense of belonging, engagement, and efficacy that is in alignment with 
+— and reinforced by — organizational norms, values, and processes. They emphasize the crucial 
+roles staff play in translating these norms and values into action.
+
+
+--- PAGE 18 matched=['VISION', 'mission'] ---
+18       NHLBI STRATEGIC VISION   |    FY 2026–2030
+RESOURCES AND INFRASTRUCTURE 
+The thoughtful and strategic stewardship of resources is crucial to the success of the NHLBI 
+mission. Toward that end, rigorous oversight and guidance is applied to the sharing of data 
+and biospecimens and to the accessibility and management of resources and infrastructure. 
+Strengthen Biorepositories 
+The NHLBI demonstrates its commitment to the responsible management of research 
+investments by promoting scientific rigor and maximizing the use of data and biospecimen 
+resources. We emphasize standardizing protocols and resource handling to maximize 
+reproducibility. The Biologic Specimen and Data Repository Information Coordinating Center 
+(BioLINCC) supports access to NHLBI-funded biospecimen and data resources and enables 
+access to and maximizes the scientific value of both the biorepository and data repository. 
+Promote Data Science
+The NHLBI BioData Catalyst® is an innovative data ecosystem that allows researchers to  
+access data, analytics tools, applications, and workflows. Investigators may access data  
+in a multidimensional environment at the scale and depth that makes the data readable for 
+artificial intelligence and machine learning capabilities. This groundbreaking coordination  
+of datasets promotes equal access, transparency, and collaboration between scientific 
+partners. It also democratizes data in a way that enables reproducibility and accelerates 
+progress toward discoveries that reduce the burden of heart, lung, and blood diseases  
+and sleep disorders. 
+
+--- PAGE 19 matched=['VISION', 'mission'] ---
+19       NHLBI STRATEGIC VISION   |    FY 2026–2030
+Operational Priorities 
+PARTNERSHIPS AND INNOVATION 
+Crucial to advancing the Institute’s mission is the support, input, and insights from and 
+collaborations with the many communities vested in HLBS research. Scientific advancement is 
+driven through the free flow and exchange of ideas and knowledge. For the NHLBI, engagement 
+and partnerships (within and beyond the NIH and the U.S. Department of Health and Human 
+Services [HHS]) are foundational to the generation of scientific ideas. These exchanges occur 
+between people with a range of expertise, influence, and interests, including patients and their 
+families, patient advocacy groups and community organizations, local health departments, 
+scientists, healthcare professionals, professional societies, and the media.
+Enhance Partnerships
+Research is a collaborative effort that would not be possible without the insights and support 
+gained from research partners that work directly with NHLBI investigators. These have included, 
+for example, the Bill & Melinda Gates Foundation, which supports the development of affordable, 
+gene-based cures for sickle cell disease and HIV, and the California Institute for Regenerative 
+Medicine (CIRM), which works with the NHLBI to explore the use of innovative technologies and 
+therapies. Another example is our partnership with the Institute for Health Metrics and Evaluation 
+(IHME), which supports county-level assessments of the U.S. burden of diseases and risks. Of great 
+value are the partnerships and meaningful engagements with community-based organizations 
+and patient representatives who work alongside our funded investigators to achieve our research 
+objectives. These engagements provide insights that expand our perspectives on approaches to 
+advancing HLBS research. Having effective partnerships across our portfolio is an indispensable 
+research asset. 
+Promote Innovation
+The Institute harnesses the creativity of individual scientists by maintaining a vigorous 
+investigator-initiated research portfolio. The NHLBI Small Business Innovation Research/Small 
+Business Technology Transfer (SBIR/STTR) program fosters knowledge, ideas, and innovation by 
+supporting research and development conducted by U.S. -owned and -operated small businesses 
+that pursue commercially promising technologies to prevent, diagnose, and treat HLBS-related 
+diseases and disorders. 
+
+--- PAGE 20 matched=['VISION'] ---
+20       NHLBI STRATEGIC VISION   |    FY 2026–2030
+Similarly, the NHLBI Catalyze Program, a pipeline for the development of technologies and 
+products, aims to drive the discovery of new therapies and cures; support the development 
+of novel predictive, diagnostic, and therapeutic products; and train a diverse and globally 
+competitive biomedical workforce. This program offers a coordinated support system to 
+help investigators use their product development and entrepreneurial skills for innovative 
+technologies and transformative platforms.
+TRANSPARENCY AND ACCOUNTABILITY 
+As part of its efforts to enhance communication and 
+engagement to build trust and confidence, the NHLBI has 
+supported robust programs that call for community and  
+clinic interactions that uphold key values. Those values 
+include implementing evidence-based science and providing 
+patients with education resources that help lead to better 
+health outcomes. These programs are all targeted to ensure 
+that NHLBI research reaches and benefits those who are  
+most in need.
+DISSEMINATION AND IMPLEMENTATION RESEARCH FOR POPULATIONS  
+AND COMMUNITIES 
+To ensure that research progress extends to communities, the NHLBI supports dissemination 
+and implementation research programs designed to translate evidence-based practices and 
+interventions into real-world settings where patients and affected communities might benefit.  
+For example, the Disparities Elimination through Coordinated Interventions to Prevent and Control 
+Heart and Lung Disease Risk (DECIPHeR) program — an ambitious national effort — develops, 
+tests, and supports sustainable implementation of strategies that achieve health equity in the 
+treatment of cardiovascular and pulmonary diseases and risks while maximizing the positive 
+impact on community health. Similarly, the Heart, Lung, and Blood Co-morbidities Implementation 
+Models in People Living with HIV (HLB SIMPLe) program is exploring strategies for the optimal  
+and sustainable delivery of effective prevention and treatment of HLBS comorbidities in people 
+living with HIV in low- and middle-income countries and Small Island Developing States.  
+
+--- PAGE 21 matched=['VISION'] ---
+21       NHLBI STRATEGIC VISION   |    FY 2026–2030
+Programs like DECIPHeR and HLB-SIMPLe recognize the many factors associated with the 
+successful implementation of evidence-based interventions and guidelines in clinical and 
+community settings. This is especially the case for people in underserved populations — those  
+who are part of certain racial and ethnic minority groups, who live in rural areas, and who have  
+a lower socioeconomic status.
+Educate Patients
+The NHLBI supports several educational programs that aim to ensure patients receive evidence-
+based resources that raise their awareness about HLBS health. These resources include content 
+related to sleep, diet, and nutrition, as well as other lifestyle issues that transcend the NHLBI 
+portfolio. NHLBI education efforts support the advancement of evidence-based diet plans, 
+including the Dietary Approaches to Stop Hypertension (DASH) eating plan and the Therapeutic 
+Lifestyle Changes (TLC) program, that help improve cholesterol numbers. Other programs include 
+The Heart Truth®, a legacy Institute program first designed to raise awareness about heart 
+disease as the leading cause of death in women but has expanded to address heart disease as the 
+leading cause of death for all Americans, with special emphasis on disproportionately impacted 
+communities; the Blood Diseases & Disorders Education Program, which aims to bring greater 
+visibility to blood donation, blood safety, and blood diseases and disorders like anemia and sickle 
+cell disease; and Learn More Breathe Better®, which promotes awareness of lung health, including 
+chronic obstructive pulmonary disease (COPD), asthma, and other lung diseases that affect 
+Americans. These programs are critical to our mandate to ensure that NHLBI research progress is 
+disseminated to meet the health information needs of health and community professionals and the 
+public, particularly those who might benefit the most.
+
+
+--- PAGE 22 matched=['VISION'] ---
+22       NHLBI STRATEGIC VISION   |    FY 2026–2030
+EMERGENCY PREPAREDNESS
+By diligently establishing networks and maintaining our capacity to operate, the NHLBI can  
+ensure that we are able to effectively respond to public health emergencies as they arise. 
+Establish Networks
+NHLBI networks were poised to respond to the nation’s research needs when the COVID-19 
+pandemic hit. By April 2020, the NHLBI issued a funding opportunity as part of the trans-NIH ACTIV 
+initiative. This resulted in the launch of CONNECTS in June 2020. CONNECTS built upon NHLBI’s 
+existing clinical research networks across the nation and around the world to better understand 
+the risk of severe illness from COVID-19. The network efficiently brought together experts from 
+various fields, including pulmonary critical care physicians and cardiothoracic surgeons. These 
+experts collaborated to develop a research master protocol for researching effective treatments 
+that reduced serious illness and death in patients with COVID-19. The lessons learned from 
+the COVID-19 pandemic will serve to ensure that the Institute remains poised to act swiftly and 
+decisively for any future public health emergencies. 
+Maintain Continuity of Operations
+It is crucial that the NHLBI maintains plans and resources to ensure that operations to support 
+HLBS health continue during a crisis. Continuity of Operations (COOP) planning enables us to 
+prepare to respond during an emergency, and it ensures the execution of essential functions 
+through all circumstances. COOP planning is a multilayered resource that includes COOP guides 
+and multiple training programs designed to ensure the continuous execution of essential functions 
+through all circumstances. 
+Increase the Capacity to Operate
+Recognizing that today’s infrastructure may not be best suited to respond to tomorrow’s crises, 
+the NHLBI is continually working to optimize our research resources so that we remain flexible 
+and adaptable in our ability to address the next public health emergency. To that end, we are 
+committed to diversifying our workforce, securing our research infrastructures, accelerating  
+our research, and enriching our community relationships and partnerships.
+
+--- PAGE 23 matched=['crosscutting \ntheme', 'VISION', 'mission'] ---
+23       NHLBI STRATEGIC VISION   |    FY 2026–2030
+RESEARCH PRIORITIES
+The NHLBI Strategic Vision is focused on four goals, eight objectives, and five crosscutting 
+themes: The four goals broadly define NHLBI’s vision. The eight objectives address critical 
+challenges that create barriers to HLBS health. The five crosscutting themes address complex 
+areas of critical need across the objectives. 
+8 objectives provide 
+a framework for 
+moving heart, lung, 
+blood, and sleep 
+science forward
+4 mission-oriented 
+goals are at the  
+center of the  
+Strategic Vision
+STRATEGIC GOALS
+The four goals root the NHLBI  
+within its mission areas and seek 
+to understand and promote health 
+and resilience, stimulate discoveries 
+about the causes of disease, 
+accelerate the translation of basic 
+research discoveries into clinical 
+practice, and foster training and 
+mentoring of emerging scientists 
+and physicians. 
+UNDERSTAND 
+HUMAN 
+BIOLOGY
+ADVANCE 
+TRANSLATIONAL
+RESEARCH
+REDUCE 
+HUMAN 
+DISEASE
+DEVELOP
+WORKFORCE 
+AND RESOURCES
+
+--- PAGE 24 matched=['CROSSCUTTING THEME', 'VISION', 'mission'] ---
+24       NHLBI STRATEGIC VISION   |    FY 2026–2030
+STRATEGIC OBJECTIVES
+The eight objectives provide the framework for establishing strategic research priorities. Each 
+objective reflects one or more of the mission-driven strategic goals and promotes the exploration 
+of both biological and nonbiological contributors to health and disease. These objectives guide the 
+NHLBI’s mission to propel HLBS science forward by exploring research opportunities and making 
+strategic investments in areas ripe for discovery. Although these objectives are not meant to 
+embody NHLBI’s entire research portfolio, they will play a key role in guiding the Institute’s ability  
+to set, and periodically refine, a research agenda and priorities for the next decade. 
+STRATEGIC OBJECTIVES
+Under
+stand normal biological function  
+and resilience 
+In
+vestigate newly discovered pathobiological 
+mechanisms important to the onset and 
+progression of heart, lung, and blood diseases  
+and sleep disorders  
+In
+vestigate factors that account for differences in 
+health status among populations 
+Identify
+ factors that account for individual 
+differences in pathobiology and in responses  
+to treatments 
+De
+velop and optimize novel diagnostic  
+and therapeutic strategies to prevent, treat,  
+and cure heart, lung, and blood diseases and  
+sleep disorders
+Optimize
+ clinical and implementation research  
+to improve health and reduce disease
+Le
+verage emerging opportunities in data science
+to open new frontiers in research on heart, lung,
+and blood diseases and sleep disorders 
+8 F
+urther develop and sustain a  
+scientific workforce capable of accomplishing  
+the NHLBI’s mission
+CROSSCUTTING THEMES
+The five crosscutting themes span all eight objectives and represent complex scientific challenges 
+that require strategic support to create significant biomedical advances. They are represented by 
+the icons below and address data science, health disparities, lifestyle behaviors, community and 
+patient engaged research, and women’s health.
+
+--- PAGE 25 matched=['crosscutting theme', 'VISION', 'crosscutting'] ---
+25       NHLBI STRATEGIC VISION   |    FY 2026–2030
+Harnessing data 
+science and new 
+technologies to drive 
+scientiﬁc discovery 
+and precision health.
+Using novel approaches 
+for addressing health 
+disparities and tackling 
+their biological 
+underpinnings for heart, 
+lung, and blood diseases 
+and sleep disorders. 
+Furthering the 
+science on the 
+importance of 
+lifestyle behaviors.
+Leveraging the 
+power of community 
+and patient 
+engagement.
+Supporting 
+women’s health 
+through 
+the lifespan.
+COMPELLING QUESTIONS AND CRITICAL CHALLENGES 
+Compelling questions and critical challenges are conceptual tools that help us more  
+deeply explore challenges and opportunities related to the goals, objectives, and  
+crosscutting themes.  
+• Compelling Questions are unanswered questions or poorly understood areas of
+research that require broad NHLBI support because their complexity exceeds the
+capacity of any one investigator-initiated program.
+• Critical Challenges are barriers or impediments to scientific progress that, if
+overcome, will result in significant advances in biomedical knowledge.
+There are 139 Compelling Questions and Critical Challenges outlined in the Strategic Vision. 
+Approximately 110 are adjusted from the 2016 NHLBI Strategic Vision and 29 are new areas 
+of inquiry. 
+In the pages that follow, we dive more deeply into the eight objectives, explain their importance, 
+and propose how pursuing them has the potential to reduce the public health burden of HLBS 
+diseases and disorders.
+
+--- PAGE 26 matched=['OBJECTIVE 1', 'VISION'] ---
+26       NHLBI STRATEGIC VISION   |    FY 2026–2030
+OBJECTIVE 1 •  Understand normal biological function and resilience  
+Understanding normal biology is the backbone of all biomedical science. It is essential to 
+understanding how the internal body keeps itself stable, predicting how biological systems 
+respond to their environment, and recognizing disease pathways and targets for intervention. 
+Research on normal biological function — including topics such as circadian rhythms, the 
+microbiome, and tissue development from progenitor cells — can help us better define health  
+and understand the earliest origins of disease processes. The scope of research on normal biology 
+ranges from single cell analytics to studies of entire healthy populations. Using gold standard 
+and emerging tools, methodologies, and technologies, such research can uncover the biological 
+factors, behaviors, lifestyle factors, social circumstances, and environmental exposures that help 
+people become resilient, which they must be to stay well as they age, experience stress, and 
+endure adversity. Gaining new knowledge about the body’s intrinsic capacity to repair itself will 
+yield greater insight into the transition from health to disease. For these reasons, understanding 
+normal biology must remain a cornerstone of NHLBI-funded research.
+ENVISION A FUTURE IN WHICH WE CAN
+• Pr omote resilience and healthy aging through the application of regenerative strategies
+using cells (e.g., progenitor cells) that enable the repair of HLBS systems.
+• Characterize the molecular signatures of healthy heart, lung, and blood systems across
+the lifespan, and develop early warning systems for molecular perturbations that lead
+to disease.
+• Pursue integrative analysis of large-scale data to characterize the molecular signature
+of the heart, blood, lung, and blood systems that sustain health and wellness. This
+data can include information derived from longitudinal electronic health records [EHR],
+imaging and functional tests, and multiomics by emerging systems biology, artificial
+intelligence, and machine learning.
+• Understand how weather, and environmental exposures, social, environmental
+exposures, social determinants, behaviors (e.g., diet and physical activity), and genetic
+factors modulate biological systems, such as the epigenome, microbiome, and immune
+systems, to sustain health and promote resilience.
+NORMAL BIOLOGY
+
+--- PAGE 27 matched=['VISION'] ---
+27       NHLBI STRATEGIC VISION   |    FY 2026–2030
+COMPELLING QUESTIONS
+1.CQ.01 How are normal cell functions regulated by complex gene networks and  
+cell-to-cell interactions?
+1.CQ.02
+What are the key molecular and structural mechanisms that allow single cells and  
+tissues to sense, integrate, and respond to mechanical cues and influences at local  
+and systemic levels?
+1.CQ.03
+What are the molecular, developmental, hormonal, and behavioral mechanisms and 
+psychological, social, and environmental factors — evaluated with a systems biology 
+integrative approach — involved in regulating HLBS function and maintaining healthy 
+weight across the lifespan?
+1.CQ.04
+What are the mechanisms and range of normal physiologic responses to environmental, 
+neuropsychiatric, social, and other stimuli that predict homeostatic resilience or transition 
+to HLBS diseases across the lifespan?
+1.CQ.05 What innate and adaptive immune system mechanisms promote HLBS health and prevent 
+the development of HLBS diseases?
+1.CQ.06 How do specific lymphatic immune and nonimmune circulatory functions interact with  
+and contribute to HLBS health, resilience, and disease?
+1.CQ.07 What is the influence of the microbiome (including virome and fungome) on HLBS health 
+and resilience, including developmental processes, across the lifespan?
+1.CQ.08 What are the pathways underlying the effects of circadian function, synchronization, and 
+harmonization on HLBS health and resilience across the lifespan?
+1.CQ.09
+Does circadian regulation modify the effects of environmental exposures (e.g., cigarette 
+smoke, vaping, particulates, pathogens, temperature, humidity) on mechanisms of HLBS 
+function?
+NORMAL BIOLOGY
+
+--- PAGE 28 matched=['VISION'] ---
+28       NHLBI STRATEGIC VISION   |    FY 2026–2030
+COMPELLING QUESTIONS
+1.CQ.010
+What are the mechanisms that underlie adaptation in HLBS systems due to place, extreme 
+conditions, occupational exposures, weather patterns, and how can this knowledge be used 
+to develop novel interventions that optimize health or prevent disease?
+1.CQ.11
+What are the basic mechanisms that direct the interactions of blood cells with each other 
+and their environment, how do these interactions influence their function, and how can this 
+understanding be used to optimize the handling of blood cells?
+1.CQ.12 What is the normal molecular and cellular heterogeneity in HLBS health and what indicates 
+the transition to disease? 
+1.CQ.13 What “omic” signatures describe the normal vasculome of the different vascular beds and 
+different arteries (elastic vs. muscular) that supply HLBS tissues and organs?
+1.CQ.14
+What are the biological mechanisms and risks affecting resilience to HLBS conditions, and 
+how do these mechanisms differ between women and men with the biological changes that 
+occur across the lifespan?
+NORMAL BIOLOGY
+CRITICAL CHALLENGES
+1.CC.01
+Reliable and diverse investigational models that reflect individual characteristics, including 
+based on variation in sex-based differences, are needed to reproduce normal functioning  
+of HLBS systems and to reflect the activities of molecular targets in those systems and 
+related diseases.
+1.CC.02
+Standardized protocols are needed to establish and maintain cultured cell lines and 
+organoids relevant to functional studies of HLBS systems. Specifically, facilitating the 
+availability of hard-to-culture cell lines and cells from female research subjects, expanding 
+the number of HLBS cell lines, and improving reproducibility across studies are necessary. 
+1.CC.03
+Further advancement and application of comprehensive single-cell biology analytics are 
+needed to facilitate an integrated understanding of cellular diversity, cell interactions, and 
+cellular phenomena in HLBS health and disease risk. 
+
+--- PAGE 29 matched=['VISION'] ---
+29       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+1.CC.04
+Advances in measurement methods and models for assessing and characterizing multiple 
+and longitudinal exposures (e.g., pre/postnatal, environmental, dietary, social) are needed  
+to improve research on normal biologic function and resilience in HLBS.
+1.CC.05 A fundamental understanding of the roles of post-translational modifications
+(e.g., methylation, ubiquitination, glycosylation, etc.) in HLBS health is needed.
+1.CC.06
+Dietary assessment methodologies that combine objective measures and biomarkers 
+of dietary intake are needed to identify dietary patterns and food constituents that 
+contribute to healthy weight maintenance and to inform intervention strategies to lower 
+cardiometabolic risks.
+1.CC.07
+New investigative tools and knowledge of structural and matrix biology are needed to better 
+understand injury, regeneration, and repair of the normal (or developing) heart, lung, and 
+blood tissues and to enable regenerative medicine. 
+1.CC.08 An understanding of the biological HLBS functions and resilience in the context of aging and 
+senescence during HIV infection and exposure to antiretroviral therapy.
+NORMAL BIOLOGY
+
+--- PAGE 30 matched=['OBJECTIVE 2', 'VISION'] ---
+30       NHLBI STRA TEGIC VISION   |    FY  2026–2030
+OBJECTIVE 2 •  Investigate newly discovered pathobiological mechanisms important  
+to the onset and progression of heart, lung, and blood diseases and sleep disorders   
+Discovering new pathobiological mechanisms and understanding them is critical to improving HLBS 
+health. Such discoveries and research can potentially lead to clinical and implementation studies, 
+which in turn can inform new therapeutic strategies and clinical practice. Important areas to focus 
+on, with the help of emerging technologies such as molecular imaging and nanotechnology, include 
+mechanisms involved in the pathogenesis of rare and common diseases, disease-related structural 
+and functional changes, and the clinical significance of these changes. In addition, tracking disease 
+onset and progression across the lifespan is essential because it has the potential to inform 
+our understanding of how chronic conditions become acute disease and how early exposures 
+(environmental, etc.) and interventions, including lifestyle changes, impact health. 
+ENVISION A FUTURE IN WHICH WE CAN
+• Pr eempt the transition from health to disease and enable disease prevention through
+an enhanced understanding of the pathobiological mechanisms underpinning the early
+onset of heart, lung, and blood diseases and sleep disorders.
+• Leverage high-throughput multiomics and other advanced technologies for deep
+phenotyping in longitudinal cohort studies to define the functional significance of genetic
+and epigenetic variants on human pathobiology, as well as their impact on clinical outcomes
+involving heart, lung, and blood diseases and sleep disorders across the lifespan.
+• Gain new insights into modifier genes and molecular pathways that influence the
+variable clinical manifestations and outcomes of monogenic disorders (e.g., sickle
+cell disease and cystic fibrosis) and structural defects (e.g., congenital heart disease),
+thereby catalyzing new tailored therapeutic strategies.
+• Identify commonalities underlying disparate heart, lung, and blood diseases and sleep
+disorders to understand shared pathways and to identify shared therapeutic targets.
+• Leverage emerging human complex tissue and three-dimensional cellular systems
+to model the pathobiological processes and to identify targetable molecular/cellular
+pathways that drive the onset and progression of heart, lung, and blood diseases and
+sleep disorders.
+PATHOLOGY, ONSET, & PROGRESSION OF HLBS DISEASES AND DISORDERS
+
+--- PAGE 31 matched=['VISION'] ---
+31       NHLBI STRATEGIC VISION   |    FY 2026–2030
+PATHOLOGY, ONSET, & PROGRESSION OF HLBS DISEASES AND DISORDERS
+COMPELLING QUESTIONS
+2.CQ.01
+What biomarkers of acute and chronic environmental exposures are predictive of disease 
+onset or progression? What biologic effects measured by real-time monitoring by these 
+biomarkers are irreversible responses and which are opportunities for intervention?
+2.CQ.02 How do endogenous stem/progenitor cells and defects in these cells contribute to the  
+onset and progression of chronic HLBS diseases?
+2.CQ.03
+What is the pathobiology of aberrant calcification of coronary arteries, heart valves,  
+and peripheral arteries, and why is calcification associated with a poor prognosis in  
+HLBS diseases?
+2.CQ.04
+What interdependencies between the brain/peripheral nervous system and the HLBS 
+systems are important to the development, progression, manifestation, and treatment  
+of HLBS diseases?
+2.CQ.05 What are the mechanisms whereby social conditions and psychosocial stress contributing  
+to the onset, progression, and morbidity of HLBS systems?
+2.CQ.06
+Interdependencies of heart and lung disorders; How do existing lung disorders affect  
+CVS morbidity and how does heart disease affect lung function and disease susceptibility 
+(e.g., mechanisms whereby congestive heart failure causes lung remodeling and leads,  
+in end-stage disease, to right ventricular failure)?
+2.CQ.07 What pathobiology underlies vascular causes of cognitive decline? What early interventions 
+could target this pathobiology to maintain cognitive function?
+2.CQ.08
+What is the pathobiology of fibrosis that accounts for its organ specificity (often affecting  
+the lungs, heart, or bone marrow alone), its progression in the absence of apparent stimuli, 
+and its resistance to drug therapy?
+2.CQ.09 What is the pathophysiology of heart failure with preserved ejection fraction (HFpEF),  
+and how can this condition be better diagnosed and treated?
+
+--- PAGE 32 matched=['VISION'] ---
+32       NHLBI STRATEGIC VISION   |    FY 2026–2030
+PATHOLOGY, ONSET, & PROGRESSION OF HLBS DISEASES AND DISORDERS
+COMPELLING QUESTIONS
+2.CQ.10
+What are the pathobiological mechanisms underlying HLBS-related pregnancy 
+complications? What are the diagnostic, predictive, or therapeutic biomarkers for  
+these conditions?
+2.CQ.11
+How can a better understanding of the molecular and physiological mechanisms  
+of hypothermia help differentiate beneficial hypothermia from uncontrolled  
+shock-induced hypothermia?
+CRITICAL CHALLENGES
+2.CC.01
+Development and application of comprehensive single-cell biology analytics are needed to 
+facilitate an integrated understanding of cellular diversity, cell-cell interactions, and cellular 
+phenomena in HLBS health and disease risk. 
+
+--- PAGE 33 matched=['OBJECTIVE 3', 'VISION'] ---
+33       NHLBI STRATEGIC VISION   |    FY 2026–2030
+OBJECTIVE 3 • Investigate factors that account for differences in health status  
+among populations
+Variations exist between populations — grouped by factors such as age, sex, race, and ancestry—
+in susceptibility and resilience to heart, lung, and blood diseases and disorders as well as in 
+disease course and outcomes. Although some of these variations are caused by genetic and 
+other biological factors, a wide range of environmental and behavioral factors and socioeconomic 
+inequities also contribute to health disparities. Research is needed to better understand the 
+causes of population health differences and to identify strategies to effectively address them. 
+Investigations in this area may range from basic laboratory studies to environmental and 
+population science to community-centered implementation research.
+ENVISION A FUTURE IN WHICH WE CAN
+• Lev erage a deeper understanding of biologic differences related to sex or ancestral
+groups (e.g., variation in ancestry leading to differences in asthma phenotypes among
+ethnic subgroups) to devise more precise, targeted intervention strategies and to
+further improve clinical outcomes.
+• Leverage epidemiology and the power of data science, artificial intelligence, and
+machine learning to understand and reduce sex-, race-, ethnicity-, and location-related
+health disparities.
+• Incorporate measures of diet and nutrition inequities, and health disparities in research
+on heart, lung, and blood disease and sleep disorders across the lifespan, using
+existing longitudinal cohorts, innovative designs for collecting exposure data, big data
+approaches, individual biospecimens, and imaging using
+remote digital technologies.
+HEALTH STATUS
+
+--- PAGE 34 matched=['VISION'] ---
+34       NHLBI STRATEGIC VISION   |    FY 2026–2030
+COMPELLING QUESTIONS
+3.CQ.01
+How can community-engaged, late-stage translational research reduce the time needed 
+to increase the adaptation, adoption, scale-up, and sustainment of evidence-based 
+interventions that address the local context (including social, structural, legal, and 
+environmental factors) in communities that experience inequities in HLBS health?
+3.CQ.02
+How can we improve the representation in clinical studies of individuals from all 
+communities, and effectively engage communities as research partners to ensure that 
+findings are relevant to everyone?
+3.CQ.03
+What are the determinants (environmental, structural, social, genetic, and epigenetic) of the 
+inequities in HLBS health and the behavioral, molecular, cellular, and systemic mechanisms 
+that result in these differences? 
+3.CQ.04
+What factors render individuals or populations subjected to the same exposures (e.g.,
+lifestyle behaviors, environment, psychosocial) more resilient or susceptible to HLBS
+diseases across the lifespan?
+3.CQ.05 What are the critical lifestyle behaviors among diverse populations that affect HLBS health 
+and the potential differential impacts of these behaviors on HLBS health? 
+3.CQ.06
+How can we develop, test, and implement culturally appropriate and community- 
+informed effective interventions that will have a substantial impact on HLBS health  
+in diverse populations?
+3.CQ.07
+With the goal of identifying targets and interventions to mitigate inequities, what are the 
+upstream structural factors (social, economic and legal forces, systems, and policies)  
+and historical influences that contribute to inequities in the prevention, management,  
+and treatment of HLBS conditions? 
+HEALTH STATUS
+
+--- PAGE 35 matched=['VISION'] ---
+35       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+3.CC.01 Novel experimental methods and tools are needed to evaluate the effect of biological sex 
+differences across the lifespan on HLBS health, resilience, and diseases. 
+3.CC.02
+Precision prevention (i.e., personalized prevention within community needs) of HLBS 
+conditions and achieving health equity requires interdisciplinary teams, advanced data 
+science tools and analytics, diverse data sources (e.g., exposome, genetic, epigenetic, 
+“omic”), and an inclusive research environment.
+3.CC.03
+Advances in methods and models for assessing and characterizing exposures (e.g., lifestyle 
+behaviors, environmental, social exposures) and the differential effects of exposures over 
+the life course are needed to understand the differences in HLBS health among populations.
+3.CC.04
+Syndemic framework-based, collaborative/multidisciplinary research is needed on HIV-
+associated comorbidities, coinfections, and complications in HLBS, including how social, 
+cultural, economic, political, behavioral, and other factors, create the conditions that 
+lead to the clustering of HLBS conditions among people with HIV, and how these factors 
+differentially affect people with HIV (e.g., urban vs. rural, low vs. high socioeconomic status).
+3.CC.05
+Build trust-based and respectful partnerships with various communities that experience 
+disparities in health to enhance inclusive and diverse participation in clinical research on 
+HLBS disorders.
+3.CC.06 Novel approaches that facilitate the engagement of underrepresented populations in all 
+stages of research, particularly when planning interventions are critically needed. 
+3.CC.07
+To understand the collective impact of place (including climate and environmental factors 
+such as air quality), structural factors, and health behaviors on HLBS inequities, advanced 
+data methods and analytical tools are needed, including relevant short-term outcome 
+measures that predict the long-term impact on these entrenched inequities.
+3.CC.08
+Studies and systems that modify disparity-driving SDOH, including structural factors and 
+barriers in health research and healthcare systems need to be designed, conducted and 
+implemented. And their subsequent impact on health measured.
+HEALTH STATUS
+
+--- PAGE 36 matched=['OBJECTIVE 4', 'VISION'] ---
+36       NHLBI STRATEGIC VISION   |    FY 2026–2030
+OBJECTIVE 4 • Identify factors that account for individual differences in pathobiology 
+and in response to treatments 
+Research advances in areas such as genomics and other “omics” (e.g., proteomics, metabolomics) 
+have provided new opportunities to deepen our understanding of HLBS pathobiological processes 
+and how they vary among individual patients by sex and other factors. Accelerating progress 
+toward precise, individualized prevention efforts and medical interventions will require research 
+into biological factors, environmental exposures, behavioral factors, and other influences that 
+account for differences in pathobiology and unique responses to treatment (including drug 
+reactions and other adverse events). This research will allow personal and clinical decisions, 
+practices, and medical products to be tailored to the individual patient to help produce the best 
+possible outcomes.
+ENVISION A FUTURE IN WHICH WE CAN
+• Dev elop precise clinical interventions across the lifespan by sex and based on
+an individual’s environmental exposures, behaviors, genotypes, and
+molecular-cellular phenotypes.
+• Accelerate the incorporation of new imaging, omics, and sensor technologies with
+advanced data analytics to inform a more precise clinical classification of chronic
+diseases and acute conditions (e.g., asthma, pulmonary fibrosis, chronic obstructive
+lung disease, heart failure, myocardial infarction), and enable more accurate diagnosis
+and treatment.
+• Develop and define individual HLBS health signatures by integrating all reliable and
+available data (e.g., genome-wide association studies (GWAS), multiomics, genetic and
+non-genetic information, social/environmental factors) to guide personalized prevention
+strategies and clinical interventions.
+INDIVIDUAL DIFFERENCES IN PATHOBIOLOGY
+
+--- PAGE 37 matched=['VISION'] ---
+37       NHLBI STRATEGIC VISION   |    FY 2026–2030
+INDIVIDUAL DIFFERENCES IN PATHOBIOLOGY
+COMPELLING QUESTIONS
+4.CQ.01
+Which phenotypic, biomarker, and molecular characteristics predict outcomes and, when 
+applied in clinical studies, predict differential responses to therapy in individuals and in 
+different populations with HLBS diseases? A specific focus area is the functional assays 
+to validate millions of genetic variants to identify novel drug targets via understanding 
+the biological mechanisms underlying differential HLBS diseases and to develop simple/
+affordable diagnostic tools to be deployed in outpatient settings. 
+4.CQ.02
+What factors render individuals or populations subjected to the same exposures (e.g., diet, 
+smoking, other environmental and social exposures) resilient or susceptible to disease? 
+This needs to include mental exposures in the form of psychological and social stress and 
+internal exposures in microbiome. Sex, race, and lifespan events must be considered to 
+understand individuals’ responses to the exposures.
+4.CQ.03
+What underlies secondary resilience, such that some people are protected from the 
+complications of HLBS diseases? Since the secondary resilience changes over an 
+individual’s lifespan, high-impact life events must be considered, such as menopausal 
+transition and its impact on cardiopulmonary health and sleep disorders. 
+4.CQ.04
+Which patients benefit from rehabilitation treatments (e.g., cardiac, vascular, pulmonary), 
+and how can the benefits of rehabilitation treatments be sustained long term? The impact of 
+environmental and omics profiles should be considered, and special attention should also 
+focus on sex and race differences in responding to the treatment.
+4.CQ.05
+How does the pathobiology that underlies nonobstructive ischemic heart disease and 
+the associated risks for acute coronary syndrome and early mortality differ between 
+subpopulations, and what are the targets for treatment and prevention?
+4.CQ.06 What tests would identify individuals who are at high risk of venous thromboembolic events 
+and who would benefit from targeted risk factor modification and/or intensive prophylaxis?
+4.CQ.07
+What are biomarkers of pulmonary hypertension that could better identify individuals at 
+high risk, reveal underlying mechanisms, and guide treatment? For instance, considering 
+pulmonary arterial hypertension (PAH) predominantly affects women, what sex-specific 
+risks (e.g., rurality, conventional, SDOH, mental health, societal constraints, menopausal 
+status, adverse pregnancy outcomes) across the lifespan enable epigenetic analyses to 
+understand susceptibility and pathways for prevention, resilience, or successful aging.
+4.CQ.08 What are the major determinants of individual and sex differences in breathing patterns in 
+sleep, susceptibility to insomnia, and other sleep behaviors?
+
+--- PAGE 38 matched=['VISION'] ---
+38       NHLBI STRATEGIC VISION   |    FY 2026–2030
+COMPELLING QUESTIONS
+4.CQ.09
+What genetic biomarkers, genetic comparisons across ethnic groups, and environmental 
+predictors of sickle cell disease risk would help inform and improve management of the 
+disease’s progression and its complications.
+CRITICAL CHALLENGES
+4.CC.01
+Predictive modeling and prevention trials are needed in populations at high risk for  
+highly prevalent HLBS diseases. The advancement in environmental and omics profiles 
+of HLBS diseases should be leveraged to enable early prediction/prevention for high-
+risk individuals and to minimize trial and errors during the development of therapeutic 
+treatment of HLBS diseases. 
+4.CC.02
+Greater use of advanced technologies in precision medicine research is needed to 
+accelerate investigations of HLBS disease mechanisms and the development of targeted 
+treatments for complex HLBS diseases. 
+4.CC.03
+Clinical evaluation tools are needed to differentiate patients with atherosclerotic heart 
+disease who will progress to myocardial infarction or with sudden cardiac death from those 
+with stable disease. 
+4.CC.04
+Portable, wearable technologies tailored for women that capture real-time, continuous 
+individual data with minimal interference, need to be promoted. The data from these 
+technologies should be objectively surveilled and should capture critical risks of 
+HLBS diseases, such as blood pressure and blood sugar, arrhythmias, asthma/COPD 
+exacerbation, behaviors, and adverse stressors. Such data would enable investigations of 
+risks and adverse maternal outcomes.
+4.CC.05 Ethical, legal, and social implications of patient privacy and data security, racial and cultural 
+factors, and diversity in precision medicine research need to be considered.
+INDIVIDUAL DIFFERENCES IN PATHOBIOLOGY
+
+--- PAGE 39 matched=['OBJECTIVE 5', 'VISION'] ---
+39       NHLBI STRATEGIC VISION   |    FY 2026–2030
+OBJECTIVE 5 • Develop and optimize novel diagnostic and therapeutic strategies  
+to prevent, treat, and cure heart, lung, and blood diseases and sleep disorders
+Recent scientific and technological developments offer especially promising opportunities 
+to prevent disease, manage and treat illness, and promote resilience. These wide-ranging 
+developments include new gene editing techniques to safely treat and prevent HLBS diseases  
+and disorders, smart tools that monitor and adjust biological processes, techniques that  
+modulate stem cell or immune system signaling to reduce disease risk, and advances in  
+materials science that could yield vastly improved implant devices. Other technologies and 
+bioengineering developments may further facilitate diagnostic capabilities. New lifestyle 
+interventions may improve the maintenance of continued health and wellness and may enable 
+behavioral modification to prevent disease. Many of these advances, which are the results of  
+past investments in basic research, are crucial to developing and optimizing novel diagnostics  
+and therapeutics strategies.   
+ENVISION A FUTURE IN WHICH WE CAN
+• Dev elop surgical grafts (using stem cells, 3D printing, and nanotechnologies) for
+children born with heart defects, in which the grafts grow and adapt into adulthood,
+making multiple operations unnecessary.
+• Transform the safety and availability of the nation’s blood supply by using genetically
+engineered stem cells to eliminate histoincompatible antigens and generate universal
+donor red blood cells that are available off the shelf by a high-throughput process.
+• Build intelligent health systems for HLBS diseases and disorders that use artificial
+intelligence and machine learning tools that can screen patients for risk factors
+for early disease development and that can diagnose and evaluate the effects of
+interventions and treatments.
+• Create biomimetic platforms that promote lung tissue regrowth, regeneration, repair,
+and replacement of a patient’s individual lung cells and/or tissues to reduce the burden
+of underlying lung diseases.
+DIAGNOSTIC AND THERAPEUTIC STRATEGIES
+
+--- PAGE 40 matched=['VISION'] ---
+40       NHLBI STRATEGIC VISION   |    FY 2026–2030
+DIAGNOSTIC AND THERAPEUTIC STRATEGIES
+COMPELLING QUESTIONS
+5.CQ.01
+Would reduction of known cardiac and vascular risk factors during childhood and 
+adolescence translate into the prevention or delayed development of atherosclerosis  
+and other heart diseases?
+5.CQ.02 Would interventions in pregnancy or early childhood designed to modulate immune 
+development result in primary prevention of asthma?
+5.CQ.03
+How should the management of diseases that typically develop in childhood (including 
+childhood interstitial lung disease, hemoglobinopathies, congenital heart disease, cystic 
+fibrosis, and asthma) be modified as affected individuals mature into adulthood?
+5.CQ.04
+How does applying lifestyle interventions (diet, nutrition, exercise) as a part of routine 
+patient care in a variety of contexts—from community to patient care settings—help  
+manage or prevent lung function decline in the general population and patients with  
+chronic lung diseases?
+5.CQ.05
+How do we apply circadian-based strategies (e.g., sleep, timing of medication, meals,  
+device monitoring) to improve the efficacy of treatments for HLBS diseases  
+(e.g., hypertension, asthma, thrombosis, obesity/diabetes)?
+5.CQ.06
+What technical improvements in the collection, preparation, storage, and processing  
+of blood and synthetic blood products would improve their potency, safety, and lifespan?  
+What animal model improvements are needed for hemoglobin-based oxygen carriers 
+(HBOC) studies to accelerate improvements in blood products? 
+5.CQ.07
+What effective and implementable practices (e.g., recognition and initial response by the 
+community, emergency medical response, hospital-based care) would reduce the rate of 
+mortality associated with out-of-hospital cardiac arrest?
+5.CQ.08 What new interventions or surgical tools are needed to achieve, with minimal symptoms, 
+the optimal clinical management for patients with severe calcific aortic stenosis?
+5.CQ.09
+In patients with enhanced cardiovascular risk due to comorbidities from chronic diseases 
+(e.g., HLBS disorders, diabetes) and multiple drug therapies (including cancer survivors), 
+what new biomarkers are needed to help predict at-risk patients, improve outcomes, and 
+help guide treatment management?
+
+--- PAGE 41 matched=['VISION'] ---
+41       NHLBI STRATEGIC VISION   |    FY 2026–2030
+DIAGNOSTIC AND THERAPEUTIC STRATEGIES
+COMPELLING QUESTIONS
+5.CQ.10
+What are the underlying risk factors to predict early complications versus resilience after 
+hematopoietic stem cell transplantation (HSCT)? What are the mechanisms for efficiency 
+of differentiation of hematopoietic stem cells (HSCs)? How can these consequences be 
+predicted and prevented to reduce the high rates of mortality following HSCT? 
+5.CQ.11
+How can we “reprogram” the immune system to improve outcomes of allogeneic cell 
+therapies, tissue and organ transplants, and regenerative strategies and to diminish 
+allogeneic responses to essential biologic replacement therapies?
+5.CQ.12 How do we develop and implement novel strategies to prevent and treat minor and major 
+hemorrhagic complications in individuals affected by acquired and inherited disorders?
+5.CQ.13
+How can targeted manipulation of epigenetic modifications (distinct from global 
+suppression of histone acetylation or DNA methylation) become a useful strategy  
+for therapeutic intervention in chronic cardiopulmonary or blood diseases? 
+5.CQ.14
+Do interventions to improve ventilation during sleep decrease morbidity and mortality in 
+individuals with either heart failure (or other diseases associated with chronic hypoxemia) 
+and sleep-disordered breathing?
+5.CQ.15
+How can alterations of stem cell cycles and other therapies, as well as endogenous 
+mechanisms, be harnessed to promote repair and regeneration of the heart, lung, and  
+blood systems?
+5.CQ.16 How can we better integrate palliative care concepts, such as respect for personal values, 
+goals, and treatment preferences, in the management of patients with HLBS diseases?
+5.CQ.17 Can strategies targeting lung and airway progenitor cells be used for early diagnosis, 
+prevention, and treatment of chronic obstructive lung diseases in high-risk populations?
+
+--- PAGE 42 matched=['VISION'] ---
+42       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+5.CC.01
+An understanding of the immune system from a systems biology perspective is needed  
+to design more efficacious treatment strategies for chronic inflammatory and autoimmune 
+HLBS diseases. 
+5.CC.02 Improved capabilities for responding rapidly and effectively to emerging infectious threats 
+to the safety and availability of the nation’s blood supply are needed. 
+5.CC.03 Robust tools and algorithms are needed to evaluate objective biomarkers of sleep health 
+and dysfunction. 
+5.CC.04
+New materials and constructs that are electrically, chemically, and mechanically  
+active are needed to enable the development of self-adjusting bioengineered implants  
+(e.g., synthetic/biomimetic tools, bioprinted tissues relevant to HLBS).
+5.CC.05
+Development of safe, well-functioning designer platelets and red blood cells from stem
+or progenitor cells, as well as the large-scale production of these products, is needed for
+therapeutic and diagnostic uses.
+5.CC.06
+A variety of smart devices are needed that both monitor physiology and integrate data from 
+the digital health devices into clinical decision-making and empower patients’ self-care and 
+HLBS disease management.
+5.CC.07
+Optimization of ventricular assist devices for HLBS to incorporate better percutaneous  
+and transcutaneous systems and to improve battery and charging-mechanism designs  
+is needed.
+5.CC.08 A more rapid translation of new discoveries about molecular, cellular, and tissue-based 
+mechanisms of better therapeutic and preventive strategies for HLBS diseases is needed. 
+5.CC.09
+Understanding overlapping etiology and pathogenesis, such as chronic inflammation, 
+immune dysfunction and aging, and microbiome/virome contributions, that promote 
+HIV-associated comorbidities and complications affecting HLBS systems to enable the 
+development of novel interventions for the prevention, control, and treatment of such 
+comorbidities and complications is needed.
+DIAGNOSTIC AND THERAPEUTIC STRATEGIES
+
+--- PAGE 43 matched=['VISION'] ---
+43       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+5.CC.10
+Safer and more efficacious hematopoietic stem cell and gene therapy approaches 
+to eliminate HIV reservoir, cure HIV infection, and improve immune system restoration  
+are needed.
+5.CC.11 Improved infrastructure and workforce expertise in HLBS-related biomanufacturing  
+is needed.
+5.CC.12
+Comprehensive analysis of clinical, imaging, and multiomics data using artificial intelligence 
+and machine learning needs to be leveraged to identify disease endotypes and to develop 
+endotype-specific personalized disease-modifying interventions for HLBS disorders.
+5.CC.13
+Comprehensive analysis of multiomics/bioinformatics and advanced imaging data using 
+artificial intelligence and machine learning need to be leveraged to discover the biomarkers 
+of the onset of chronic obstructive lung diseases and cardiovascular diseases in smokers 
+and to develop strategies that prevent disease onset and progress. 
+DIAGNOSTIC AND THERAPEUTIC STRATEGIES
+
+--- PAGE 44 matched=['OBJECTIVE 6', 'VISION'] ---
+44       NHLBI STRATEGIC VISION   |    FY 2026–2030
+OBJECTIVE 6 • Optimize clinical and implementation research to improve health 
+and reduce disease
+For maximum return on NHLBI investments in research and research training, it is important 
+to prioritize strategies that support integration of evidence-based interventions within clinical 
+and public health settings. New methodologies, research frameworks, and resources must be 
+developed to refine the conduct of clinical studies and implementation research, while also 
+improving the overall efficiency, effectiveness, and impact of the research enterprise. Current 
+challenges include recruiting research participants of all backgrounds, effectively research 
+participants, effectively translating knowledge gained from these studies into programs and 
+policies that improve health at the clinic and community levels, and engaging in a strategic, 
+meaningful, and sustainable way with community partners at every stage of the research 
+process to build trust and enhance the impact of this research. Commitment to addressing 
+these challenges is paramount, as is the careful attention to building and nurturing meaningful 
+and sustainable community-engaged research partnerships, especially in communities 
+disproportionately burdened by health disparities. Also important are multi-, inter-, and 
+transdisciplinary collaborations that make the most of clinical and implementation  
+research efforts.  
+ENVISION A FUTURE IN WHICH WE CAN
+• Easil y and safely link EHRs and personal health data (e.g., from patient-reported
+outcomes and wearables) to help streamline clinical research and empower research
+volunteers to self-identify.
+• Accelerate the translation of discovery into practice by leveraging HLBS research
+platforms (e.g., clinical epidemiology registries, clinical trial networks, implementation
+science programs) to engage the clinical care and patient communities; leverage the
+use of EHRs, patient registries, and existing datasets; and create a seamless interface
+between clinical research and practice.
+• Build sustainable community partnerships to support research and advance
+health equity.
+IMPROVE HEALTH
+
+--- PAGE 45 matched=['VISION'] ---
+45       NHLBI STRATEGIC VISION   |    FY 2026–2030
+ENVISION A FUTURE IN WHICH WE CAN
+• Implement str ategies for widespread access (e.g., in rural settings and at safety net
+hospitals, primary care facilities, and community health centers) to real-time health
+education and to prevention and disease monitoring tools, using telemedicine and
+remote monitoring devices that help improve health outcomes for individuals with
+HLBS diseases and disorders.
+• Design scalable strategies for integrating and sustaining proven-effective interventions
+in communities where they are needed the most.
+COMPELLING QUESTIONS
+6.CQ.01
+What approaches (methods, such as community engagement, or technologies) are effective 
+for raising awareness and participation in clinical research across diverse population 
+groups and across the lifespan, and how can we incorporate these approaches in clinical 
+trial design?
+6.CQ.02 What clinical trial designs are best to investigate factors responsible for variation in 
+individual responses to pharmacological and other interventions?
+6.CQ.03
+How can we engage all interested, affected, and/or relevant parties (e.g., patients, 
+providers, health systems, regulatory bodies) to improve the clinical research enterprise by 
+addressing critical regulatory, operational, and fiscal needs to enhance efficiency and make 
+evidence-based interventions equitably accessible and affordable?
+6.CQ.04
+How can we use dissemination and implementation science to identify, develop, and test 
+strategies to improve awareness and access to evidence-based diagnostics, prevention 
+practices, and therapeutics, including emerging approaches to care, to speed up, and to 
+maximize generalizable knowledge and use of effective strategies?
+IMPROVE HEALTH
+
+--- PAGE 46 matched=['VISION'] ---
+46       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+6.CC.01
+Meaningful, diverse, and inclusive collaboration and engagement among researchers 
+from various backgrounds and all academic levels and disciplines (e.g., basic science, 
+translational scientists, implementation scientists; clinicians; population scientists, 
+engineers, bioinformatics experts, data scientists) and sectors (e.g., nonprofit organizations, 
+industry), including community members, are needed to enhance and expedite advances  
+in HLBS research and turn discovery into health. 
+6.CC.02
+Skills development and training, as well as new methods, are needed to improve the 
+navigation of preclinical new product phases within the context of the entire clinical 
+translational science continuum to speed the pipeline from discovery to impact. 
+6.CC.03
+Expanded resources for identifying therapeutic targets and agents, establishing  
+proof of concept, and developing data for investigational new product applications  
+are needed across the lifespan to enable the early translation of research findings  
+to clinical applications. 
+6.CC.04 Creative approaches to clinical trials in rare HLBS diseases are needed across the lifespan 
+to successfully test strategies that will expand preventive and therapeutic options. 
+6.CC.05
+Novel methodologies and improvements in existing methodologies are needed for 
+dissemination and implementation research that explores uptake of research findings into 
+approaches, programs, and policies to yield practical, actionable evidence.
+6.CC.06
+Multidisciplinary, multinational, multilevel partnerships are needed to develop effective and 
+sustainable strategies for combating chronic HLBS disorders in low- and middle-income 
+countries, which take into account the highly variable local epidemiology of HLBS disorders, 
+the need for novel approaches to reducing disease burden, and the implementation 
+challenges inherent in under-resourced settings. 
+6.CC.07
+Increased support is needed for implementation and dissemination research to facilitate 
+the adaption and scale-up of proven interventions in community and clinical settings for 
+the prevention, control, and treatment of HIV-associated HLBS comorbidities, coinfections, 
+and complications across the lifespan, especially among vulnerable and underserved 
+populations who often have limited access to care.
+6.CC.08
+Insights on costs, resources to support partnerships, and the means of financing successful 
+dissemination and implementation strategies are needed to enable the understanding 
+of short-term and long-term investments necessary to support systemwide integration, 
+sustainable use, and possible adaptation of successful implementation strategies. 
+IMPROVE HEALTH
+
+--- PAGE 47 matched=['VISION'] ---
+47       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+6.CC.09
+There is a need to engage and support a broader diversity of institutions, communities, 
+and sectors, including the primary care sector, in clinical trials through enhanced clinical 
+research infrastructure domestically and globally to drive inclusive participation across 
+multiple dimensions (race, ethnicity, geography, socioeconomic status) to enhance relevance 
+and impact of HLBS science.
+6.CC.10 Enhanced efficiency, cost containment, data sharing, and scientific rigor of clinical
+research of living, labor, and technologies and community engaged research are needed.
+6.CC.11 Clinical research infrastructure support is needed to enable the rapid implementation
+and conduct of clinical trials in a diverse setting (including low resource/primary care).
+IMPROVE HEALTH
+
+--- PAGE 48 matched=['OBJECTIVE 7', 'VISION'] ---
+48       NHLBI STRATEGIC VISION   |    FY 2026–2030
+OBJECTIVE 7 • Leverage emerging opportunities in data science to open new 
+frontiers in research on heart, lung, and blood diseases and sleep disorders
+New technologies — from omics platforms to high-throughput screening — have generated  
+vast amounts of data that have the potential to provide new insights into the preemption  
+and precise treatment of HLBS diseases and disorders. Unfortunately, only a small portion  
+of these datasets are being optimally assessed and incorporated into practice. Additional 
+consideration must be given to the ethical, legal, and social implications of artificial intelligence 
+use and data-sharing approaches in disease diagnosis and management. Developing innovative 
+approaches to the integration, analysis, and interpretation of data from multiple sources will 
+be essential. This information can then be effectively used to understand biological, social, 
+environmental, and behavioral determinants associated with HLBS health and disease and  
+to improve patient outcomes. 
+ENVISION A FUTURE IN WHICH WE CAN
+• A ccelerate the discovery of mediators of health and disease through the seamless
+and shared use of readily accessible cloud-based datasets that integrate genomics
+and other omics analyses with carefully phenotyped research participant data from
+diverse sources.
+• Develop handheld devices to process and integrate genomics and clinical and personal
+health data at the bedside to assist clinicians in their care of patients.
+• Leverage the NHLBI BioData Catalyst, NHLBI biorepositories, and other data resources
+to evaluate emerging therapeutics for HLBS diseases and disorders using cutting-edge
+data science, bioinformatics, and synthetic biology techniques.
+• Integrate data resources to create a digital lung, which incorporates the molecular,
+cellular, pathophysiology, and physical dynamics of the lung to gain a better
+understanding of chronic lung disease and to develop data-driven treatment strategies.
+DATA SCIENCE
+
+--- PAGE 49 matched=['VISION'] ---
+49       NHLBI STRATEGIC VISION   |    FY 2026–2030
+COMPELLING QUESTIONS
+7.CQ.01
+As the research enterprise evolves to include large multimodal datasets, how can we 
+train multidisciplinary teams about topics such as biostatistics, computer science, and 
+bioinformatics, so they can tackle some of the most challenging and complex HLBS 
+research questions? 
+CRITICAL CHALLENGES
+7.CC.01
+The development, application, and sharing of robust and multidimensional data-analytical 
+and theoretical methods, mathematical modeling, and computational simulation techniques 
+are needed for understanding fundamental mechanisms of HLBS systems, including 
+gene, protein, and metabolic regulatory networks, and the impact of environmental 
+exposures on those networks. 
+7.CC.02
+Novel integrative systems biology and analytical approaches are needed to exploit 
+the wealth of data coming from genetics, epigenetics, transcriptomics, metabolomics, 
+proteomics, environmental exposures, SDOH, electronic health records, and imaging to 
+define disease subtypes, predict risks, and identify therapeutic targets.
+7.CC.03
+Novel analytical approaches, coordinated access to data, well-planned sample
+analyses, and the creation of a scientific data commons are needed to leverage existing
+deeply phenotyped cohorts and accelerate translational research to promote the
+discovery of key druggable targets and the development of novel and precise treatments
+for HLBS diseases.
+7.CC.04
+Advancements are needed in the organization, infrastructure, integration, and  
+availability of multimodal data, including imaging, EHR, and wearable data, and omics  
+data, including genetic, epigenetic, transcriptomic, metabolomic, proteomic, phenotypic,  
+and ontological information.
+7.CC.05
+Bold new data science methods, including artificial intelligence and machine learning 
+approaches, are needed to improve the analysis of big data, including population, trial,  
+and cohort research.
+7.CC.06
+Advanced analytic methodologies should be used to efficiently and rapidly leverage existing 
+contextual, pragmatic, administrative, and original datasets to address critical challenges 
+such as methods, measures, generalizable knowledge, scale, and spread of effective 
+implementation strategies.
+7.CC.07
+Multimodal analyses of data from a variety of sources (e.g., registry data, molecular, 
+social, behavioral, environmental exposures, wearable sensor, self-reported data) are  
+needed to develop predictive and actionable models for understanding the risk, prevention, 
+and treatment of HLBS disorders.
+DATA SCIENCE
+
+--- PAGE 50 matched=['OBJECTIVE 8', 'VISION', 'mission'] ---
+50       NHLBI STRA TEGIC VISION   |    FY 2026–2030
+OBJECTIVE 8 • Further develop and sustain a scientific workforce capable of 
+accomplishing NHLBI’s mission 
+New approaches are needed to ensure the continued development of a scientific workforce of 
+diverse disciplines and backgrounds, equipped with relevant skills, knowledge, and resources 
+to tackle future HLBS challenges. This goal will require strategic interventions throughout the 
+research career continuum, which spans across K to 12 education, collegiate and postdoctoral 
+studies, and career development from early investigator to senior scientist. Collaborative 
+partnerships will be crucial to successfully expanding the exposure of young students to the 
+wonders of science and sustaining their interest through college and graduate education. 
+Embracing research training as a lifelong exploration of scientific curiosity will also remain 
+critical, as will the NIH’s continued promotion of new scientific disciplines, tools, and technologies 
+that keep pace with an ever-changing biomedical and public health landscape.   
+ENVISION A FUTURE IN WHICH WE CAN
+• Enable inno vative solutions to pressing health problems by promoting the use
+of multidisciplinary teams capable of leveraging diverse skills and perspectives
+from crosscutting research fields such as data science, computational biology,
+bioengineering, quantitative population sciences, behavioral science, and
+implementation science.
+• Build an NHLBI workforce and research portfolio that reflect the widest possible range
+of scientific thinking, perspectives, backgrounds, and lived experiences.
+• Continually train the research workforce across all career stages in evidence-based
+science, cutting-edge methodologies, and emerging areas of research.
+• Educate students from diverse backgrounds about biomedical research-related careers
+and encourage their pursuit of those careers through earlier introduction to research
+opportunities and scientific advancements.
+• Quickly identify and address the barriers facing the growth of the next generation of
+researchers, particularly in lung and sleep science and the data sciences.
+FURTHER DEVELOP , DIVERSIFY, AND SUSTAIN
+
+--- PAGE 51 matched=['VISION'] ---
+51       NHLBI STRATEGIC VISION   |    FY 2026–2030
+FURTHER DEVELOP , DIVERSIFY, AND SUSTAIN
+COMPELLING QUESTIONS
+8.CQ.01
+What kinds of exposures, beginning in early education, would stimulate and maintain 
+students’ understanding and interest in science, particularly students from diverse  
+and disadvantaged backgrounds?
+8.CQ.02
+How can we build and sustain a diverse HLBS scientific workforce that includes people 
+from different groups and from all regions of the county, especially those from rural,  
+disadvantaged, and underserved communities?
+8.CQ.03
+How can research training programs be tailored to attract and retain researchers with 
+cultural competency to address health challenges through a scientific lens that includes 
+location and neighborhood- and community-level SDOH that contribute to health disparities 
+and outcomes?
+8.CQ.04
+What are the best strategies to develop a scientifically diverse workforce across the full 
+spectrum of investigative approaches — from basic to clinical, clinical to practice, and 
+population to health implementation science — to address health inequities and disparities, 
+including those of women’s health, domestically and globally?
+8.CQ.05
+How do we ensure that HLBS trainees across the career continuum are aware of and 
+prepared for a variety of possible scientific career opportunities (e.g., careers in teaching, 
+industry, government)?
+8.CQ.06
+How do we best develop a scientific workforce that is fluent in product development and 
+commercialization issues, including regulatory, intellectual property, and business issues, 
+in order to bring products for HLBS indications to the market?
+8.CQ.07
+How do we attract students to, and support trainees in, traditional basic science disciplines 
+(e.g., biochemistry, physiology, pharmacology, integrative biology, data science) in order 
+to address research topics that are important to the NHLBI and to advance emerging fields 
+of science?
+8.CQ.08
+How do we add communication skills to our training programs to improve scientists’
+messaging with the public so they can better promote health, disseminate scientific 
+advances, and counter misinformation?
+
+--- PAGE 52 matched=['VISION'] ---
+52       NHLBI STRATEGIC VISION   |    FY 2026–2030
+COMPELLING QUESTIONS
+8.CQ.09
+How can we harness virtual technologies to expand collaboration, foster creative mentoring, 
+and expand access to advanced instruction and remote learning, to address the needs of  
+the modern and future biomedical workforce in the United States and globally?
+8.CQ.10
+How can we better incorporate interdisciplinary and team science in our training and  
+career development programs to prepare scientists for collaborative research and  
+for using emerging technologies and resources? How do we also improve cross-
+communication between scientists in different fields to convey and appreciate  
+the importance of each other’s research for more effective teams?
+8.CQ.11
+How can we encourage senior scientists to collaborate with or mentor early career 
+investigators to develop new research programs and support the independence of  
+emerging leaders in their field?
+8.CQ.12 How can community healthcare workers be better educated about scientific advances to  
+improve care in underserved communities?
+8.CQ.13
+How can we increase participation of nonphysician clinicians, such as nurses, advanced 
+practice providers, clinical psychologists, social workers, veterinarians, dentists, and  
+others, in our training programs and research workforce as a whole?
+FURTHER DEVELOP , DIVERSIFY, AND SUSTAIN
+
+--- PAGE 53 matched=['VISION'] ---
+53       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+8.CC.01
+Sufficient numbers of clinical scientists are needed, particularly those interested in 
+pursuing the translation of breakthroughs from basic science laboratories into clinical 
+settings. Research training opportunities are needed for all stages of clinical training, 
+beginning early in their professional education.
+8.CC.02 Programs of training, professional development, and mentoring are needed to help create  
+a more diverse cadre of senior leaders in science and medicine. 
+8.CC.03
+Training that emphasizes rigorous scientific methods in the biomedical, behavioral, social, 
+data, and implementation sciences is required to increase reliability and reproducibility of 
+research findings.
+8.CC.04
+Better support is needed for scientists who are making transitions between career stages 
+(e.g., the graduate/medical education stage, the postdoctoral/fellowship period, the junior 
+investigator stage, first independent clinical trial for clinical investigators).
+8.CC.05 Curricula and resources for education of healthcare workers in evidence-based care  
+are needed. 
+8.CC.06
+Improved methods for standardized collection and analysis of education, employment,  
+and productivity data from HLBS scientists over the course of their careers are needed  
+to assess defined metrics and predictors of success at both individual and training  
+program levels.
+8.CC.07 More early career investigators need to be recruited and supported, and the success of 
+those interested in research on HIV and HLBS sciences needs to be facilitated.
+8.CC.08
+Training opportunities need to be increased for investigators across the career span in 
+emerging areas of research, particularly in the use of artificial intelligence and machine 
+learning, and other data science approaches to facilitate the analysis of increasingly large 
+biomedical datasets.
+FURTHER DEVELOP , DIVERSIFY, AND SUSTAIN
+
+--- PAGE 54 matched=['VISION'] ---
+54       NHLBI STRATEGIC VISION   |    FY 2026–2030
+CRITICAL CHALLENGES
+8.CC.09
+Scientists across all career/life stages, especially women who more often experience 
+challenging and disruptive life events, need to be better supported through research 
+training, career development, and capacity building initiatives.
+8.CC.10 The pool of postdoctoral fellows who qualify for National Research Service Award
+(NRSA) training programs needs to be expanded.
+FURTHER DEVELOP , DIVERSIFY, AND SUSTAIN
+
+--- PAGE 55 matched=['VISION'] ---
+55       NHLBI STRATEGIC VISION   |    FY 2026–2030
+APPENDIX I
+

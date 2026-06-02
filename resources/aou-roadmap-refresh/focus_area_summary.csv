@@ -1,0 +1,9 @@
+focus_area_code,focus_area_name,n_pubs,pub_share_of_corpus,n_projects,proj_share_of_corpus,contributing_themes,theme_pub_breakdown,theme_proj_breakdown
+FA1,Prevalent Common & Rare Conditions,1008,0.7336,8495,0.6586,1;4;5;8;9;10;11;12;13;14;18,1(382);4(254);12(197);5(176);18(107);9(107);8(79);14(77);11(75);13(59);10(54),1(3292);4(1937);5(1722);9(650);8(639);11(637);14(567);12(535);18(470);10(433);13(405)
+FA2,Maternal & Child Health,37,0.0269,678,0.0526,15,15(37),15(678)
+FA3,Healthy Aging & Resilience Across the Lifespan,75,0.0546,637,0.0494,11,11(75),11(637)
+FA4,Return of Results on Individual & Population Health,154,0.1121,668,0.0518,10;16;17,17(69);10(54);16(32),10(433);16(200);17(61)
+FA5,"Lifestyle, Substance, & Behavioral Health",254,0.1849,1937,0.1502,4,4(254),4(1937)
+FA6,Environment,7,0.0051,74,0.0057,19,19(7),19(74)
+FA7,Health Equity,702,0.5109,3813,0.2956,6;12;17;18,6(458);12(197);18(107);17(69),6(3070);12(535);18(470);17(61)
+FA8,Genetics & Biology,733,0.5335,7791,0.604,1;2;5;10;16,1(382);2(347);5(176);10(54);16(32),2(4414);1(3292);5(1722);10(433);16(200)

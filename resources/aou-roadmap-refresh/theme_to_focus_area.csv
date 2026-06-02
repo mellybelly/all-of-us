@@ -1,0 +1,20 @@
+theme_code,theme_name,focus_areas,focus_area_names,is_orphan,notes
+1,Cardiometabolic disease,FA1;FA8,Prevalent Common & Rare Conditions;Genetics & Biology,no,Primarily Common & Rare Conditions (FA1); subtheme 1.3-CKM and polygenic/Mendelian cardiometabolic genetics cross-touch Genetics & Biology (FA8).
+2,Genomics methods & complex-trait genetics,FA8,Genetics & Biology,no,Maps directly to Genetics & Biology (FA8). NOTE: 'Genetics & Biology' as named excludes proteomics/metabolomics/transcriptomics — those would need a renamed 'Multi-omics & Biology' area to fit cleanly. See orphan analysis.
+3,"Methods, infrastructure & phenotyping (non-genomic)",,,yes,"ORPHAN. AI/ML, EHR phenotyping, AoU workbench tooling, OMOP/FHIR harmonization. None of the 8 focus areas accommodates methods/infrastructure as a first-class concern. ~20% of corpus — the single largest orphan."
+4,"Mental health, behavioral & substance use",FA5;FA1,"Lifestyle, Substance, & Behavioral Health;Prevalent Common & Rare Conditions",no,"Primarily Lifestyle, Substance & Behavioral Health (FA5); psychiatric disorders also fit Common & Rare Conditions (FA1)."
+5,Cancer,FA1;FA8,Prevalent Common & Rare Conditions;Genetics & Biology,no,"Primarily Common & Rare Conditions (FA1); hereditary-cancer subthemes (5.1, 5.6) cross-touch Genetics & Biology (FA8)."
+6,Social determinants of health & health disparities,FA7,Health Equity,no,Maps directly to Health Equity (FA7). The cross-cutting nature of SDOH means many pubs in this theme are double-tagged with disease themes.
+7,Wearables & digital health,,,yes,"ORPHAN. Wearables/remote monitoring are slide-7 'reflections since 2023' candidates for elevation but have no home in the 8 areas. Could be tucked into FA5 (Lifestyle) as activity-tracking, but that misses sleep/HRV/biometric methods work."
+8,Infectious disease & immunology,FA1,Prevalent Common & Rare Conditions,no,"Common & Rare Conditions (FA1) — HIV, COVID-19, hepatitis, EBV, etc. are all prevalent/chronic disease topics."
+9,Autoimmune & inflammatory disease,FA1,Prevalent Common & Rare Conditions,no,Common & Rare Conditions (FA1).
+10,Rare disease & Mendelian genetics,FA1;FA8;FA4,Prevalent Common & Rare Conditions;Genetics & Biology;Return of Results on Individual & Population Health,no,"Common & Rare Conditions (FA1, explicit 'rare'); Genetics & Biology (FA8); and Return of Results (FA4) since ACMG actionable variants directly drive return-of-results workflows."
+11,"Aging, frailty & ADRD",FA3;FA1,Healthy Aging & Resilience Across the Lifespan;Prevalent Common & Rare Conditions,no,Primarily Healthy Aging & Resilience (FA3); ADRD also fits Common & Rare Conditions (FA1).
+12,Dermatology,FA1;FA7,Prevalent Common & Rare Conditions;Health Equity,no,Common & Rare Conditions (FA1); the heavy AoU dermatology corpus is largely disparities-framed and cross-touches Health Equity (FA7).
+13,Respiratory & sleep medicine,FA1,Prevalent Common & Rare Conditions,no,Common & Rare Conditions (FA1).
+14,Neurology (non-ADRD),FA1,Prevalent Common & Rare Conditions,no,Common & Rare Conditions (FA1).
+15,"Pregnancy, maternal & women's health",FA2,Maternal & Child Health,no,"Maternal & Child Health (FA2) — note that the 8-area name says 'Maternal & Child' but AoU is an adult cohort, so 'Child' is structurally thin (no peds enrollment yet)."
+16,Pharmacogenomics & drug response,FA8;FA4,Genetics & Biology;Return of Results on Individual & Population Health,no,Genetics & Biology (FA8) and Return of Results (FA4) — PGx is the canonical 'genotype-drives-treatment-decision' use case for ROR.
+17,"ELSI, participant engagement & recruitment",FA4;FA7,Return of Results on Individual & Population Health;Health Equity,no,"Return of Results (FA4, ROR ethics is the dominant ELSI sub-area) and Health Equity (FA7, recruitment of underrepresented groups)."
+18,"Ophthalmology, ENT & sensory medicine",FA1;FA7,Prevalent Common & Rare Conditions;Health Equity,no,Common & Rare Conditions (FA1); strong disparities-in-sensory-care framing cross-touches Health Equity (FA7).
+19,Environmental health & climate,FA6,Environment,no,Environment (FA6) — clean fit but tiny theme (<1% of pubs).

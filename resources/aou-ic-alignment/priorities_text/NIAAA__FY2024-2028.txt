@@ -1,0 +1,1302 @@
+# NIAAA (FY2024-2028) — file: NIAAA_Strategic_Plan_FY2024-2028.pdf
+# 32 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+National Institute on Alcohol Abuse 
+and Alcoholism Strategic Plan:  
+Fiscal Years 2024–2028 
+Advancing Alcohol Research to Promote Health 
+and Well-Being  
+
+--- PAGE 2 matched=['Research Themes', 'Goal 1', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 i 
+Table of Contents 
+National Institute on Alcohol Abuse  and Alcoholism Strategic Plan: .................................. 1 
+Fiscal Years 2024–2028 ................................................................................................................ 1 
+Director’s Message ....................................................................................................................... 1 
+Introduction to the Strategic Plan ............................................................................................... 2 
+Structure of the Strategic Plan .................................................................................................. 2 
+National Institute on Alcohol Abuse and Alcoholism Mission ................................................... 2 
+Statutory Authority ..................................................................................................................... 2 
+Institute Organization................................................................................................................. 2 
+Strategic Planning Process ....................................................................................................... 3 
+Strategic Plan Implementation and Monitoring ......................................................................... 3 
+Cross-Cutting Research Themes ................................................................................................ 3 
+Advancing Research on Women’s Health ................................................................................ 4 
+Applying a Life Course Approach to Alcohol Research ........................................................... 5 
+Encouraging a Whole Person, Integrated Approach to Health ................................................ 5 
+Innovating Alcohol Research and Care Through Data Science .............................................. 5 
+Cross-Cutting Research Programs ............................................................................................ 6 
+Fetal Alcohol Spectrum Disorders ............................................................................................ 6 
+Alcohol and HIV ......................................................................................................................... 8 
+Research Goals ........................................................................................................................... 10 
+Goal 1: Elucidate the Biological Mechanisms and Consequences of Alcohol Misuse .......... 10 
+Goal 2: Identify Patterns, Trends, and Public Health Impact of Alcohol Misuse ................... 15 
+Goal 3: Prevent and Reduce Alcohol Misuse, Alcohol Use Disorder, and Associated 
+Consequences ......................................................................................................................... 17 
+Goal 4: Improve Diagnosis and Expand Treatment of Alcohol Use Disorder and Alcohol-
+Related Conditions .................................................................................................................. 20 
+Supporting the Mission .............................................................................................................. 25 
+Goal 1: Building a Robust Research Capacity ....................................................................... 25 
+Goal 2: Serving as a Responsible Steward of the Public’s
+
+--- PAGE 3 matched=['Strategic Plan', 'mission'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 1 
+Director’s Message 
+Alcohol-related problems exact an immense toll on individuals, families, 
+and communities. In the United States, more than 178,000 people die per 
+year from alcohol misuse, making alcohol a leading preventable cause of 
+death.1 From the first year of the COVID-19 pandemic in 2019 through 
+2021, alcohol-related deaths increased approximately 38%, far outpacing 
+previous increases of around 2% per year.2 Alcohol-related traffic fatalities 
+increased by 14% from 2020 to 2021, their highest level since 2009.3  
+Alcohol misuse is linked to more than 200 diseases and injury-related 
+conditions—including approximately 50% of liver disease deaths, 5% to 6% 
+of cancer cases, and 4% of cancer deaths—and contributes substantially 
+to health care costs and lost productivity.4,5 The adverse effects of alcohol are extensive and impact 
+health in ways that many people may not realize. In addition, nearly 30 million people in the United States 
+have alcohol use disorder (AUD), and less than 10% of them receive treatment or help.6,7 
+The mission of the National Institute on Alcohol Abuse and Alcoholism (NIAAA) is to generate and 
+disseminate fundamental knowledge about the adverse effects of alcohol on health and well-being and to 
+apply that knowledge to improve the diagnosis, prevention, and treatment of alcohol-related problems, 
+including AUD, across the life course. For more than 50 years, NIAAA has been at the forefront of 
+cutting-edge alcohol research that has significantly expanded our understanding of the factors that 
+contribute to alcohol-related problems and the mechanisms through which they develop.  
+Thanks to NIAAA-supported research, AUD is widely regarded as a treatable chronic disorder stemming 
+from various genetic and environmental factors, like many other common chronic health conditions. 
+Accumulating evidence demonstrating the health risks of alcohol at all levels, along with the recent 
+cultural shift around sober curiosity in the United States, have provided NIAAA new opportunities to lead 
+the changing conversation around alcohol.  
+We have developed and promoted materials which help individuals and communities reevaluate their 
+relationship with alcohol, and change how alcohol-related health issues are perceived and addressed in 
+health care. These efforts, supported by advances in basic, translational, and clinical research, are 
+leading to more effective prevention, diagnosis, and treatment of alcohol misuse and are helping to 
+reduce stigma associated with alcohol-related problems as well as the stigma associated with choosing 
+not to drink.  
+NIAAA’s strategic plan charts a course for the next five years as we seek to address alcohol research 
+challenges while maintaining flexibility to address emerging research opportunities and urgent public 
+health needs. Preventing alcohol misuse at all ages, enhancing the diagnosis of AUD, fetal alcohol 
+spectrum disorders (FASD), and other alcohol-associated pathologies, improving treatment for these 
+conditions, and addressing health disparities in alcohol misuse and related consequences are just some 
+of NIAAA’s most salient goals. I am optimistic that NIAAA-supported research will pave the way for future 
+breakthroughs that will help more Americans live healthier, more productive lives. 
+George F. Koob, Ph.D. 
+Director 
+National Institute on Alcohol Abuse and Alc
+
+--- PAGE 4 matched=['research \nthemes', 'Strategic Plan', 'mission'] ---
+ 
+Introduction to the Strategic Plan 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 2 
+Structure of the Strategic Plan 
+The National Institute on Alcohol Abuse and Alcoholism (NIAAA) Strategic Plan Fiscal Years 2024–2028 
+d
+escribes research goals, themes, and programs that support the NIAAA mission. These goals also 
+complement other National Institutes of Health (NIH) strategic plans and U.S. Department of Health and 
+Human Services (HHS) initiatives. 
+Four research goals represent long-standing pillars of NIAAA-supported research. Cross-cutting research 
+themes represent high-priority concepts and emergent research opportunities that cut across the four 
+research goals. Cross-cutting research programs describe coordinated programs with elements that span 
+the four research goals. In addition to conducting and funding research, NIAAA has established capacity 
+and operational priorities toward sustaining robust research capabilities, practicing good scientific 
+stewardship, and strengthening the reach and impact of NIAAA-supported research.  
+National Institute on Alcohol Abuse and Alcoholism Mission  
+NIAAA’s mission is to generate and disseminate fundamental knowledge about the adverse effects of 
+alcohol on health and well-being and to apply that knowledge to improve diagnosis, prevention, and 
+treatment of alcohol-related problems, including alcohol use disorder (AUD), across the life span.  
+Today, NIAAA is the world’s largest funder of alcohol research. NIAAA provides leadership in the national 
+effort to reduce alcohol-related problems by:  
+• Conducting and supporting alcohol-related research in a wide range of scientific areas, including 
+neuroscience and behavior, epidemiology and prevention, treatment and recovery, and metabolism 
+and health effects 
+• Coordinating and collaborating with other research institutes and federal programs on  
+alcohol-related issues 
+• Collaborating with institutions (including international, national, state, and local), organizations, 
+agencies, and programs engaged in alcohol-related work  
+• Translating and disseminating research findings to health care providers, researchers, policymakers, 
+and the public 
+Statutory Authority 
+As established by the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and 
+Rehabilitation Act of 1970, NIAAA’s mission is to “develop and conduct comprehensive health, education, 
+training, research, and planning programs for the prevention and treatment of alcohol abuse and 
+alcoholism.” Visit the History of NIAAA webpage to learn more about NIAAA’s major milestones. 
+Institute Organization 
+NIAAA is one of the 27 Institutes and Centers (ICs) of NIH, a component of HHS. NIH is the foremost 
+federal agency for funding biomedical research in the United States. 
+NIAAA’s organizational structure includes the Office of the Director, which sets research, programmatic, 
+and institute-wide priorities in collaboration with NIAAA offices and research divisions. NIAAA offices 
+
+--- PAGE 5 matched=['Research Themes', 'Strategic Plan', 'mission'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 3 
+include the Office of Extramural Activities, the Office of Science Policy and Communications, and the 
+Office of Resource Management. NIAAA’s intramural research division, the Division of Intramural Clinical 
+and Biological Research, conducts cutting-edge alcohol research and promotes research training. 
+NIAAA’s four extramural research divisions—the Division of Epidemiology and Prevention Research,  
+the Division of Metabolism and Health Effects, the Division of Neuroscience and Behavior, and the 
+Division of Treatment and Recovery—develop, plan, and coordinate multidisciplinary research and 
+research training in a wide range of scientific areas essential to NIAAA’s mission.  
+Strategic Planning Process 
+NIAAA’s strategic planning process considers the long-term priorities of the field while remaining flexible 
+to adapt to emerging public health needs and scientific opportunities. It also considers a dynamic balance 
+of basic, translational, and clinical research relevant to NIAAA’s broad mission. Although NIAAA engages 
+in formal strategic planning, the institute continually assesses and refines priorities as the science and 
+public health landscape evolves. 
+To initiate its strategic planning process, NIAAA formed a strategic plan working group comprising staff 
+from the NIAAA Office of Science Policy and Communications in 2020. This group convened meetings 
+with NIAAA leadership and all NIAAA offices and divisions to develop an overall framework for the new 
+strategic plan. Additionally, two listening sessions were held with extramural and intramural staff to 
+provide input on the process and utility of the strategic plan. These sessions were followed by meetings 
+with each NIAAA research division, which was asked to identify research needs and opportunities related 
+to its scientific areas. Their feedback, with input from NIAAA leadership, formed the basis of an outline 
+representing the draft strategic plan framework.  
+A request for information (RFI) inviting public comment on the draft framework was issued in 2021. RFI 
+responses were received from researchers, advocacy groups, professional societies, and others. The 
+results were summarized in a report to the National Advisory Council on Alcohol Abuse and Alcoholism in 
+September 2021. The outline was refined based on the RFI feedback and Council input and was followed 
+by writing of the strategic plan in consultation with NIAAA leadership, offices, and research divisions. 
+The final NIAAA Strategic Plan: Fiscal Years 2024–2028 represents a collaborative effort of NIAAA 
+leadership, NIAAA staff across the institute, and the National Advisory Council on Alcohol Abuse  
+and Alcoholism. 
+Strategic Plan Implementation and Monitoring  
+Over the next five years, NIAAA will monitor progress on its goals and research priorities. NIAAA’s ability 
+to pursue its research goals and priorities is supported by its commitment to building a robust research 
+capacity and serving as a responsible steward of the public’s investment. This strategic plan is a living 
+document that is responsive to public health challenges as well as to changes in the scientific landscape.  
+Cross-Cutting Research Themes  
+NIAAA has identified cross-cutting research themes, which provide a lens for examining high-priority 
+topics that span two or more of the research goals outlined in this strategic plan. The following
+
+--- PAGE 6 matched=['Strategic Plan', 'Mission'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 4 
+complement the Cross-Cutting Research Programs and Supporting the Mission sections of this  
+strategic plan. 
+Advancing Research on Women’s Health  
+Alcohol use among women is a growing public health concern. Alcohol use is increasing among women 
+older than age 26. For the first time, adolescent and young women (ages 12–20) are drinking—and binge 
+drinking—more than men. A substantial body of evidence suggests that women who drink are at a higher 
+risk of adverse alcohol-related pathology and consequences than men who drink. These include faster 
+progression of AUD, blackouts, liver disease, heart disease, cognitive deficits, and certain cancers, 
+among other effects.  
+Research also suggests that pathways to alcohol misuse may differ between women and men. Women 
+experience stress and trauma more frequently than men, and alcohol is often used to cope with 
+psychological distress. Unfortunately, health care providers are less likely to screen for alcohol misuse 
+and provide interventions to women compared to men. 
+To improve the health of women, NIAAA will continue to support biological and behavioral research to 
+more fully understand how alcohol use and misuse impact women and to develop interventions tailored to 
+the unique needs of women. This includes studies on health issues that affect young women, including 
+the etiology, prevention, and treatment of alcohol misuse. Research is needed to elucidate sex 
+differences in the mechanisms contributing to alcohol’s adverse effects on the brain, other organs,  
+and body systems, and how these mechanistic differences can reveal novel targets for prevention and 
+treatment of alcohol-related harms. More research is also needed to identify the risk and protective 
+factors that contribute to alcohol-associated health outcomes among women to inform the development 
+of prevention and treatment interventions.  
+Given the contribution of alcohol to many health conditions, NIAAA will encourage innovative studies to 
+enhance understanding of the relationships between alcohol misuse and common comorbidities, such as 
+mental health conditions and other acute and chronic health conditions. New research to improve 
+implementation and coordination of evidence-based care for alcohol problems across settings, including 
+prenatal care, and across components of health systems will be essential for improving the health and 
+well-being of women. NIAAA will pursue collaboration with the NIH Office of Research on Women’s 
+Health and partners across NIH to advance integrated research in women’s health. 
+
+--- PAGE 7 matched=['Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 5 
+Applying a Life Course Approach to Alcohol Research  
+Biological, behavioral, social, and environmental 
+changes that occur throughout life influence the 
+emergence and progression of alcohol misuse and its 
+associated health consequences. A life course 
+approach that takes these changes into account can 
+inform research on the development of interventions 
+and resources tailored to the specific needs of 
+individuals and populations.  
+NIAAA encourages research to address critical 
+knowledge gaps about the impact of alcohol misuse 
+unique to each life stage to facilitate improved 
+prevention, identification, and treatment of alcohol-
+related problems. 
+Encouraging a Whole Person, Integrated Approach to Health  
+Alcohol misuse contributes to many acute and chronic health conditions, and impacts health in ways  
+that individuals and health care providers may not realize. The relationship between alcohol and  
+so many elements of health underscores the importance of addressing alcohol misuse in the context  
+of whole person health. Whole person health looks at the connections across biological, behavioral, 
+social, and environmental domains of health to address disease, and is supported by integrated 
+approaches to care. For example, integrating alcohol screening, brief intervention, and referral to 
+treatment (SBIRT) in routine health care can increase the chances that an alcohol-related problem is 
+identified and addressed, and can help clinicians identify other physical and mental health-related issues 
+affected by alcohol misuse.  
+Integrating treatment for AUD and alcohol-associated liver disease (ALD) holds promise for promoting 
+recovery from both conditions and for contributing to the long-term survival of patients. Using the 
+integration of care between AUD and ALD as an example, future work should emphasize opportunities to 
+integrate care for alcohol misuse and other pathophysiologies exacerbated or caused by alcohol, such as 
+sleep disorders, pain, and stress- and mood-related disorders.  
+A better understanding of the mechanistic and clinical relationships between alcohol misuse and 
+commonly co-occurring mental and physiological conditions could lead to novel, integrated strategies that 
+improve the prevention of, early diagnosis of, treatment of, and long-term recovery from these conditions. 
+Delving into the health determinants that influence these relationships will also provide valuable insights 
+towards these goals. NIAAA encourages innovative basic, translational, and clinical research that 
+enhances the understanding of whole person health and facilitates integrated care to improve health 
+outcomes and reduce health care costs. 
+Innovating Alcohol Research and Care Through Data Science 
+In 2019, prior to the mandatory NIH Data Management and Sharing Policy, NIAAA established a new 
+repository for data generated by NIAAA-funded studies in humans, the NIAAA Data Archive, housed 
+within the National Institute of Mental Health (NIMH) Data Archive. This growing archive will eventually 
+contain data from thousands of NIAAA-funded studies, which will be made available to the research 
+
+--- PAGE 8 matched=['Research Themes', 'Objective 1', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 6 
+community. In addition to facilitating rigor and reproducibility of research, the NIAAA Data Archive  
+will provide a rich resource for secondary analyses—a strategy that supports the optimal use of  
+research resources.  
+Artificial intelligence (AI) will be critical for developing new statistical and analytical models for alcohol 
+research. Such new models will be important for real-time data analysis, prediction, automated tools for 
+data harmonization and management, and the generation of interactive tools for the prevention of alcohol 
+misuse, individualized AUD treatment, and guidance of recovery. In particular, multi-omic approaches 
+combined with data science approaches also hold promise for identifying biomarkers or algorithms of 
+biomarkers that could help predict vulnerability to alcohol misuse, individualize AUD treatment,  
+and guide recovery. 
+Cross-Cutting Research Programs 
+Cross-cutting research programs are NIAAA-managed research portfolios that include topics spanning 
+multiple research goals outlined in this strategic plan. These programs complement the Cross-Cutting 
+Research Themes and Supporting the Mission sections of this strategic plan. 
+Fetal Alcohol Spectrum Disorders  
+Fetal alcohol spectrum disorders (FASD) represent 
+the broad range of neurodevelopmental impairments 
+and other physical effects that result from prenatal 
+exposure to alcohol. NIAAA supports a robust FASD 
+research program to advance study of the causes, 
+mechanisms, diagnosis, prevention, and treatment  
+of FASD.  
+Research to reduce stigma around prenatal alcohol 
+exposure, to increase education and awareness of 
+FASD, and to develop prevention strategies are 
+important components of FASD prevention. Basic 
+research on the biological mechanisms that underlie 
+prenatal alcohol exposure and contribute to FASD 
+can lead to the identification of diagnostic biomarkers as well as potential treatment targets, paving the 
+way for earlier diagnosis and treatment. NIAAA is also facilitating efforts to reach consensus on a single 
+research classification system for FASD to harmonize research efforts across the globe and accelerate 
+scientific progress.  
+Objective 1: Advance the Prevention of Prenatal Alcohol Exposure  
+Preventing and reducing alcohol use during pregnancy is essential to preventing prenatal alcohol 
+exposure and related consequences, including FASD. Studies have shown that alcohol SBIRT 
+approaches are an effective tool for addressing alcohol and other substance use in primary and prenatal 
+care settings.  
+NIAAA encourages research and other activities to prevent and reduce prenatal alcohol exposure and the 
+prevalence of FASD—for example: 
+
+--- PAGE 9 matched=['Objective 2', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 7 
+• Designing and evaluating cost-effective models to help women at high risk of having a child with 
+FASD (i.e., who misuse alcohol, have AUD, or already have another child with FASD) to reduce  
+or abstain from drinking during pregnancy and, consequently, reduce the incidence of FASD 
+• Developing interventions to prevent alcohol-exposed pregnancies 
+• Improving implementation and enhancing scalability of effective preventive interventions  
+(e.g., alcohol SBIRT) for alcohol misuse and its negative consequences in women  
+• Identifying the causes of FASD-related stigma and exploring strategies to reduce it in order to 
+improve prevention efforts 
+• Promoting collaboration with federal and nonfederal organizations to raise public awareness  
+about FASD and advance implementation of prevention interventions in various clinical and 
+nonclinical settings 
+Objective 2: Improve Early Identification and Treatment Interventions for Fetal Alcohol 
+Spectrum Disorders  
+Improved diagnostic techniques for FASD could enable more accurate diagnosis, expand access to 
+assessment for FASD, allow for earlier intervention, and likely reduce costs and overall burden of  
+FASD across the life span. Early identification holds promise for better outcomes, but limited availability 
+of FASD diagnostic services remains a barrier to care.  
+NIAAA encourages research to enhance FASD screening, diagnosis, and treatment—for example: 
+• Improving implementation of existing evidence-based FASD diagnostic approaches across the life 
+span as well as early intervention and care for individuals with FASD across a range of populations 
+and settings, such as for children and parents in the child welfare system and individuals in the 
+juvenile justice system 
+• Developing novel technologies and methods to facilitate earlier identification of children affected by 
+prenatal alcohol exposure, as early as the fetal and newborn periods 
+• Assessing combinations of evidence-based therapeutic approaches for individuals with FASD 
+• Understanding and addressing health disparities concerning prenatal alcohol exposure in  
+different populations 
+• Developing and evaluating novel prenatal and postnatal therapeutic approaches, medications,  
+and dietary supplements to combat prenatal alcohol exposure and FASD 
+• Pursuing various interventions to mitigate the neurocognitive and behavioral deficits associated with 
+FASD across the life span 
+Objective 3: Identify Mechanisms, Diagnostic Biomarkers, and Potential Treatment Targets 
+for Fetal Alcohol Spectrum Disorders  
+Alcohol can disrupt prenatal development through a variety of mechanisms. Understanding the biological 
+effects of prenatal alcohol exposure that emerge across the life span, from prenatal development to 
+adulthood, can inform preventive and therapeutic strategies to mitigate the consequences of prenatal 
+alcohol exposure.  
+
+--- PAGE 10 matched=['Objective 1', 'Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 8 
+NIAAA encourages research to advance foundational knowledge of the mechanisms mediating 
+FASD—for example:  
+• Identifying and characterizing the biological mechanisms underlying the harmful effects of prenatal
+alcohol exposure across the life span, including health consequences that persist or emerge in adults
+with FASD
+• Further defining periods of susceptibility to alcohol exposure (e.g., periconception, specific months
+or trimester, entire pregnancy, or time points during postnatal development)
+• Elucidating the potential paternal contribution to the etiology of FASD
+• Refining and advancing biomarkers of prenatal alcohol exposure
+• Defining the long-term health impacts of prenatal alcohol exposure in later adulthood
+Alcohol and HIV 
+Alcohol is an important contributor to the HIV pandemic. In the United States, many people with HIV 
+engage in alcohol misuse or have AUD. Alcohol can affect behaviors that increase the likelihood of 
+acquiring or transmitting HIV to others. Alcohol may also speed HIV progression in people living with the 
+disease, influence their engagement and retention in HIV treatment, and increase their susceptibility to 
+organ damage and coinfections. These effects may shift across the life span, particularly as people living 
+with HIV enter midlife and older adulthood.  
+In coordination with the NIH Office of AIDS Research and the NIH Strategic Plan for HIV and HIV-Related 
+Research, NIAAA continues to advance basic, translational, and clinical research to improve health 
+outcomes among people living with HIV, including those who experience health disparities. NIAAA will 
+enhance collaboration with partners within and outside NIH to translate and disseminate research 
+findings to maximize the public health impact of NIAAA-supported HIV research, and to strengthen the 
+research and workforce capacity to sustain alcohol-HIV research.
+Objective 1: Understand the Biological and Behavioral Mechanisms of Alcohol Misuse 
+and HIV 
+The mechanisms through which alcohol misuse interacts with HIV to increase morbidity and mortality are 
+not well understood. While HIV can be treated effectively with antiretroviral medications, alcohol misuse 
+contributes to or exacerbates adverse medication interactions, chronic inflammation, liver and other 
+organ injury, cardiovascular and neurological problems, and other pathologies.  
+Several biological or behavioral phenotypes of HIV and alcohol have been identified that may have 
+markedly different disease courses, biological underpinnings, and treatment responses. Collaborative, 
+multidisciplinary research will be key to better understanding the interactions between alcohol misuse  
+and HIV. 
+NIAAA encourages research to better understand the relationship between alcohol misuse and HIV to 
+inform the development of effective interventions—for example:  
+• Determining how alcohol misuse confers a biological risk for HIV infection
+• Determining how current and past alcohol misuse in the context of HIV infection and the use of
+antiretroviral medications affect HIV disease progression and the development of organ and tissue
+injury (e.g., gut, liver, lung, and brain)
+
+--- PAGE 11 matched=['Objective 2', 'Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 9 
+• Improving the understanding of the biological, clinical, and socio-behavioral aspects of aging through
+the lens of HIV infection and alcohol misuse
+Objective 2: Prevent Alcohol Misuse and Treat Alcohol Use Disorder Among People Living 
+With HIV or at High Risk of Acquiring HIV  
+As noted above, alcohol misuse contributes to poor health outcomes among people living with HIV and 
+reduces the effectiveness of strategies designed to prevent new HIV infections. For example, the use of 
+pre-exposure prophylaxis (PrEP) is highly effective in preventing HIV among those at high risk. However, 
+alcohol misuse may reduce a person’s likelihood of following PrEP medication regimens.  
+Alcohol misuse may also affect an individual’s adherence to antiretroviral therapy and contribute to HIV 
+transmission. Evidence-based approaches, such as brief interventions, contingency management, risk 
+and harm reduction interventions, and stepped care approaches, have been demonstrated to prevent and 
+reduce alcohol misuse among people living with HIV. Stepped care approaches that integrate treatment 
+for alcohol misuse and HIV have also been shown to improve HIV-related outcomes. Strategies to 
+identify and address alcohol misuse among people with HIV or at high risk for HIV can contribute to 
+improved health and a reduced incidence of HIV.  
+NIAAA encourages alcohol-related research to prevent and reduce HIV infection, progression, 
+and transmission—for example:  
+• Enhancing routine alcohol SBIRT to reduce HIV transmission and disease progression
+• Developing strategies that address alcohol-related barriers to effective use of PrEP, especially
+among women and other populations with historically low usage rates
+• Developing novel interventions and enhancing implementation of existing evidence-based prevention
+and treatment interventions that address both alcohol misuse and HIV
+• Expanding access to and options for AUD treatment for people living with HIV
+Objective 3: Address Alcohol-Related Comorbidities Among People Living With HIV 
+Many comorbidities, coinfections, and medical complications are associated with chronic alcohol misuse 
+and HIV disease progression. These factors combine with the natural processes of aging to increase 
+frailty and present challenges for medical management. Addressing comorbid medical complications is 
+critical for improving quality of life and longevity. 
+NIAAA encourages research to address alcohol-related comorbidity among individuals with HIV— 
+for example:  
+• Promoting the integration of care for HIV, alcohol misuse or AUD, and co-occurring health conditions
+and medical complications in different settings
+• Developing a comprehensive model for alcohol misuse or AUD and disease outcomes among older
+adults with HIV, including expanded biomarker assays
+• Evaluating the efficacy and effectiveness of interventions for reducing alcohol misuse in improving
+co-occurring pain, stress, and other mental health concerns among people living with HIV
+
+--- PAGE 12 matched=['Research Themes', 'Goal 1', 'Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 10 
+Research Goals 
+This strategic plan includes four major goals, which cover the depth and breadth of research necessary 
+to improve the understanding of and to address the effects of alcohol misuse on individuals and society. 
+These goals complement the Cross-Cutting Research Themes, Cross-Cutting Research Programs, and 
+Supporting the Mission sections of this strategic plan. 
+Goal 1: Elucidate the Biological Mechanisms and Consequences of 
+Alcohol Misuse 
+Alcohol misuse has powerful effects on the brain and 
+behavior. Neuroscience research has characterized the 
+short-term impact of alcohol on brain activity and the 
+adaptations in brain structure and function that occur as 
+individuals progress from occasional, controlled alcohol 
+use to alcohol misuse and AUD. This work has made 
+major strides in shedding light on the neurotransmitter 
+systems and neurobiological mechanisms that are altered by alcohol and that contribute to the 
+development of alcohol misuse and AUD. Equally important, neuroscience advances are laying the 
+foundation for understanding the individual differences that drive alcohol misuse across the life span. 
+Innovative research to elucidate the biological mechanisms of alcohol-associated pathology and recovery 
+within a neurobiological framework can reveal novel opportunities for more effective prevention, 
+diagnosis, and treatment of alcohol misuse and AUD. 
+Alcohol misuse also has powerful effects beyond the brain and can damage nearly every organ system  
+in the human body. While the liver is the primary site of alcohol metabolism and is susceptible to alcohol-
+associated injury and disease, alcohol misuse is a significant contributor to pancreatitis, cardiovascular 
+disease, cancer, and other health conditions. Additionally, alcohol misuse can negatively impact the 
+complex interactions between organ systems. For example, research demonstrates that alcohol-related 
+neurobiological changes may not be due entirely to the direct actions of alcohol on the brain but may be 
+med
+iated partially through interactions with the gastrointestinal tract, liver, and endocrine system.  
+Basic, translational, and clinical research is needed to better characterize the mechanisms through which 
+alcohol misuse damages the body’s organ systems and leads to, and exacerbates, chronic disease.  
+Additionally, understanding the biological mechanisms underlying the effects of prenatal alcohol 
+exposure, from prenatal development to adulthood, and understanding other medical challenges, such as 
+HIV/AIDS, can inform preventive, diagnostic, and therapeutic strategies to improve health outcomes. See 
+the Fetal Alcohol Spectrum Disorders and Alcohol and HIV discussions within the Cross-Cutting 
+Research Programs section for more information on these specific research areas. 
+Goal 1 research topics are integrally linked to the Cross-Cutting Research Themes. Exa mples of NIAAA 
+research priorities in this area include the following objectives. 
+NIAAA’s Long-Term Vision 
+To comprehensively understand the 
+biological processes affected by alcohol 
+misuse to inform the prevention, diagnosis, 
+and treatment of alcohol-related problems. 
+NIAAA aims to advance research on the effects of alcohol on the brain and other organs, organ 
+systems, and tissues. This research includes an integrative approach to understand the brain cells and 
+misuse and physiologica
+
+--- PAGE 13 matched=['Objective 1', 'Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 11 
+Objective 1: Explore the Neurobiological Mechanisms of Alcohol Misuse and Alcohol 
+Use Disorder 
+The addiction cycle is a validated heuristic framework for 
+understanding the development, progression, and 
+heterogeneity of AUD. The framework is based on 
+dysregulation in three functional and neurocircuitry domains: 
+incentive salience (reward drinking), negative emotional states 
+(relief drinking),  
+and executive function (loss of control). Drinking to cope with 
+stress has received renewed attention as a major driver of 
+alcohol misuse and AUD, and has emphasized the role of 
+negative emotionality (also known as hyperkatifeia) as a 
+target for treatment.  
+The COVID-19 pandemic further exacerbated the role of 
+stress in alcohol misuse. NIAAA- supported research on the 
+relationships between alcohol misuse and stress has yielded 
+new insights into the neurotransmitter and neurocircuit 
+dynamics that underlie excessive alcohol use and relapse, as 
+well as the negative emotional states and executive function 
+deficits associated with the addiction cycle. These studies 
+have also shed light on the role of neuroinflammation and sex 
+differences in mediating AUD and stress-related behaviors, as 
+well as the bidirectional relationship between alcohol misuse 
+and other co-occurring behavioral health disorders.  
+Life stage is a key factor that influences how alcohol impacts 
+brain function. For example, research has demonstrated that alcohol misuse can impact the delicate 
+balance of brain development that occurs during adolescence and continues into a person’s mid-20s. 
+Additionally, with the rapid increase of the older adult population, the impact of alcohol misuse on the 
+aging brain has come into the spotlight. Not only is the prevalence of alcohol misuse and AUD increasing 
+among older adults, but alcohol misuse has been associated with a faster cognitive decline and other 
+aging-related effects. Research to better understand the neurobiological links between alcohol and age-
+related effects on brain health could reveal novel targets for prevention and treatment.   
+NIAAA encourages innovative research and integrated approaches to build on existing knowledge of the 
+biological mechanisms that mediate alcohol misuse across the life span and at all levels of the addiction 
+cycle. Some specific examples of high-priority research gaps include: 
+• Identifying molecular, cellular, and functional brain connectivity that underlies the development of,
+maintenance of, return to, and recovery from alcohol misuse and AUD, using animal models, human
+imaging studies, and multilevel translational approaches—such multilevel analyses may include
+modern neurobiological techniques from
+single-cell physiology to computational neuroscience and AI approaches across species
+• Characterizing the dynamic interactions of extraneuronal contributors to alcohol misuse and AUD,
+including the extracellular matrix, neuroimmune cells, perineuronal cells, and peripheral
+neuromodulatory targets
+
+
+--- PAGE 14 matched=['Objective 2', 'Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 12 
+• Identifying the roles of interoceptive cues, including autonomic, neuroimmune, and gut microbiome
+cues, in alcohol misuse and AUD
+• Understanding how factors such as childhood trauma, psychiatric comorbidity, social isolation,
+socioeconomic challenges, and health care availability interact with neurobiological mechanisms to
+mediate alcohol misuse and AUD
+• Elucidating the neurobiological mechanisms that mediate the interactions between alcohol misuse
+and cognitive decline, including cognitive decline related to Alzheimer’s disease and other dementias,
+in the context of aging
+• Examining the mechanisms by which sex differences influence individual differences in the brain’s
+response to alcohol as individuals progress from alcohol use to misuse to AUD
+• Exploring neuroadaptations as well as other biological measures and/or -omic signatures in
+combination with data science approaches to develop diagnostic biomarkers for the prevention,
+diagnosis, and treatment of alcohol misuse and AUD
+Objective 2: Elucidate the Underlying Mechanisms of Alcohol-Induced Tissue and 
+Organ Damage 
+Alcohol misuse has devastating effects on organs, systemic health, and life expectancy. Alcohol affects 
+many organs and tissues in the body. Alcohol misuse is associated with increased liver disease, 
+pancreatitis, cardiomyopathy, lung pathologies, skeletal muscle myopathy, diminished bone strength  
+and impaired recovery from trauma, infectious diseases, and several types of cancers (including head 
+and neck, esophageal, liver, breast, and colorectal cancers). Alcohol consumption also disrupts  
+body-wide systems, specifically the immune system, the endocrine system, and the lymphatic system.  
+Research suggests alcohol damage occurs through both shared and tissue- and organ-specific 
+mechanisms. For example, alcohol-related dysfunction of the immune system and associated 
+inflammation contributes to some, but not all, mechanisms of alcohol-associated organ damage. 
+Understanding features of alcohol damage that are unique to specific tissues or organs will inform 
+focused prevention and treatment approaches. Identifying specific risk and protective factors could also 
+reveal individual differences in targets for prevention and treatment. 
+NIAAA encourages research to further characterize the biological factors that contribute to alcohol-
+associated damage to the body’s tissues, organs, and organ systems, with an emphasis on research that 
+will identify targets for development of effective therapies to prevent and treat these devastating conditions. 
+Currently, there are no U.S. Food and Drug Administration (FDA)-approved medications for the treatment of 
+alcohol-associated damage to any organ. Examples of NIAAA research priorities in this area include: 
+• Investigating mechanisms mediating the susceptibility and development of the following clinically
+significant alcohol-associated conditions with the goal of better prevention and treatment of
+alcohol-associated conditions: liver disease, pancreatitis, cardiomyopathy, lung disease, skeletal
+muscle myopathy, disrupted bone homeostasis, infectious diseases, and cancers
+• Exploring tissue-specific molecular, cellular, and systemic responses to alcohol misuse and AUD on
+metabolism, inflammation, tissue repair, regeneration, and homeostasis and their contribution to
+alcohol-related tissue and organ damage across ages and bio
+
+--- PAGE 15 matched=['Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 13 
+• Characterizing the effects of alcohol’s disruption of components of the immune system on the body’s
+defense against infection and related comorbidities
+• Exploring alcohol’s effects on organ-organ interactions, such as interactions among gut-liver-brain,
+gut-brain axis, gut-lung, and other organ interactions that are still unexplored but clinically relevant
+
+--- PAGE 16 matched=['Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 14 
+
+
+--- PAGE 17 matched=['Goal 2', 'Objective 3', 'Strategic Plan'] ---
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 15 
+Objective 3: Enhance Translation of Basic Research Findings to Clinical Practice 
+A mechanistic understanding of the conditions that give rise to alcohol misuse and AUD requires work in 
+model systems where invasive techniques can be used. Major goals are to translate physiological 
+findings derived from preclinical studies into clinical applications for AUD as well as to back translate 
+human findings to validate preclinical models for further research.  
+Barriers to translation and back translation include different data collection methods, different temporal 
+scales, species-specific approaches to behavioral regulation, and lack of biological homology across 
+species. Predictions derived from computational modeling approaches can be examined through 
+conventional laboratory approaches and provide the basis for developing and testing novel treatment 
+strategies. Identifying similar computations employed across species provides a basis for predictive 
+models that capture pathologies that underlie alcohol misuse and AUD.  
+NIAAA also supports the development and application of complementary methods, models, and 
+technologies, along with the integration and translation of data across multiple species and levels of 
+analyses, to understand the causes and improve the treatment of AUD and other alcohol-related health 
+conditions. The effects of alcohol on tissue can be investigated with defined cellular systems of stem 
+cells, induced pluripotent cells, and organoids.  
+Examples of research that NIAAA encourages to advance translation include: 
+• Developing high-throughput screening models to identify compounds having potential to treat alcohol
+misuse, AUD, and alcohol-related organ damage
+• Expanding the validation of candidate biomarkers in the discovery phase to improve prevention,
+diagnosis, and treatment of alcohol-associated conditions
+• Identifying phenotype-specific multi-omic profiles of AUD in the context of alcohol-associated organ
+damage that include genomics, proteomics, transcriptomics, metabolomics, and epigenomics to
+inform cross-organ analyses in understanding alcohol misuse and AUD
+• Conducting back translation studies on mechanisms using molecular genetic approaches, such as
+gene editing and stem cell studies, to understand mechanisms for alcohol misuse or organ injury
+based on human data for alcohol research
+• Expanding computational modeling approaches to provide a basis for predictive models that capture
+pathologies that underlie alcohol misuse and AUD
+Goal 2: Identify Patterns, Trends, and Public Health Impact of Alcohol Misuse 
+NIAAA will continue to support epidemiological research to identify and track patterns of alcohol use and 
+misuse, drinking-related outcomes and disparities, and individual and environmental variables that confer 
+risk or resilience. 
+Epidemiological research is key to addressing the public 
+health impact of alcohol misuse. Identifying and tracking 
+patterns and trends in alcohol use and related harms 
+convey the scale and burden of alcohol misuse in the 
+nation. Although significant changes in patterns of 
+drinking behavior and consequences have occurred over 
+time, it is important to acknowledge that population-level 
+NIAAA’s Long-Term Vision 
+To gain a complete understanding of the 
+patterns and trends of the burden and 
+likelihood of alcohol misuse to inform the 
+diagnosis, prevention, and treatme
+
+--- PAGE 18 matched=['Research Themes', 'Goal 2', 'Objective 1'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 16 
+averages may not reflect the public health impact of alcohol misuse among various sociodemographic 
+groups. It is important for epidemiology research to focus on alcohol misuse and related consequences 
+among populations that experience health disparities, as well as the general population.  
+Epidemiological research also plays a critical role in identifying factors that influence the initiation of 
+alcohol use and the progression to alcohol misuse, including heavy drinking and AUD. Knowledge of risk 
+factors associated with alcohol misuse can inform prevention and intervention efforts. Similarly, 
+epidemiological studies can reveal factors that protect against alcohol misuse and consequences. This 
+information can be used to develop prevention strategies that focus on health promotion. 
+Goal 2 research topics are integrally linked to the Cross-Cutting Research Themes. Examples of NIAAA 
+research priorities in this area include the following objectives.  
+Objective 1: Identify and Track Trends in Alcohol Misuse and Related Consequences 
+Collection and analysis of national data on alcohol use 
+are essential for surveilling the patterns and impact of 
+alcohol misuse on public health. For example, recent data 
+have revealed some successes, such as declining alcohol 
+use among youth. These studies also indicate, however, 
+that the recent decrease has been slower among females 
+compared to males. Among adults, however, alcohol use 
+is increasing, with larger increases found among women, 
+Black men, and older adults.  
+Each year, approximately 5 million people visit emergency 
+departments for alcohol-related reasons, from injuries to 
+diseases.8 The rate of alcohol-related deaths in the United 
+States more than doubled between 1999 and 2021. Additional epidemiological reports also indicate that 
+ALDs, such as cirrhosis, are increasing, particularly among women and young adults, and alcohol now 
+accounts for almost half of liver disease deaths in the United States.4 Research tracking the patterns and 
+correlates of alcohol involvement in morbidity and mortality can inform decisions about where to direct 
+prevention and treatment efforts. 
+NIAAA encourages research to understand the scope and scale of alcohol misuse—for example: 
+• Identifying patterns, trends, and disparities in alcohol misuse, AUD, alcohol-related consequences, 
+as well as treatment access and utilization across demographic groups 
+• Characterizing patterns and trends in co-use of alcohol, cannabis, opioids, and other substances and 
+their contributions to adverse health and social outcomes 
+• Identifying and characterizing secondhand effects of alcohol misuse (e.g., interpersonal violence, 
+assault, homicide, child maltreatment, and motor vehicle crashes) 
+• Improving assay methodologies for validated biomarkers of alcohol consumption considering cost, 
+timeliness, and accessibility in clinical settings 
+• Applying innovative data measurement technologies and approaches for more accurate and/or real-
+time assessment of alcohol use, related behaviors, and associated changes over time (e.g., 
+ecological momentary assessment, biomarkers, and biosensors) 
+
+
+--- PAGE 19 matched=['Research Themes', 'Goal 3', 'Objective 1'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 17 
+• Utilizing cutting-edge data collection and analytic approaches, such as AI, social network  
+analyses, and data analytics to study and predict patterns and trends in alcohol misuse to facilitate 
+timely intervention 
+• Examining the long-term health and societal effects of the increase in alcohol misuse and alcohol-
+related consequences due to the COVID-19 pandemic, particularly due to coping with stress  
+Goal 3: Prevent and Reduce Alcohol Misuse, Alcohol Use Disorder, and 
+Associated Consequences 
+NIAAA encourages the development, evaluation, and implementation of individual, family, school, 
+community, and policy-based strategies to prevent alcohol misuse, alcohol use disorder, and related 
+consequences. 
+Evidence-based strategies to prevent and reduce 
+alcohol misuse and the associated consequences are 
+critical for lessening the resulting individual, social,  
+and public health impact. Research is revealing 
+opportunities for developing novel prevention 
+interventions and improving the effectiveness of  
+existing ones. 
+Alcohol use commonly begins during adolescence, and the earlier a person starts to drink the more likely 
+they are to escalate to alcohol misuse, develop AUD, harm themselves and others while intoxicated, and 
+misuse other substances. As such, prevention strategies that seek to delay and prevent alcohol use 
+among adolescents are a major focus of the NIAAA research portfolio. 
+Similarly, integration of prevention across a variety of health, community, justice, and social service 
+settings can increase the reach among underserved populations. These interventions typically occur at 
+the individual, family, school, community, and policy levels, and focus on preventing or delaying the 
+initiation of alcohol use or preventing escalation to more serious problems. 
+Additionally, promoting awareness of FASD, adopting prevention strategies, and evaluating policies that 
+also reduce stigma around seeking treatment can support efforts to prevent alcohol use and reduce 
+consequences among women who are or may become pregnant. The Cross-Cutting Research Program 
+on FASD explores this research area.  
+Goal 3 research topics are integrally linked to the Cross-Cutting Research Themes. Examples of NIAAA 
+research priorities in this area include the following objectives. 
+Objective 1: Increase Utilization of Alcohol Screening and Brief Intervention in  
+Different Settings  
+The U.S. Preventive Services Task Force recommends alcohol screening and brief intervention (SBI) in 
+primary care settings for adults ages 18 and older. A data analysis from the National Survey on Drug Use 
+and Health showed that although alcohol screening often occurs among people with AUD who have 
+utilized health care in the last year, there is still insufficient use of brief intervention or referral to alcohol 
+treatment. Research also indicates that not all groups of people are equally likely to be screened or 
+receive advice about risks associated with drinking, a practice that may contribute to health disparities.  
+NIAAA’s Long-Term Vision 
+Develop and implement effective and 
+targeted prevention strategies to prevent 
+all alcohol-related problems. 
+
+--- PAGE 20 matched=['Objective 2', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 18 
+Barriers to SBI are significant but surmountable. The barriers include lack of health care provider time to 
+ask questions and respond to harmful drinking behaviors, need for health care provider training for 
+efficient and effective alcohol SBI, lack of treatment resources for referral (especially among adolescent 
+and minority populations), and impediments to reimbursement of alcohol SBI and referral to treatment. 
+For both adolescents and adults, there are relationships between patterns of alcohol use and other risk 
+factors for health. Evidence-based screening tools can uncover these risks. For instance, among 
+adolescents, certain drinking behaviors are related to the likelihood of having depression and misusing 
+opioid pain medications. Thus, in addition to identifying alcohol misuse, alcohol SBI can also help health 
+care providers uncover other issues that impact health and well-being. Studies have also suggested that 
+training health care providers to conduct SBI reduces stigma toward patients with AUD. 
+NIAAA encourages research to promote improvements in alcohol SBI, including increased utilization and 
+a better understanding of outcomes—for example: 
+• Collecting additional evidence of the effectiveness of SBI for alcohol misuse among adolescents and 
+older adults 
+• Assessing the effectiveness of SBI for prevention of alcohol and co-occurring cannabis and  
+other drug use, liver disease, atrial fibrillation, and other conditions caused or exacerbated by  
+alcohol misuse 
+• Continuing to investigate digital technologies for SBI, evaluate their effectiveness, and assess their 
+impact on uptake of alcohol SBI in various settings 
+• Identifying barriers and effective strategies for increasing real-world adoption (scaling up) of alcohol 
+SBI and evidence-based preventive interventions among all populations 
+• Measuring the long-term health care cost savings based on the utilization of SBI in the prevention  
+or exacerbation of alcohol-related conditions  
+Objective 2: Develop and Improve Targeted Interventions to Prevent and Reduce Alcohol 
+Misuse Across the Life Course and in Different Settings  
+Patterns of alcohol use and misuse vary over the life 
+course. Typically, alcohol use is initiated in adolescence, 
+peaks in young adulthood, and then gradually declines 
+over the course of adulthood. Binge drinking (for a typical 
+adult, this corresponds to consuming five or more drinks 
+for men and four or more drinks for women in about two 
+hours) and high-intensity drinking (defined as alcohol 
+intake at levels twice or more the sex-specific threshold 
+for binge drinking) often begins or escalates in late 
+adolescence or early adulthood.  
+The earlier in life a person begins to use and misuse 
+alcohol, the greater the likelihood they will go on to 
+develop significant problems with alcohol. Furthermore, 
+early alcohol use has the potential to negatively impact brain development and increases the likelihood of 
+cognitive impairments and AUD. For these reasons, adolescents and young adults remain a central focus 
+of prevention research.  
+
+
+--- PAGE 21 matched=['Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 19 
+Social and environmental factors contribute to decisions about alcohol use throughout life and offer 
+opportunities for prevention. As young people progress through adolescence and into adulthood, there is 
+considerable variation in life experiences that can increase or decrease the likelihood of alcohol misuse. 
+Examples are related to factors such as home and school environment, social experiences (online and in 
+person), and opportunities and choices related to education and career.  
+Each of these factors provides opportunities for prevention efforts tailored to connect in meaningful ways 
+with young people who have varied experiences, beliefs, and access to resources. 
+Examples of research in this area that NIAAA encourages include:  
+• Creating and tailoring interventions for alcohol misuse for life stage and environment  
+• Improving prevention and early intervention through the use of validated biosensors and biomarkers, 
+including risk predictions of alcohol-associated disease development and progression using 
+biomarker signatures 
+• Developing or modifying underage drinking prevention strategies to integrate prevention of combined 
+use of other substances 
+• Evaluating strategies to prevent and reduce high-intensity drinking  
+• Evaluating the impact of social media on alcohol use and associated behaviors as well as the use of 
+social media and other digital technologies in the development of “in-the-moment” and other 
+innovative prevention interventions 
+• Using social media to provide evidence-based information about alcohol 
+• Developing prevention models to reduce family and cross-generational effects of alcohol misuse, 
+such as violence, child maltreatment, and other harms 
+• Designing and evaluating interventions to mitigate the effects of trauma and childhood adversity on 
+alcohol misuse and alcohol-related conditions, such as AUD 
+• Evaluating the impact of general health promotion strategies (whole person health, including effective 
+stress management and coping strategies) on alcohol misuse and AUD 
+• Creating interventions to reduce adverse alcohol-related outcomes among different populations 
+• Creating interventions for people in specific work environments who are at higher risk for alcohol 
+misuse due to work-related stress and trauma, such as first responders and health care providers  
+
+--- PAGE 22 matched=['Goal 4', 'Objective 3', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 20 
+Objective 3: Determine the Impacts of Policies on Alcohol Misuse, Health Effects, and 
+Acute Harms  
+Alcohol-related policies represent a population-level strategy that can affect all individuals within a 
+jurisdiction (e.g., federal, state, local, or institutional). A well-known example of an impactful alcohol policy 
+is the 1984 U.S. National Minimum Drinking Age Act, which led to the adoption of 21 as the legal age to 
+purchase or publicly possess alcohol in all states in 
+the United States. The change in drinking age was 
+associated with reductions in underage alcohol use 
+and related traffic fatalities among young people. 
+Policy research has revealed several other effective 
+environmental-level interventions that reduce  
+alcohol-related harms (see box).  
+NIAAA encourages ongoing and new efforts to 
+determine the impact of policies on alcohol misuse  
+and harms, such as: 
+• Examining effects of alcohol policies on alcohol-
+related morbidity, mortality, and risk behaviors, 
+including but not limited to intentional and 
+unintentional injuries, child and maternal health 
+outcomes, and chronic conditions 
+• Determining the differential effects of alcohol 
+policies, including across population subgroups 
+• Characterizing the effects of cannabis legalization 
+on alcohol misuse, co-use with other substances, 
+and related risk behaviors 
+• Evaluating the impact of new policies related to alcohol on alcohol-related behaviors or outcomes—
+these include additional labeling of alcohol containing products and other policies adopted during the 
+COVID-19 pandemic 
+• Evaluating the effects of social media marketing on underage drinking and related consequences, 
+such as motor vehicle crashes, intentional and unintentional injuries, and other alcohol-related 
+consequences (e.g., poor academic and work performance among youth) 
+Goal 4: Improve Diagnosis and Expand Treatment of Alcohol Use Disorder and 
+Alcohol-Related Conditions 
+To advance the treatment of alcohol-related conditions, NIAAA encourages research to refine 
+diagnosis, enhance treatment, sustain recovery, and ultimately, to reduce the treatment gap. 
+Alcohol-related health conditions are currently 
+underdiagnosed and undertreated. Less than 10%  
+of people with AUD receive any help despite the 
+availability of evidence-based pharmacological  
+and behavioral treatments.7 In addition, there are  
+no FDA-approved medications for ALD, and evidence-
+Environmental-level interventions include: 
+• Administrative license suspension 
+• 0.08% blood alcohol concentration law, 
+with zero tolerance for youth 
+• “Use and lose” laws to suspend or revoke 
+driver licenses for alcohol violations 
+• Restriction of adult provision of alcohol to 
+underage individuals 
+• Mandatory assessment for drivers with 
+alcohol-related traffic citations 
+• Dram shop and social host laws 
+• Increased alcohol taxes 
+• Reduced alcohol outlet density 
+• Responsible beverage service laws 
+• Laws restricting hours and days of  
+alcohol sales 
+NIAAA’s Long-Term Vision 
+To develop effective treatments that are 
+accessible to every person with an 
+alcohol-related health problem. 
+
+--- PAGE 23 matched=['Research Themes', 'Goal 4', 'Objective 1'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 21 
+based treatment strategies are also needed for other alcohol-associated conditions, such as FASD. 
+Developing, optimizing, and implementing evidence-based treatment strategies for AUD and alcohol-
+related conditions remain high priorities for NIAAA. Likewise, research to improve the early identification  
+and diagnosis of alcohol-related health issues to enhance treatment effectiveness are also important 
+NIAAA priorities. 
+As described under the Cross-Cutting Theme on Integrating care for alcohol-related problems,  
+AUD commonly co-occurs with other health conditions, including organ and tissue damage and mental 
+health conditions. Integrating treatment for AUD with treatment of co-occurring conditions related directly 
+or indirectly to alcohol use is an important step toward improving alcohol-related outcomes and  
+overall health. 
+Moreover, improved diagnostic techniques for FASD would enable more accurate diagnosis and earlier 
+intervention, offering a better chance for improved outcomes. The Cross-Cutting Research Program on 
+Fetal Alcohol Spectrum Disorders explores this research area.  
+Goal 4 research topics are integrally linked to the Cross-Cutting Research Themes. Examples of NIAAA 
+research priorities in this area include the following objectives. 
+Objective 1: Enhance Treatment Options for Alcohol Use Disorder and Related Conditions 
+Currently, there are three medications for AUD approved by the FDA, and they are effective and 
+important treatment aids. Still, given the multiple biological processes that contribute to AUD, new 
+medications are needed to provide a broader spectrum of treatment options.  
+Pharmacotherapy, especially when combined with behavioral interventions, is an effective, evidence-
+based component of AUD treatment. NIAAA encourages research to develop a larger number of 
+pharmaceutical treatments for AUD, because people deserve to choose from a range of evidence-based 
+treatment options that can be tailored to their individual needs. In addition, improving the precision of 
+diagnosis could improve patient outcomes. Because AUD is a complex, highly heterogeneous condition, 
+some individuals may, for example, respond best to a medication that helps with craving and relieves 
+impulsivity, whereas others may respond best to a medication that reverses the negative emotional state 
+of withdrawal or protracted withdrawal symptoms. 
+ALD, a spectrum of liver diseases caused by alcohol misuse, is the most common alcohol-related cause of 
+death. There are no FDA-approved medications for ALD, and current standard medical treatment, such as 
+steroids, may have significant side effects. Through the NIAAA-supported Alcohol-associated Hepatitis 
+Network, researchers can use and contribute to ALD research and gain insights into the causes and 
+treatments of ALD and integrated treatment of ALD and AUD. Development of drugs that act on multiple 
+molecular targets to reverse and prevent progression of liver damage and to reduce alcohol intake  
+can open new opportunities. Research may identify similar strategies for other alcohol-associated  
+organ damage.  
+AUD also frequently co-occurs with sleep, pain, and mental health disorders, such as anxiety disorders. 
+Medications to address these co-occurring conditions, in coordination with AUD, could vastly improve 
+health outcomes.  
+Developing effective pharmacotherapies to addr
+
+--- PAGE 24 matched=['Objective 2', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 22 
+• Harnessing computational and data science approaches to identify and evaluate biological, cognitive, 
+and behavioral markers, endophenotypes, and clinical characteristics that can be used to predict an 
+individual’s response to specific treatments or treatment combinations 
+• Developing biomarker and biomarker signatures to serve as surrogate endpoints for intervention 
+clinical trials and to improve clinical management of alcohol-associated health conditions  
+• Validating alternative outcome measures for alcohol pharmacotherapy trials that will be accepted by 
+the FDA for phase II and III trials 
+• Developing new or repurposing existing medications to treat AUD, ALD, and other alcohol-associated 
+organ dysfunction such as alcohol-associated pancreatitis and acute respiratory distress syndrome 
+• Using pharmacoepidemiological approaches to identify potential medication targets to either co-opt 
+existing medications for use in alcohol-related conditions or facilitating the development of new 
+medications, if necessary 
+• Leveraging high-throughput multi-omics, AI, machine learning, and other statistical approaches to 
+identify molecular signatures and other potential targets linked to pharmacotherapy for AUD 
+• Developing high-throughput screening platforms for discovery of medications to treat AUD  
+• Exploring new human laboratory paradigms that will help predict efficacy in clinical trials for AUD/ALD 
+medications development 
+• Assessing the impact of concurrent use of medications for AUD and other co-occurring disorders on, 
+for example, drug interactions and altered drug pharmacokinetics 
+• Exploring strategies to design innovative clinical trials to study one or more specific phenotype-
+targeted therapies in the context of co-occurring disorders in AUD patients 
+Objective 2: Improve and Expand Behavioral Health Strategies for Alcohol Use Disorder 
+NIAAA-supported research has generated an extensive evidence base supporting the effectiveness of 
+AUD behavioral health strategies that are commonly used today. This evidence has also informed the 
+treatment of other substance use disorders. However, at present, little is known about the effectiveness, 
+uptake, and implementation of evidence-based behavioral health strategies for AUD. 
+Incorporating new scientific discoveries and digital technologies can improve AUD behavioral health 
+strategies, contributing to more widespread use in clinical practice and greater acceptability and 
+accessibility for all patients. An increased focus on whole person health and treatment approaches 
+provides opportunities to enhance health and increase the reach of evidence-based therapies. 
+Translating research on the mechanisms and processes through which evidence-based behavioral 
+treatments work for individuals can inform the refinement of current therapies to be more effective as well 
+as inform the development of new behavioral treatments. 
+NIAAA encourages research to improve and expand behavioral health strategies for AUD—for example: 
+• Disseminating and implementing evidence-based behavioral health strategies in real-world treatment 
+and clinical practice settings 
+• Utilizing technologies (e.g., mobile devices, computers, and web-based applications) to enhance the 
+dissemination of evidence-based behavioral treatments 
+
+--- PAGE 25 matched=['Objective 3', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 23 
+• Exploring how health care professionals’ attention to patients’ religious and spiritual beliefs and 
+practices impact treatment and recovery from alcohol-related problems 
+• Conducting pragmatic and/or hybrid effectiveness clinical trials that evaluate evidence-based 
+behavioral health treatments in various real-world settings 
+Objective 3: Advance Research on Recovery From Alcohol Use Disorder 
+NIAAA is dedicated to supporting research that explores the complex, individualized nature of recovery 
+from AUD. Just as there are varying manifestations of AUD, there is no single path to recovery. Whereas 
+some people with AUD recover quickly and with minimal intervention, others need longer or more intense 
+treatments and support. Research to identify and characterize the risk, resilience, and other factors  
+that contribute to long-term recovery, including factors that allow some people to recover without  
+formal treatment, can inform interventions to reduce the risk of a return to drinking and facilitate  
+sustained recovery.  
+To bring clarity to the concept of recovery and to improve consistency across recovery research,  
+NIAAA has developed an operational definition of recovery from AUD. The definition involves remission 
+from AUD and cessation from heavy drinking, which are associated with improvements in dimensions of  
+well-being, quality of life, and biopsychosocial functioning. NIAAA will continue to support research that 
+evaluates the efficacy and effectiveness of treatment strategies that impact long-term recovery, 
+particularly using components outlined in NIAAA’s recovery definition. The generation and analysis of 
+large treatment and recovery data sets that track long-term recovery, with follow-up timepoints after 
+treatment, will be crucial in advancing recovery research. 
+Continuing care models and other comprehensive recovery support systems hold promise for sustaining 
+longer-term recovery. These systems often include community-based services and supports that aim to 
+improve the overall well-being of individuals and build upon critical strengths and resources of individuals, 
+families, and communities.  
+NIAAA encourages research to enhance knowledge about recovery from AUD and to inform the 
+development and implementation of effective strategies to support sustained recovery—for example: 
+• Identifying the role of different components of short- and long-term recovery programs  
+(e.g., behavioral treatments, medications, inpatient or outpatient treatment, long-term follow-up)  
+using NIAAA’s definition of recovery 
+• Identifying the potential moderating factors in the trajectories of recovery among sub-populations  
+and individuals with co-occurring  
+health conditions 
+• Defining and assessing dimensions of functioning, quality of life, and well-being that are integral to 
+sustained recovery, as well as identifying reliable and valid measures of these constructs that can be 
+feasibly adopted in clinical practice 
+• Exploring the neurobiological, medical, psychological, behavioral (e.g., self-regulation), environmental, 
+social, spiritual, and other quality-of-life mechanisms that influence and enhance recovery 
+• Evaluating the efficacy and effectiveness of continuing care models and recovery-oriented systems  
+of care in the treatment of and recovery from AUD 
+
+--- PAGE 26 matched=['Objective 4', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 24 
+• Leveraging digital health technologies to facilitate recovery and monitor long-term changes  
+in outcomes 
+• Investigating the role of understudied mutual support groups and of spirituality and religion in 
+recovery from AUD 
+• Investigating the value of AI approaches to developing algorithms for recovery 
+• Exploring how an individual’s engagement in the community (e.g., religious, civic, and occupational 
+activities) supports recovery from alcohol and other substances, and how and when health care 
+practitioners should support community engagement among individuals in recovery  
+Objective 4: Reduce Barriers to Effective Treatment 
+Bridging the gap between individuals who need alcohol 
+treatment and individuals who seek and receive 
+treatment represents a persistent public health 
+challenge. Although evidence-based alcohol treatments 
+exist, there are barriers to effective treatment. These 
+barriers include stigma, reduced access to care, fear of 
+punishment or criminalization, lack of health care 
+coverage/payment options, employment, lack of child 
+care, and lack of awareness of a need for care or of the 
+availability of evidence-based care options, along with 
+the misconception that treatment does not work. 
+Populations such as individuals who are in the criminal 
+justice system, are incarcerated, are unhoused, or have 
+disabilities, face unique and intersecting barriers to treatment. Furthermore, evidence-based treatments 
+are often not disseminated or implemented in real-world settings. 
+Health care providers are in a prime position to prevent and address alcohol-related health problems,  
+yet many are unfamiliar with the full range of available evidence-based alcohol prevention strategies, 
+diagnostic tools, or treatment interventions or may be uncomfortable using them because of stigma or 
+lack of training. In addition, as alcohol misuse contributes to and exacerbates other mental and physical 
+health issues, addressing alcohol in the context of routine health care provides the opportunity to reach 
+more individuals, prevent alcohol-specific and alcohol-related health problems before they develop, and 
+identify, diagnose, and address alcohol problems before they become severe.  
+NIAAA supports efforts to improve care for alcohol-related health issues in a broad range of settings and 
+for use by the full range of professionals involved in treatment. For example, NIAAA developed the 
+Healthcare Professional’s Core Resource on Alcohol (HPCR) to provide the basics of what every health 
+care professional needs to know about alcohol, including the many ways that alcohol can impact a 
+patient’s health, and strategies for prevention and treatment. In the future, NIAAA aims to increase the 
+dissemination of the HPCR to medical and other health care professional schools, health plans, and a 
+broad range of health care professionals in practice. 
+NIAAA encourages research and other activities to increase the integration of evidence-based 
+interventions for alcohol-related problems in a broad range of health care settings and that improve 
+access to alcohol-related health care services for all—for example: 
+
+
+--- PAGE 27 matched=['Research \nThemes', 'Goal 1', 'Objective 1'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 25 
+• Evaluating strategies at various levels (e.g., individual, societal) to increase education about the need 
+for alcohol care and to reduce the stigma of alcohol-associated health problems, with the ultimate 
+goal of encouraging appropriate, evidence-based care 
+• Enhancing the dissemination, implementation, adoption, adaptation, and sustainment of evidence-
+based alcohol screening and treatment strategies and longer-term support in real-world treatment 
+settings, including nontraditional settings (e.g., faith-based organizations, shelters for the unstably 
+housed and victims of domestic violence, and agencies for child and family services) 
+• Identifying and reducing barriers that keep underserved and other populations from seeking and 
+receiving appropriate alcohol-related health care, including challenges with access and affordability 
+• Understanding the cost and cost-effectiveness of treatment interventions and exploring ways to make 
+treatment more affordable 
+• Exploring health care models that promote collaboration between primary care and specialty  
+care providers to improve implementation of evidence-based approaches and provide ongoing  
+follow-up services 
+• Exploring and promoting mechanisms to integrate diagnosis and management of AUD with  
+co-occurring mental health disorders and other health conditions  
+• Expanding affordable and accessible screening, diagnosis, and treatment options in populations, 
+especially among people at risk for alcohol misuse and AUD such as individuals in the  
+criminal justice system, in the child and family services system, in college, and in certain high  
+stress workplaces 
+Supporting the Mission 
+While funding innovative research is essential to achieving the NIAAA mission, NIAAA recognizes the 
+importance of building a robust research capacity and serving as a responsible steward of public 
+resources. This section is integral to the success of the Research Goals, Cross-Cutting Research 
+Themes, and Cross-Cutting Research Programs sections of this strategic plan. 
+Goal 1: Building a Robust Research Capacity  
+NIAAA’s ability to pursue its research priorities is supported by the commitment to building and sustaining 
+a robust research capacity. At the core of NIAAA’s efforts to build research capacity are cultivating a 
+talented scientific and administrative workforce to advance research to the next frontier and maximizing 
+NIAAA research resources and infrastructure to promote discovery. 
+Objective 1: Enhancing and Sustaining the Alcohol Research Workforce  
+The workforce of the alcohol research enterprise is its greatest asset and the key to its success. 
+Cultivating and sustaining a robust, highly skilled, scientific and administrative workforce is a major 
+NIAAA priority. A thriving workforce enables NIAAA and the alcohol research enterprise to effectively 
+adapt to change, tackle complex challenges, and make use of emergent opportunities in a rapidly 
+evolving research landscape.  
+Sustained scientific progress requires investment in the next generation of researchers. NIAAA will 
+continue to prioritize research training and career development programs that foster a talented 
+
+--- PAGE 28 matched=['Objective 2', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 26 
+biomedical workforce for today and for the future. To strengthen its training programs, NIAAA will  
+focus on: 
+• Expanding outreach about NIAAA and NIH research training programs and opportunities to 
+communities and early-stage investigators 
+• Collaborating with NIH partners on training funding opportunities that advance the alcohol  
+research workforce 
+• Developing and implementing best practices for NIAAA’s research training programs 
+• Identifying strategies to assess training outcomes  
+NIAAA’s intramural research training program will also continue to provide robust training opportunities to 
+emerging scientists from all backgrounds.  
+Internally, NIAAA will continue to maintain a strong leadership team, enhance efforts to effectively 
+leverage the strengths of NIAAA staff, provide training and career development opportunities to develop 
+their skills and talents, and cultivate a positive and collaborative environment.  
+Objective 2: Supporting Research Resources and Infrastructure 
+The scientific workforce’s ability to advance biomedical and behavioral research depends on access to 
+state-of-the-art resources and infrastructure that maximize their research potential.  
+NIAAA supports Alcohol Research Centers across the United States that serve as regional or national 
+research resources and as incubators for collaborative studies that contribute to the development of new 
+research methods, technologies, and approaches that sustain innovative goal-directed research. These 
+centers have historically served as seeds for the development of researchers in the alcohol research field 
+in different geographical regions that have limited ongoing alcohol research. NIAAA also supports 
+research consortia, which conduct collaborative, interdisciplinary research among widely distributed 
+research institutions. NIAAA-supported research centers and consortia serve as models for optimizing 
+research resources and infrastructure, and as resources for data, biospecimens, tools, expertise, and 
+training in the alcohol research field more broadly. NIAAA’s Alcohol Research Resource (R24 and R28) 
+Awards program supports investigator-initiated projects that develop research resources for the broader 
+alcohol research community and represent NIAAA efforts to accelerate alcohol-related research in a  
+cost-effective manner. 
+NIAAA’s Intramural Research Program (IRP) provides a unique environment for stimulating cutting-edge, 
+innovative basic, translational, and clinical research on AUD and other alcohol-related problems.  
+This includes a clinical research facility on the NIH main campus that hosts an outpatient clinic and an 
+inpatient unit for treatment and research. The NIAAA IRP’s ability to generate groundbreaking 
+technologies and advances to be shared for use by the alcohol research field is a particular strength of 
+the program.  
+To promote data sharing and accelerate the pace of discovery, NIAAA established the NIAAA Data 
+Archive, which houses and shares de-identified data from human participants in NIAAA-funded research. 
+The NIAAA Data Archive is maintained within the larger NIMH Data Archive, which comprises a 
+harmonization and sharing infrastructure that facilitates transparency, rigor, and reproducibility of 
+scientific research.  
+
+--- PAGE 29 matched=['Goal 2', 'Objective 1', 'Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 27 
+Goal 2: Serving as a Responsible Steward of the Public’s Investment  
+As a federal agency, NIAAA works continually to uphold the values of responsible stewardship, research 
+integrity, and public trust. These values are reinforced by NIAAA’s commitment to optimal management 
+and accountability, strategic collaboration, and communication of research results.  
+Objective 1: Ensuring Optimal Management and Accountability 
+NIAAA strives to continually optimize operations across its administrative and scientific functions through 
+sound, data-driven business practices. NIAAA also engages in risk management to proactively identify 
+and mitigate risks to the institute’s research objectives, including risks to patient safety. For example, 
+NIAAA recently developed a serious adverse event (SAE) reporting tool to capture SAEs that occur in 
+NIAAA-funded clinical trials. This tool will allow NIAAA to m itigate future risks in studies with similar 
+parameters, interventions, or study populations.  
+NIAAA develops research programs and initiatives based on scientific needs and opportunities as well as 
+budget considerations. Concepts for initiatives are presented publicly to the National Advisory Council on 
+Alcohol Abuse and Alcoholism for feedback on the merit of the initiative as well as clearance to move 
+forward. Proceedings of National Advisory Council meetings and concept descriptions are available to the 
+public online. This process not only enhances transparency in NIAAA’s operations but also provides the 
+research community and NIAAA’s constituents additional insight into the institute’s research directions 
+and priorities. Such transparency encourages participation of NIAAA’s constituents in shaping the 
+directions and goals of NIAAA’s mission. 
+NIAAA demonstrates effective stewardship by funding research proposals that are deemed highly 
+meritorious through scientific peer review. NIAAA uses a rigorous, two-level scientific peer review 
+process that emphasizes fairness and accountability in funding decisions and prioritizes scientific ideas 
+with the greatest potential to advance the NIAAA mission. The outcomes of peer review inform NIAAA’s 
+funding decisions, which also consider portfolio balance, scientific opportunity, public health needs, 
+budget, and other priorities. To promote optimal stewardship in this domain, NIAAA will continue to 
+identify and recruit a pool of scientific peer reviewers based on career stage and geographic region,. 
+NIAAA will also continually assess and improve its funding procedures to ensure efficient, seamless 
+awards management. 
+In support of NIH’s focus on improving rigor and reproducibility of research, NIAAA emphasizes the 
+importance of robust and unbiased experimental design, methodology, analysis, interpretation,  
+and reporting of results in NIAAA-supported research. This includes standardization of animal models 
+across NIAAA’s Alcohol Research Centers and Consortia, transparency in reporting experimental details 
+so that others can reproduce and extend the findings, and adequate inclusion of females into 
+appropriately powered research designs for both animal and human studies. NIAAA will be focusing on 
+ke
+y challenges in data management and sharing, such as developing common data elements for 
+preclinical and clinical research, participating with data repositories and knowledge bases, and facil
+
+--- PAGE 30 matched=['Objective 2', 'Strategic Plan', 'research areas'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 28 
+Objective 2: Collaborating Across the National Institutes of Health and Beyond to Address 
+Common Challenges 
+Alcohol misuse affects virtually every tissue and organ in the body and is associated with more than  
+200 diseases and injury-related conditions. For this reason, coordination of efforts related to shared 
+research interests across NIH and other federal agencies is a key strategy for efficiently responding to 
+complex alcohol-related problems and maximizing research resources. NIAAA coordinates on various 
+research areas, including the following examples. 
+Adverse effects of alcohol on health. NIAAA collaborates with NIH institutes, centers, and offices  
+on a wide range of topics, such as cancer, liver cirrhosis, Alzheimer’s disease and related dementias,  
+sex differences and women’s health research, maternal health, health disparities research, wearable 
+biosensors, and data sharing and management. In the IRP, NIAAA jointly supports the Center on 
+Compulsive Behaviors and will jointly launch the National Taste and Smell Center. 
+Fetal alcohol spectrum disorder. NIAAA sponsors and chairs the Interagency Coordinating Committee 
+on Fetal Alcohol Spectrum Disorders, which coordinates communication and collaboration on issues 
+related to prenatal alcohol exposure across NIH ICs (i.e., Eunice Kennedy Shriver National Institute of 
+Child Health and Human Development, National Institute on Drug Abuse [NIDA]), and NIMH and  
+HHS agencies. 
+Prevention and treatment of substance misuse. NIAAA partners with NIDA and the National Cancer 
+Institute through the Collaborative Research on Addiction at NIH (CRAN), which integrates resources and 
+expertise to advance research on substance use and related consequences. A major CRAN-led initiative 
+is the Adolescent Brain Cognitive Development® Study, the largest long-term study of brain development 
+and child health in the United States. NIAAA also participates in advancing the HEALthy Brain and Child 
+Development Study, which aims to better understand brain development during childhood. NIAAA also 
+participates in the Interagency Coordinating Committee on the Prevention of Underage Drinking, led by 
+the Substance Abuse and Mental Health Services Administration, which coordinates federal activities 
+related to the prevention of underage drinking. 
+Neuroscience research. NIAAA participates in the NIH Blueprint for Neuroscience Research,  
+a collaborative framework that confronts neuroscience challenges that are too large for any single  
+NIH institute, center, or office. As part of the Brain Research Through Advancing Innovative 
+Neurotechnologies® Initiative, NIAAA provides support with other NIH ICs to develop cutting-edge tools 
+that will contribute to an enhanced understanding of brain disorders. 
+Pain research. Understanding the relationship between alcohol and pain is an important area of 
+research that may have implications for numerous health conditions. NIAAA participates in the Helping to 
+End Addiction Long-term® Initiative, an NIH-wide effort to speed scientific research to address the opioid 
+crisis by better addressing pain, opioid misuse, AUD, and other substance use disorders. NIAAA also 
+participates in the NIH Pain Consortium.  
+External partnerships. In addition to research collaborations, NIAAA leverages partnerships with 
+professional, patient, advocacy, and community organiza
+
+--- PAGE 31 matched=['Objective 3', 'Strategic Plan', 'mission'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 29 
+Objective 3: Communicating Research Results and Evidence-Based Information to 
+the Public 
+To promote responsible stewardship, NIAAA communicates research findings to the public and translates 
+scientific findings into resources that the public can use. These efforts are vital to the NIAAA mission 
+because they raise awareness of alcohol’s adverse effects on health and empower individuals, 
+professionals, and communities with evidence-based resources to address alcohol-related challenges. 
+Together, these steps can help to reduce the stigma that often prevents people impacted by alcohol 
+misuse from seeking help and support. Importantly, the communication of research results demonstrates 
+progress in advancing research.  
+The goals of NIAAA’s communications and outreach programs are to develop and evaluate content and 
+activities that disseminate unbiased science information and position NIAAA as an authoritative source of 
+credible health messaging. This work encompasses news media, social media, strategic partnerships, 
+and the creation of educational and information resources for varied audiences. These resources include 
+websites such as the Alcohol Treatment Navigator, which helps individuals identify and find quality AUD 
+treatment for themselves or a loved one, and Rethinking Drinking, which assists people in evaluating their 
+relationship with alcohol. NIAAA also developed the HPCR to assist health care professionals with 
+preventing, identifying, and treating alcohol-related problems, as well as various school-based resources 
+to facilitate the prevention of underage drinking.  
+NIAAA also prioritizes communicating research results and providing data to stimulate new research. 
+Examples include Alcohol Research: Current Reviews, an open-access, peer-reviewed scientific journal, 
+and the Alcohol Policy Information System, a database of alcohol-related policies at the state and federal 
+levels and policies on the recreational use of cannabis.  
+Going forward, NIAAA will continue to create and promote educational materials for addressing alcohol 
+misuse and AUD in various settings. NIAAA will also pursue innovative ways to connect with the public  
+so that they have access to research findings to make informed choices about alcohol use. NIAAA will 
+continue to translate its products into multiple languages to increase access to evidence-based 
+information and to engage in strategic partnerships that extend the reach of NIAAA-supported research 
+findings and information resources. 
+ 
+1 Centers for Disease Control and Prevention (CDC). Alcohol and Public Health: Alcohol-Related Disease Impact. [Table], 
+Annual average for United States 2020–2021 alcohol-attributable deaths due to excessive alcohol use, all ages. [cited 2024  
+Mar 15]. Available from: https://nccd.cdc.gov/DPH_ARDI/Default/Report.aspx?T=AAM&P=F1F85724-AEC5-4421-BC88-
+3E8899866842&R=EACE3036-77C9-4893-9F93-17A5E1FEBE01&M=7F40785C-D481-440A-970F-50EFBD21B35B&F=&D= 
+2 National Center for Health Statistics Mortality Data on CDC WONDER. Current final multiple cause of death data, 2018–2021. 
+[Internet]. U.S. Department of Health and Human Services; 2023 Sept [cited 2023 Feb 9]. Available from: 
+https://wonder.cdc.gov/mcd.html 
+3 National Center for Statistics and Analysis, National Highway Traffic Safety Administration. Overview of motor vehicle crashes 
+in 2021 [Internet]. 
+
+--- PAGE 32 matched=['Strategic Plan'] ---
+ 
+ 
+ 
+National Institute on Alcohol Abuse and Alcoholism Strategic Plan: Fiscal Years 2024–2028 30 
+ 
+5 Islami F, Sauer AG, Miller KD, Siegel RL, Fedewa SA, Jacobs EJ, McCullough ML, Patel AV, Ma J, Soerjomataram I, Flanders 
+WD, Brawley OW, Gapstur SM, Jemal A. Proportion and number of cancer cases and deaths attributable to potentially 
+modifiable risk factors in the United States. CA Cancer J Clin. 2018 Jan;68(1):31-54. doi:10.3322/caac.21440. Epub 2017 Nov 
+21. PubMed PMID: 29160902 
+6 Substance Abuse and Mental Health Services Administration (SAMHSA), Center for Behavioral Health Statistics and Quality. 
+2022 National Survey on Drug Use and Health. Table 5.9A—Alcohol use disorder in past year: among people aged 12 or older; 
+by age group and demographic characteristics, numbers in thousands, 2021 and 2022. [cited 2023 Dec 8]. Available 
+from: https://www.samhsa.gov/data/sites/default/files/reports/rpt42728/NSDUHDetailedTabs2022/NSDUHDetailedTabs2022/NS
+DUHDetTabsSect5pe2022.htm#tab5.9a  
+7 SAMHSA, Center for Behavioral Health Statistics and Quality. 2022 National Survey on Drug Use and Health. Table 5.32B—
+Received substance use treatment in past year: among people aged 12 or older; by age group and past year drug use disorder, 
+past year alcohol use disorder, past year drug and alcohol use disorder, and past year substance use disorder, percentages, 
+2021 and 2022. [cited 2023 Dec 13]. Available from: 
+https://samhsa.gov/data/sites/default/files/reports/rpt42728/NSDUHDetailedTabs2022/NSDUHDetailedTabs2022/NSDUHDetTa
+bsSect5pe2022.htm?s=5.32&#tab5.32b 
+8 White AM, Slater ME, Ng G, Hingson R, Breslow R. Trends in alcohol-related emergency department visits in the United 
+States: results from the Nationwide Emergency Department Sample, 2006 to 2014. Alcohol Clin Exp Res. 2018 Feb;42(2):352-
+9. doi: 10.1111/acer.13559. Epub 2018 Jan 2. PubMed PMID: 29293274 
+9 Case A, Deaton A. Rising morbidity and mortality in midlife among white non-Hispanic Americans in the 21st century. Proc Natl 
+Acad Sci U S A. 2015 Dec 8;112(49):15078-83. doi: 10.1073/pnas.1518393112. Epub 2015 Nov 2. PubMed PMID: 26575631 
+ 
+ 

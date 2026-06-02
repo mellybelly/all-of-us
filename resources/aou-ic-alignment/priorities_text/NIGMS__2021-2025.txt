@@ -1,0 +1,984 @@
+# NIGMS (2021-2025) — file: NIGMS_Strategic_Plan_2021-2025.pdf
+# 24 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+1 
+ 
+U.S. Department of Health and Human Services 
+ 
+Basic Discoveries for Better Health 
+National Institute of General 
+Medical Sciences 
+5-Year Strategic Plan 
+2021-2025 
+May 2021 
+Revised March 2025 to comply with all 
+relevant Executive Orders  
+
+--- PAGE 2 matched=['Goal 1', 'Objective 1', 'Scientific Priorit'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+2 
+ 
+Table of Contents 
+Message from the NIGMS Director .................................................................................. 4 
+NIGMS Profile ................................................................................................................. 5 
+Introduction .................................................................................................................... 7 
+Mission Statement .......................................................................................................... 8 
+Organizational Structure ................................................................................................. 8 
+Cross-Cutting Themes ...................................................................................................... 9 
+Scientific Priorities, Goals, and Objectives ..................................................................... 10 
+ 
+Goal 1: Sustain Strong Support for Investigator-Initiated Research .......................... 10 
+Objective 1‐1: Invest in and sustain a portfolio of highly meritorious fundamental biomedical research.
+ ............................................................................................................................................................. 10 
+Objective 1‐2: Promote the ability of individual investigators to pursue new research directions, novel 
+scientific insights, and innovative ideas. .............................................................................................. 11 
+ 
+Goal 2: Invest in the Development of a Skilled 21st Century Biomedical Research 
+Workforce .............................................................................................................. 12 
+Objective 2‐1: Support highly effective, evidence-informed research training at all stages of the 
+biomedical research training and career development pathway......................................................... 12 
+Objective 2‐2: Promote and enable the enhanced utilization of data in the development, assessment, 
+and pursuit of research training outcomes. ......................................................................................... 13 
+ 
+Goal 3: Enhance Research Capacity and Enable Access to Critical Research Resources
+ .............................................................................................................................. 14 
+Objective 3‐1: Support access to essential research resources and the development of new technologies 
+that enable novel scientific advances. ................................................................................................. 15 
+Objective 3‐2: Catalyze the development of institutional research capacities, particularly in traditionally 
+underserved states, regions, communities, and institutions. ............................................................... 16 
+ 
+Serving as an Efficient and Effective Steward of Public Resources .................................. 18 
+ 
+Goal 4: Advance the Public’s Understanding of NIGMS-Supported Research, Training, 
+and Capacity Building Programs and the Critical Role of Basic Biomedical Research. 18 
+Objective 4‐1: Leverage a broad range of outreach approaches and resources to disseminate accurate, 
+timely, and clear information about NIGMS goals, activities, results, and returns on investment to the 
+public. ...........................................................................................
+
+--- PAGE 3 matched=['Objective 5', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+3 
+ 
+Objective 5‐3: Enhance the collection, analysis, and utilization of data to iteratively assess, evaluate, and 
+optimize NIGMS operations. ................................................................................................................ 20 
+Objective 5‐4: Continue to enhance and evolve NIGMS information systems, technologies, and related 
+infrastructures to ensure maximal security and utility. ....................................................................... 21 
+Objective 5‐5: Develop and optimize cooperative and synergistic partnerships with other NIH institutes 
+and centers, other federal agencies, and other organizations. ............................................................ 22 
+ 
+Priority Setting ....................................................................................................... 23 
+ 
+Closing ................................................................................................................... 23 
+ 
+Description of Strategic Plan Development Process ....................................................... 23 
+Development and Dissemination of 2021-2025 Strategic Plan Framework ............... 23 
+Development and Dissemination of the Final 2021-2025 Strategic Plan ................... 23 
+ 
+  
+
+--- PAGE 4 matched=['Strategic Plan', 'goals and objectives', 'vision'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+4 
+ 
+Message from the NIGMS Director 
+I am pleased to present the 2021-2025 National Institute of 
+General Medical Sciences (NIGMS) strategic plan. This forward-
+looking document reflects the Institute’s priorities and activities 
+in pursuit of its mission  and builds upon the successes of the 
+Institute’s prior strategic plan. It lays out the goals, objectives , 
+and implementation strategies that the Institute —in 
+partnership with the scientific community at extramural 
+research institutions , professional societies , and other federal 
+agencies—will engage in over the next 5 years. It also provides 
+snapshots of specific priorities and associated targets to ensure 
+that the Institute demonstrates transparency in the pursuit of 
+its goals and objectives.  
+ 
+NIGMS-funded scientists investigate how living systems work at 
+a range of levels, from molecules and cells to tissues, whole organisms , and populations. 
+Investments in these diverse and fundamental areas of biomedical research serve as the 
+foundation for subsequent disease- and organ-specific discoveries and advances. Our ability 
+to effectively treat, diagnose, manage , and ultimately cure diseases requires an 
+understanding of their underlying mechanisms and biology. For example, the outcomes of 
+NIGMS’ investments in fundamental biomedical research have resulted in 90 Nobel prizes—
+47 in chemistry and 43 in physiology or medicine. 
+ 
+NIGMS was established in 1962 with a $124.6 million budget (Pub. L. 87-838, 76 Stat. 1072). In 
+Fiscal Year (FY) 2020, the Institute’s budget was $2.9 billion. Most of this appropriation goes 
+into local economies through grants t hat support  individual investigators and trainees at 
+universities, medical schools, hospitals , and other research institutions throughout the 
+country. NIGMS takes its role as a steward of taxpayer dollars very seriously and thus works 
+to invest its resources in a manner that maximizes scientific impact and productivity,  safety, 
+efficiency, transparency, and accountability.  
+ 
+As indicated in this strategic plan, the Institute places great emphasis on supporting a wide 
+range of investigator-initiated research grants that unleash the creativity and energy of 
+investigators across the country to solve important biomedical problems. A key tenet of the 
+Institute’s vision is that by supporting a broad and diverse portfolio of scientific topics, 
+approaches, investigators , and institutions, we maximize the opportunities for 
+breakthroughs and build the strongest foundation possible on which future advances in 
+medical practice will be built. An important part of achieving this goal is to support the next 
+generation of scientists, who will conduct the breakthrough work of the future. D ue in part 
+to the successful introduction of the R35 Maximizing Investigators’ Research Award (MIRA) 
+grant mechanism in FY 2016, the number of new research project grants awarded by NIGMS 
+to early stage investigators (ESIs) increased from 128 in FY 2015 to 264 in FY 2020.  
+Jon R. Lorsch, Ph.D.  
+Director, NIGMS 
+
+--- PAGE 5 matched=['Strategic Plan', 'mission'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+5 
+ 
+ 
+NIGMS research training programs are built upon recognition of the interdisciplinary nature 
+of biomedical research and thus emphasize experiences that cut across multiple fields of 
+inquiry.  
+ 
+Certain NIGMS training programs address areas in which there are critical needs  such as 
+effective mentorship. Other programs aim to strengthen the research process by engaging 
+individuals from different scientific disciplines and skills earlier along the biomedical career 
+pathway. 
+ 
+In addition, the Institute provides funding to research centers that support critical research 
+resources used by the scientific community or that build research capacities in states that 
+have historically received lower levels of NIH funding. In all its investments, and in line with 
+agency-wide efforts, NIGMS continues to stress the critical importance of rigor, 
+reproducibility, and transparency in all biomedical pursuits. 
+ 
+As NIGMS continues its work over the next 5 years, it does so with an ongoing commitment 
+to public service, the careful stewardship of taxpayer funds , and a focus on achieving 
+important outcomes such as those documented in this strategic plan. Recognizing that the 
+achievement of such outcomes cannot occur in isolation, NIGMS maintains its commitment 
+to pursue its mission in an atmosphere of open dialogue, collaboration , and shared 
+responsibility with the scientific community and general public. 
+Jon R. Lorsch, Ph.D.  
+Director 
+National Institute of General Medical Sciences  
+National Institutes of Health 
+U.S. Department of Health and Human Services 
+NIGMS Profile 
+ 
+ 
+NIGMS Profile 
+Year Established 1962 
+FY 2020 Budget $2.9 billion 
+FY 2020 Supported Investigators >5,500  
+
+--- PAGE 6 matched=['Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+6 
+ 
+FY 2020 Newly Funded  
+Early Stage Investigators 
+264 
+FY 2020 Funded Research Grants > 4,500 
+FY 2020 National Research Service Award-
+Supported Trainees 
+>4,000 
+Number of Grantees Who Have Won Nobel 
+Prizes Since 1962 
+90 
+ 
+Divisions 
+ 
+• Biophysics, Biomedical Technology, and Computational Biosciences 
+• Data Integration, Modeling, and Analytics 
+• Extramural Activities 
+• Genetics and Molecular, Cellular, and Developmental Biology 
+• Management 
+• Pharmacology, Physiology, and Biological Chemistry 
+• Research Capacity Building 
+• Training and Workforce Development 
+ 
+  
+
+--- PAGE 7 matched=['Strategic Plan', 'mission'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+7 
+ 
+Introduction 
+Established in 1962, t he National Institute of General Medical Sciences (NIGMS) is a 
+component of the National Institutes of Health (NIH) in the U.S. Department of Health and 
+Human Services (HHS). NIGMS supports fundamental biomedical research —defining the 
+mechanisms of how biological systems work , which serves as the foundation for 
+advancements in nearly every area of medicine and public health. Thus, NIGMS-supported 
+research remains a critical driver of both scientific discovery and the U.S. economy. Keeping 
+the biomedical research enterprise healthy and flowing requires supporting a broad  and 
+diverse scientific research and training portfolio. NIGMS prides itself as a n efficient, 
+productive, and accountable  steward of taxpayer funds , particularly  in sustaining 
+investigator-initiated, fundamental biomedical research ; training the next generation of 
+scientists; developing institutional research capacities ; and supporting robust research 
+resources to meet the needs of the 21st century biomedical research enterprise.  
+ 
+NIGMS uses four major means to advance its mission: 
+• Awarding grants that support scientific research at colleges, universities, medical 
+schools, research institutes, and small businesses in areas directly relevant to the NIGMS 
+mission. This effort includes promoting the ability of a broad range of individual 
+investigators to pursue new research directions, novel scientific insights, and innovative 
+ideas to optimize the likelihood of making important scientific discoveries and advances.  
+• Supporting training and education awards that promote the development of a skilled and 
+talented biomedical research workforce. 
+• Administering p rograms that support the development of, and widespread access to, 
+high‐quality research resources and technologies that  are essential for research 
+advances. 
+• Building biomedical research  capacity in under ‐resourced institutions , regions,  and 
+states. 
+ 
+Through these activities, NIGMS plays a major role in advancing fundamental biomedical 
+research and maintaining a healthy research enterprise in every state in the nation as well 
+as in U.S. territories. 
+The NIGMS 2021-2025 strategic plan is a management tool that will be used by the Institute 
+to guide the efficient and effective use of taxpayer funds to extend the reach of fundamental 
+scientific knowledge to meet the challenges of a rapidly evolving biomedical research 
+landscape. 
+  
+
+--- PAGE 8 matched=['Strategic Plan', 'Mission'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+8 
+ 
+Mission Statement 
+NIGMS supports basic research that increases our understanding of biological processes and 
+lays the foundation for advances in disease diagnosis, treatment, and prevention. NIGMS 
+also supports research in specific clinical areas that affect multiple organ syste ms: 
+anesthesiology and peri -operative pain; clinical pharmacology common to multiple drugs 
+and treatments; and injury, critical illness, sepsis, and wound healing. NIGMS -funded 
+scientists investigate how living systems work at a range of levels—from molecules and cells 
+to tissues and organs —in research organisms, humans, and populations. Additionally, to 
+ensure the vitality and continued productivity of the research enterprise, NIGMS provides 
+leadership in supporting the training of the next generation of s cientists and developing 
+research capacity throughout the country. 
+Organizational Structure 
+NIGMS is organized into divisions that support research and research training in a range of 
+scientific fields . In the organizational chart below, m anagement and administration 
+components of the Institute are depicted in black and yellow, scientific divisions in blue, and 
+grants administration in green. The disciplines and areas in which the scientific divisions fund 
+research are also indicated.  
+ 
+Full descriptions of NIGMS’ divisions can be found on the NIGMS organization and staff webpage. 
+  
+
+--- PAGE 9 matched=['Cross-Cutting Theme', 'Strategic Plan', 'mission'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+9 
+ 
+Cross-Cutting Themes 
+Several aspects of NIGMS’ mission are not unique to any one goal or objective contained in 
+this strategic plan. Thus, NIGMS has identified key cross-cutting themes that span multiple 
+aspects of the Institute’s mission and operations.  
+ 
+Evaluating and Iteratively Optimizing NIGMS Programs and Portfolios 
+Through Data  
+ 
+Regularly performing analyses that support the effective administration of programs ensures 
+the efficient stewardship of taxpayer resources. Application of this principle is a central tenet 
+of NIGMS operations, as the Institute continues to support multiple types of programmatic 
+analyses (e.g., portfolio, descriptive, predictive) and evaluations (e.g., outcomes, process, 
+needs-based) that inform program and business process improvements and enhancements. 
+Analyses include activities such as data modeling that uses descriptive data as a baseline for 
+better, more accurate predictive analytical models of program function as well as  financial 
+forecasting. Commensurate with the principles of the Foundations for Evidence -Based 
+Policymaking Act , the results of evaluations of NIGMS programs and the ensuing actions 
+taken in response to their findings have been publicly posted. These efforts provide robust, 
+timely, contextually  appropriate data and other information that promote organizational 
+efficiency, transparency, and stewardship of public resources. 
+Over the next 5 years, NIGMS will continue to enhance its ability to collect and analyze data 
+related to its programs , initiatives, and business processes . The measurement of program 
+performance is a continuing challenge , given the many goals of differing grant programs 
+(e.g., funding scientific activities, provisioning research infrastructure, training students), 
+multiple stakeholders for every program, and a mix of quantitative and qualitative  data 
+collected over time. NIGMS will enhance efforts to strengthen its collection and analysis of 
+data regarding program performance  as well as expand the  breadth of its data sources, 
+analytic expertise, and in-house evaluative capacity.  In this regard, in FY 2020, NIGMS 
+reorganized its structure to elevate the former Office of Pro gram Planning, Analysis , and 
+Evaluation to a full division: the Division of Data Integration, Modeling, and Analytics. 
+ 
+Transparency and Communication 
+ 
+Robust strategies in transparency and communication are crucial  to the success of NIGMS’ 
+mission and scientific discovery. NIGMS employs a variety of communication strategies to 
+facilitate a reciprocal dialogue with its stakeholders and the general public , including live 
+broadcasts of the National Advisory General Medical Sciences Council open sessions, training 
+webinars, requests for information (RFIs), social media , online blogs, presentations at 
+conferences, and meetings with professional societies.  Moreover, the findings of NIGMS’ 
+reports and program evaluations, and the Institute’s actions taken in response to them, are 
+routinely posted on the NIGMS evaluation website. Through these varied methods, NIGMS 
+
+--- PAGE 10 matched=['Goal 1', 'Objective 1', 'Scientific Priorit'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+10 
+ 
+continues to proactively engage its stakeholders with transparency, accountability, and to 
+broaden the public’s understanding of NIGMS-funded scientific activities.  
+ 
+ 
+Scientific Priorities, Goals, and Objectives 
+Targets are exemplars and not inclusive of all NIGMS activities 
+(Unless otherwise indicated, targets will be completed by 2025) 
+Goal 1: Sustain Strong Support for Investigator-Initiated Research 
+Because scientific discoveries and technological breakthroughs usually come from 
+unexpected directions and are built on foundations of knowledge produced by many 
+researchers over decades, supporting a broad scientific portfolio of fundamental, 
+investigator-initiated research is critical for future advances in biomedicine and is central to 
+NIGMS’ mission. The Institute will continue to prioritize this aspect of its research portfolio 
+over the next 5 years. 
+Objective 1‐1: Invest in and sustain a portfolio of highly meritorious fundamental biomedical 
+research. 
+To maximize scientific opportunity  and discovery , NIGMS will continue to prioritize its 
+support of investigator-initiated research through a variety of grant mechanisms , including 
+collaborative team science, for studies of complex biomedical problems. NIGMS also 
+recognizes that early  stage investigators (ESIs) are a critical component of scientific 
+creativity, and support for ESIs continues to remain an Institute priority . These efforts will 
+shape and continually evolve a robust and productive biomedical research portfolio.  
+ 
+Implementation Strategies:  
+1. Prioritize funding for meritorious early career and other at -risk investigators (i.e., 
+those who otherwise would not have significant research support). 
+ 
+Target:  
+a. Meet or exceed NIH Next Generation Researchers Initiative targets yearly.  
+ 
+2. Continually assess and optimize the efficacy, distribution (e.g., scientific, 
+geographic, institutional), and impact of NIGMS investments by conducting regular 
+portfolio analyses and periodic evaluations of each Institute program. 
+ 
+Targets:  
+a. Ensure that at least 30% of NIGMS programs have been evaluated in the past 
+5 years. 
+b. Post a ll outcomes assessments and program evaluations on the NIGMS 
+website, along with descriptions of any changes made to the programs based 
+
+--- PAGE 11 matched=['Objective 1', 'Strategic Plan', 'research areas'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+11 
+ 
+on the findings. 
+ 
+3. Actively assess funding distribution to optimize the scientific productivity and 
+impact of the NIGMS portfolio. 
+ 
+Target: 
+a. Annually assess and publish NIGMS’ scientific funding trends through  the 
+NIGMS Feedback Loop blog. 
+ 
+4. Encourage robust research collaborations among multidisciplinary teams of 
+investigators through initiatives and activities that promote team science. 
+ 
+Targets:  
+a. Fund at least two new team science (RM1) grants or other awards aimed at 
+fostering team science per year.  
+b. Develop or participate in at least one new partnership with another federal 
+agency or external organization to encourage collaborations between 
+biomedical researchers and scientists, engineers, and/or other 
+professionals in fields outside of biomedical research.   
+ 
+5. Assess the Institute’s clinical research programs and use the results to ensure these 
+programs are optimally focused to promote rapid progress toward improved clinical 
+outcomes. 
+ 
+Targets: 
+a. Complete assessment of non-sepsis clinical areas. 
+b. Support at least one partnership with another NIH institute or center related 
+to one or more of NIGMS’ clinical research areas. 
+c. Launch and/or participate in at least three initiatives related to women’s 
+health and/or health disparities. 
+ 
+Objective 1 ‐2: Promote the ability of individual investigators to pursue new research 
+directions, novel scientific insights, and innovative ideas. 
+Biomedical research is a dynamic enterprise that creates opportunities to explore new ideas 
+and paradigms while questioning established ones. NIGMS will continue to utilize and 
+expand the MIRA grant mechanism , initially launched as a pilot in 2015, to provide 
+investigators with the flexibility to pursue new research directions as they arise  while 
+simultaneously enhancing the stability of overall support and reducing administrative 
+burden. MIRA also helps distribute funding broadly among the nation's highly talented and 
+promising investigators, including ESIs.  
+ 
+Implementation Strategies: 
+1. Continue to assess, expand, and enhance NIGMS’ MIRA program to ensure that it is 
+
+--- PAGE 12 matched=['Goal 2', 'Objective 2', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+12 
+ 
+meeting its intended objectives of promoting creative and ambitious research.  
+ 
+Targets: 
+a. Have at least 60% of the R01-equivalent pool be MIRAs. 
+b. Complete initial outcomes assessment for MIRA programs and continue to 
+gather information to conduct additional periodic assessments. 
+ 
+2. Strengthen the Institute’s ability to conduct in-depth analyses of the outcomes of its 
+investigator-initiated portfolio (e.g., R01, R35) and use this information to inform 
+current and future programmatic decisions. 
+ 
+Targets: 
+a. Conduct analyses of funding trends associated with NIGMS’ R01/R35 
+research portfolio at least  annually and publish the results in the NIGMS 
+Feedback Loop. 
+b. Develop at least two new methods for assessing the outcomes and impact of 
+investigator-initiated research. 
+ 
+Goal 2:  Invest in the Development of a Skilled 21st Century Biomedical 
+Research Workforce 
+NIGMS strongly believes that the scientific enterprise is best served by a research workforce 
+that incorporates various  scientific perspectives, skills, and disciplines. NIGMS supports 
+nearly half of all NIH‐sponsored predoctoral students in structured institutional training 
+programs across the country. NIGMS’ investments provide for  a geographically broad  
+training and workforce infrastructure  that collectively foster scientific innovation, enhance 
+global competitiveness, contribute to robust learning environments, improve the quality of 
+research, enhance public trust, and increase the likelihood that the health needs of all 
+populations are addressed in biomedical research.  
+ 
+Objective 2‐1: Support highly effective, evidence-informed research training at all stages of 
+the biomedical research training and career development pathway. 
+Training encompasses both formal research training from undergraduate education onward, 
+as well as  educational activities  that encourage students at the preK -12 level to pursue 
+science as a career. NIGMS will continue its educational investments to ensure that the 
+nation’s biomedical research needs are met, and will also support development of a robust 
+workforce by providing opportunities for students from all communities to consider careers 
+in basic, translational, or clinical research. 
+Implementation Strategies: 
+1. Promote the development and use of evidence -informed training and curricular 
+activities that keep pace with the rapidly evolving biomedical research enterprise. 
+
+--- PAGE 13 matched=['Objective 2', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+13 
+ 
+ 
+Targets: 
+a. Fund the development and dissemination of at least two freely available 
+online training modules in key areas per year. 
+b. Present at least 5 new, evidence-informed training and/or curricular activities 
+at every biennial  NIGMS Training and Workforce Development ( TWD) 
+program director’s meeting. 
+ 
+2. Support effective, evidence -informed programs that develop mentoring skills of 
+investigators and trainees.  
+ 
+Targets: 
+a. Ensure that all TWD funding opportunity announcements ( FOAs) emphasize 
+mentoring skill development and assessment. 
+b. Support development and dissemination of at least three freely available 
+online training modules about mentor skill development and assessment. 
+ 
+3. Emphasize quantitative and computational skills development in all TWD programs. 
+ 
+Targets: 
+a. Ensure that a ll TWD FOAs emphasize quantitative and computational skills 
+development by 2022. 
+b. Pilot at least three synergistic partnerships between TWD and Division for 
+Research Capacity Building ( DRCB) grantees and organizations with special 
+expertise and infrastructure (e.g., private sector, professional societies) to 
+accelerate student and faculty quantitative and computational skills 
+development. 
+ 
+Objective 2‐2: Promote and enable the enhanced utilization of data in the development, 
+assessment, and pursuit of research training outcomes. 
+NIGMS will continue to support improvements in collecting and using outcomes data by both 
+the Institute and the scientific community. This data driven approach will be used to 
+continuously identify and improve training outcomes. It also will increase the Institute’s  
+responsiveness to the changing  needs of the biomedical research workforce, avoids 
+duplication of effort, and enhances efficiencies in mentorship. 
+ 
+Implementation Strategies: 
+1. Further refine retrospective and prospective methods to collect outcomes data from 
+NIGMS research training and education activities.  
+ 
+Target: 
+a. Develop at least two significant new approaches for training outcomes 
+analysis. 
+
+--- PAGE 14 matched=['Goal 3', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+14 
+ 
+ 
+2. Provide resources to aid the training community in developing evaluation and 
+assessment capabilities.  
+ 
+Targets: 
+a. Launch at least one grants and/or administrative supplements initiative 
+to enable training programs to develop the knowledge, skills , and 
+infrastructure needed to conduct effective evaluations.  
+b. Present a t least two effective evaluation and assessment strategies at 
+each biennial TWD program director’s meeting.  
+ 
+3. Utilize a mix of quantitative and qualitative data to guide the development and 
+optimization of research training and education programs.  
+ 
+Targets: 
+a. Ensure that all TWD programs older than 10 years have been evaluated 
+at least once in the past decade. 
+b. Post all outcomes assessments and program evaluations on the NIGMS 
+website, along with descriptions of any changes made to the programs 
+based on the findings. 
+ 
+4. Develop tools to rapidly assess and visualize key metrics of support, such as funding 
+levels over time, geographic distribution, institution type, career stage, and 
+associated outcomes. 
+ 
+Target: 
+a. Build and deploy TWD trainee statistics and outcomes data dashboard. 
+ 
+Goal 3: Enhance Research Capacity and Enable Access to Critical Research 
+Resources 
+NIGMS seeks to advance the nation’s capabilities for biomedical research by enabling the 
+broadest possible community of scientists to create, expand, and apply knowledge that leads 
+to a deeper understanding of biological systems and, ultimately, the improvement of human 
+health. This effort includes providing access to research resources and ensuring that 
+investigators from a broad range of geographic regions and institutions are working at their 
+full potential. NIGMS will leverage multiple strategies to build research infrastructure and 
+capacity at academic institutions located in states that have historically received lower 
+aggregate levels of NIH funding and at resource-limited institutions . To achieve this aim, the 
+Institute will aid in the development and dissemination of new technologies and will work to 
+ensure access to them as research resources. Efforts will also include continued support of 
+research on the causes of and interventions to reduce health disparities in medically 
+
+--- PAGE 15 matched=['Objective 3', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+15 
+ 
+vulnerable communities, such as many rural communities. 
+ 
+Objective 3‐1: Support access to essential research resources and the development of new 
+technologies that enable novel scientific advances. 
+Cutting-edge technologies are critical enablers of biomedical research and discovery. NIGMS 
+will employ a multistage approach to support the full  continuum of research -enabling 
+technology development , from proof of concept to maturation and  commercialization 
+and/or utilization as a regional/national resource . The Institute continues to place a high 
+level of importance on the development, enhancement, and dissemination of a broad range 
+of cost‐effective, cutting‐edge, and productive research technologies across their lifespans. 
+ 
+Implementation Strategies:  
+1. Ensure strong support for the invention of transformative technologies to enable 
+biomedical research.  
+ 
+Targets: 
+a. Complete initial outcomes assessment of NIGMS technology development 
+R21 and R01 programs. 
+b. Increase the number of patents linked to NIGMS grants since 2015 by 10%. 
+c. Increase the number of start -up companies linked to NIGMS -funded 
+technology development since 2015 by 10%. 
+ 
+2. Expand the national availability and accessibility of research resources for 
+investigators from all types of academic institutions and organizations. 
+ 
+Targets: 
+a. Leverage the National and Regional Research Resource program  to support 
+access to at least five key technologies not currently accessible to most 
+NIGMS-funded researchers. 
+b. Increase the  majority of  the NIGMS National and Regional Research 
+Resources grants userbase over the 5-year period of their awards by at least 
+25%. 
+ 
+3. Expand data collection mechanisms for national and regional resources (e.g., 
+end-user utilization rates, frequencies).  
+ 
+Target: 
+a. Support at least five administrative supplements to resources to ward 
+testing of new methods of data collection and dissemination of best 
+practices.  
+ 
+4. Optimize the Institute’s support of small business research and development by 
+defining strategic priorities for commercial development, enabling access to 
+
+--- PAGE 16 matched=['Objective 3', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+16 
+ 
+entrepreneurial training and mentoring, and enhancing connections with other 
+parts of the NIGMS technology research and development portfolio. 
+ 
+Targets: 
+a. Complete evaluation of NIGMS’ small business and commercialization -
+support portfolio and programs. 
+b. Award at least 10 new SBIR/STTR grants to former/current princip al 
+investigators of NIGMS technology development R21s  or R01s, or 
+Biomedical Technology Development and Dissemination Centers. 
+c. Increase the number of patents linked to NIGMS grants since 2015 by 10%. 
+d. Increase the number of start -up companies linked to NIGMS -funded 
+technology development since 2015 by 10%. 
+ 
+Objective 3‐2: Catalyze the development of institutional research capacities, particularly in 
+traditionally underserved states, regions, communities, and institutions. 
+NIGMS is committed to programs focused on building research capacities at academic 
+institutions located in states that have historically received lower aggregate level s of NIH 
+funding. These programs support basic, translational, and clinical research; research training; 
+faculty development; and research infrastructure improvements to address specific health 
+needs of resource-limited, rural,  and/or medically underserved communities. In addition, 
+NIGMS will continue its aid and support to American Indian/Alaska Native tribes and tribally 
+based organizations, as well as to resource-limited institutions, in building robust research 
+and technological capacities that address challenging biomedical questions  and health 
+needs.  
+ 
+Implementation Strategies: 
+1. Support programs and initiatives that enhance entrepreneurial culture and 
+infrastructure in Institutional Development Award (IDeA)-eligible states. 
+ 
+Targets: 
+a. Achieve s uccessful recompetition of the IDeA State Technology Transfer 
+Accelerator Hubs program. 
+b. Develop and launch IDeA State Technology Transfer Accelerator Hubs 
+outcomes dashboard. 
+c. Increase SBIR/STTR grant applications from IDeA states since 2015  by at 
+least 10%. 
+d. Increase patents linked to NIH grants from IDeA states since 2015 by at least 
+10%. 
+ 
+2. Promote renewed support for basic research at IDeA state institutions.  
+ 
+Target: 
+a. Increase the number of Centers of Biomedical Research Excellence awards 
+
+--- PAGE 17 matched=['Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+17 
+ 
+with a basic science focus by 20%. 
+ 
+3. Enhance clinical research capacity in IDeA states and in federally recognized nations 
+of American Indians and Alaska Natives to help address the specific health challenges 
+and disparities faced by the communities in those states and tribal nations. 
+ 
+Target: 
+a. Establish and/or participate in one or more initiatives to promote the ability 
+of IDeA-state and tribally based researchers, institutions, and organizations 
+to participate in and conduct clinical trials. 
+ 
+4. Support effective, evidence-informed training and career-building programs that 
+develop mentoring skills of investigators and trainees. 
+ 
+Target: 
+a. Ensure that a ll DRCB FOAs involv ing a training component emphasize 
+mentoring skill development and assessment by 2023. 
+ 
+5. Strengthen training in quantitative and computational research and skills in all 
+NIGMS capacity building programs including IDeA, Support for Research 
+Excellence (SuRE), Native American Research Centers for Health ( NARCH), and 
+SEPA. 
+ 
+Targets: 
+a. Ensure that a ll DRCB FOAs involv ing a training component emphasize 
+quantitative and computational skills development by 2023. 
+b. Pilot at least three synergistic partnerships between TWD and DRCB grantees 
+and organizations with special expertise and infrastructure (e.g., private 
+sector, professional societies) to accelerate student and faculty quantitative 
+and computational skills development. 
+ 
+6. Enable iterative evaluations and assessments that allow for the continual 
+development and enhancement of NIGMS’ capacity building programs and 
+initiatives. 
+ 
+Targets: 
+a. Ensure that all DRCB programs older than 10 years have been evaluated at 
+least once in the past decade. 
+b. Post all outcomes assessments and program evaluations on the NIGMS 
+website, along with descriptions of any changes made to the programs 
+based on the findings. 
+  
+
+--- PAGE 18 matched=['Goal 4', 'Objective 4', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+18 
+ 
+Serving as an Efficient and Effective Steward of Public Resources 
+Goal 4: Advance the Public’s Understanding of NIGMS-Supported Research, 
+Training, and Capacity Building Programs and  the Critical Role of Basic 
+Biomedical Research 
+ 
+Robust, data-informed communication is a bedrock of scientific education, exploration, and 
+discovery. NIGMS employs a variety of communication strategies to inform and engage its 
+stakeholders and the general public. These strategies include RFIs and social media posts to 
+obtain stakeholder perspectives and feedback, press and governmental communications , 
+educational materials , and online resources for biomedical trainees  and investigators. By 
+implementing these strategies,  NIGMS continues to effectively advance the public’s 
+understanding of the vital role played by the Institute’s scientific investments in improving 
+public health and health outcomes.  
+ 
+Objective 4‐1: Leverage a broad range of outreach approaches and resources to disseminate 
+accurate, timely, and clear information about NIGMS goals, activities, results, and returns on 
+investment to the public. 
+NIGMS will continue to use a variety of communication approaches, channels, and 
+partnerships to develop and distribute information about scientific findings, the role of basic 
+research in scientific discovery, and the excitement of careers in science. These activities will 
+ensure that NIGMS’ mission and resources will be disseminated to all public sectors.   
+ 
+Implementation Strategies:  
+1. Disseminate information about NIGMS -funded programs and outcomes to 
+investigators and trainees at all career levels.  
+ 
+Target: 
+a. Increase the number of individuals signed up for Feedback Loop by at least 
+20%.   
+ 
+2. Leverage web and social media analytics as well as stakeholder feedback (e.g., RFIs ) 
+to broaden NIGMS’ communications strategies. 
+ 
+Target: 
+a. Increase user engagements with NIGMS outreach efforts by at least 10%. 
+ 
+3. Develop strategic partnerships with organizations that can provide access to 
+communities not currently reached through NIGMS’ outreach efforts (e.g., retirees). 
+ 
+Targets: 
+
+--- PAGE 19 matched=['Goal 5', 'Objective 4', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+19 
+ 
+a. Forge at least one new communications partnership. 
+b. Pitch at least five NIGMS-supported STEM and training resources per year to 
+external publications (e.g., society websites, trade journals, news outlets). 
+ 
+Objective 4‐2: Enhance transparency and accountability by continuing to engage in an open 
+dialogue with NIGMS stakeholders about the importance and impact of NIGMS priorities, 
+programs, processes, and policies. 
+NIGMS broadly disseminates information about its programs and policies and also invites 
+and responds to feedback from its constituents. NIGMS will continue a conversation with the 
+scientific community and other stakeholders through various avenues . These strategies will 
+ensure that NIGMS optimizes its investments on behalf of the scientific community and 
+general public.  
+Implementation Strategy: 
+1. Encourage and analyze feedback from the scientific community (e.g., RFIs), including 
+investigators and trainees at all levels, grantee organizations, scientific and 
+professional societies, and other stakeholders to ensure an open dialogue about 
+NIGMS priorities, programs, processes, and policies. 
+ 
+Targets: 
+a. Issue and analyze at least five RFIs related to NIGMS’ priorities, plans, and 
+programs. 
+b. Launch a campaign in partnership with key professional societies to promote 
+NIGMS programs. 
+c. Launch a virtual meeting with trainees to hear their ideas and concerns. 
+ 
+Goal 5: Maintain or Enhance Investments in the NIGMS Workforce and 
+Operations to Better Enable Delivery of the Institute’s Mission 
+NIGMS relies on the efforts of its talented and dedicated staff to accomplish its core activities 
+of reviewing, awarding, and managing its grants and contracts. The Institute is therefore 
+committed to supporting ongoing staff training and encouraging participation in professional 
+development activities to help maintain the organizational agility needed for optimal work 
+performance. In addition, NIGMS will continue iterative reviews of its internal business 
+practices and processes to ensure optimal and efficient operations.  
+ 
+Objective 5‐1: Foster a proficient, effective and high quality NIGMS workforce. 
+A knowledgeable and skilled workforce that is aligned with NIGMS’ mission is a key element 
+in the overall success  of the Institute. NIGMS will support the ongoing professional 
+development and training of staff to maintain organizational agility and adaptability, both of 
+which are necessary to achieve optimal performance.  
+ 
+
+--- PAGE 20 matched=['Objective 5', 'Strategic Plan', 'mission'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+20 
+ 
+Implementation Strategies: 
+ 
+1. Ensure continued career development and training opportunities for NIGMS staff, 
+including use of individual development plans (IDPs). 
+ 
+Targets: 
+a. Increase the voluntary use of IDPs among nonsupervisory staff by at least 
+50%. 
+b. Increase participation in career development and training activities by at least 
+25%. 
+ 
+2. Support leadership, management, and supervisory training for NIGMS supervisors.  
+ 
+Targets: 
+a. Launch a yearly management and leadership lecture series organized by the 
+NIGMS Grants, Analytics, and Program (GAP) committee by the end of 2021 
+and host one lecture per year thereafter. 
+b. Ensure that s upervisors who have been at the Institute for 3 or more years  
+have participated in the NIH Senior Leadership Program (or equivalent). 
+ 
+Objective 5 ‐2: Maximize the efficiency of NIGMS operations by continuously assessing, 
+identifying, and applying  business practices that promote effective and efficient 
+management and stewardship of taxpayer investments. 
+The ability of NIGMS to deliver on its mission requires optimizing the integration of business 
+processes and practices with emerging technology solutions (e.g., machine learning/natural 
+language processing) to streamline and automate (when possible) the work of its staff. 
+NIGMS will continuously seek opportunities to streamline labor -intensive workflows  and 
+integrate its business processes and tools with NIH-wide enterprise systems. 
+Implementation Strategy: 
+1. Continue to optimize internal operating procedures and processes to maximize the 
+efficiency of NIGMS business operations. 
+ 
+Targets: 
+a. Have t he GAP committee identify at least one operational inefficiency or 
+other issue per year and propose to senior staff a solution to improve it. 
+b. Decrease the use of paper-based business processes by at least 50%. 
+ 
+Objective 5‐3: Enhance the collection, analysis, and utilization of data to iteratively assess, 
+evaluate, and optimize NIGMS operations. 
+NIGMS will employ various data collection, assessment, visualization, and improvement 
+tools to support the  continual improvement and optimization of its internal operational 
+
+--- PAGE 21 matched=['Objective 5', 'Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+21 
+ 
+activities.  
+ 
+Implementation Strategy: 
+1. Promote transparency about the use of data in decision -making for Institute 
+functions.  
+ 
+Targets: 
+a. Build and deploy an administrative data dashboard to track key metrics  to 
+help staff optimize efficiency of operations.  
+b. Build and deploy a budget data dashboard to streamline routine budget office 
+monitoring of expenditures and to provide division directors and NIGMS 
+leadership access to the data.   
+ 
+Objective 5‐4: Continue to enhance and evolve NIGMS information systems, technologies, 
+and related infrastructures to ensure maximal security and utility. 
+NIGMS is committed to developing comprehensive protection and security for the privacy 
+and integrity of its information and information systems. The Institute’s Information 
+Resources Management Branch (IRMB) will continuously update and maintain maximally 
+secure data systems, enable staff access to needed technological and data resources, and 
+improve the physical infrastructure of information technology within the Institute.  
+ 
+Implementation Strategies: 
+1. Leverage the latest information technologies to help advance NIGMS’ business 
+operations.  
+ 
+Targets: 
+a. Complete implementation of cloud technology to maximize business support 
+applications.  
+b. Develop at least one new method utilizing artificial intelligence, machine 
+learning, and/or natural language processing to enhance the efficiency of 
+business processes.  
+c. Assess mobile device operability of NIGMS websites and internal information 
+technology tools at least biennially. 
+d. Assess NIGMS systems and business practices for their suitability to be 
+integrated with or replaced by NIH enterprise systems at least annually. 
+ 
+2. Optimize information technology services for the curation, analysis, visualization, 
+and expansion of data used for strategic decisions.  
+ 
+Target: 
+a. Build and deploy TWD trainee statistics and outcomes data dashboard. 
+ 
+
+--- PAGE 22 matched=['Objective 5', 'Strategic Plan', 'mission'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+22 
+ 
+3. Enhance the cybersecurity and privacy of NIGMS information systems.  
+ 
+Target: 
+a. Complete assessment of the NIGMS information technology infrastructure at 
+least annually. 
+ 
+4. Provide optimal support for NIGMS users and community outreach platforms. 
+ 
+Target: 
+a. Evaluate NIGMS external and internal websites at least once to ensure they 
+meet user expectations and needs.  
+ 
+Objective 5‐5: Develop and optimize cooperative and synergistic partnerships with other NIH 
+institutes and centers, other federal agencies, and other organizations. 
+NIGMS exists within an ecosystem of scientific relationships, serving as an important player 
+in the network of stakeholders striving toward scientific discovery and advancement. These 
+relationships encompass a variety of activities such as creating FOAs, publishing notices of 
+special interest, participating in working groups on scientific and administrative topics, 
+serving on coordinating committees, and contributing analyses  to trans-NIH initiatives. 
+Developing, leveraging, and enhancing partnerships within NIH and throughout the federal 
+government serves to strengthen NIGMS’ capabilities and broaden the impact of its actions.   
+ 
+Implementation Strategy:  
+1. Continue to build and leverage productive partnerships to increase the efficiency, 
+effectiveness, and reach of NIGMS in areas related to the Institute’s mission. 
+ 
+Targets: 
+a. Conduct at least one collaboration with  the Office of Extramural 
+Research/electronic Research Administration  to optimize NIH enterprise 
+systems for better support of NIGMS and NIH business processes. 
+b. Develop at least one collaboration to enhance the Institute’s ability to track 
+outcomes data for one or more of its programs. 
+ 
+  
+
+--- PAGE 23 matched=['Strategic Plan', 'goals and objectives', 'mission'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+23 
+ 
+Priority Setting 
+ 
+NIGMS priorities contained in this strategic plan were informed by a combination of factors 
+including, but not limited to, core components of the Institute’s mission (e.g., supporting 
+individual investigator-initiated research), input from the National Advisory General Medical 
+Sciences Council , feedback received from the extramural scientific community via a 
+published Request for Information (e.g., RFI NOT-GM-20-034), and input from NIGMS staff 
+via a series of internal focus groups.   These sources of input and feedback were utilized to 
+create a balanced set of priorities representative of NIGMS’ mission areas. 
+Closing 
+ 
+The NIGMS 2021-2025 strategic plan sets the Institute’s direction over the next 5 years and 
+will serve as  a management tool to help the Institute achieve  its goals and meet its 
+obligations to the American public. The creation of this forward -looking document is 
+consistent with the Institute’s philosophy of demonstrating the highest levels of operational 
+integrity, transparency, and accountability. The plan builds on the successes of NIGMS’ prior 
+strategic plan, the outcomes of which are publicly available . A similar outcomes document 
+will be produced once the goals and objectives contained in this plan have been pursued and 
+evaluated.   
+ 
+Description of Strategic Plan Development Process  
+ 
+Development and Dissemination of 2021-2025 Strategic Plan Framework 
+• Senior NIGMS leadership developed and reviewed the 2021 -2025 strategic plan 
+framework in the spring of 2020.  
+• NIGMS Director Dr. Jon Lorsch presented the 2021-2025 strategic plan framework 
+for discussion at the May 2020 NIGMS Advisory Council meeting. 
+• In June 2020, NIGMS issued an RFI  to gather input from the public and further 
+inform the development of the 2021-2025 strategic plan framework. NIGMS staff 
+analyzed RFI comments and presented the information to senior leadership. 
+• At the September 2020 NIGMS Advisory Council meeting, Dr. Lorsch presented a 
+timeline for completing the strategic plan and its dissemination.  
+ 
+Development and Dissemination of the Final 2021-2025 Strategic Plan  
+• In early 2021, NIGMS held internal working groups with NIGMS staff to solicit 
+feedback on the strategic plan framework and further develop implementation 
+strategies and targets for each goal and objective. 
+• At the February 2021 NIGMS Advisory Council meeting , DIMA Division Director, 
+Dr. Richard Aragon  presented the revised strategic plan framework, which 
+included strategic goals, objectives, implementation strategies, and targets. 
+
+--- PAGE 24 matched=['Strategic Plan'] ---
+2021-2025 NIGMS Strategic Plan 
+ 
+24 
+ 
+• NIGMS convened a second round of  internal focus groups to give feedback on  
+Council comments and suggest modifications to  implementation strategies and 
+targets.  
+• NIGMS senior leadership considered all comments and finalized the strategic 
+plan. 
+• NIGMS revised the plan in 2025 to ensure  its compliance  with all relevant 
+administration executive orders. 
+ 

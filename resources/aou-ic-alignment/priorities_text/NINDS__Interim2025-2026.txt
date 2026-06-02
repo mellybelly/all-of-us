@@ -1,0 +1,969 @@
+# NINDS (Interim2025-2026) — file: NINDS_Interim_Strategic_Plan_2025-2026.pdf
+# 23 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic \nPlan'] ---
+National Institute of 
+Neurological Disorders and 
+Stroke (NINDS)  
+Interim Strategic 
+Plan 
+2025-2026 Investing in the Future of Neuroscience 
+
+--- PAGE 2 matched=['Table of Contents'] ---
+1 
+Table of Contents 
+Message from the Directors .......................................................................................................................... 2 
+About NINDS .................................................................................................................................................. 5 
+Science: Support and perform rigorous and important neuroscience research........................................... 7 
+Understanding the Brain, Spinal Cord, Peripheral Nerves, and Neuromuscular System .......................... 7 
+Understanding the Basic Mechanisms of Neurological Disorders ............................................................ 8 
+Seeing More Precisely – Biomarkers and Outcome Measures ................................................................. 8 
+Improving Treatments ............................................................................................................................... 9 
+Preventing Neurological Disorders .......................................................................................................... 11 
+Eliminating Neurological Health Disparities ............................................................................................ 11 
+Cross-cutting Strategies ........................................................................................................................... 12 
+Training and Workforce Development : Fund and conduct neuroscience research training and career 
+development programs to ensure a vibrant and talented, neuroscience workforce. ................................ 17 
+Scientific Training ..................................................................................................................................... 18 
+Mentorship .............................................................................................................................................. 19 
+Professional Development....................................................................................................................... 19 
+Communications: Promote dynamic communication and broadstakeholder engagement to accelerate 
+scientific progress and reduce the burden of neurological disorders. ........................................................ 20 
+Reach and Impact .................................................................................................................................... 20 
+Timeliness, Clarity, and Transparency ..................................................................................................... 21 
+Dissemination .......................................................................................................................................... 22 
+Workforce Culture: Create and sustain a supportive work culture for the NINDS workforce that becomes 
+the model for biomedical research and the neuroscience community. ..................................................... 23 
+Performance Management...................................................................................................................... 23 
+Supportive Workforce Culture................................................................................................................. 24 
+Communication and Collaboration .......................................................................................................... 24 
+Employee Work-Life Satisfaction ...........................................
+
+--- PAGE 3 matched=['strategic plan'] ---
+   
+ 
+2 
+ 
+Note to readers: This strategic plan was launched in May 2021. In June of 2025 NIH updated elements 
+of the strategic plan to comply with the current Administration’s priorities and Executive Orders. This 
+Interim Strategic Plan will be in effect until a new plan is released.  
+Message from the Directors 
+Neurological disorders—that is, diseases of the brain, spinal cord, peripheral nerves, and neuromuscular 
+system—inflict an enormous toll of lost life, disability, and suffering on people of all ages throughout the 
+United States and the world [see Burden of Neurological Disorders below].  Furthermore, the need for 
+progress is growing more urgent.  Brain disorders are becoming more common with the aging of our 
+population, the high prevalence of poorly treated chronic pain is a major factor in the opioid crisis, and 
+health disparities persist despite encouraging overall progress against many diseases.  
+There are formidable barriers to progress.  Foremost among them is our limited knowledge of how the 
+normal brain, spinal cord and nerves develop, process information, become susceptible to aging 
+processes, respond and recover after injury, and integrate into the workings of a host of other body 
+systems.  Despite the challenges, over the 70 years since Congress established the Institute, research 
+has driven remarkable advances in fundamental knowledge of how the nervous system works and in the 
+diagnosis, treatment, and prevention of neurological disorders and diseases.  When the Institute was 
+born in 1950, how neurons generated electrical impulses or communicated with one another was still a 
+mystery.  Scientists can now explain these phenomena with intricate detail, leading to many advances 
+for people with neurological conditions.  Then as now, millions suffered from an astonishing variety of 
+perplexing, troublesome, and debilitating signs and symptoms.  Neurologists and neurosurgeons 
+provided a diagnosis based largely on clinical observation and too often had little to offer beyond a 
+diagnosis and a grim prognosis.  Now, we are on the cusp of mapping the human brain in its exquisite 
+complexity and can monitor the electrical activity of a million neurons simultaneously in an awake, 
+behaving mouse.  Dramatic advances in brain imaging, the advent of genetic testing, and development 
+of many diagnostic tools augment clinical observation, often eliminating the years-long diagnostic 
+odysseys that families endured in the past.  Moreover, research has brought effective options when 
+before there were none for common diseases including multiple sclerosis, Parkinson’s disease, epilepsy, 
+migraine, and acute stroke.  Experimental treatments using combinations of devices, drugs, and 
+rehabilitation, together with extraordinary persistence, have even enabled a few people paralyzed with 
+spinal cord injuries to stand and take their first steps.  Most recently a remarkable new approach for 
+treating infantile spinal muscular atrophy, a fatal genetic disorder, has opened the door to an entirely 
+new armamentarium to treat neurologic disorders.  For stroke, breakthroughs in emergency treatments 
+improve outcomes for many people, and, with major improvements in stroke prevention, the age 
+adjusted stroke death rate has fallen by more than 70 percent since NINDS was established, according to 
+the Centers for Disease Control and Prevention (CDC), saving millions of people from premature 
+disability and death.  
+NINDS alone is not
+
+--- PAGE 4 matched=['Strategic Plan'] ---
+   
+ 
+3 
+ 
+some advances, NINDS led research from early laboratory studies in animals through definitive clinical 
+trials.  In other breakthroughs, the Institute supported proof-of-concept demonstrations in experimental 
+animals that sufficiently “de-risked” innovative therapeutic development strategies to attract private 
+sector investment.  NINDS research also identifies risk factors that guide prevention through 
+epidemiological studies, develops diagnostic tools and biomarkers for targeting of interventions to 
+people who will benefit, creates and distributes research reagents and resources, and validates clinical 
+outcome measures to evaluate the effectiveness of interventions.  NINDS supports training of the 
+nation’s neuroscience research workforce and disseminates timely and accurate information about 
+neurological disorders to the research community, physicians, and the public. Most importantly, 
+researchers in the public and private sector agree that NIH basic research on the nervous system in 
+health and disease is the wellspring of progress.      
+Although we have come a long way, there is a long way to go.  Drugs can treat the symptoms of 
+Parkinson’s disease, but do not slow the inexorable death of brain cells, nor has any treatment been 
+proven to halt the progression of amyotrophic lateral sclerosis (ALS), Huntington’s disease, or many 
+types of dementia.  No existing therapies are effective for about a third of people with epilepsy, 
+prevention of epilepsy is still elusive, and all anti-seizure drugs carry troublesome side effects.  Although 
+advances in critical care have improved survival from severe traumatic brain injury (TBI), dozens of 
+clinical trials of treatments have failed to improve long-term outcomes for those who survive, nor do we 
+fully understand the long-term consequences of mild TBI (concussions).  The lack of effective non-
+addictive treatments for acute and chronic pain affects millions of people and is a major driver of the 
+opioid crisis.  After decades of progress, stroke rates are now increasing for some segments of our 
+population, and substantial disparities persist.  For hundreds of genetic disorders, many of which affect 
+infants and children, we now know the genes responsible but have no disease modifying therapy.  The 
+imperative for progress is evident every day to people affected by neurological disorders, their families, 
+and the physicians who treat them.  
+This plan presents an overarching strategic framework to accelerate science that will result in 
+improvements in quality of life for all people with neurological disorders, and ultimately to prevent or 
+cure these diseases.  Planning at NINDS did not start and will not end with this Strategic Plan.  This plan 
+fits within the broad research goals of the Department of Health and Human Services Strategic Plan and 
+the NIH Strategic Plan.  Within the NINDS Strategic Plan’s framework, several NINDS activities provide 
+more detailed guidance.  Indeed, assessing the landscape of public health needs and scientific 
+opportunities, listening to stakeholders, identifying priorities, evaluating what is working, and deciding 
+how best to move forward are integral to the Institute’s daily activities.  When appropriate to the state 
+of the science, the Institute engages the research community and the public in more formal planning for 
+specific diseases and on cross-cutting issues. NINDS also participates in NIH-wide and trans-agency 
+planning on
+
+--- PAGE 5 matched=['Strategic Plan', 'goals and \nstrategies', 'vision'] ---
+   
+ 
+4 
+ 
+pandemic.  The Institute is intensively engaged with its partners across the NIH in many aspects of 
+COVID-19 research.  Looking forward, the potential long-term sequalae of infection will be a major focus 
+in the coming years.  The Institute will also apply positive lessons from COVID-19 research programs to 
+other diseases, including, perhaps, answering new questions by leveraging existing clinical cohorts and 
+using telehealth to expand access to underserved communities. NINDS recognizes the significant impact 
+the COVID-19 pandemic has had on the research enterprise and protecting early career investigators 
+who are essential for future progress, but vulnerable to disruption of their research, is a high priority for 
+the Institute.  NINDS also plays a leadership role in the Helping to End Addiction Long termSM (HEAL) 
+Initiative to advance non-addictive treatments for pain. Partnering with the National Institute of Aging 
+and with special funding from Congress, NINDS has intensified efforts to understand and treat causes of 
+dementia due to Alzheimer’s disease, cerebrovascular disease, frontotemporal degeneration, Lewy body 
+dementias, and mixed  dementias.  Congress also enabled the development of transformative new 
+research tools with the Brain Research through Advancing Innovative Neurotechnologies (BRAIN) 
+Initiative® through the 21st Century Cures Act to map, monitor and modulate brain circuits.   The 
+Institute’s emphasis on foundational basic research, readily adaptable preclinical and clinical applied 
+research programs, and sustaining a vigorous research workforce are among the overarching strategies 
+that prepare NINDS for unexpected challenges and opportunities.  NINDS is now poised to leverage 
+powerful new genetic technologies, advances in data science and artificial intelligence (AI), and 
+innovative research, diagnostic, and therapy device technologies that were all beyond the horizon 
+during the previous strategic planning. 
+This NINDS Strategic Plan describes how the Institute will take on the currently manifest and yet 
+unforeseen challenges of neurological disorders.  The Institute’s guiding vision is a world that is free 
+from the burden of neurological disorders.  Although the need is great, and the challenges daunting, we 
+firmly believe real progress will most assuredly come from the dedicated scientists that NINDS funds.  
+NINDS’s role is to optimize the taxpayers’ investment in neuroscience to maximize the impact and 
+accelerate the pace of discovery.   
+To watch how this future unfolds, I invite you to monitor our website at https://www.ninds.nih.gov/. We 
+will update this website as the Institute takes specific actions to implement the broad goals and 
+strategies described in this plan.    
+Walter J. Koroshetz, M.D. 
+Director, National Institute of Neurological Disorders and Stroke 
+ 
+Nina Schor, M.D., Ph.D. 
+Deputy Director, National Institute of Neurological Disorders and Stroke 
+ 
+  
+
+--- PAGE 6 matched=['mission'] ---
+   
+ 
+5 
+ 
+THE BURDEN OF NEUROLOGICAL DISORDERS 
+By some calculations of premature death, disability, and suffering, neurological disorders account for a 
+greater burden than any other group of diseases (Nature Neurology 15:371-2, 2019). These diseases 
+affect people of all ages—infants and children, young adults, and the elderly—and include some of the 
+most common of all afflictions. For example: 
+• More than 25 million Americans have chronic pain every day and nearly 8 million people have pain 
+so severe that it interferes with life activities.   
+• Almost 800,000 Americans have a stroke each year, 140,000 die, and stroke is the leading cause of 
+serious, long-term disability in the United States.   
+• Traumatic Brain Injury (TBI) is the leading cause of death and disability in children and young adults. 
+At least 5 million TBI survivors need long-term help for activities of daily living.   
+• 3.4 million people in the United States have epilepsy, 1 million are drug resistant, and 1 in 26 people 
+will develop epilepsy in their lifetime.  
+• About 5 million people in the U.S. now have dementia; with the aging population this may reach 14 
+million by 2060.  
+• Migraine headache is the most common cause of missed work, affects 10% of all people and is three 
+times more common in women.  
+• Essential tremor, Parkinson’s disease, dystonia, multiple sclerosis, autism, brain tumors, spinal cord 
+injury, cerebral palsy, hydrocephalus, spina bifida, peripheral neuropathy, and other common 
+neurological disorders affect millions more.  
+ 
+Collectively rare disorders also take an enormous toll.  According to the NIH Office of Rare Diseases, of 
+7,000 rare disorders overall, about 40 percent are neurological disorders and 90 percent of rare 
+childhood disorders have major neurological effects. 
+About NINDS 
+The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek 
+fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the 
+burden of neurological disease.  NINDS supports research that advances the diagnosis, prevention, and 
+treatment of neurological disorders, that is, diseases of the brain, spinal cord, nerves, and 
+neuromuscular system.  Basic research to understand the nervous system in health and disease, which 
+provides the foundation for public and private sector progress, is at the core of this mission. 
+NINDS is one of 27 Institutes and Centers that make up the National Institutes of Health (NIH).  The 
+Institute has been a leader in the world of neuroscience for 70 years.  Although the name of the Institute 
+and the scope of its responsibilities have changed over time [see NINDS Legislative History box below], 
+NINDS has maintained its fundamental principles and core strategies since its inception.   
+The Institute’s Extramural Research Program supports research at universities, medical centers, research 
+institutions, and small businesses throughout the United States.  The Extramural Research Program 
+strongly emphasizes investigator-initiated research with rigorous peer review because of its long track 
+record of driving progress.  Augmenting investigator-initiated research, the Institute solicits research 
+targeted to unmet public health needs, extraordinary scientific opportunities, and provision of resources 
+that catalyze progress. 
+
+--- PAGE 7 matched=['mission'] ---
+   
+ 
+6 
+ 
+In fiscal year 2019, the NINDS budget of $2.274 billion supported 3,735 research grants and 657 
+research training grants across the United States.  Research Project Grants, primarily investigator 
+initiated, make up approximately 72 percent of the budget. 
+The NINDS Intramural Research Program at the NIH campus in Bethesda, Maryland, has unique 
+capabilities that complement extramural research.  These include the John Edward Porter Neuroscience 
+Research Center, which integrates the extensive NIH neuroscience research community across 
+Institutes, and the NIH Clinical Center, the largest hospital entirely dedicated to research in the world.  
+The Intramural Research Program is about 9 percent of the budget, supporting 47 principal 
+investigators.   
+Throughout its history, in both extramural and intramural research, NINDS has emphasized basic 
+research, while also supporting a full spectrum of innovative laboratory and clinical research to advance 
+diagnosis, therapy, and prevention of neurological conditions.  Support for training of graduate students 
+and post-doctoral researchers and for early stage investigators has been, and continues to be, a long-
+standing priority for NINDS.   
+NINDS collaborates with all parts of the NIH.  In addition to many joint activities with individual Institutes 
+and Centers, NINDS is a leader in both 1) the NIH Blueprint for Neuroscience, which is a collaborative 
+framework that includes the NIH Office of the Director and 14  Institutes and Centers that support 
+research on the nervous system and 2) the Undiagnosed Diseases Network, a program supported by 17 
+Institutes and Centers that combines basic and clinical research to advance research and help patients 
+with undiagnosed diseases.  In recent years, NINDS has taken on leadership for large-scale trans-NIH 
+Initiatives to which Congress has directed funding.  These include the Brain Research through Advancing 
+Innovative Neurotechnologies (BRAIN) Initiative®, the Helping to End Addiction Long-termSM (HEAL) 
+Initiative, and Alzheimer’s Disease and Alzheimer’s Disease Related Dementias (AD/ADRD) research.  
+Beyond NIH, NINDS collaborates extensively with many other federal agencies, including the 
+Departments of Defense and Veterans Affairs, the Centers for Disease Control and Prevention (CDC), the 
+Food and Drug Administration (FDA), and the National Science Foundation.  Similarly, NINDS interacts 
+with the private sector via, for example, small business research (SBIR/STTR) programs, the Accelerating 
+Medicines Partnership (AMP) for Parkinson’s disease, the NIH HEALSM Initiative, the Epilepsy Therapy 
+Screening Program, and various clinical trials activities.  These interactions are instrumental in advancing 
+the NINDS mission. 
+NINDS Legislative History 
+Congress, with the signature of President Harry S. Truman, established the Institute in 1950 as the 
+National Institute of Neurological Diseases and Blindness (NINDB) through Public Law 81-692.  In 1968, 
+PL 90-489 renamed the Institute as the National Institute of Neurological Diseases, and the blindness 
+program became the nucleus of NIH’s newly established National Eye Institute.  PL 90-636 then changed 
+the name to the National Institute of Neurological Diseases and Stroke.  In 1975, NINDS was renamed as 
+the National Institute of Neurological and Communicative Disorders and Stroke (NINCDS), reflecting the 
+addition of a new program in communicative disorders.  When the communicativ
+
+--- PAGE 8 matched=['Strategic Plan', 'mission'] ---
+   
+ 
+7 
+ 
+ 
+ 
+Science: Support and perform rigorous and important neuroscience 
+research. 
+To lay the foundation for progress against the multitude of neurological disorders, the Institute seeks to 
+understand how the healthy brain, spinal cord, peripheral nerves, and neuromuscular system develop 
+and carry out their functions, what goes wrong in disease, and why some people recover successfully 
+but others do not. To reap the benefits from this basic research, the Institute must advance the 
+diagnosis, treatment, and prevention of neurological disorders, both directly through NINDS-supported 
+research and indirectly by catalyzing private sector research and development.  This broad spectrum of 
+research is essential to improve our capability to prevent neurological disorders or to precisely provide 
+the right care at the right time for each person. The following describes why each of these goals is vital 
+to the Institute’s mission and how NINDS will support research toward these scientific goals. 
+Understanding the Brain, Spinal Cord, Peripheral Nerves, and Neuromuscular System 
+Understand the basis of nervous system function, from the perspective of molecules, cells, 
+circuits, and whole organ systems. 
+Understanding the healthy nervous system is the foundation for public and private sector progress in 
+preventing and treating all neurological disorders and for maximizing brain health.  Although the 
+potential long-term benefit of this basic research for people with neurological conditions is a strong 
+motivation for researchers, scientists’ natural curiosity about how the brain works and their insights into 
+which questions may hold the key to fundamental advances often drives new discoveries with benefits 
+that were completely unanticipated.  A single major basic science discovery, whether from experiments 
+in single cells, simple organisms, laboratory animals, or people, has the potential to elevate research for 
+a host of different diseases.  Fundamental studies on how genes and the environment guide brain 
+development, on chemical signals by which brain cells communicate, on mechanisms of electrical 
+activity in the brain and spinal cord, on supporting cells in the nervous system, on the relationship 
+between brain cells and their blood vessels (the “neurovascular unit”), on brain circuits that control 
+complex behaviors, and on many other aspects of basic neuroscience underlie all of today’s and 
+tomorrow’s treatments for neurological disorders.  Similarly, the NINDS mission benefits enormously 
+from basic research in many areas of science from across the NIH, the National Science Foundation, and 
+other organizations.  
+NIH is and will continue to be the world’s leading supporter of basic neuroscience, with additional 
+funding coming from disease organizations, private science foundations, and industry.  Since the last 
+NINDS Strategic Plan, NINDS has established an ongoing process to monitor the vigor of basic 
+neuroscience research.  The Institute has taken several actions to sustain these crucial lines of 
+mechanistic, discovery research, including targeted funding for fundamental neuroscience, and 
+published statements by the entire NIH leadership to the research community on the importance of 
+basic research prompted by NINDS analyses.  Engaging the diverse scientific perspectives and insights of 
+thousands of scientists, engineers, and physicians to seek out the best opportunities to advance our 
+understanding is the mos
+
+--- PAGE 12 matched=['strategic plan', 'Division of '] ---
+   
+ 
+11 
+ 
+efficiency and effectiveness of clinical trials, and the Institute will take advantage of innovations, 
+including adaptive trial designs and data analytics, to carry out these studies most efficiently and 
+effectively.  The Institute also supports studies on the natural history of disease that will inform 
+interventional trials.  The Institute’s Common Data Elements project works with research and patient 
+advocacy communities to develop data standards for neurological disorders that facilitate data sharing 
+in a meaningful way  and enhance data integrity.  Interoperability is crucial as potential applications of 
+data analytics and artificial intelligence interrogation of clinical data become more useful.  Information 
+about NINDS’s clinical research programs, including currently available tools, can be found at 
+https://www.ninds.nih.gov/Current-Research/Research-Funded-NINDS/Clinical-Research.   
+Preventing Neurological Disorders 
+Sustain the progress in stroke prevention and extend progress in prevention for neurological 
+diseases beyond stroke, building on basic research advances in epilepsy, TBI, neurodegenerative 
+diseases, chronic pain, and neurodevelopmental and other neurological disorders to develop 
+effective interventions. 
+Progress in preventing stroke and promoting brain health has had a major impact on public health.  
+However, despite reductions in stroke rates across all ethnic groups, significant stroke disparities persist 
+across population groups, and stroke rates are apparently rising in younger persons after decades of 
+improvement.  Furthermore, the progress in preventing stroke has been the exception; there has been 
+much less progress in preventing other neurological disorders.  Basic research now underway provides 
+the foundation for preventing other diseases, for example, by understanding why acute pain becomes 
+chronic for some people and how brain trauma can result in epilepsy, and there are encouraging results 
+from recent trials showing that progress in controlling major stroke risk factors may also slow the 
+development of dementia.  There is also increasing attention to the role of the environment, including 
+stress, environmental chemicals, and a variety of other factors, relating to neurological disorders.  Thus, 
+both continuing the long-term progress in preventing stroke and promoting brain health and extending 
+progress to other neurological disorders will remain high priorities for NINDS in the immediate future.      
+Eliminating Neurological Health Disparities 
+Improve Neurological Health for all people including those disproportionately and highly 
+impacted by disease, guided by the recommendations of the ongoing NINDS strategic plan to 
+eliminate health disparities. 
+Neurological conditions affect all people across the lifespan. However, they can differentially affect 
+individuals based upon various characteristics, such as demographic, geographic, socioeconomic, or 
+other factors. Even more, there are many individuals and populations for which the prevalence of 
+certain neurological conditions is unknown, because of underrepresentation in clinical studies.  NINDS is 
+committed to understanding what drives these health differences across the lifespan and reducing the 
+disproportionate burden of neurological disorders borne by highly impacted populations, including 
+those designated by the NIH to experience health disparities NIH-Designated Populations with Health 
+Disparities | NIMH
+
+--- PAGE 13 matched=['strategic plan'] ---
+   
+ 
+12 
+ 
+serves as the focal point for initiatives that address neurological health disparities on both national and 
+global levels. 
+Within the broader framework of the overall NINDS strategic plan, in 2020, the Institute embarked on a 
+planning process focused on addressing neurological health disparities.  A Working Group of the 
+National Advisory Neurological Disorders and Stroke (NANDS) Council, which included several notable 
+experts in health disparities research, was charged with providing scientific guidance on how best to 
+advance research on neurological health disparities and improve overall health, with an emphasis on 
+addressing biologic, socio-demographic, economic, and other social determinants of health.  To further 
+inform this effort, a Request for Information (RFI) gathered valuable insights from extramural 
+researchers, relevant stakeholders, and the public, on known areas of disparities and inequities in 
+neurological disease, treatment, and provision of services across the lifespan which yielded nearly 150 
+responses.  The planning effort culminated in a public three-day virtual workshop held on September 
+22-24, 2021, as well as published reports outlining the planning process, key findings, and research 
+recommendations from the Working Group to the NINDS.  
+Cross-cutting Strategies 
+Several core strategies are important across all NINDS scientific goals, from basic studies on the nervous 
+system in health and disease through development of diagnostics, treatments, and prevention.   
+Rigor and Transparency 
+Promote scientific rigor and transparency throughout all NINDS programs and policies 
+All scientific progress requires rigorous, creative, and high-quality studies that build upon validated prior 
+discoveries.  Many scientific reports, however, do not transparently describe the design, methods, or 
+analysis of experiments so that others may adequately assess their quality.  Potential flaws in the 
+practice of science that cannot be evaluated based on published reports undermine future research 
+efforts.  To maximize the value of the taxpayers’ investment in our research, NINDS programs and 
+policies must ensure that studies are conducted rigorously and reported transparently.  
+NINDS has been a leader within NIH and the research community in promoting rigor and transparency.  
+In 2012, a major Institute workshop convened stakeholders from academia, industry, academic 
+publishing, and government toward this end.  That workshop, subsequent meetings, establishment of 
+the NINDS Office of Research Quality (ORQ) and NINDS Rigor Working Group (NRWG), and several 
+activities of this group have improved attention to rigor and transparency within NINDS, across the NIH, 
+and in the research and publishing community.   
+Most recently, NINDS surveyed current training practices and convened a workshop that brought 
+together subject matter experts capable of evaluating current educational practices to discuss how best 
+to impart knowledge about the fundamental principles of rigorous research.  Informed by this 
+discussion, NINDS is developing a framework for advancing rigorous research that will include the 
+formation of an educational platform on the principles of rigorous research as well as the establishment 
+of networks of rigor champions in the research community who will contribute to the development of 
+the educational platform and work together to change the culture of science to favor high quality 
+research ove
+
+--- PAGE 14 matched=['mission'] ---
+   
+ 
+13 
+ 
+Investigator-initiated Research 
+Maintain an emphasis on investigator-initiated research, balancing short- and long-term investments, 
+small and large-scale efforts, and revolutionary (high risk/high reword) and evolutionary (high quality, 
+more incremental) approaches   
+NINDS will continue to rely primarily on investigator-initiated research to advance fundamental 
+understanding of the brain, spinal cord, nerves, and neuromuscular system.  Curiosity-driven, 
+investigator-initiated research is especially well suited to supporting discovery research, which engages 
+investigator’s insights about how the brain works and pursues new avenues revealed by unanticipated 
+findings.  There are myriad unsolved questions about the nervous system that research is unravelling at 
+multiple levels of analysis, from molecules to the neural network dynamics underlying behavior of whole 
+organisms, bringing to bear knowledge and methods from a wide spectrum of scientific, engineering, 
+and medical disciplines.  In this rapidly evolving landscape of opportunity, engaging the diverse 
+perspectives and insights of thousands of scientists, engineers, and physicians to seek out the best 
+opportunities to advance our understanding has been and continues to be the most effective path 
+forward.   
+NINDS provides a variety of funding opportunities for investigator-initiated research with differing 
+review criteria, funding levels, durations, component structures, and other characteristics designed to 
+support small to large-scale research efforts, collaborations, and team science, including potentially 
+“revolutionary” (high risk/high reward) research and  “evolutionary” (high quality, more incremental) 
+research that is also essential for progress.  Similarly, the Institute supports both short-term, exploratory 
+studies, and investigations which, by their nature, must be long-term investments.  For example, the 
+Research Program Award (R35) grants can extend for eight years and support an investigator’s overall 
+research program rather than a discreet set of specific aims.  Thus, the Research Program Award is 
+especially suitable for innovative and long-term basic research.   
+Because individual investigators have historically driven progress, especially discovery research, in 
+neuroscience, NINDS policies will maintain the vigor of the neuroscience research community, ensuring 
+that as many laboratories as possible can be adequately supported.   Investigators are especially 
+vulnerable early in their careers, and NINDS will continue its aggressive policies (see, for example, 
+funding strategies) to ensure that they have a fair chance.  Similarly, the challenges of neuroscience 
+dictate that NINDS must draw its workforce from the full breadth of the nation’s talent pool, as 
+discussed in the training sections of this plan.  
+To support the development of biomarkers, preclinical development of therapies, and large clinical 
+studies, NINDS often relies upon targeted funding announcements with review criteria and grant 
+characteristics designed to meet the special needs of more applied research and development, including 
+milestone-based funding.  Although these programs rely upon solicitations, the Institute also designs 
+many of these targeted funding opportunities with a similar spirit to traditional investigator-initiated 
+discovery-oriented research programs by focusing not on specific disorders or approaches, but rather 
+providing broad flexibilit
+
+--- PAGE 15 matched=['mission'] ---
+   
+ 
+14 
+ 
+Team Science 
+Support innovative team science approaches for emerging research opportunities of broad scope and 
+complexity 
+Progress has brought an ever-increasing knowledge base and armamentarium of technological 
+capabilities to neuroscience.  With this has come a trend toward increasing collaboration among 
+scientists.  To a large extent, researchers, as always, form temporary alliances to take on specific 
+experimental challenges, and NINDS grants to individual investigators provide the flexibility to do so.  
+For some types of research, such as clinical trials and drug development, team science has long been the 
+norm, and NINDS has specific programs that address those needs.  Team science has been less common 
+in basic neuroscience research, although there are notable exceptions, including programs currently 
+underway within the BRAIN Initiative® that bring together scientists and engineers from across several 
+disciplines.  NINDS is currently exploring programs to support team science that are underway across 
+the NIH and beyond.  The Institute is learning from these programs and assessing whether current 
+NINDS grant mechanisms are optimal to support emerging research neuroscience opportunities of 
+broad scope and complexity that may require a sustained team science approach.  Beyond grant 
+mechanisms, changes in the culture and reward systems of research may be necessary to fully realize 
+the potential of team science to advance the NINDS mission, and the Institute will work with the 
+research community toward that end.  
+Neuroethics 
+Identify and navigate ethical challenges and implications arising from neuroscience by supporting 
+neuroethics resources for the neuroscience community and fostering research and training in neuroethics 
+Advances in science can present ethical challenges.  Existing ethical frameworks may require 
+interpretation in new contexts as science moves forward.  For neuroscience, this can be especially 
+trenchant because of the brain’s centrality to fundamental aspects of ourselves.  As a specialization of 
+bioethics that focuses on neuroscience, neuroethics can partner with neuroscience to scan the horizon 
+for ethical challenges, identify and explore the underlying values and assumptions of diverse 
+stakeholders, and assist in mitigating potential ethical concerns.  Thus, neuroethics can empower 
+neuroscience research and inform the design, conduct, interpretation, and application of research.  
+The BRAIN Initiative® has a robust neuroethics component that includes a neuroethics research portfolio 
+and an NIH-external Neuroethics Working Group that serve to provide BRAIN with input relating to 
+neuroethics.  Building on this exemplar, NINDS has established a new NINDS Neuroethics Program that 
+will work with NIH staff and stakeholders to identify and navigate ethical challenges and implications of 
+neuroscience research programs and discoveries, and to facilitate neuroscience progress.  
+Patient Engagement  
+Increase patient engagement in all appropriate aspects of NINDS research to better address the priorities 
+of patients and their families and to improve the efficiency and effectiveness of research 
+NINDS will engage people with neurological conditions and their families in setting priorities, planning, 
+and conducting research.  The priorities of individuals living with neurological conditions and their 
+families may not always be apparent to those not experiencing the problems that a d
+
+--- PAGE 16 matched=['mission'] ---
+   
+ 
+15 
+ 
+effectiveness of research, not only in recruiting for clinical studies, but also in many other aspects of 
+studies involving human participants, including reducing barriers to participation.   
+NINDS has some important activities in place to support engagement, as discussed in the 
+Communications section of this plan.  Notably, the annual Nonprofit Forum is planned by a rotating 
+Executive Committee that includes numerous patient advocacy groups.  In 2020, the NIH HEALSM 
+Initiative virtual workshop, “Engaging Patients in the Research Process,” explored the benefits for 
+research of engaging people with neurological conditions in the planning and oversight of clinical 
+research and patient recruitment for pain research, considering successful examples from other areas of 
+medical research that are relevant across many areas of NINDS research.  NINDS is committed to 
+increasing patient engagement in all appropriate aspects of clinical research across all areas of the 
+Institute’s mission.   
+Technology Access 
+Ensure that the researchers throughout the scientific community can exploit emerging technologies, 
+resources, and knowledge, including those emerging from the BRAIN Initiative® 
+New technological research capabilities are emerging from NIH investments, most notably the BRAIN 
+Initiative®.   Among these, for example, are advanced microscopy methods, automated behavioral 
+analysis tools, and large scale “-omics” analyses that can potentially be applied to many research 
+questions but require substantial resources.  To maximize the effectiveness of all NINDS research, the 
+Institute must ensure that these capabilities are widely available.  Furthermore, a growing proportion of 
+the NINDS budget is directed to special programs including the BRAIN Initiative®, the NIH HEAL Initiative, 
+and AD/ADRD research.  NINDS will coordinate management of these investments to maximize impact 
+and efficiency.  
+NINDS also will continue to provide scientific resources that enhance the capabilities of investigators to 
+carry out high quality research, while minimizing unnecessary duplication of efforts and taking 
+advantage of economies of scale.  Current NINDS resources, for example, provide access to genetically 
+modified mice, human post-mortem brain tissue and related biospecimens, genetic samples and cell 
+lines, and validated monoclonal antibody reagents.  As the scientific and technological landscape 
+changes, the Institute must continually assess what resources are best provided centrally and which are 
+more appropriately focused on individual laboratories or institutions.  
+Models for Neuroscience Research 
+Maintain support for the full spectrum of neuroscience research models 
+Looking back at the paths of discovery that led to successful therapies for neurological disorders reveals 
+that a wide variety of experimental models were essential in their research and development.  Humans 
+and simpler organisms share many fundamental aspects of biology.  Simpler organisms provide 
+extraordinary opportunities for scientific investigations.  For example, studies in the fruit fly, Drosophila 
+melanogaster, revealed fundamental principles of genetics, and the worm C. elegans helps scientists 
+understand neuronal development because it has only 302 nerve cells, which have been completely 
+mapped, compared to the 80 billion nerve cells in the human brain.  Similarly, genetic engineering has 
+enabled scientists to study basic capabilities lik
+
+--- PAGE 17 matched=['Strategic \nPlan', 'mission'] ---
+   
+ 
+16 
+ 
+may reduce the necessity for using animal models and improve the efficiency and effectiveness of 
+research.  This includes, for example, research on cells and organoids derived from human induced 
+pluripotent stem cells, computer modeling, and an array of technologies, including advanced imaging 
+techniques, that can noninvasively study the structure, function, and biochemistry of the human brain.  
+Data Sharing and Data Science 
+Develop and implement policies, infrastructure, and resources to take advantage of data science and 
+foster sharing of high value data among the research community 
+The NIH policy on data sharing notes that sharing scientific data helps validate research results, enables 
+researchers to combine data types to strengthen analyses, facilitates reuse of hard-to-generate data or 
+data from limited sources, and accelerates ideas for future research inquiries.  Data science is 
+increasingly important across the full spectrum of studies from basic research, in which new 
+technologies are rapidly generating valuable data, though clinical research, in which tools and 
+centralized databases facilitate team clinical science across institutions and investigators.  As NIH 
+implements this policy, which requires all NIH-funded research to include data management and sharing 
+plans, the amount, emphasis, complexity, and cost of creating, curating, harmonizing, storing, accessing, 
+and reusing neuroscience data will grow substantially in the next 5-10 years.  As data from emerging 
+technologies grows in scale and more powerful analysis tools emerge, issues for the research 
+community more broadly will have a major impact on the effectiveness of NINDS.  Among these, for 
+example, are ensuring appropriate rewards and credit for creating and sharing data; determining how 
+best to take advantage of burgeoning progress in the related areas of artificial intelligence and machine 
+learning, which Institute investigators are rapidly applying across many areas of basic and applied 
+research; defining appropriate policies to preserve data privacy; and fostering a neuroscience workforce 
+trained in cutting-edge data practices.   
+NINDS is currently developing an NINDS Data Science Plan, which will be aligned with the NIH Strategic 
+Plan for Data Science and guide the Institute in developing data sharing principles, policies, 
+infrastructure, and resources to maximize the opportunities and cost effectiveness of its research 
+investments.   
+Collaboration and Partnership 
+Fostering productive collaborations and partnerships in their many forms is a major strategic priority 
+across all scientific goals, both with respect to NINDS programs and for research projects themselves 
+Collaborations and partnerships of many kinds are essential for advancing the NINDS mission and are 
+becoming ever more crucial as science advances and reveals intersections between the interests of 
+NINDS and other organizations, and among researchers with different areas of expertise.  Integration 
+among NINDS extramural programs is essential to ensure the seamless flow of insights among basic, 
+preclinical, and clinical research.  The Intramural Research Program provides an environment for 
+collaborations across Institute, disciplinary, and basic/clinical boundaries that have historically been a 
+strength of the program.  The NIH Blueprint for Neuroscience Research provides a framework for 
+collaboration and coordination among the many parts of the NIH wh
+
+--- PAGE 18 matched=['mission'] ---
+   
+ 
+17 
+ 
+are paving the way for more productive interactions with industry, non-governmental organizations, 
+agencies, and the broader medical community with which NINDS has less frequently collaborated.   
+NINDS Intramural Research Program 
+Exploit the NINDS Intramural Research Program’s unique capabilities to advance the NINDS mission 
+Because it is not tethered to extramural grant review cycles, the NINDS Intramural Research Program 
+(IRP) is in a unique position to capitalize on both long-term and high risk/high reward science that is 
+more difficult for the extramural community to undertake. NINDS IRP Investigators are held to the 
+highest standards through the Board of Scientific Counselors review process, which requires that each 
+investigator be evaluated by independent experts every four (?) years. Additionally, the flexibility of the 
+intramural funding structure allows the NINDS IRP to rapidly respond during public health emergencies.  
+To fully realize its potential, the NINDS IRP is engaged in a detailed planning process to identify areas of 
+science and scientific resources that should be augmented within the NINDS IRP; enhance clinical care 
+within NINDS; increase collaboration across the basic to clinical spectrum, and with other Institutes and 
+extramural researchers; and ensure that evaluations of faculty, staff, and trainees reward high-quality, 
+innovative research and excellence in training and mentoring.    
+Training and Workforce Development : Fund and conduct neuroscience 
+research training and career development programs to ensure a vibrant 
+and talented, neuroscience workforce. 
+Today’s research trainees are an integral part of the neuroscience research workforce, and they will 
+become tomorrow’s leaders in neuroscience discovery and innovation.  Excellent mentorship and 
+training are critical to the development of exceptional future scientists and are therefore critical to the 
+NINDS mission.  NINDS supports neuroscience research training and career development through 
+individual, institutional, and national awards, and the NINDS Intramural Research Program provides 
+opportunities for research training on the NIH campus in Bethesda, Maryland.  These extramural and 
+intramural programs span basic, translational, and clinical neuroscience research training initiatives at 
+multiple career stages, from summer experiences for high school and undergraduate students to 
+mentored career development awards for new research faculty.  Rigorous research training, strong 
+mentorship, and ample opportunities for professional development provide trainees with a foundation 
+for pursuing a wide range of careers in academic or industry research as well as teaching, science policy, 
+science writing, and research administration, among others.   
+  NINDS intends that all trainees in the NINDS intramural research program or those supported with 
+extramural NINDS funds, whether through specific NINDS training and career development programs or 
+research project grants, receive excellent scientific training, professional development, and mentorship.  
+NINDS can directly influence training quality in the intramural research program and in extramural 
+programs designated for research training and career development, yet many more trainees are 
+supported through extramural funding for research projects, where this influence is less direct.  
+However, institutions and investigators receiving support through training mechanisms overla
+
+--- PAGE 19 matched=['research areas'] ---
+   
+ 
+18 
+ 
+pace with increasing complexity in neuroscience research and to address current and emerging 
+challenges and opportunities.  
+Scientific Training 
+Support training across the breadth of basic, translational, and clinical neuroscience research to 
+foster advances and innovation. 
+NINDS supports and provides training across the spectrum from fundamental basic science to 
+translational and clinical research.  NINDS must continue to align programs and policies to unique and 
+evolving training needs and career trajectories in these areas to ensure a vibrant workforce.  For 
+example, in addition to broadly available programs for individuals and institutions, NINDS supports 
+training programs that are tailored to clinician scientists at different career stages, that provide training 
+specifically for translational research, and that support postdoctoral fellows using cutting-edge tools, 
+theories, or approaches in one of the seven, high-priority research areas of the NIH BRAIN Initiative.   
+Scientific advances often occur when investigators recognize the relevance of discoveries made in an 
+entirely different discipline.  Moreover, investigators will often be best positioned to make important 
+discoveries when they understand the uses of a wide array of methods and technologies.  Therefore, 
+training in neuroscience research must extend beyond proficiency in an individual line of study so that 
+investigators are prepared take on new directions, adopt and develop new approaches, and work 
+collaboratively and in teams to share expertise and resources.  Consequently, NINDS will continue to 
+empower the research community to direct training to areas of need and opportunity as well as 
+incentivize and support broad, cross-disciplinary training in both content and technology that will seed 
+innovation, collaboration, and novel discoveries.  NINDS also will implement strategies for training in 
+data science, neuroethics, , and other cross-cutting or emerging approaches with the potential for wide-
+ranging application to neuroscience research.  Finally, NINDS will work to enhance coordination and 
+awareness about programs and policies for research training. 
+Strengthen training in principles of rigorous research, experimental design, and quantitative 
+skills. 
+Rigor in scientific research, sound experimental design, and quantitative analytical methods are 
+essential to continued progress in neuroscience.  NINDS has championed efforts to promote rigor in the 
+biomedical research community and recognizes that research training programs can be an effective way 
+to improve the rigor of scientific research conducted by trainees as well as established investigators who 
+serve as training mentors.  For example, NINDS has incorporated requirements in extramural 
+institutional training programs for intensive, formal training in experimental design, statistical 
+methodology, and quantitative literacy and also provides funding to these programs to integrate a 
+statistician into programmatic activities and to fund workshops on quantitative analysis.  However, 
+opportunities remain for strengthening these efforts across neuroscience research training within both 
+the NINDS extramural and intramural communities.  NINDS will enhance the effectiveness of training in 
+principles of rigorous research, experimental design, and quantitative skills by expanding emphasis in 
+review, evaluation, and interactions with the research community.  In addition, NINDS 
+
+--- PAGE 21 matched=['mission'] ---
+   
+ 
+20 
+ 
+participation in such activities can vary across institutions, programs, and lab or research groups, and 
+opportunities for ongoing professional development may be limited outside of traditional training 
+trajectories.  NINDS will promote professional development across career stages for the neuroscience 
+workforce through support for learning and experiences that are important for research but likewise 
+applicable to other career choices.  In addition, NINDS will emphasize the essential roles of personal 
+wellness and positive community in professional success, including institutional commitments to family-
+friendly environments, accommodations, and leave policies that help trainees achieve their career goals 
+despite critical life events.  NINDS will also partner with other NIH Institutes, Centers, and Offices, as 
+well as professional societies, universities, nonprofit organizations, and others with shared goals in 
+professional development for the biomedical research workforce. 
+Communications: Promote dynamic communication and 
+broadstakeholder engagement to accelerate scientific progress and 
+reduce the burden of neurological disorders.   
+NINDS must promote dynamic communication and broad stakeholder engagement to accelerate 
+scientific progress and reduce the burden of neurological disorders.  Achieving NINDS’s mission requires 
+dynamic and sustained communication efforts about what the Institute does, why it does it, and how 
+the work and its products can benefit the health and well-being of all people.  Several principles help 
+guide NINDS’s communication and dissemination efforts: 
+• Science has no impact until clearly communicated. 
+• Communication is a powerful tool for transparency and accountability. 
+• Communication must be bi-directional, with emphasis on engagement and partnerships.  
+• NINDS strives for fairness in access to the Institute and to scientific and policy information. 
+• NINDS endeavors to be a trusted, go-to source of credible, timely information on neurological 
+disorders. 
+• NINDS strives to rapidly disseminate scientific discovery and innovation to all stakeholders.  
+ 
+NINDS’s Stakeholders 
+NINDS’s audiences are the Institute’s stakeholders — those individuals and organizations who influence 
+us and are affected by what we do.  These include, but are not limited to, the national and international 
+research and health practice communities, individuals with neurological conditions across the lifespan 
+and their caregivers, the public, Congress and policymakers, other federal agencies, public and private 
+partners, and the media.  NINDS seeks to develop and refine communication strategies tailored to the 
+varied needs of all our stakeholders.  
+ 
+Reach and Impact 
+Expand the reach and impact of NINDS’s communication efforts. 
+To be a trusted, go-to source on neurological research and disorders, NINDS must continually engage 
+with its many stakeholders to identify and respond to their information needs.  This stakeholder 
+engagement requires bi-directional communication and careful maintenance of working relationships 
+and is made ever more complex by the large quantity and variety of stakeholders.  This goal explores 
+strategies to broaden NINDS’s outreach efforts, including fostering opportunities for communication 
+partnerships that enhance and support the NINDS mission. 
+
+--- PAGE 22 matched=['scientific \npriorit', 'mission'] ---
+   
+ 
+21 
+ 
+Expanding stakeholder interactions and better understand all stakeholders’ needs  
+NINDS regularly engages with different stakeholders and strives to better understand their needs.  
+Despite several successes, there are opportunities to build upon these efforts.  Expanding who we 
+engage with to reach organizations and individuals we may be missing is an especially high priority.  
+NINDS will continue to plan and conduct ongoing outreach activities tailored to the needs of different 
+stakeholders, while exploring new venues and mechanisms to enhance the breadth of input.  
+Amplify messaging through traditional and emerging communication platforms and enhanced 
+partnerships  
+NINDS uses a wide variety of communication tools and platforms, including websites, traditional media 
+(e.g., press releases and science news articles), social media, digital and multimedia (e.g., podcasts, 
+videos, and mobile apps), conference exhibits, public talks, and print brochures and publications, among 
+others.  Still, there are several opportunities to enhance the way NINDS content is presented, packaged, 
+and distributed, as well as to explore emerging communication technologies and platforms that might 
+help broaden our reach.  One of the most efficient ways of expanding NINDS’s reach is to cultivate 
+communication partnerships, leveraging the extensive social networks of our many stakeholders.  To 
+this end, NINDS collaborates with many professional societies, nonprofit organizations, and other 
+federal agencies on various communication and engagement efforts.  Opportunities exist, however, to 
+strengthen and expand such partnerships.  
+Systematically assess and evaluate communication efforts to refine and adopt the most effective 
+approaches  
+NINDS uses web analytics and other tracking efforts to assess some aspects of our communication 
+efforts; however, a more robust analytics approach and larger suite of metrics are needed to fully 
+measure effectiveness.  NINDS also appreciates the value of applying a more systematic approach to our 
+assessment efforts, including identifying the goals and appropriate analytical methods prior to each 
+communication and engagement effort.  Having robust analytics is key to identifying knowledge and 
+resource gaps and spurring new content strategies to improve engagement.  
+Timeliness, Clarity, and Transparency 
+Communicate how the Institute operates and makes decisions in a timely, clear, and transparent 
+manner. 
+An important goal for NINDS is to provide information about our activities and decision making to 
+individuals and organizations who are interested in and affected by what we do.  By promoting 
+understanding of our operations and strategies, we can work better with the research community writ 
+large.   
+Engage a broad range of stakeholder communities on NINDS’s priorities and widely communicate funding 
+opportunities  
+Fulfilling the NINDS mission depends on accurate, timely, clear, , and broad communication of scientific 
+priorities and funding opportunities.  NINDS routinely seeks input on research gaps and opportunities, 
+most intensively through the National Advisory Neurological Disorders and Stroke (NANDS) Council, 
+frequent topical workshops, and strategic planning efforts where insights and advice are provided by 
+researchers, other subject matter experts, and the public.  More can be done, however, to optimize the 
+way the Institute gathers and incorporates this critical input in a sys
+
+--- PAGE 24 matched=['strategic plan', 'mission'] ---
+   
+ 
+23 
+ 
+disseminate than research articles.  The exchange of these resources among researchers and health 
+practitioners, however, is crucial to supporting a steady pace of progress and translation of knowledge 
+into care.  
+Increase the public’s understanding of neuroscience through educational engagement and provide 
+trustworthy information on neuroscience, neurological disorders, and stroke  
+NINDS employs several initiatives to communicate health information that caregivers and those with 
+neurological conditions need, as well as to educate the public on neuroscience research and the 
+importance of brain health.  For example, NINDS provides public health information for more than 250 
+neurological disorders and develops science education materials such as Brain Basics, interactive 
+educational games, and printed materials on public health and other NINDS-related content.  We will 
+continue to expand these consumer resources, public health campaigns, and educational efforts aimed 
+at fostering interest in neuroscience and knowledge of neurobiology across all ages.  
+Promote stakeholders’ understanding of the mission and value of NIH and NINDS 
+NINDS must be able to clearly show how our research investments on behalf of American taxpayers 
+have yielded (and will continue to yield) tangible health benefits, both domestically and globally.  This is 
+especially complicated by the fact that NINDS cannot realize its  full value without the extensive work of 
+others; for example, other NIH Institutes, other federal agencies, other research funders, policymakers, 
+pharmaceutical and biotechnology companies, the nonprofit sector, regulators, health practitioners, and 
+a receptive public.  NINDS regularly highlights research advances and their implications for health in 
+several ways, including through press releases, the NINDS website, and the Director’s Twitter feed and 
+other social media accounts.  We seek to build on and enhance these efforts and develop even more 
+compelling ways to communicate what we do, and how we interface with other integral components of 
+the biomedical enterprise to accomplish the NINDS mission.   
+Workforce Culture: Create and sustain a supportive work culture for the 
+NINDS workforce that becomes the model for biomedical research and 
+the neuroscience community. 
+The effectiveness of the NINDS staff is crucial to the Institute’s success in advancing its mission.  For this 
+reason, attention to the Institute’s workforce culture and its impact on staff performance is an integral 
+part of the NINDS strategic plan.  The following goals address these issues:  
+Performance Management 
+Establish effective performance management, with clear procedures, fair policies, meaningful 
+recognition, accountability, and transparency. 
+To ensure the effectiveness of the NINDS staff and the organization, NINDS must pay attention first and 
+foremost to how the work at NINDS and the entire organization are managed.  Sound performance 
+management, which can be achieved by clear organizational structure and procedures, fair policies, 
+meaningful recognition, accountability, and transparency, sets a strong foundation upon which good 
+morale and productivity can be built.  NINDS believes that enhancing employee engagement through 
+effective performance management will increase our commitment to and advancement of the NINDS 
+mission of reducing the burden of neurological disease.  NINDS will continue evaluation of its current 
+organi
+
+--- PAGE 25 matched=['mission'] ---
+   
+ 
+24 
+ 
+recognition.  Our goal is to create an environment in which the NINDS leaders and supervisors are able 
+to lead most effectively and everyone at all levels of NINDS is empowered to contribute in ways that are 
+meaningful to the organization and to the individual.   
+Supportive Workforce Culture 
+Promote a positive and productive work environment and workforce culture with a strong sense 
+of community. 
+According to an NIH-wide climate survey conducted in 2019, more than one in five NIH employees said 
+they have experienced harassment in the past year.  To address this issue, NIH and NINDS initiated 
+several programs focused on demonstrating accountability, creating expectations to ensure a safe 
+workplace, and providing clear channels of communication.  As an Institute that funds neuroscience 
+research and supports training of the next generation of neuroscientists at many academic institutions 
+across the United States, NINDS will continue to look inwardly and identify and implement strategies to 
+create a workplace that is free of harassment and discrimination, and will strive to be a model for the 
+extramural neuroscience research community.  Some initial strategies include recurring bystander 
+training required of all staff, education on anti-harassment policy and available resources, and offering 
+peer assistance and frontline support for common workplace issues.  Ultimately, NINDS aims to foster 
+an open work environment where everyone not only is treated in a respectful manner but also is heard 
+and feels at ease when speaking up, which we hope will allow us to find more creative solutions 
+together.   
+Communication and Collaboration 
+Promote communication and collaboration within and across NINDS communities. 
+Effective internal communication is an essential tool in daily operations within NINDS and in 
+accomplishing all four major goals to advance NINDS’s mission.  For effective internal communication 
+within NINDS, clear lines of communication must be established at different levels and parts of the 
+organization, and relevant information should be shared with appropriate personnel in a timely manner.  
+Silos within the organization should be identified and broken down to stimulate opportunities for 
+enhanced collaboration and peer support.  Strategies include developing, refining, and disseminating an 
+internal communication strategy, creating opportunities to bring people together and quickly assemble 
+high-quality teams, and incentivizing collaboration across NINDS.  By better facilitating the way NINDS 
+staff members work with one another, we hope to nurture a strong sense of community and work more 
+nimbly. 
+Employee Work-Life Satisfaction 
+Foster a workforce culture that recognizes work-life needs and supports career goals and 
+satisfaction. 
+To attract and maintain high caliber talent at NINDS, it is important to foster a workforce culture that 
+not only challenges individuals to grow professionally but also understands that high quality products 
+come from people who are satisfied at work and in life.  It is our belief that this investment in the well-
+being and growth of each person who works at NINDS will lead to accelerated scientific progress and 
+reducing the impact of neurological disorders.  Employee growth and work-life satisfaction can be 
+promoted through a wider availability of opportunities for career development, training, and mentoring, 
+and enhanced support for work-life balance, including c
+
+--- PAGE 26 matched=['Strategic Plan', 'mission'] ---
+   
+ 
+25 
+ 
+Stewardship 
+Congress has charged NINDS with responsibilities that are vital for advancing public health and 
+entrusted the Institute with substantial authorities and resources to accomplish this mission.  Effective 
+and efficient stewardship of this public trust is integral to all NINDS policies and programs.  Attention to 
+stewardship across all programs, together with thoughtful priority setting, planning, evaluation, and 
+continuous data-driven improvement, enable the Institute to be an effective steward. 
+Programs and Policies in Service of Good Stewardship  
+Good stewardship is inherent in the design and execution of all NINDS programs, policies, and 
+practices presented in this Strategic Plan. 
+Good stewardship is not a separate obligation but rather is inherent in the design and execution of all 
+NINDS programs, policies, and practices presented in this Strategic Plan and in the Institute’s core 
+strategies.  NINDS relies upon peer review of all research proposals to ensure scientific quality.  
+Extensive NINDS collaborations leverage the Institute’s investments to maximize their benefit.  The 
+Institute’s leadership on enhancing rigor and transparency of research minimizes the waste of time and 
+resources on following up on erroneous prior research.  NINDS’ emphasis on data sharing maximizes the 
+impact of research findings and reduces unnecessary duplication.  The Institute actively manages large 
+projects, with interim analyses of large clinical trials, monitoring of milestones in large clinical studies 
+and preclinical therapy development projects, and, when appropriate, shifting funds to the best current 
+opportunities.  NINDS provides research resources and reagents that take advantage of economies of 
+scale, empower small laboratories, and make best use of human brain tissue and genetic samples.  
+Because a robust and talented pool of dedicated researchers is the most essential factor in driving 
+progress, NINDS training programs recruit and develop the best scientists and physicians from the full 
+breadth of the nation’s talent pool.  Attention to the Institute’s internal workforce culture is an integral 
+part of this plan because the scientific and management staff are the front line in ensuring good 
+stewardship throughout NINDS programs.  Similarly, communication and dissemination are essential to 
+the Institute’s mission, for example by providing transparency to the public on NINDS-supported 
+research and engaging stakeholders to help inform the Institute’s priority setting.   
+Planning and Priority Setting 
+In setting priorities, NINDS weighs public health needs, scientific opportunities, and the 
+Institute’s unique responsibilities and capabilities in the overall research ecosystem. 
+The number of outstanding research questions about neurological disorders multiplied by the scientific 
+opportunities for answering them generates far more possibilities for research than NINDS can pursue, 
+as evident in the large numbers of high-quality research proposals received each year.  In setting 
+priorities, NINDS not only weighs public health needs and scientific opportunities but also considers the 
+role the Institute plays in the broader research ecosystem by virtue of the Institute’s unique 
+responsibilities and capabilities.   
+As highlighted in the Message from the Directors, to inform priority setting NINDS engages the public, 
+disease advocates, research community, clinical practitioners, and the NANDS Coun
+
+--- PAGE 27 matched=['Strategic Plan', 'goals and objectives', 'mission'] ---
+   
+ 
+26 
+ 
+plans, trans-NIH plans, and scientific workshops on a variety of diseases and topics, all of which engage 
+multiple stakeholders.   
+Evaluation, Analysis, Metrics, and Continuous Improvement 
+NINDS will evaluate every new and existing program and policy in a timely manner, and act on 
+the findings. 
+NINDS monitors the evolution of the scientific landscape to determine whether programs continue to be 
+appropriate and evaluates the effectiveness of programs to improve or replace them as warranted.  
+NINDS will ensure that every existing program and policy is evaluated in a timely manner, that each new 
+NINDS policy or program clearly states goals and an evaluation plan at its inception, and that the 
+Institute continuously improves or replaces programs based on the findings.  In response to advice of 
+the previous NINDS Strategic Plan, the Institute created an internal Analysis Working Group (AWG) with 
+membership from across the extramural divisions and the offices of the Institute Director.  The AWG 
+leads many analyses and evaluations.  The Institute routinely discusses results from these analyses and 
+evaluations with the NANDS Council. 
+Adapting a principle from biomarkers development, NINDS employs metrics and non-quantitative 
+indicators that are “fit for purpose,” that is, designed for the program or policy in question.  Depending 
+on the nature of the program, the Institute may monitor various combinations of short, intermediate, 
+and long-term outcomes—for example, a short-term check may look at whether an initiative attracts a 
+wide range of proposals that peer review rates as outstanding or an encouraging number of applications 
+from investigators new to a field.  Intermediate monitoring may focus, for example, on what 
+publications emerge, whether clinical trials are efficiently conducted, or the extent to which intended 
+research resources are created.  In the long term, an evaluation looks directly at whether the goal of the 
+initiative is accomplished, e.g. is a causative gene, biomarker, or therapy developed; is a resource used 
+for valuable research; do trainees succeed; does a clinical trial network improve efficiency and 
+effectiveness of trials; or have stroke rates decreased as intended.   
+Basic research makes up the largest part of the NINDS research portfolio and presents the greatest 
+challenge to evaluation.  Several studies have confirmed the importance of basic research for medical 
+progress, but also consistently shown that the value of basic research often does not become apparent 
+for decades after the research is published and cannot be meaningfully evaluated relying on quantitative 
+measures such as bibliometrics (measures based on number of publication and citations).  For these 
+reasons, NINDS evaluations of basic research focus on qualitative evaluation of scientific content, 
+including peer review for continuing support.  The large number of prestigious research awards to 
+NINDS investigators provides some assurance that NINDS supports high quality innovative research.  
+These awards include numerous Nobel, Lasker, MacArthur, Breakthrough, and other honors.  The 
+Institute also performs thorough retrospective reviews of major advances in treatment of neurological 
+disorders, which trace key contributions from NINDS research.      
+The Strategic Planning Process 
+NINDS launched the current strategic planning process in early 2019.  Through this process, the Institute 
+aimed to identify prio
+
+--- PAGE 28 matched=['Strategic Plan', 'goals and strategies', 'mission'] ---
+   
+ 
+27 
+ 
+process allows NINDS to 1) identify and reinforce practices, policies, activities, and actions that advance 
+our mission, and 2) identify practical ways to improve and innovate in order to better serve the research 
+community and the public.  
+To begin, the NINDS leadership formulated overarching goals focused on four broad topics:  
+1. Science: Support and perform rigorous and important neuroscience research. 
+2. Training: Fund and conduct neuroscience research training and career development programs 
+to ensure a vibrant, and talented neuroscience workforce. 
+3. Communications: Promote dynamic communication and broad stakeholder engagement to 
+accelerate scientific progress and reduce the burden of neurological disorders. 
+4. Workforce Culture: Create and sustain a supportive work culture for the NINDS workforce that 
+becomes the model for biomedical research and the neuroscience community. 
+The Institute charged Task Forces (see Appendix) made up of staff from across NINDS and NIH to focus 
+on each of these goals.  Over a period of several months, each Task Force performed a thorough 
+assessment of the current NINDS landscape and the existing practices and policies to help inform the 
+goals and strategies discussed in this plan. 
+NINDS also sought input from a wide variety of stakeholders at several points throughout the planning 
+process.  In July 2019, NINDS published a Request for Information (RFI) to gather public input regarding 
+the four broad strategic goals. NINDS received 95 responses from a range of groups, including principal 
+investigators, researchers, trainees, patients, patient advocates, professional societies, nonprofit 
+organizations, health care providers, other research institutions, science administrators, and members 
+of the public.  In addition, there were multiple discussions with the National Advisory Neurological 
+Disorders and Stroke Council and the deputy director, Dr. Nina Schor, presented the plan at various 
+meetings, including the annual NINDS Nonprofit Forum and with professional societies, to gather 
+additional input.  Further, NINDS held a series of six external discussion panels of individuals offering 
+their insights on basic research, therapy development, training, career development, and 
+communication strategies. A draft of the NINDS Strategic Plan was published for public comments from 
+February 15, 2021 to April 15, 2021.  

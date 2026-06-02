@@ -1,0 +1,590 @@
+# NIBIB (current) — file: NIBIB_Strategic_Plan.pdf
+# 16 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan', 'Vision'] ---
+ 
+Today’s Vision,   
+Tomorrow’s Health Care 
+The 2012–2016 Strategic Plan of   
+the National Institute of Biomedical Imaging
+and Bioengineering 
+   
+Shear waves 
+replace liver biopsy 
+Micropost
+on a chip 
+Captured
+cancer cell 
+
+--- PAGE 3 matched=['Strategic Plan', 'Vision'] ---
+  Today’s Vision,
+ 
+Tomorrow’s Health Care
+ 
+The 2012–2016 Strategic Plan of   
+the National Institute of Biomedical Imaging   
+and Bioengineering 
+NIBIB 
+NIH...Turning Discovery Into Health® 
+
+--- PAGE 5 matched=['Goal 1', 'Strategic Plan', 'Table of Contents'] ---
+     
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  iii 
+Table of Contents 
+Our Vision: From the Director . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v 
+About NIBIB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+The Plan  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+A Decade of Progress  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 
+Goal 1: Develop innovative biomedical technologies that integrate engineering with   
+the physical and life sciences to solve complex problems and improve health . . . . . . . . 7 
+Progress Report: Prosthetics That Don’t Provoke Stroke  . . . . . . . . . . . . . . . . . . 8 
+Progress Report: Promise for People Living With Paralysis . . . . . . . . . . . . . . . . 8  
+Goal 2: Enable patient-centered health care through development of point-of-care,   
+wireless, and personal health informatics technologies . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 
+Progress Report: Battery-Powered Fiber-Optic Microscope  . . . . . . . . . . . . . . 10  
+Progress Report: Patient-Controlled Image Sharing  . . . . . . . . . . . . . . . . . . . . . 10  
+Goal 3: Transform advances in knowledge of cellular and molecular disease  
+mechanisms into precise medical diagnostics and therapeutics . . . . . . . . . . . . . . . . . . . 11 
+Progress Report: Finding Circulating Cancer Cells . . . . . . . . . . . . . . . . . . . . . . 12 
+Progress Report: Delivering the Right Dose to the Right Place  . . . . . . . . . . . . 12 
+Goal 4: Develop medical technologies that are low-cost, effective, and accessible  
+to everyone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 
+Progress Report: On-the-Spot Imaging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+Progress Report: Handheld Ultrasound Scanner . . . . . . . . . . . . . . . . . . . . . . . . 14 
+Goal 5: Train the next generation of diverse and interdisciplinary scientists, 
+bioengineers, and health care providers and promote the value of research that 
+synergizes these disciplines  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+Progress Report: Undergraduates Make Their DEBUT . . . . . . . . . . . . . . . . . . . 16 
+Progress Report: Creating Tomorrow Today  . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 
+Looking Ahead  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+
+--- PAGE 7 matched=['Strategic Plan', 'Vision', 'mission'] ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+     
+Our Vision: From The Director  
+I
+n 2012, the National Institute of Biomedical Imaging and Bioengineering (NIBIB) 
+celebrated 10 years of incredible progress in leading biomedical science and technology 
+innovations for health . The Institute now looks toward an even greater future building 
+on the power of integrating engineering and the physical and life sciences to continue to 
+transform medicine . We are driven by a mission centered on the convergence of biology and 
+the quantitative sciences, with a vision of improved global health . 
+Fifty years ago, who would have imagined that we would be able to look deep inside the body with pinpoint 
+accuracy and without ever scratching the skin’s surface? The development of three-dimensional (3–D) medical 
+imaging techniques such as computed tomography (CT), nuclear tomography including positron emission 
+tomography (PET), and magnetic resonance imaging (MRI) have certainly revolutionized medicine . 
+Today, doctors use precise, sophisticated imaging methods not only to detect disease, but also to treat it . High-
+intensity, focused ultrasound can now be used to destroy uterine fibroid tumors and to stop the uncontrollable 
+shaking of patients with essential tremors . CT and MRI technology help surgeons use minimally invasive 
+robotic tools to remove or repair unhealthy tissue in the chest, abdomen, and pelvis . Many other advances in 
+molecular and cellular imaging have had equally transformative effects, not only in treating disease but also in 
+understanding its basis . This guides the path of discovery back to fundamental insights about the laws of nature 
+and how the body works and can be healed . 
+Bioengineering has witnessed similarly remarkable changes . Research has yielded a new generation of powered 
+and smart prostheses for people with injuries and disabilities . Research progress has made it possible to 
+build artificial organs as well as 3–D tissues-on-a-chip that mimic natural functions . These chips and similar 
+developments will significantly improve medication screening and testing . Wireless and sensor technologies have 
+played pivotal roles in enabling point-of-care medical devices and telemedicine that will increase accessibility to 
+health care in underserved communities . 
+Today we are setting the stage for tomorrow’s possibilities . Before long, we will be able to detect the earliest 
+components of cancer and determine its potential spread . An app on a smartphone will help find the earliest signs 
+of an infection and help select the most appropriate antibiotic to treat it . Current open-surgical treatments will 
+give way to noninvasive approaches . We will replace injured or diseased organs with living, engineered tissues . 
+Such engineered tissues will also help overcome limitations inherent to artificial organs and joints and may help 
+alleviate the shortage of organs for transplantation . Medicines will be engineered to attack known molecular 
+targets, improve the potency of antibiotics, and prevent bacterial resistance . 
+What will it take to turn these possibilities into realities? Creativity, collaboration among disciplines, and a  
+sustained commitment to innovation are required to reach these ambitious goals . Guided by active and ongoing  
+discussions with its stakeholder communities, NIBIB has charted a course for the near term—the next 5 years— 
+to maximize the impact of publicly funded resea
+
+--- PAGE 9 matched=['Strategic Plan', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  1 
+     
+ 
+     
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n 
+n 
+n 
+n 
+Core Values 
+NIBIB is committed to continually revolutionizing medical technology to 
+improve human health worldwide . To achieve this goal, the Institute adheres 
+to a set of shared core values: 
+Excellence: We consistently seek and strive to achieve the best science . 
+Innovation: We are willing to take risks, readily embrace new approaches, 
+and actively pursue groundbreaking ideas . 
+Integrity: We act as ethical, open, and honest stewards of the public trust . 
+Partnership: We work collaboratively to maximize the beneficial impact 
+on human health . 
+About NIBIB 
+On December 29, 2000, President Clinton signed the NIBIB Establishment Act as 
+Public Law 106-580 . 
+Approximately 15 months later, NIBIB received its first congressional appropriation 
+and began to operate fully . The new Institute was created expressly to lead the 
+development and accelerate the application of innovative biomedical technologies 
+for the improved delivery of health care . The NIBIB domain is broad, encompassing 
+research conducted at the nexus of biology, physics, engineering, mathematics, 
+chemistry, and computer science . 
+Ten years after receiving its first budget appropriation of $112 million, the NIBIB 
+budget has tripled . NIBIB now also includes a highly creative, internationally 
+recognized intramural research program . NIBIB’s overarching goal is scientific and 
+technological innovation to extend healthy living, reduce death and disability, and 
+improve the well-being of our society . The Institute funds both NIBIB-defined and 
+investigator-proposed research activities, enabling the best minds in academia, 
+industry, and government to explore new approaches to health care solutions and 
+to provide valuable insights into biology and medicine . The Institute also funds 
+multidisciplinary research training through institutional training grants and individual 
+fellowships, as well as in the context of individual research project grants . 
+Whatever you do, strive 
+to do it so well that no 
+man living and no man dead 
+and no man yet to be born 
+could do it any better. 
+—Benjamin E. Mays 
+
+--- PAGE 10 matched=['Mission'] ---
+2 | National Institute of Biomedical Imaging and Bioengineering 
+    
+ 
+Three of NIBIB’s organizational divisions support extramural research and research 
+training that are conducted at colleges, universities, and hospitals across America . 
+NIBIB’s intramural division on the NIH campus in Bethesda, Maryland, includes a 
+highly innovative, state-of-the-art scientific program in super-high-resolution optical 
+imaging of living organisms, molecular imaging and theranostics, and emerging 
+clinical imaging technologies . 
+NIBIB Mission 
+To improve human health by leading the development and accelerating the 
+application of biomedical imaging and bioengineering technologies . The 
+Institute is committed to integrating the engineering and physical sciences 
+with the life sciences to advance basic research and medical care . 
+
+--- PAGE 11 matched=['Strategic Plan', 'goals and strategies', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  3 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n 
+n 
+n 
+n 
+n 
+The Plan 
+NIBIB achieves its mission through the leadership and support of research that 
+underpins advances in the diagnosis and treatment of disorders of all organ systems . 
+NIBIB is focused on approaches that improve the precision and value of scientific 
+information, and the use of this information to advance the understanding of complex 
+problems and the development of needed solutions . These insights have an impact on 
+all diseases and conditions . 
+To accomplish NIBIB’s mission, the Institute has developed goals and strategies, 
+detailed in this strategic plan, that are designed to maximize impact on human 
+health . This framework will guide NIBIB’s direction over the next 5 years and will 
+help determine how the Institute allocates resources to support and enhance scientific 
+research . In implementing this strategic plan, NIBIB will seek continuous stakeholder 
+input and respond as warranted . The Institute will further leverage its intellectual 
+and financial resources through joint ventures with the private sector and with other 
+Federal agencies . 
+Goals 
+Develop innovative biomedical technologies that integrate engineering 
+with the physical and life sciences to solve complex problems and improve 
+health . 
+Enable patient-centered health care through development of point-of-care, 
+wireless, and personal health informatics technologies . 
+Transform advances in knowledge of cell and molecular disease 
+mechanisms into precise medical diagnostics and therapeutics . 
+Develop medical technologies that are low-cost, effective, and accessible to 
+everyone . 
+Train the next generation of diverse and interdisciplinary scientists, 
+bioengineers, and health care providers and promote the value of research 
+that synergizes these disciplines . 
+
+--- PAGE 12 matched=['Strategic Plan', 'goals and strategies'] ---
+4 | National Institute of Biomedical Imaging and Bioengineering 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+When you consider where we 
+are today in health care, and 
+where we need to be, it becomes 
+clear that technological 
+innovation is absolutely critical 
+to getting there. It is the only 
+practical means by which we 
+can detect disease earlier, 
+develop more precisely tailored 
+treatments, and make quality 
+care accessible to everyone. 
+There is simply no other way. 
+— Roderic I. Pettigrew, Ph.D., M.D. 
+The 2012–2016 NIBIB Strategic Plan began with a series of meetings and discussions 
+with NIBIB staff, the NIBIB Advisory Council, and the external stakeholder 
+community . Initial internal discussions took place across the training, scientific, 
+and engineering program divisions to discuss opportunities and goals in the context 
+of emerging opportunities and existing programs . The NIBIB Director convened a 
+retreat with senior staff to develop consensus within the Institute that produced an 
+initial set of goals and strategies . 
+The NIBIB Advisory Council provided input and expert opinion on draft goals and 
+strategies . The document that emerged from these discussions was posted online, 
+distributed through the NIBIB Listserv, and sent to stakeholder organizations, inviting 
+comment . Finally, Institute staff and the NIBIB Advisory Council considered all 
+comments and further refined the goals and strategies, toward the development of the 
+final plan as well as guidance for its implementation . 
+This plan is not a static document, but a multiyear process that will be implemented 
+over time, and it will be revisited periodically . Goals and strategies will continue 
+to evolve through NIBIB’s iterative planning and evaluation process, conducted in 
+conjunction with its Advisory Council and its stakeholders . 
+
+--- PAGE 13 matched=['Strategic Plan', 'Vision', 'mission'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  5 
+     
+ 
+ 
+  
+   
+A Decade of Progress 
+Since NIBIB was established a decade ago, progress in turning technology-based 
+discovery into improved health has occurred at a stunning rate . The measurement 
+precision of some 3–D techniques has improved by an order of magnitude, many 
+standard surgical therapies are now done with image-guided minimally invasive 
+methods, and some therapies can be delivered to individualized molecular targets . 
+Interdisciplinary research has also produced entirely new disciplines of inquiry, as 
+well as a growing cadre of scientists fluent in multiple scientifically interrelated areas . 
+This new breed of researchers is eager to apply the fruits of technological advances 
+to improving the practice of medicine and delivery of health care . NIBIB is helping 
+to support a global shift in how science is taught, through an interdisciplinary lens 
+that is ever attentive to the practical value of new knowledge and the introduction of 
+innovative technologies that are more effective and efficient than current ones . 
+Because of NIBIB’s broad mission, and the urgent need to translate discovery into 
+practical health care solutions, the Institute collaborates extensively with academia, 
+industry, and government . Bioengineering, for example, has seen considerable 
+growth, and the field is now prominent at U .S . colleges and universities . Today, there 
+are more than 100 bioengineering departments nationwide with students who are 
+among the topmost academic achievers . And, as one measure of the robust private 
+sector investment in applications of the type of biomedical technology research 
+derived from Federal support, revenue estimates for the global medical device 
+industry range from $220 billion to $375 billion annually .
+1 
+1 Medical Device & Diagnostic Industry magazine: http://www .biotechmedia .com/y2001-ed-canon-mddi .html . 
+
+--- PAGE 15 matched=['Goal 1', 'Strategic Plan', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  7 
+     
+ 
+ 
+ 
+Goal 1:  Develop innovative biomedical technologies that  
+integrate engineering with the physical and life sciences  
+to solve complex pr oblems and improve health. 
+NIBIB’s investments result in new knowledge, and they support the development 
+and improvement of technologies leading to diagnoses and treatments that are more 
+effective, more accessible, faster, and more cost-efficient than those currently available .  
+These are the advances that result from the convergence of biology and engineering .  
+The Institute believes that harnessing the creativity of bright minds with outstanding 
+ideas and expertise is the best strategy to lead innovation that will make a difference 
+in the lives of Americans and those beyond our borders . NIBIB will continue to invest 
+strategically in high-impact research that meets a demonstrated public health need .  
+This includes support of investigator-initiated research in imaging, engineering, 
+health informatics, and interdisciplinary science at research institutions around the 
+country and in the NIBIB’s own research program on the NIH campus in Bethesda, 
+Maryland .  
+Strategies 
+n Serve as the key supporter of investigator-initiated grants in imaging, 
+engineering, health informatics, and interdisciplinary science . 
+n Nurture a robust, cutting-edge intramural research program with 
+emphasis on areas at the interface of biology and engineering that are not 
+supported extramurally . 
+n Guide the application of NIBIB-developed technologies toward the 
+diagnosis and treatment of specific diseases through collaboration with 
+other NIH components, government agencies, and industry . 
+
+--- PAGE 17 matched=['Goal 2', 'Strategic Plan', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  9 
+     
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n 
+n 
+n 
+  
+ 
+ 
+ 
+ 
+Goal 2: Enable patient-centered health care through 
+development of point-of-care, wireless, and personal 
+health informatics technologies. 
+A patient-centered approach creates an environment where people are empowered 
+with knowledge that helps guide their health and well-being toward better outcomes . 
+Improved sensor and information technologies for home and mobile use can enhance 
+health information access and exchange for both patients and providers . Point-of-care 
+technologies that make a definitive diagnosis at the point and time of initial contact 
+between a patient and his or her health care professional have become a recent reality . 
+This development facilitates diagnosis and subsequent treatment that are tailored to 
+the patient, and also provide real-time, definitive information for the provider . As a 
+result of other research/developments, individualized health care is being optimized 
+through the integration of patient-related medical information from all sources, 
+including medical centers, walk-in clinics, and home devices . 
+Another key strategy NIBIB will follow toward achieving patient-centered care is 
+ensuring that medical information is available in a convenient format for both 
+practitioners and patients, so that data can be translated into clinical care . Data 
+interoperability is a 21
+st-century challenge for everyone, and NIBIB will play a 
+vital role in advancing it by engaging industry, Federal agencies, and professional 
+organizations to achieve this common goal . 
+Right at the point of care, 
+you can have an accurate 
+diagnosis that enables 
+immediate outpatient care. 
+—Bioengineer Rebecca
+    Richards-Kortum, Ph.D. 
+Strategies 
+Develop improved sensor and related information technologies for 
+home and mobile use that will sustain wellness and facilitate coordinated 
+management of chronic diseases . 
+Advance wireless and mobile health technologies and integrate point-of­
+care technologies with medical information systems . 
+Gather evidence-based information to inform individualized, clinical 
+decision-making . 
+
+--- PAGE 19 matched=['Goal 3', 'Strategic Plan', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  11 
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n 
+n 
+n 
+ 
+  
+  
+ 
+  
+    
+Goal 3: Transform advances in knowledge of cellular 
+and molecular disease mechanisms into precise medical 
+diagnostics and therapeutics. 
+Measurements of an individual’s isolated cells and specific molecules can provide 
+information useful for determining disease risk, for identifying disease at a very 
+early stage, and for more precise characterization of a particular disease . NIBIB will 
+support the development of technologies that enable detection of molecular markers 
+of disease, including-disease specific proteins and the analyses of individual cells, 
+as well as genomic-, proteomic-, and metabolomic-based analytical approaches . 
+While advances in this area will apply to diverse disease areas, applications in cancer 
+diagnosis, prevention, and treatment are likely to be particularly relevant in the near 
+term . 
+Driving the relevance of single-cell approaches is the fact that, to date, most studies 
+of cells and their behavior have been performed on averaged populations of cells . 
+Recognizing that biological processes are dynamic, NIBIB will support research that 
+advances knowledge of single-cell function and of interactions between cells . NIBIB 
+will invest in studies that improve the ability to monitor single-cell behavior in living 
+tissue through state-of-the-art imaging and computational tools that analyze the large 
+data sets generated by such approaches . 
+Think about it. Right now, 
+there is blood testing, and from 
+there, we jump immediately to 
+high-end imaging modalities— 
+there is nothing in between. 
+—Biomedical engineer 
+Mehmet Toner, Ph.D., on the 
+need for cell-based analytics 
+Strategies 
+Develop novel methods and technologies to identify cellular and 
+molecular markers of disease . 
+Engineer devices that use precise biomarkers to sub-classify disease . 
+Develop imaging and bioengineering technologies to isolate single cells 
+and to analyze their variation . 
+
+--- PAGE 21 matched=['Goal 4', 'Strategic Plan', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  13 
+     
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Goal 4: Develop medical technologies that are low-cost, 
+effective, and accessible to everyone. 
+Just as advances in electronics technology and manufacturing have sharply reduced 
+the cost of computers and televisions, innovative and affordable medical technologies 
+have the potential to bring essential health care to more people, and at a lower cost . 
+NIBIB is committed to supporting research that tailors the development of devices 
+and instruments to a broad diversity of users—including those in remote and low-
+resource settings . 
+NIBIB will encourage scientists to think carefully about how new technologies will be 
+used, since cultural acceptance is a key factor in compliance and thus an important 
+design consideration . Establishing productive partnerships with users, along with 
+the use of telemedicine and mobile health technologies, will maximize the return on 
+NIBIB’s research investment . 
+Strategies 
+n Support the translation of medical technologies from the laboratory to  
+routine clinical use . 
+n Support research that customizes medical technologies for low-resource 
+settings . 
+n Support the development of culturally relevant medical technologies for a 
+variety of users . 
+n Capitalize on telecommunication and mobile health technologies to help 
+broaden the accessibility and affordability of modern health care and 
+extend it to remote environments . 
+
+--- PAGE 23 matched=['Goal 5', 'Strategic Plan', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  15 
+     
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Goal 5: Train the next generation of diverse and 
+interdisciplinary scientists, bioengineers, and health 
+care providers and promote the value of research that 
+synergizes these disciplines. 
+An overarching theme of the NIBIB research program is successful bridging of the 
+quantitative and biological sciences to develop highly effective, targeted therapies for 
+a range of diseases . Multi- and interdisciplinary research training is the cornerstone of 
+achieving this goal, and NIBIB will continue to use creative strategies to develop and 
+promote training programs and opportunities at all points in a scientist’s career . 
+Because medical technology often finds its way into routine use in our daily lives, 
+public education and awareness is a vital component of translating research into 
+practice . NIBIB will continue to emphasize the importance of science and health 
+literacy, and the necessity of bridging the physical and life sciences toward better 
+health for the nation . The Institute values input from various stakeholder groups 
+including patients, health care providers, researchers, industry leaders, and students . 
+This input helps NIBIB plan and prioritize its research portfolio, thus better serving 
+the American public and the scientific community . 
+Strategies 
+n Support team-based engineering design training at multiple career levels, 
+ranging from undergraduate education to postgraduate training . 
+n Support the development of biomedical researchers whose training 
+includes clinical and industry internship experiences, as well as exposure 
+to product development and regulatory issues . 
+n Promote diversity in the bioimaging and bioengineering workforce at 
+multiple career levels by supporting recruitment and retention of people 
+from underrepresented groups . 
+n Promote public understanding of how bridging engineering and the 
+physical and life sciences improves health . 
+n Enhance the use of modern communication tools to interact with the 
+public and scientific communities . 
+
+--- PAGE 25 matched=['Strategic Plan', 'Vision'] ---
+Today’s Vision, Tomorrow’s Health Care: The 2012–2016 Strategic Plan |  17 
+     
+Progress Report: Creating Tomorrow Today 
+NIH’s flagship training programs, the Ruth L . Kirschstein institutional training grants 
+and individual fellowships (National Research Service Awards, or NRSAs), offer 
+training both at the predoctoral and postdoctoral levels and are excellent training 
+experiences . 
+NIBIB’s NRSA training programs support team-based training between basic and 
+clinical researchers from the undergraduate to postgraduate levels, producing a new 
+cadre of interdisciplinary researchers at the interface between engineering and the 
+biological, computational, and physical sciences . The programs are committed to 
+increasing the participation of underserved minorities in the biomedical workforce . 
+The programs enable a trainee to obtain an interdisciplinary degree or add a 
+specialization onto their primary degree . For example, engineers may take 1 year of 
+medical school to enrich their awareness and knowledge of biomedical applications 
+and of the human body itself . NIBIB currently funds approximately 50 institutional 
+training programs across the country . 
+
+--- PAGE 26 matched=['Strategic Plan', 'mission'] ---
+18 | National Institute of Biomedical Imaging and Bioengineering 
+    
+ 
+Looking Ahead 
+The 2012–2016 NIBIB Strategic Plan underscores the strong scientific and strategic 
+foundation of NIBIB—one on which a very successful first decade was built . It also 
+outlines the blueprint for maximizing the Institute’s positive impact on the national 
+health care agenda going forward . 
+Through its mission to fully integrate engineering with the physical and life sciences, 
+NIBIB is committed to leading another decade of research excellence and innovation 
+to improve the health of all Americans . Just as the spectacular advances of the past 
+decade shine brightly, imagine what progress we will achieve 5, 10, and even 50 years 
+from now . 
+Scientific opportunities of the 21
+st century promise a new revolution in using 
+technology to advance health care . NIBIB, adhering to its core values of excellence, 
+innovation, integrity, and partnership, is ready for the challenge . 

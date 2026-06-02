@@ -1,0 +1,74 @@
+# NIAMS (FY2025-2029) — file: NIAMS_Strategic_Plan_FY2025-2029_FactSheet.pdf
+# 2 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan', 'Mission'] ---
+Strategic Plan 
+National Institute of Arthritis and 
+Musculoskeletal and Skin Diseases 
+Fiscal Years 2025-2029 
+NIAMS Mission: 
+To support research into the 
+causes, treatment, and 
+prevention of arthritis and 
+musculoskeletal and skin 
+diseases; the training of basic 
+and clinical scientists to carry 
+out this research; and the 
+dissemination of information 
+on research progress in 
+these diseases. 
+Purpose of the Strategic Plan: 
+To foster an adaptable research 
+environment. This will enable 
+scientists to leverage 
+opportunities available using 
+today’s knowledge and 
+technologies. It also will 
+stimulate research in new, 
+transformative areas as they 
+arise. Ultimately, the resulting 
+activities will allow all people to 
+live longer and healthier lives. 
+Read the online version of the Plan: 
+https://www.niams.nih.gov/about/ 
+strategic-plan-fiscal-years-2025-2029 
+QR Code
+
+
+--- PAGE 2 matched=['Strategic Plan'] ---
+Strategic Plan Goals 
+Strategic Plan Priorities 
+1. 
+2. 
+3. 
+4. 
+Advancing therapy development for everyone by identifying human biological, behavioral, 
+and environmental factors that aﬀect health, disease, and the patient experience, and testing 
+interventions in people with arthritis, musculoskeletal, and skin diseases. 
+Fostering discoveries to improve human health by developing resources, including relevant 
+preclinical models, unbiased clinical data, and computational biology approaches. 
+Supporting necessary infrastructure and a robust, inclusive research workforce capable of 
+conducting all types of studies, including interdisciplinary research and team science.  
+Communicating timely and relevant advances to patients, communities, and scientists. 
+Mechanisms in human health and 
+disease 
+Regenerative medicine approaches to 
+repair or restore tissue 
+Data science, artiﬁcial intelligence/ 
+machine learning, and computational 
+biology 
+Behaviors and environmental 
+exposures 
+Interventions through clinical and 
+epidemiological studies 
+Health disparities and health equity 
+Research infrastructure 
+Interdisciplinary research, team 
+science, and partnerships 
+Training and workforce 
+Information dissemination and 
+engagement 
+Place Holder for Page Header Border
+With No Photos from Strat Plan
+

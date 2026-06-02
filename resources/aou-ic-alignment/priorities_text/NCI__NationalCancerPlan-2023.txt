@@ -1,0 +1,106 @@
+# NCI (NationalCancerPlan-2023) — file: NCI_National_Cancer_Plan.pdf
+# 3 pages matched priority-heading patterns
+
+
+--- PAGE 2 matched=['PLAN \n \nOverview', 'vision'] ---
+ 2 
+NATIONAL CANCER PLAN | 
+THE NATIONAL CANCER PLAN 
+ 
+Overview   
+ 
+The National Cancer Act of 1971 recognized the need for a national commitment to making 
+progress against cancer and dedicated the federal government to developing a large-scale, 
+world-class cancer research enterprise.i The National Cancer Program requires three 
+significant components: effective administration with clearly defined authority and 
+responsibility, a comprehensive national plan, and necessary financial resources.  
+President Joe Biden and First Lady Jill Biden have long championed the goal of making 
+progress for families facing cancer, leading the 2016 launch of the Cancer MoonshotSM, and 
+reaffirming this commitment in 2022 by calling for a national, whole-of-government 
+initiative to “end cancer as we know it today”1. As part of the reignited Cancer Moonshot, 
+they set goals to reduce cancer mortality by at least 50% over the next 25 years and 
+improve the experience of people living with and surviving cancer, their families, and 
+caregivers. This national charge challenges us to examine current efforts and to identify 
+and address additional needs to dramatically reduce harm from cancer for all people.   
+With unprecedented scientific opportunities, passion, and commitment from diverse 
+aspects of our society, the time is right to clarify the pressing needs and approaches 
+essential to ending cancer as we know it. With the vision and charge of the Cancer 
+Moonshot, we now present a new road map—a comprehensive National Cancer Plan—to 
+advance the National Cancer Program, acknowledging that more than ever before, we have 
+“a great opportunity … as a result of recent advances in the knowledge of this dread 
+disease to conduct energetically a national program against cancer”ii and to demonstrate 
+international leadership in this truly global challenge. 
+ 
+Today’s National Cancer Program and a Plan for the Future 
+ 
+The National Cancer Act of 1971 gave broad 
+authority to the director of the National Cancer 
+Institute (NCI) to develop a National Cancer 
+Program that included NCI, other components 
+of the National Institutes of Health, and other 
+federal and nonfederal cancer programs.  
+Today's National Cancer Program represents a far more complex ecosystem than was 
+imagined in 1971. Our progress against cancer is the direct result of advances made 
+possible by investment from federal, state, and local governments in public health and 
+basic, translational, and clinical research, and by the sustained efforts of researchers in 
+academic and industry laboratories, professional societies, and nonprofit foundations, and 
+The focus of the National Cancer Plan is 
+to achieve a society where every person 
+with cancer lives a full and active life 
+and to prevent most cancers so that 
+few people need to face this diagnosis 
+
+--- PAGE 4 matched=['goals and strategies', 'vision'] ---
+ 4 
+NATIONAL CANCER PLAN | 
+GOALS OF THE NATIONAL CANCER PLAN 
+ 
+As President Biden has outlined, the goal of the Cancer Moonshot is to end cancer as we 
+know it today. This bold, yet achievable charge requires us to understand the ways in which 
+we know cancer today and to articulate a clear vision for how to make meaningful 
+progress.  
+ 
+To get there, the National Cancer Plan focuses on eight primary goals. The goals are written 
+as aspirational statements, describing an ideal future, and represent opportunities for 
+everyone and every organization to contribute to our continued progress against cancer. 
+Each goal includes a description of the current state and focused strategies to achieve 
+progress—some within the purview of biomedical research and others for action through 
+public health, health care delivery, financing, and public policy. We encourage everyone 
+involved in our nation’s fight against cancer to reflect upon these goals and strategies and 
+to determine where their efforts might contribute.  
+  
+
+--- PAGE 16 matched=['area of focus'] ---
+ 16 
+NATIONAL CANCER PLAN | 
+Given these issues, research to improve health care delivery is extremely important. 
+However, it is also challenging because it requires cooperation among clinicians and health 
+systems that currently lack the time and resources necessary to conduct research. In 
+addition, the data collections needed for health care delivery research are difficult to obtain 
+because they are distributed throughout the health care system, in electronic medical 
+records, insurance claims, cancer registries, and pharmacy databases, among others. 
+Consequently, working with many different health care system components to gather, 
+format, and analyze these data often meets resistance and is time-consuming and difficult. 
+ 
+Examples of NCI Research to Achieve this Goal  
+ 
+NCI is deeply committed to supporting health care delivery research and implementation 
+science to ensure that health care practitioners and public health systems deliver evidence-
+based cancer care to all. Health care delivery research analyzes the impact that many 
+factors—from reimbursement and other financial issues to organizational structures to 
+technology—have on prevention, early detection, treatment, and survivorship care. 
+In addition, work in the field of implementation science develops methods and strategies to 
+facilitate the uptake of evidence-based care into regular use by health systems. Cancer 
+Care Delivery Research is one area of focus for the NCI Community Oncology Research 
+Program, a network of researchers and community-based clinicians who conduct studies in 
+settings where most people receive their care. The Cancer Care Delivery Research program 
+addresses all aspects of cancer care delivery, including topics such as shared clinical 
+decision-making and health services accessibility. In addition, the Cancer Moonshot 
+supports programs to improve the management of symptoms during and after cancer 
+treatment and to accelerate cancer screening and follow-up care.   
+Ultimately, although health care delivery research can uncover the “what to do” and “how 
+to do it” of improving routine cancer care, it is up to the government, communities, 
+industry, and individuals to use research knowledge to produce the changes necessary to 
+end cancer as we know it. This is truly the work of the last mile, and success requires 
+commitment from all aspects of our society.    
+  

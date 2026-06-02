@@ -1,0 +1,578 @@
+# NIMHD (2021-2025) — file: NIMHD_Strategic_Plan_2021-2025.pdf
+# 15 pages matched priority-heading patterns
+
+
+--- PAGE 2 matched=['Strategic Plan'] ---
+National Institutes of Health 
+Minority Health and Health Disparities 
+Strategic Plan 2021–2025 
+Taking the Next Steps
+
+--- PAGE 3 matched=['Strategic Plan', 'Table of Contents'] ---
+1 
+Table of Contents 
+Introduction 2 
+Definitions and Parameters 2 
+NIH and HHS Commitment 3 
+Foundation for Planning 3 
+Structure of this Plan 4 
+Strategic Plan Categories 5 
+Summary of Goals by Category 6 
+Details of Categories and Goals 8 
+Leap Forward Research Challenge 20 
+Future Plans 22 
+
+--- PAGE 4 matched=['strategic plan'] ---
+2 
+ 
+Introduction 
+Medical advances and new technologies have allowed Americans to live longer and healthier lives 
+for the past century. However, health disparities persist, disproportionately affecting individuals 
+of less privileged socioeconomic status (SES), rural residents, and individuals from specific 
+communities and heritages. Health disparities are the result of differences in and interplay among 
+numerous determinants of health, including biological factors, health behaviors, sociocultural and 
+place-based factors, and the way health care systems interact through complex multilevel 
+pathways. These dynamic and complex interactions lead to poor health outcomes and challenge 
+researchers to identify mechanistic pathways and to develop interventions that can reduce health 
+disparities by improving health for all. 
+Section 10334 of P.L. 111-148 tasks NIMHD with coordinating NIH’s research related to 
+minority health and health disparities: “The Director of the Institute, as the primary Federal 
+official with responsibility for coordinating all research and activities conducted or supported by 
+the National Institutes of Health on minority health and health disparities, shall plan, coordinate, 
+review, and evaluate research and other activities conducted or supported by the Institutes and 
+Centers of the National Institutes of Health.” In addition, Section 2038 of P.L. 114-255 (21st 
+Century Cures Act) tasks NIMHD with fostering partnerships and collaborative projects relating 
+to minority health and health disparities: “The Director of the Institute may foster partnerships 
+between the national research institutes and national centers and may encourage the funding of 
+collaborative research projects to achieve the goals of the National Institutes of Health that are 
+related to minority health and health disparities.” As part of all strategic planning processes 
+across NIH, Institutes and Centers (ICs) are tasked with coordinating with the Directors of 
+NIMHD and the Office for Research on Women’s Health to ensure that the plans account for the 
+unique perspectives, strengths, and challenges facing minorities and women, as described in 
+Section 2031 of P.L. 114-255. The plan will guide NIH in setting scientific goals, such as 
+advancing the scientific understanding of health disparities, and research-related activity goals, 
+such as strengthening the national research capacity to address health disparities. 
+Research supported by NIH has worked to reduce these disparities and improve health across all 
+diseases, disorders, and conditions. As a result, all ICs contribute to the science and support 
+activities. This NIH strategic plan demonstrates ICs’ commitment to research to generate the 
+scientific knowledge needed to improve health outcomes for all Americans.  
+Health Disparity Definition  
+A health disparity (HD) is a health difference that is observed between population groups, based 
+on one or more of the following health outcomes:  
+• Higher incidence and/or prevalence and earlier onset of disease 
+• Higher prevalence of risk factors, unhealthy behaviors, or clinical measures in the causal 
+pathway of a disease outcome  
+• Higher rates of condition-specific symptoms, reduced global daily functioning, or self-
+reported health-related quality of life using standardized measures 
+• Premature and/or excessive mortality from diseases where population rates differ 
+• Greater global burden of disease using a standardized metric 
+
+--- PAGE 5 matched=['strategic plan', 'mission'] ---
+3 
+Health Disparity Populations 
+The NIH definition of populations that experience health disparities includes populations with 
+lower socioeconomic status (SES), underserved rural populations, sexual minorities, and racial 
+and ethnic minority populations (see OMB directive). 
+NIH Commitment 
+Healthy People 2020 envisions a society in which all people live long, healthy lives. The U.S. 
+Department of Health and Human Services (HHS) aims to enhance the health and well-being of 
+all Americans, by providing effective health and human services and by fostering sound, 
+sustained advances in the sciences underlying medicine, public health, and social services.  
+The mission of NIH, as part of HHS, is to seek fundamental knowledge about the nature and 
+behavior of living systems and the application of that knowledge to enhance health, lengthen life, 
+and reduce illness and disability.  
+Foundation for Planning 
+This strategic plan was created with the input of several NIH working groups, including teams of 
+staff and researchers. To ensure that stakeholders at multiple levels were involved in this 
+strategic planning process, information was gathered from experts within and outside of NIH. A 
+few of these foundational activities are described below. 
+• In FY 2012, during the Science of Eliminating Health Disparities summit, town hall
+meetings to collect data on critical health and health disparity research issues were held.
+• In FY 2015, a portfolio analysis of NIH’s health disparities research was conducted to
+survey the status of the field, analyze investments, and gauge gaps in the science or
+supporting structures.
+• During FY 2015 and FY 2016, the science visioning process was accessed to produce
+recommendations for advancing the field. Participating-NIH staff and outside partners
+suggested 10 priority recommendations each in defining etiologies and mechanisms,
+developing and evaluating interventions, and identifying innovative methods from a wide
+range of needs, to reduce disparities and improve health. Framework. Details are
+available in the American Journal of Public Health (AJPH) supplement N
+ew Perspectives
+to Advance Minority Health and Health Disparities Research.
+• During FY 2018, three virtual sessions and four listening sessions across the country to
+collect community-level input for the NIH MH & HD Strategic Plan were employed.
+These activities—in coordi nation with NIH working groups and input from a range of NIH 
+Institutes, Centers, and Offices provide the foundation for the NIH MH & HD Strategic Plan. 
+
+--- PAGE 6 matched=['Strategic Plan', 'vision'] ---
+4 
+Structure of this Plan 
+The NIH MH & HD Strategic Plan 2021–2025 has been designed with three categories to 
+represent a long-term framework: scientific research; research-sustaining activities; and outreach, 
+collaboration, and dissemination to encompass the range of NIH’s HD-related work. Embedded 
+in each category are goals that encompass up to 10 years of expected research. There are four 
+research goals; three research-sustaining activities goals; and two outreach, collaboration, and 
+dissemination goals. 
+This plan describes scientific goals with related research strategies and priority areas that 
+represent key opportunities and needs to advance HD research. Rather than reflecting a 
+comprehensive listing of all relevant NIH activities, this plan describes how NIH can best 
+advance HD research. Each goal is divided into strategies that are intended to capture strategic 
+ways in which NIH can advance the science of HD or develop key supporting structures. The 
+priority areas consist of research efforts and activities that encompass HD efforts across NIH and 
+span 5 years (Starting Line), 10 years (Building Momentum) and 10-20 years (Leap 
+Forward). 
+This plan lays out a focused vision, specifying short-, intermediate-, and long-range research 
+strategies and activities that will facilitate progress toward long-term goals. 
+These priority areas are described below: 
+• Starting Line priority areas represent concrete, current efforts and initiatives aimed at
+improving health and/or reducing health disparities that are underway at NIH or with NIH
+partners.
+• Building Momentum priority areas represent concepts and potential initiatives for
+advancing the science of health disparities. These concepts include early ideas and
+initiatives being developed and considered for potential implementation.
+• Leap Forward priorities represent cross-NIH visionary goals that can have a significant
+impact on improving health or reducing health disparities in disease and disorders.
+The NIH MH & HD Strategic Plan 2021–2025 includes performance tracking and evaluation 
+components to meet federal requirements. Most importantly, the plan aims to advance the 
+science of health and health disparities and produce meaningful, measurable improvements in 
+health and reductions in health disparities through the dissemination and implementation of both 
+existing and novel scientific breakthroughs over the duration of the strategic plan and beyond.  
+
+
+--- PAGE 7 matched=['Strategic Plan'] ---
+5 
+ 
+Strategic Plan Categories  
+Scientific Research 
+Scientific research encompasses the continuum of research activities, from basic through applied 
+research. Research is systematic study directed toward advancing scientific knowledge and/or 
+gaining understanding of etiology and interventions to improve health and to reduce health 
+disparities. This section also focuses on the need to strengthen and promote analytic methods that 
+will enable a better understanding of the indicators and underlying causes of health disparities and 
+facilitate ongoing monitoring. 
+Research Sustaining 
+NIH supports the strengthening and expansion of structures that facilitate the scientific process—
+essential components of its health and health disparities research-sustaining activities. Well-
+trained, highly skilled researchers are critical to advancing discovery, as diverse teams bring 
+perspectives that foster creativity, enhance problem-solving, and promote broad participation in 
+health research. Health disparities research requires multidisciplinary scientists with advanced 
+expertise to examine the complex factors driving disparities, supported by sustained recruitment, 
+training, and retention across career stages. Research capacity building is vital to the field’s 
+growth, requiring NIH investment in infrastructure and institutional support to foster strong, 
+collaborative research communities. Ensuring scientifically appropriate participation in clinical 
+research is another NIH priority, involving efforts to reduce participation barriers, strengthen 
+inclusion strategies, and improve the impact of findings for all people affected by health 
+conditions. NIH is committed to research that reflects the full spectrum of affected populations by 
+addressing obstacles to participation and enhancing representation in NIH-funded studies. 
+Outreach, Collaboration, and Dissemination 
+NIH supports outreach, collaboration, and dissemination efforts to ensure key research findings on 
+health and health disparities are shared with communities and researchers who can use them. This 
+plan focuses on expanding community outreach, improving dissemination of research findings, and 
+building networks of researchers and partners across the nation and within NIH. Promoting the 
+capacity to translate research findings into recommendations for clinical and public health practice 
+is essential for reducing health disparities. NIH can support appropriate stewardship by considering 
+factors related to dissemination of HD research at every stage of the research process. These 
+efforts are needed to ensure evidence-based interventions become part of everyday practice and are 
+integrated into the public health process. As part of the outreach and dissemination process, 
+broadening and strengthening partnerships between communities, researchers, clinicians, advocacy 
+groups and government expands potential avenues for collaboration and progress toward evidence-
+based practices. This plan offers strategies for engaging and enhancing partnerships across sectors 
+to support research and promote best practices in health and health disparities research. 
+Leap Forward Research Challenge 
+Leap Forward priority areas are expected to have a significant impact on advancing the fields of 
+health and health disparities research over the next 10 to 20 years. NIH challenged itself and the 
+research community to be bold and strive for transformational progress across the continuum of 
+rese
+
+--- PAGE 8 matched=['Research \nGoal', 'Goal 1'] ---
+6 
+activities that NIH hopes to embark upon to improve health or to reduce a health disparity in 
+scientific research and in research-sustaining activities. 
+Summary of Goals by Category 
+Scientific Research 
+Goal 1: Promote research to understand and to improve the health of populations 
+experiencing health disparities 
+• Strategy 1.1: Examine health determinants that underlie resilience or susceptibility to
+diseases and conditions experienced by populations experiencing health disparities.
+• Strategy 1.2: Develop and assess interventions to improve the health status in populations
+experiencing health disparities.
+Goal 2: A
+dvance scientific understanding of the causes of health disparities 
+• Strategy 2.1: Investigate health determinants through basic, behavioral, clinical, and
+applied research to better understand the contributions to health disparity outcomes.
+• Strategy 2.2: Support research to examine multilevel pathways and dynamic
+interrelationships of health determinants that impact health disparity outcomes over the life
+course and across generations.
+• Strategy 2.3: Identify relevant critical periods and feasible targets for health disparity
+interventions.
+Goa
+l 3: Develop and test interventions to reduce health disparities 
+• Strategy 3.1: Design and test interventions that target known health determinants and
+appropriate life-course time points to improve health outcomes.
+• Strategy 3.2: Embed implementation science within intervention studies to inform efforts
+to scale, sustain, and translate efficacious interventions within and across populations and
+settings.
+• Strategy 3.3: Promote prevention and evaluate the impact of upstream interventions on
+distal outcomes across the lifespan and across generations.
+Goal
+ 4: Create and improve scientific methods, metrics, measures, and tools that support 
+health disparities research 
+• Strategy 4.1: Identify and test the adoption of common indicators to quantify the status of
+health disparities across different diseases/conditions and populations.
+• Str
+ategy 4.2: Define the continuum from health differences to health disparities, both
+qualitatively and quantitatively across multiple dimensions, as well as develop contextually
+informed clinical and statistical measures of disparities reductions.
+• Strategy 4.3: Apply complex systems modeling approaches to identify and predict
+relationships between health determinants and health disparity outcome measures.
+• Strategy 4.4: Support movement toward standardization, collection, reporting, and
+leveraging of measures of health determinants in both existing and emerging data sources,
+including administrative clinical data, to foster linkages between health and relevant health
+determinants data for use in identifying health disparities and underlying causes through
+emerging data science techniques.
+
+--- PAGE 9 matched=['Goal 5'] ---
+7 
+• Strategy 4.5: Identify and strengthen rigorous quantitative and qualitative methods to
+enable analysis on small populations and subpopulations.
+• Strategy 4.6: Evaluate research proposals, programs, and policies to assess effectiveness in
+improving health and reducing health disparities.
+Research-Sustaining Activities 
+Goal 5: Support training and career progression of health disparities researchers 
+• Strategy 5.1: Support training and mentorship programs for health disparities researchers
+at all stages of career and leadership development.
+• Strategy 5.2: Incorporate development of specialized research skills into health disparities
+training programs, including core and emerging skills that are important for measuring,
+understanding, and identifying solutions to address health disparities complexities.
+Goal
+ 6: Strengthen the national capacity to conduct health disparities research 
+• Strategy 6.1: Support programs to enhance capacity for health disparities research at
+institutions of all sizes.
+• Strategy 6.2: Develop and test methods to foster, coordinate, and promote the field of
+health disparities among research institutions and organizations.
+Goal
+ 7: Ensure participation in NIH-funded research is scientifically appropriate 
+• Strategy 7.1: Provide guidance, recommendations, and technical assistance for NIH-
+funded researchers in appropriate study design and best practices for recruitment to ensure
+compliance with laws, regulations, and policies regarding participation in clinical trials.
+• Strategy 7.2: Promote and enforce accountability for participation in clinical trials by
+tracking originally proposed recruitment strategies and objectives to ensure sufficient
+samples for analyses of subpopulation data.
+• Strategy 7.3: Promote analysis of populations experiencing health disparities in big data
+sets, clinical research, and future big science initiatives.
+Outreach, Collaboration, and Dissemination 
+Goal 8: Promote evidence-based community engagement, dissemination, and implementation 
+of health disparities research best practices 
+• Strategy 8.1: Develop and test best practices for dissemination and implementation of
+research findings related to health disparities research discoveries in different settings and
+populations.
+• Strategy 8.2: Conduct studies to identify effective communication and outreach strategies
+for various audiences to improve recruitment and retention in clinical research studies and
+databases, inform intervention design, and foster community engagement.
+Goal
+ 9: Cultivate and expand a community of researchers and collaborators 
+• Strategy 9.1: Build an NIH interdisciplinary community of scholars focused on health
+disparities to enhance coordination, accountability, and integration of these research efforts
+within NIH research activities.
+• Strategy 9.2: Promote interagency collaboration and coordination with federal departments
+and agencies, including use of common data elements (CDEs) and data sharing.
+
+--- PAGE 10 matched=['Goal 1', 'goals and strategies'] ---
+8 
+ 
+• Strategy 9.3: Establish partnerships with nongovernmental groups (e.g. mentoring 
+networks, patient organizations, professional groups, science communities) to advance the 
+development, improvement, and use of definitions, methods, measures, metrics, 
+interventions, and best practices. 
+Details of Categories and Goals 
+Scientific Goals, Research Strategies, and Priority Areas 
+This section highlights core scientific goals and strategies that drive progress in health disparities 
+research. These include advancing studies to improve the health of affected populations, 
+uncovering the underlying causes of disparities, and developing effective interventions. It also 
+emphasizes the importance of improving methods, metrics, and tools to enhance the quality and 
+impact of this research. 
+Goal 1: Promote research to understand and to improve the health of populations 
+experiencing health disparities 
+This goal advances the understanding of health determinants that contribute to the health status of 
+populations and subpopulations. Scientific knowledge generated should span the life course and 
+address sociocultural variations and within group differences. As the understanding of the interplay 
+between biology and environment advances, research can inform the development of effective 
+interventions to improve health outcomes. In addition, research into the determinants that impact 
+health may lead to new knowledge about the health differences across various populations. 
+Strategy 1.1: Examine health determinants that underlie resilience or susceptibility to 
+diseases and conditions of populations experiencing health disparities. 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Expand support for large-scale observational, epidemiologic, and longitudinal cohort 
+studies focused on multiple co-occurring chronic diseases and conditions in health disparity 
+populations.  
+• Support ancillary etiological studies using existing cohorts to examine the interplay 
+between biological, behavioral, socioecological, sociocultural, and environmental health 
+determinants in populations experiencing disparities, as well as interactions with health 
+care and public health systems.  
+• Support interdisciplinary health studies to delineate mechanisms of embodiment of social, 
+cultural, and environmental factors experienced over the life course to better understand 
+how those factors influence individual early development, physiology, cognitive processes, 
+biopsychosocial processes and behavior, and disease trajectories. 
+B
+uilding Momentum 
+• Support research to identify key developmental origins or stages of susceptibility to 
+common diseases and conditions or exposures where interventions would most likely have 
+the greatest effect. 
+• Expand research efforts to delineate risk factors for developing obesity in early childhood 
+and adolescence and to develop evidence-based interventions to reduce long-term health 
+risks. 
+
+--- PAGE 13 matched=['Goal\n 3'] ---
+11 
+Building Momentum 
+• Support research on interventions that address fundamental health determinants at key
+developmental or critical periods to mitigate disparities in health outcomes.
+Goal
+ 3: Develop and test interventions to reduce health disparities 
+This goal advances the development and testing of interventions that address health disparities and 
+improve health outcomes. This research should capitalize on existing evidence regarding health 
+determinants and employ a multidisciplinary approach to develop effective, context-specific 
+strategies. Health disparities can include biological, behavioral, sociocultural, environmental, and 
+health care system-level factors. The interventions should be intentional about which populations, 
+time points in the life course, and risk or protective factors are targeted for reduction of health 
+disparity outcomes. Implementation-science methods should be employed to inform feasibility, 
+generalizability, and validity assessments of efficacious interventions.  
+Strategy 3.1: Design and test interventions that target known health determinants and 
+appropriate life-course time points to improve health outcomes. 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Adapt evidence-based interventions for implementation and evaluation in populations with
+documented health disparities, ensuring that cultural and contextual factors are considered.
+• Develop and test interventions that target multiple socioecological levels at appropriate
+life-course time points to improve health outcomes within community-based populations.
+Buildi
+ng Momentum 
+• Design and test strategies to improve access to and quality of care for health disparity
+populations within the health care system.
+• Assess the implementation of interventions within clinical settings and determine their
+impact on health outcomes.
+• Develop and test interventions to improve symptom self-management and health-related
+quality of life for individuals experiencing chronic and overlapping health conditions.
+Strate
+gy 3.2: Embed implementation science within intervention studies to inform efforts to 
+scale, sustain, and translate efficacious interventions within and across populations and 
+settings. 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Develop and test practical and sustainable adaptations within routine health care settings to
+improve health outcomes and enable dissemination of effective practices.
+• Incorporate elements of implementation and scalability into the design and testing of
+interventions to enhance related effectiveness in real-world settings, particularly resource-
+limited clinical and community settings.
+Buil
+ding Momentum 
+• Develop guidance for NIH-supported researchers conducting intervention studies to include
+analyses of the pathways and mechanisms by which health disparity interventions produce
+observed effects.
+
+--- PAGE 16 matched=['Goal 5'] ---
+14 
+ 
+small samples, self-identified demographic characteristics, and ancestry informative 
+markers. 
+• Review and compile major papers on measures and metrics in health disparities to create a 
+repository of technical papers, tools, and publications. 
+Str
+ategy 4.5: Identify and strengthen rigorous quantitative and qualitative methods to enable 
+analysis on small populations and subpopulations.   
+ACTION PRIORITY AREAS 
+Starting Line 
+• Foster methodologies for conducting small population analyses. 
+ 
+Bui
+lding Momentum 
+• Map the state of the science for qualitative and quantitative studies with small populations 
+and subpopulations. 
+• Develop research agendas for health disparity measurement in small populations and 
+subpopulations. 
+Str
+ategy 4.6: Evaluate research proposals, programs, and policies to assess effectiveness in 
+reducing health disparities. 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Develop educational materials for program officers, program analysts, evaluators, and 
+policy analysts on measures, metrics, and their use in outcome assessments of health 
+disparity research. 
+Bui
+lding Momentum 
+• Assess the effects of social policies on health disparities. 
+• Assess the impact of previous NIH grants that were identified as focusing on health 
+disparities. 
+Research-Sustaining Activities: Goals, Strategies, and Priority Areas 
+Programs that promote a well-equipped biomedical workforce, enhance and strengthen the health 
+disparities research workforce, and provide infrastructure for research capacity-building activities 
+are needed. Continued efforts to include all US populations in research and clinical trials are 
+essential components of NIH’s commitment to advancing scientific knowledge and improving 
+health outcomes. 
+Goal 5: Support training and career progression of health disparities researchers 
+NIH’s continued promotion of a highly skilled workforce will facilitate further advancements in 
+the field of health disparities research. A well-prepared research workforce with experience in 
+studying health disparities is necessary to address complex scientific challenges. Programs that 
+support individual career development and institutional capacity-building will enhance the 
+expertise available in the field, leading to greater progress in improving health outcomes for 
+affected populations. 
+
+--- PAGE 19 matched=['Goals and Strategies'] ---
+17 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Support the development of technical assistance and best-research-practice centers to
+ensure that researchers have knowledge of proper study design and recruitment practices
+that enhance participation in research.
+Bui
+lding Momentum 
+• Develop general guidance for researchers on how to best incorporate and include
+participants in research.
+• Expand local, regional, and national efforts to assess the impact of policies and policy
+changes on the health of all populations, identifying mechanisms by which policies
+influence social, economic, and environmental factors affecting health outcomes.
+Str
+ategy 7.2: Promote and enforce accountability for participation in clinical trials by 
+tracking originally proposed recruitment strategies and objectives to ensure sufficient 
+samples for analyses of subpopulation data. 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Educate and provide support to research centers regarding optimal recruitment strategies
+for increasing representative participation.
+Bui
+lding Momentum 
+• Develop Requests for Information (RFIs) to generate recommendations for improved
+tracking of recruitment strategies and objectives to ensure sufficient sample sizes for
+analysis of health disparity populations and related subpopulation data.
+Str
+ategy 7.3: Promote analysis of populations experiencing health disparities in big data sets, 
+clinical research, and future big science initiatives. 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Support established and new research centers in the engaging communities with limited
+healthcare access to facilitate recruitment and retention in big data science research.
+Bui
+lding Momentum 
+• Develop systematic monitoring mechanisms to assess successful recruitment and retention of
+health disparity populations in NIH-supported research.
+• Strengthen national efforts to increase representation of health disparity populations in
+disease registries and public health surveillance systems to improve understanding and
+awareness of population health differences within and between groups and across geographic
+regions.
+Outreach, Collaboration, and Dissemination: Goals and Strategies 
+Outreach, collaboration, and dissemination efforts enable the communication of key findings of 
+health disparities research to be shared with the people and communities that need them. These 
+
+--- PAGE 20 matched=['Goal 8'] ---
+activities help advance the development of dissemination plans to enhance networks of 
+researchers and stakeholders across the nation and within NIH. 
+Goal 8: Promote evidence- based community engagement, dissemination, and 
+implementation of health disparities research best practices . 
+This goal advances evidence-based community outreach and dissemination, and implementation 
+of findings from research into clinical, community, and everyday settings. Dissemination and 
+implementation strategies should be embedded as core components of the research process from 
+the initial stages. Developing and testing strategies for dissemination and implementation of 
+scientific advances will facilitate the translation of research into policy and practice. 
+Strategy 8.1: Develop and test best practices for dissemination and implementation of 
+research findings related to health disparities research discoveries into different settings 
+and with different populations .  
+ACTION PRIORITY AREAS 
+Starting Line 
+• Test best practices for dissemination and implementation of research discoveries in 
+various diseases and conditions into communities that experience health disparities. 
+B
+uilding Momentum 
+• Develop and test an agency-wide Language Access Plan (LAP) to improve access to 
+health communication modalities, such as online and/or written materials, for 
+dissemination and implementation of discoveries to communities with low health 
+literacy. 
+S
+trategy 8.2: Conduct studies to identify effective communication and outreach strategies 
+for various populations to improve recruitment and retention in clinical research studies 
+and databases, inform intervention design, and foster community engagement. 
+ACTION PRIORITY AREAS 
+Starting Line 
+• Disseminate culturally appropriate educational materials and evidence-based 
+interventions to appropriate communities to increase participation in research studies and 
+clinical trials amongst health disparity populations . 
+B
+uilding Momentum 
+• Design and conduct educational interventions to engage communities and encourage 
+participation in health disparity research and evaluate the effects of appropriate outreach 
+strategies related to basic, behavioral, clinical, and genomic research participation . 
+G
+oal 9: Cultivate and expand a community of researchers  and collaborators 
+This goal promotes community health disparities-focused research within NIH, HHS,  and 
+beyond. The community should include NIH, other government agencies, academia, and the 
+private sector. Through collaboration and partnerships, the community should advance the 
+science and reduce the economic burden of health disparities. The development of this 
+community also may help to ensure research questions are integrated into mainstream and ensure 
+that the impact of health disparities is considered across discipline s.
+ 
+
+--- PAGE 22 matched=['Research Areas'] ---
+20 
+ 
+Building Momentum 
+• Improve health literacy through nationwide initiatives that increase the public’s access to 
+science-based information about illnesses and conditions in appropriate formats that 
+influence health. 
+• Provide overall coordination of community groups to identify research priorities for 
+illnesses or conditions to disseminate relevant findings and/or foster additional research 
+innovation. 
+Leap Forward Research Challenge 
+Leap Forward priority areas represent visionary science that aims to advance research addressing 
+health disparities. These leaps present bold actions to improve health outcomes and to reduce 
+health disparities across relevant diseases, disorders, and conditions. 
+The Leap Forward priority areas represent one way the ICs will comply with the 21st Century 
+Cures Act, as described in Section 2031 of P.L. 114–255, to promote collaborations of research 
+projects across all NIH ICs and Offices focused on reducing and/or eliminating health disparities. 
+Innovative Research Areas 
+• Promote research that reduces new HIV infections and increases viral suppression of 
+people with HIV. 
+• Foster research that uncovers contributors and develops interventions to reduce maternal 
+mortality and severe maternal morbidity in the United States. 
+• Reduce disparities in pre-term birth and infant mortality. 
+• Implement measures to increase representation of various ancestral backgrounds in NIH-
+supported and analyzed genomic data sets. 
+• Increase rates of colorectal cancer screening, follow-up, and referral-to-care for people who 
+face barriers to healthcare access. 
+• Improve understanding of incidence patterns, symptoms, diagnosis, and disease trajectories 
+for vascular cognitive impairment and dementia for those at higher risk. 
+• Bring curative genetic therapies for sickle cell disease (SCD) into first-in-human clinical 
+trials. 
+• Support community-based implementation research to reduce cardiovascular health 
+disparities, sustain adoption of evidence-based interventions, mitigate disparities in 
+adoption of health behaviors, and promote enhanced characterization of social determinants 
+of health to improve cardiovascular health and disease prevention across the lifespan and 
+maximize impact on population health. 
+• Build on global experiences to optimize health care and clinical outcomes in rural and 
+socioeconomically compromised areas in the United States by engaging training programs 
+in biomedical engineering departments in the United States toward the development of 
+technology. 
+• Support research to test multilevel approaches to improve adoption of evidence-based 
+asthma interventions for people with high rates of asthma-related emergency visits and 
+hospitalizations. 
+• Support development of a synthetic or hybrid data set which conforms to FAIR (findable, 
+accessible, interoperable, and reusable) open data principles and models groups of people 
+with varied backgrounds to improve the accuracy of research methods and metrics. 
+
+--- PAGE 24 matched=['priority area ', 'strategic plan'] ---
+Future Plans 
+Implementation Plan 
+Progress will be monitored annually by tracking NIH’s progress toward the set goals and the 
+targets under Starting Line and Building Momentum. This process will assess progress, monitor 
+budgets, and
+ provide feedback to NIH on the implementation process. 
+• Promote the implementation of goals, strategies, and priorities.
+• Create a system to track and monitor progress toward achieving the goals, strategies, and
+priorities.
+Evaluation Plan 
+• Evaluate the strategic plan through qualitative and quantitative metrics without overly
+prescriptive endpoints.
+• Measure utility of strategic plan to multiple stakeholder s. Measure impact by co -
+sponsored Funding Opportunity Announcements (FOAs, changes in portfolio, project
+self-evaluations, and others.
+Gap analysis based on NIH’s ICs responses to priority area request 
+

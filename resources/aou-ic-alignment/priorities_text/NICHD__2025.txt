@@ -1,0 +1,2305 @@
+# NICHD (2025) — file: NICHD_Strategic_Plan_2025.pdf
+# 51 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+NICHD  
+Strategic Plan  
+2025
+Healthy pregnancies. 
+Healthy children. 
+Healthy and optimal lives.
+
+
+--- PAGE 2 matched=['STRATEGIC PLAN'] ---
+Fluorescence microscopy image of 
+chromosomes in pre-sperm cells 
+from the silkworm, Bombyx mori. 
+Three of the 28 chromosomes 
+are labeled using the Oligopaint 
+method, shown in pink, green, and 
+blue. Total DNA is shown in gray. 
+Credit: Rosin Lab, NICHD
+Front cover, bottom right image: 
+Cortical interneurons are 
+individually labeled with a unique 
+hue in transgenic Brainbow mice. 
+Credit: Petros Lab, NICHD
+2 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 3 matched=['STRATEGIC PLAN', 'Table of Contents', 'Vision'] ---
+Table of Contents
+Mission ........................................................................................................4
+Vision ...................................................................................................................4
+Director’s Message .........................................................................................5
+Introduction .........................................................................................................6
+Scientific Research .............................................................................................8
+Understanding the Molecular, Cellular, and Structural 
+Basis of Development .................................................................................................................16
+Advancing Gynecologic, Andrologic, and Reproductive Health ....................20
+Setting the Foundation for Healthy Pregnancies 
+and Lifelong Wellness
+ ..................................................................................................24
+Improving Child and Adolescent Health and the Transition 
+to Adulthood .......................................................................................................................28
+Fostering Safe and Effective Therapeutics and Devices 
+for Pregnant Women, Lactating Women, Children, and 
+People with Disabilities .....................................................................................32
+Aspirational Goals
+ ......................................................................................36
+Research Capacity and Scientific Stewardship ................................................38
+Operational Priorities, Management, and Accountability ..............................42
+Appendix 1: NICHD Statutory Authority ...........................................................................44
+Appendix 2: NICHD Organization and Functions .....................................................46
+Appendix 3: Strategic Planning Process .........................................................48
+NICHD STRATEGIC PLAN 2025 | 3
+
+--- PAGE 4 matched=['STRATEGIC PLAN', 'Vision', 'Mission'] ---
+Mission
+NICHD leads research and 
+training to understand human 
+development, improve 
+reproductive health, enhance the 
+lives of children and adolescents, 
+and optimize abilities for all.
+Vision
+Healthy pregnancies. 
+Healthy children. 
+Healthy and optimal lives.
+4 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 5 matched=['Strategic Plan'] ---
+Director’s Message
+For more than 60 years, the Eunice Kennedy Shriver National 
+Institute of Child Health and Human Development (NICHD) 
+has led research to improve the health of women, children, 
+and people with disabilities. In the fields of developmental 
+biology, gynecologic and reproductive health, child health 
+and development, population dynamics, and medical 
+rehabilitation, our longstanding commitment to research 
+and training has facilitated new discoveries about health and 
+disease and inspired investigators to confront the medical issues 
+that affect people of all ages.
+Today, the United States and the international community face an array of challenges that 
+threaten to erode gains in public health. At the same time, technology breakthroughs, whether 
+in genome sequencing or artificial intelligence, show promise for advancing medical care while 
+raising new ethical issues. NICHD must remain well positioned to support the research and 
+training needed to address these evolving challenges and opportunities.
+Our 2025 Strategic Plan offers a fresh look at the institute’s research objectives, goals, and 
+aspirations. NICHD staff and external scientists and public representatives worked closely 
+together to identify emerging scientific areas in which the institute can invest and lead, as 
+well as partner with other institutes, centers, and agencies. We also learned from advocacy 
+groups and people with lived experiences, who thoughtfully shared their stories and ideas 
+with us. The remarkable amount of feedback we received during this process reflects the 
+significance of our research to the public’s health and well-being.
+We are truly grateful to everyone who helped us bring this NICHD 2025 Strategic Plan to 
+fruition. The process has provided us with the welcome opportunity to step back and evaluate 
+progress on our 2020 Strategic Plan and consider the best way forward. Although we cannot 
+anticipate all the challenges the future will bring, we believe that this plan provides a solid 
+foundation for advancing health and quality of life for all Americans through research and 
+research training.
+Sincer
+ely,
+/S/
+Diana W. Bianchi, M.D. 
+Dir
+ector 
+Eunice Kennedy Shriver National Institute of Child Health and Human Development 
+National Institutes of Health
+NICHD STRATEGIC PLAN 2025 | 5
+
+--- PAGE 6 matched=['STRATEGIC PLAN', 'Division of \n'] ---
+Introduction
+Since its founding in 1962 (via 42 
+U.S.C. §285g), NICHD has advanced 
+the health of our nation, conducting 
+and supporting research, training, 
+and health information dissemination 
+with respect to gynecologic health, 
+maternal health, child health, 
+intellectual disabilities, human growth 
+and development, population research, 
+and special health requir
+ements of 
+mothers and children (for more details 
+on NICHD’s statutory authority, visit 
+Appendix 1
+). 
+NICHD is one of the 
+27 institutes and centers within the 
+National Institutes of Health (NIH). 
+NICHD’s organization includes the 
+Office of the Director, the Division of 
+Extramural Research, the Division 
+of Intramural Research, and the 
+Division of Extramural Activities. The 
+institute is also home to the National 
+Center for Medical Rehabilitation 
+Research, which supports scientific 
+programs and coordinates research 
+efforts across NIH and the federal 
+government to enhance the health and 
+quality of life of people with physical 
+disabilities (for more information on 
+NICHD’s organization and functions, 
+visit Appendix 2).
+6 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 7 matched=['scientific priorit', 'Strategic Plan', 'vision'] ---
+NICHD recognizes the need to regularly 
+refine the institute’s priorities to provide 
+effective leadership of the nation’s 
+investment in its research. For this 
+plan, NICHD updated institute priorities 
+to build upon the progress from the 
+NICHD Strategic Plan 2020 and 
+capitalize on technological and scientific 
+advances from the last five years.
+The NICHD Strategic Plan 2025 will 
+guide the institute’s activities over 
+the next five years, establishing 
+goals to drive scientific research and 
+build research capacity, enhance 
+scientific stewardship, and support 
+effective management practices and 
+accountability. NICHD adhered to three 
+core principles to define goals and 
+priorities for this strategy: transparency, 
+evidence-informed decisions, and 
+participation of both internal and 
+external experts. The strategic plan is 
+the result of an institute-wide process 
+that included close consultation with 
+the external scientific community to 
+identify priorities that reflect the current 
+and emerging scientific landscape. 
+The strategic planning process also 
+included identifying measurable 
+objectives and activities that map 
+to refreshed scientific priorities (for 
+additional information on the strategic 
+planning process, visit Appendix 3).
+The goals outlined in this plan drive 
+progress toward NICHD’s vision of 
+healthy pregnancies, healthy children, 
+and healthy and optimal lives. NICHD 
+recognizes that its ambitious mission 
+cannot be achieved alone. The goals 
+in this plan will require collaboration 
+across NICHD and with other NIH 
+institutes and centers, federal partners, 
+public and private entities, and the 
+communities we serve.
+NICHD STRATEGIC PLAN 2025 | 7
+
+--- PAGE 8 matched=['STRATEGIC PLAN'] ---
+Scientific Research
+This confocal photo of human 
+neurons was named an Image 
+of Distinction in the 2024 Nikon 
+Small World Photomicrography 
+Competition. Credit: Saikat Ghosh, 
+Ph.D., Bonifacino Lab, NICHD 
+NICHD’s work 
+encompasses the 
+full range of scientific 
+research, from the 
+most fundamental 
+studies at the 
+molecular and cellular 
+levels to the behavioral 
+and clinical sciences. 
+8 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 9 matched=['scientific priorit', 'Strategic Plan'] ---
+The institute’s strategic research priorities are presented under five broad goals: 
+NICHD 
+Research Goals
+1. Understanding the 
+Molecular, Cellular, 
+and Structural Basis 
+of Development
+2. Advancing 
+Gynecologic, 
+Andrologic, and 
+Reproductive 
+Health
+3. Setting the Foundation for Healthy 
+Pregnancies and Lifelong Wellness
+4.  Improving Child and 
+Adolescent Health 
+and the Transition to 
+Adulthood
+5. Fostering Safe and Effective 
+Therapeutics and Devices for 
+Pregnant Women, Lactating 
+Women, Children, and People 
+with Disabilities
+The five overall research goals from 
+NICHD’s Strategic Plan 2020 have 
+not changed. However, the research 
+opportunities and scientific priorities 
+within each goal reflect advancements 
+in the scientific landscape and the 
+resulting new opportunities for 
+innovative scientific discovery. These 
+goals will enable NICHD to focus efforts 
+on critical public health challenges and 
+advance scientific knowledge in these 
+priority areas. Across these five broad 
+goals, NICHD has identified specific 
+research opportunities and scientific 
+priorities that represent new avenues 
+to accelerate scientific progress. The 
+institute will track its activities related 
+to these goals and priorities; analyze 
+the scientific, clinical, and public 
+health impact of its research; monitor 
+the effect of research capacity-
+building efforts; and periodically report 
+on research initiatives and scientific 
+progress to the public through the 
+NICHD website, meetings and events, 
+and through presentations to NICHD’s 
+advisory groups.  
+NICHD STRATEGIC PLAN 2025 | 9
+
+--- PAGE 10 matched=['scientific priorit', 'Cross-Cutting Theme', 'Strategic Plan'] ---
+Cross-Cutting Themes
+As established in the NICHD 
+Strategic Plan 2020, several cross-
+cutting themes emerged from 
+discussions on NICHD’s public 
+health and scientific priorities. These 
+cross-cutting concepts are tightly 
+interwoven with the scientific research 
+goals. Substantial progress on the 
+institute’s scientific research goals and 
+objectives will depend on NICHD’s 
+ability to integrate and advance 
+research on these topics within the 
+scientific research goals.
+Health Disparities and 
+Health Equity
+NICHD’s research aims to optimize 
+health for all people. The institute 
+recognizes that overall health is 
+influenced by a wide range of 
+biological, social, and environmental 
+factors, including safe and healthy 
+environments, poverty, geographic 
+location, and access to health care, 
+among many others. Understanding 
+the full range of social, economic, 
+and structural factors that contribute 
+to differences in health outcomes 
+across various communities will inform 
+research to develop innovative solutions 
+to wide-ranging health problems.
+To achieve health equity, NICHD is 
+particularly interested in advancing 
+evidence-based prevention, 
+diagnostic, and intervention research 
+that will improve maternal, infant, 
+child, and adolescent health and 
+birth outcomes; address social 
+determinants of health; mitigate 
+exposure to trauma and injury; 
+facilitate medical rehabilitation 
+outcomes; and promote healthy 
+development throughout the lifespan.
+Health Disparity Populations
+NIH defines a health disparity as a health difference 
+that adversely affects disadvantaged populations. 
+NIH health disparity populations include:
+» Underserved rural communities
+» Racial and ethnic minority groups
+» People with lower socioeconomic status
+» Sexual minority groups
+» People with disabilities
+10 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 11 matched=['STRATEGIC PLAN', 'mission'] ---
+Prevention
+Prevention and health promotion 
+are central to NICHD’s mission. 
+Establishing healthy behaviors and 
+minimizing exposure to risk in early 
+life sets a course for optimal lifelong 
+health and development. Scientific 
+understanding of the early origins of 
+later disorders can help identify the 
+best ways to approach prevention. To 
+develop this knowledge, researchers 
+need access to detailed, high-
+quality data on a range of conditions 
+and exposures that occur from 
+preconception through adulthood. 
+Moreover, scientists will require better 
+measurement and analytic tools to 
+fully describe childhood risk factors 
+and how they relate to short- and 
+long-term health outcomes. These 
+outcomes should not be limited 
+to absence of disease, but also 
+encompass measures of positive 
+health and well-being.
+New prevention approaches must 
+be accessible and applicable to 
+all people, including individuals 
+with disabilities, pregnant women, 
+lactating women, and children. 
+People who may face greater health 
+care challenges, such as those with 
+chronic conditions and those who live 
+in rural communities, need accessible 
+and affordable interventions that can 
+be provided outside of traditional 
+high-cost clinical settings.
+Infectious Disease
+Infectious diseases, such as HIV, 
+continue to pose a significant 
+threat to maternal health and child 
+development. At the same time, 
+pathogens with previously unknown 
+disease-causing properties constantly 
+evolve and emerge. NICHD plans to 
+improve the understanding of how 
+infectious pathogens affect pregnant 
+women and pediatric populations, 
+NICHD STRATEGIC PLAN 2025 | 11
+
+--- PAGE 12 matched=['STRATEGIC PLAN'] ---
+12 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 13 matched=['STRATEGIC PLAN'] ---
+address the impact of infections 
+on reproductive and overall health 
+in children and adolescents, and 
+advance safe and effective treatments 
+for pregnant women, lactating 
+women, children, adolescents, and 
+people with disabilities.
+Nutrition
+Nutrition is critical to childhood 
+growth and development and plays 
+a central role in maintaining optimal 
+health throughout the lifespan. New 
+technologies and methods allow 
+scientists to characterize the complex 
+biology of nutrition and the potential 
+beneficial effects of diet on disease 
+prevention.  – Omics technologies, 
+including metabolomics, and 
+discoveries related to the effects of 
+diet on the microbiome have emerged 
+as important areas of research. These 
+new avenues for scientific discovery 
+will elucidate the lifetime impact of 
+nutrition on fertility, pregnancy, and 
+childhood growth. 
+NICHD supports the investigation of 
+human milk as the optimal source 
+of nutrition and mode of nutrient 
+delivery to the infant, especially 
+preterm infants. NICHD seeks to 
+further understand the effects of 
+maternal nutrition and length of 
+gestation on human milk composition 
+and envisions that this area of 
+investigation will lead to precise age-
+appropriate standard requirements for 
+infant feeding.
+Global Health
+A scientific discovery anywhere in the 
+world will benefit individuals around 
+the globe. The rates of maternal and 
+child survival and long-term health 
+outcomes have improved globally 
+because of research supported by 
+NICHD and other agencies. Recent 
+advances in the treatment of infectious 
+diseases have enabled a shift to 
+research aimed at prevention and early 
+intervention for chronic conditions 
+among at-risk children and adults. New 
+interventions to improve reproductive 
+health will help benefit pregnancy 
+outcomes and prevent prematurity, 
+malnutrition, childhood stunting, 
+disease, developmental delays, and 
+disability. Studying populations globally 
+will improve domestic capabilities 
+to address disease and risk factors 
+among the culturally diverse U.S. 
+population. Finally, new technologies 
+are emerging to improve assessment 
+and intervention for people with 
+intellectual, developmental, and 
+physical disabilities worldwide, 
+and NICHD will support research in 
+this area.
+NICHD STRATEGIC PLAN 2025 | 13
+
+--- PAGE 14 matched=['STRATEGIC PLAN'] ---
+Advanced Technologies and 
+Artificial Intelligence
+New technologies such as 
+artificial intelligence (AI), advanced 
+bioinformatics, and related tools have 
+presented opportunities for scientists 
+in a wide variety of biomedical fields. 
+For example, researchers can use AI 
+to analyze patterns in their data and 
+identify therapeutic targets, speeding 
+up the drug discovery process. AI can 
+also help improve the functionality 
+of prosthetic devices and address 
+diagnostic challenges for a wide range 
+of conditions. For example, using AI 
+and advanced techniques to analyze 
+the path of arm movements, NICHD 
+researchers were able to distinguish 
+a high proportion of children with 
+autism spectrum disorder from 
+typically developing children and from 
+neurotypical adults. Using AI and 
+related methods, another group of 
+researchers was able to double the 
+rate of accurate genetic diagnosis 
+compared to previous methods, and 
+to do so more rapidly and at lower 
+cost. NICHD is particularly interested 
+in capitalizing on the full potential of 
+these new tools and technologies to 
+improve understanding of complex 
+developmental mechanisms; advance 
+maternal, infant, child, and adolescent 
+health and birth outcomes; improve 
+medical rehabilitation outcomes; 
+and accelerate the time to market 
+for new therapeutics.
+Research Training and Career 
+Development
+Obtaining the skills and knowledge 
+to conduct biomedical research 
+takes years of effort. Moreover, 
+because science is complex and 
+unpredictable, young scientists 
+need the time and tools to explore 
+complicated research questions 
+in depth. NICHD’s commitment to 
+researchers encompasses training and 
+career development at all stages of a 
+scientific career. The institute provides 
+funding for many graduate students 
+and postdoctoral fellows across the 
+United States who represent the next 
+generation of the scientific workforce. 
+NICHD aims to launch the careers 
+of highly talented people who are 
+motivated by scientific discovery and 
+driven to help others. Moreover, as 
+part of this strategic planning process, 
+NICHD identified areas of biomedical 
+research in which workforce training 
+must adapt to meet growing needs. 
+These imperatives include maximizing 
+the benefits of physician-scientist 
+training, expanding the data science 
+workforce, and promoting cross-
+training of basic scientists, behavioral 
+and social scientists, and clinical 
+researchers to maximize opportunities 
+for health advances.
+14 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 15 matched=['STRATEGIC PLAN'] ---
+NICHD STRATEGIC PLAN 2025 | 15
+
+--- PAGE 16 matched=['Goal\n1', 'STRATEGIC PLAN'] ---
+Goal
+1
+Understanding the 
+Molecular, Cellular, 
+and Structural Basis 
+of Development
+Fluorescence microscopy image of neurons 
+with defective lysosome transport and 
+fusion. Mitochondria are in purple, and 
+autophagosomes (vesicles in which cellular 
+components are degraded) are in green. Credit: 
+Raffaella de Pace, Ph.D., Saikat Ghosh, Ph.D., 
+Bonifacino Lab, NICHD
+Goal Statement
+Enhance knowledge of 
+transcriptional and translational 
+networks at a variety of levels, 
+enabling scientists to more 
+fully describe the intrinsic 
+processes and the role of 
+extrinsic factors in typical and 
+atypical human development.
+16 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 17 matched=['STRATEGIC PLAN'] ---
+Research Opportunities
+Investment in understanding typical 
+developmental processes provides the 
+foundation to characterize underlying 
+mechanisms of congenital conditions, 
+such as structural birth anomalies, 
+neurodevelopmental disorders, 
+and intellectual and developmental 
+disabilities. The complex processes 
+underlying early human development 
+have long been difficult to understand. 
+Although scientists have known that 
+regulatory molecular networks control 
+development and differentiation of 
+cells, observing these networks in 
+action has been especially challenging. 
+Now these processes can be 
+scrutinized with new technologies. 
+Powered by computational biology, 
+AI, and advanced imaging techniques, 
+researchers are better able to follow 
+early development at the single-cell 
+and tissue levels. Further advances 
+in methods for temporal and/or 
+spatial transcriptome analysis can 
+help scientists map the intrinsic 
+procedures that underlie development 
+across the lifespan. This expansion of 
+fundamental knowledge may also allow 
+researchers to harness developmental 
+pathways and growth factors to create 
+regenerative interventions.
+Advances in the basic sciences of 
+developmental biology can pave 
+the way for scientists to identify 
+environmental, nutritional, and other 
+extrinsic factors that may raise the risk 
+of congenital anomalies, intellectual 
+and developmental disabilities, and 
+other conditions that may not arise until 
+long after birth. As researchers are 
+better able to characterize genetic 
+and cellular variants in a wide variety 
+of model systems and in humans, 
+opportunities will emerge to recognize 
+how extrinsic risk factors contribute  
+to neurodevelopmental disorders.  
+As this knowledge base grows, 
+scientists will be able to identify 
+prevention opportunities. These 
+opportunities will grow in greater 
+abundance, and their promise will 
+arrive more quickly, with investment 
+in infrastructure and the use of 
+advanced analytical techniques, such 
+as AI. With support from NICHD, 
+scientists will rapidly and accurately 
+discern the appropriate model 
+systems and data analysis methods 
+to address the most challenging 
+research questions.
+Transparent 
+zebrafish embryos 
+are injected with 
+messenger RNA that 
+introduces light-
+sensitive proteins 
+to the organism. 
+Credit: Allison Saul, 
+Rogers Lab, NICHD
+NICHD STRATEGIC PLAN 2025 | 17
+
+
+--- PAGE 18 matched=['STRATEGIC PLAN'] ---
+ 
+Scientific Objectives and Priorities
+» Use advanced analytical techniques, including AI, to 
+characterize transcriptional and translational networks 
+and profile gene, RNA, and protein expression across 
+tissues and time during development.
+ » Enhance collaborative and interdisciplinary 
+developmental biology research by 
+investing in improved infrastructure, tools, 
+and technologies.
+ » Improve understanding of the mechanisms 
+underlying developmental processes by 
+elucidating the intrinsic factors (such as 
+cellular, molecular, genetic, epigenetic, 
+metabolic, and biomechanical factors) that 
+contribute to pre- and postnatal development.
+ » Explore how extrinsic factors (such as prenatal 
+and perinatal insults, metabolic and nutritional 
+deficiencies, environmental factors, infection, and 
+early injury) influence developmental and physiological 
+processes, particularly in the context of addressing 
+congenital anomalies, neurodevelopmental disorders, 
+and intellectual and developmental disabilities. 
+Testicular macrophages are 
+recruited during a narrow fetal 
+time window and promote 
+organ-specific developmental 
+functions. Credit: X. Gu, et al.  
+DOI: 10.1038/s41467-
+023-37199-0. Funding: 
+R01HD094698
+18 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 19 matched=['STRATEGIC PLAN'] ---
+The photo featured in this postage stamp was 
+taken by Daniel Castranova, with assistance 
+from former trainee Bakary Samasa, while 
+working in the Weinstein Lab at NICHD. USPS
+® 
+made the image part of its Life Magnified 
+stamp panel in 2023. The image also received 
+the top honor in the 46th annual Nikon Small 
+World Photomicrography Competition in 2020. 
+Stamp Credit: USPS
+®
+Unveiling of the Life Magnified 
+stamp panel at the USPS, 
+August 10, 2023. Scott English, 
+American Philatelic Society (left); 
+Luke Grossman, USPS (right). 
+Credit: USPS
+®
+NICHD STRATEGIC PLAN 2025 | 19
+
+--- PAGE 20 matched=['Goal\n2', 'STRATEGIC PLAN'] ---
+Goal
+2
+ 
+Advancing Gynecologic, 
+Andrologic, and 
+Reproductive Health  
+Goal Statement
+Enable women and men 
+to minimize the impact 
+of gynecologic and 
+andrologic conditions 
+and support lifelong 
+reproductive health.
+20 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 21 matched=['STRATEGIC PLAN', 'area of focus'] ---
+Research Opportunities
+Gynecologic and andrologic conditions 
+have a major impact on quality of life 
+for millions of Americans. Many girls 
+and women experience conditions 
+such as endometriosis, uterine fibroids, 
+pelvic pain, polycystic ovary syndrome 
+(PCOS), and pelvic organ dysfunction. 
+Men and boys may experience 
+undescended testes, cryptorchidism, 
+hypogonadism, varicocele, and other 
+andrologic conditions. Male and female 
+reproductive health disorders can be 
+complex clinically and present scientific 
+challenges for researchers. However, 
+recent advances have created 
+opportunities to better understand 
+reproductive health across the lifespan 
+and to develop interventions that 
+prevent and treat gynecologic and 
+andrologic conditions.
+Understanding the basic biology of 
+healthy reproductive development, 
+especially the role of menstruation 
+and endometrial biology, could lead 
+to new avenues for preventing and 
+treating a wide range of conditions. 
+NICHD is prioritizing research that 
+expands fundamental knowledge of 
+reproductive health across the life cycle 
+and characterizes the role of reproductive 
+aging. For example, characterizing critical 
+windows such as puberty, andropause, 
+and perimenopause and assessing how 
+the timing of puberty affects reproductive 
+development could lead to less-invasive 
+options to treat infertility.
+Expanding the options that allow people 
+to manage their fertility will continue 
+to be an area of focus for NICHD. 
+Attention to social determinants of health 
+in research studies could also help 
+scientists uncover the reasons behind 
+the gynecologic health disparities and 
+lead to better outcomes for individuals 
+with endometriosis, fibroids, pelvic floor 
+disorders, and PCOS. Informed by 
+studies of generalized pain conditions, 
+research on gynecologic pain aims to 
+prevent the transition from acute to 
+chronic pain, improving the quality of life 
+for millions of American women.
+NICHD STRATEGIC PLAN 2025 | 21
+
+--- PAGE 22 matched=['STRATEGIC PLAN'] ---
+ 
+Scientific Objectives and Priorities
+» Improve understanding of 
+reproductive stages across 
+the life cycle, with particular 
+emphasis on typical and 
+atypical initiation, timing, 
+and symptomatology of 
+critical windows such 
+as puberty, andropause, 
+and perimenopause.
+ » Characterize reproductive 
+aging and its impact on 
+reproductive, andrologic, and 
+gynecologic outcomes, particularly 
+infertility and the health of children 
+born to older parents.
+ » Identify biologic and environmental 
+factors that can lead or contribute 
+to infertility in males and females. 
+Apply this knowledge to expand 
+technologies or methods for 
+fertility stimulation, fertility 
+preservation, and contraception.
+ » Identify risk factors and biologic 
+and psychosocial mechanisms 
+underlying pelvic and generalized 
+pain in gynecologic conditions, 
+such as endometriosis, fibroids, 
+vulvodynia, dysmenorrhea, 
+and pelvic floor disorders, and 
+prevent transition from acute 
+to chronic pain.
+ » Identify interventions for 
+diagnosis and treatment of 
+gynecologic conditions, including 
+endometriosis, fibroids, pelvic 
+floor disorders, gynecologic pain, 
+and PCOS. Assess the impact 
+of new and existing treatment 
+approaches on gynecologic 
+health disparities.
+ » Improve understanding of the 
+multilevel factors affecting 
+contraceptive use and non-use 
+and preferences for specific 
+methods. Apply this knowledge 
+to developing new and improved 
+contraceptive options for 
+both men and women and to 
+designing interventions that 
+improve access to and use of 
+preferred methods. 
+ » Advance knowledge about the 
+effects of contraceptives on 
+human health, including their 
+effectiveness as treatments for 
+health conditions.
+Cross-sections of 
+rabbit uteri are used to 
+evaluate progestogenic 
+activity of a potential 
+contraceptive agent. 
+Credit: M.S. Lee, 
+et al. 
+DOI: 10.1093/
+biolre/ioad111. 
+Credit: Contraceptive 
+Development 
+Program, NICHD 
+22 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 23 matched=['STRATEGIC PLAN'] ---
+In situ hybridization of miR-21 
+expression and 18SrRNA expression 
+in the mouse uterus and in mouse 
+endometriotic lesions at three months 
+post-induction of endometriosis. 
+Hybridization intensity is displayed 
+in yellow. Credit: M.A. Ochoa Bernal, 
+et al. 
+DOI: 10.3390/ijms25168994. 
+Funding: R01HD042280, R01HD083273,
+ 
+R01HD099090, F32HD104478, & 
+T32HD087166
+NICHD STRATEGIC PLAN 2025 | 23
+
+--- PAGE 24 matched=['Goal\n3', 'STRATEGIC PLAN'] ---
+Goal
+3
+Setting the Foundation 
+for Healthy Pregnancies 
+and Lifelong Wellness
+Goal Statement
+Improve pregnancy 
+outcomes to maximize the 
+lifelong health of women 
+and their children. 
+24 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 25 matched=['STRATEGIC PLAN'] ---
+Research Opportunities
+Pregnancy can be both a joyous and 
+challenging time for families. Although 
+most babies are born healthy, 
+around 10 percent of infants in the 
+United States are born preterm, and 
+thousands of families are devastated 
+by stillbirth. Pregnancy complications, 
+such as preeclampsia, gestational 
+diabetes, postpartum hemorrhage, 
+and thromboembolism, endanger the 
+health of women and infants. Pregnant 
+women with pre-existing chronic 
+conditions often do not have adequate 
+scientific evidence about how their 
+condition and its treatment may affect 
+their infant.
+NICHD continues to prioritize 
+interdisciplinary research on preterm 
+birth, with a focus on prevention. The 
+institute is also focused on finding new 
+ways to support preterm infants in 
+the neonatal intensive care unit, and 
+assessing the long-term outcomes 
+from prematurity. By using advanced 
+analytic techniques, researchers 
+can assess how genetic, social, 
+behavioral, and environmental factors 
+affect pregnancy. Advances in this 
+area can help scientists determine 
+the biological underpinnings of 
+pregnancy complications and identify 
+new strategies to prevent maternal 
+morbidity and mortality. The institute’s 
+scientific research programs can 
+take advantage of large datasets 
+and advanced analytical methods 
+such as AI to better pinpoint how 
+pre-pregnancy characteristics and 
+experiences during pregnancy can 
+increase or decrease risk. Further study 
+of the placenta, especially focused on 
+how the placenta can protect maternal 
+and fetal health, will play a key role in 
+supporting this goal.
+Because many women experience 
+poor health outcomes in the 
+postpartum period, NICHD will 
+emphasize research on postpartum 
+maternal health, including the long-
+term consequences of conditions 
+that have their roots in pregnancy, 
+childbirth, and postpartum health. 
+Close attention to health disparities 
+in maternal and infant health is 
+also essential to addressing the 
+unacceptably high rates of maternal 
+mortality, stillbirth, and preterm birth 
+in the United States. NICHD will 
+support partnership approaches in 
+which research teams work with local 
+communities to address factors that 
+can lead to preventable pregnancy-
+related morbidity or death for those 
+at highest risk, including residents of 
+geographic areas with limited access 
+to maternal health care.
+NICHD STRATEGIC PLAN 2025 | 25
+
+--- PAGE 26 matched=['STRATEGIC PLAN'] ---
+Scientific Objectives and Priorities
+ » Capitalize on interdisciplinary 
+collaborations to advance 
+knowledge of the mechanisms 
+and potential causes of 
+preterm birth and to develop 
+prevention approaches.
+ » Improve the long-term 
+outcomes of infants 
+born preterm or with 
+aberrant fetal growth by 
+understanding the roles of 
+maternal and paternal factors, 
+social determinants of health, 
+environmental and nutritional 
+factors, and early interventions.
+ » Use advanced analytical 
+techniques to integrate and 
+analyze diverse types of data, 
+including genomic, social, 
+behavioral, and/or exposure 
+data, to inform interventions for 
+adverse maternal conditions and 
+complications of pregnancy.
+ » Support community-informed 
+research to develop maternal 
+health interventions that are widely 
+applicable, with an emphasis 
+on populations experiencing 
+health disparities.
+ » Use innovative basic and 
+translational science approaches 
+to further understand the 
+placenta, including its role in 
+pregnancy outcomes and the 
+long-term health of the mother 
+and infant. Continue to develop 
+technologies and methods for 
+human placental models across 
+gestation and test the ability of 
+emerging technologies to assess 
+placental health.
+ » Develop prevention strategies for 
+labor and delivery complications 
+that contribute to maternal 
+morbidity and mortality.
+ » With an emphasis on populations 
+that experience health disparities, 
+identify new approaches to 
+mitigate maternal and paternal 
+risk factors for pregnancy-
+associated conditions with 
+effects that extend through the 
+postpartum period and beyond.
+26 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 27 matched=['STRATEGIC PLAN'] ---
+Ultrasound images show fetal 
+(upper left) and maternal  
+(lower right) placental 
+vasculature in pink, purple,  
+and white. Credit: R. Horgan,  
+et al. 
+DOI: 10.1002/uog.26312. 
+Funding: R01HD086313
+NICHD STRATEGIC PLAN 2025 | 27
+
+--- PAGE 28 matched=['Goal\n4', 'STRATEGIC PLAN'] ---
+Goal
+4
+Improving Child and 
+Adolescent Health 
+and the Transition 
+to Adulthood
+Goal Statement
+Advance understanding of 
+contemporary typical and 
+atypical child development, 
+with an emphasis on identifying 
+sensitive time periods when 
+prevention and treatment strategies 
+will have the greatest impact on lifelong 
+health and wellness. Improve the transition 
+from adolescent to adult health care, especially 
+for adolescents with disabilities or chronic 
+health conditions, and strengthen the evidence 
+base for pediatric primary care.
+28 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 29 matched=['STRATEGIC PLAN'] ---
+Research Opportunities
+Many facets of lifelong health 
+have deep roots in childhood and 
+adolescence, yet the accelerated 
+pace of societal and technological 
+change makes it challenging to 
+pinpoint exactly how specific 
+biological, social, environmental, and 
+other factors contribute to health and 
+disease across the lifespan. NICHD 
+researchers are working to understand 
+the developmental impacts of nutrition, 
+physical activity, sleep, digital media 
+exposure, the microbiome, and other 
+factors. The timing of these exposures 
+and the opportunity to prevent or 
+mitigate poor outcomes is a major 
+focus for NICHD’s pediatric research 
+portfolio. Identifying optimal time 
+periods for intervention after critical 
+illness or traumatic injury can yield 
+new approaches to understanding 
+plasticity and promoting functional 
+adaptation. Throughout this work, 
+there will be a continued focus on 
+social determinants of health and the 
+impact of health disparities on the 
+effectiveness of interventions.
+NICHD will lead efforts to improve 
+the transition of adolescents to adult 
+health care providers, especially for 
+those with chronic conditions or 
+illnesses, disabilities, or childhood 
+exposures that require special 
+consideration, such as exposure to 
+trauma or violence. NICHD’s focus on 
+improving this transition and exploring 
+methods to enable self-management 
+and encourage adherence among 
+adolescents, as well as ways to 
+enhance adult provider knowledge 
+of pediatric conditions, will also 
+involve coordination and collaboration 
+with NIH institutes and centers and 
+other organizations that specialize 
+in specific diseases or conditions. 
+The institute also plans a renewed 
+emphasis on strengthening the 
+evidence base for pediatric primary 
+care practice. Pediatric primary care, 
+including well-child visits, provides 
+an essential foundation for lifelong 
+health. However, pediatric primary 
+care encounters are time-limited, 
+and busy providers must prioritize 
+among many elements, including 
+anticipatory guidance, sick-child care, 
+parent education, and developmental 
+screenings. Moreover, because 
+pediatric primary care tends to focus 
+on preventing negative outcomes, 
+documenting the effect of primary 
+care interventions can be difficult 
+for scientists. NICHD will focus 
+on developing new methods and 
+measures to help identify, refine, 
+and implement the most effective 
+elements of primary care practice.
+  
+NICHD STRATEGIC PLAN 2025 | 29
+
+--- PAGE 30 matched=['STRATEGIC PLAN'] ---
+ 
+Scientific Objectives and Priorities
+» Identify and assess  
+risk-reduction strategies to 
+address the systemic, as 
+well as individual, causes 
+of infant morbidity and 
+mortality domestically and 
+globally. Identify potential 
+approaches to prevent 
+stillbirth, sudden infant 
+death syndrome, and sudden 
+unexpected infant death.
+ » Determine how social and 
+environmental contextual 
+factors affect infant, child, and 
+adolescent health, and use 
+this knowledge to develop 
+new strategies and improve 
+the effectiveness of current 
+approaches to early intervention.
+ » Develop and assess prevention, 
+treatment, and implementation 
+strategies to address trauma, 
+injury (unintentional and 
+intentional), child maltreatment, 
+and violence, along with disaster 
+preparedness and response. 
+Advance research and training 
+across the continuum of care 
+to optimize recovery of children 
+and families who experience 
+critical illness or traumatic injury.
+ » Increase understanding of 
+physical, cognitive, social, and 
+emotional development from 
+infancy through adolescence to 
+optimize timing of interventions 
+supporting child health and 
+development.
+ » Conduct research to support 
+better integration of pediatric 
+and adult systems of care, 
+especially for youth transitioning 
+to adult health care, including 
+children with disabilities. 
+Develop measures that help 
+determine successful transition 
+at the individual, provider, or 
+system level to improve care for 
+adolescents and emerging adults.
+ » Enhance the evidence base for 
+pediatric and adolescent primary 
+care by identifying practices and 
+features of health care delivery 
+associated with positive child 
+health outcomes. Support 
+dissemination and implementation 
+research for pediatric prevention 
+strategies with demonstrated 
+efficacy, especially in populations 
+that experience health disparities.
+30 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 31 matched=['STRATEGIC PLAN'] ---
+NICHD STRATEGIC PLAN 2025 | 31
+
+--- PAGE 32 matched=['Goal\n5', 'STRATEGIC PLAN'] ---
+Goal
+5
+Fostering Safe and Effective 
+Therapeutics and Devices for 
+Pregnant Women, Lactating 
+Women, Children, and  
+People with Disabilities
+Goal Statement
+Lead efforts to develop, 
+test, and evaluate new and 
+existing therapeutics and 
+devices to identify safe and 
+effective solutions that meet 
+the unique needs of pregnant 
+women, lactating women, 
+children, and people with 
+physical, developmental, and 
+intellectual disabilities.  
+32 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 33 matched=['STRATEGIC PLAN', 'research area'] ---
+Research Opportunities
+Pregnant women, lactating 
+women, children, and people 
+with disabilities often interact with 
+medication and other therapeutics 
+differently, compared to most adults. 
+Pharmaceuticals may clear from the 
+body more rapidly in some of these 
+populations, necessitating a higher 
+dose to be effective. For other drugs, 
+active ingredients may accumulate in 
+the blood for longer periods, requiring 
+a lower dose for safety. Devices 
+designed for adults may be ineffective 
+for children, even if scaled down to fit 
+smaller bodies. Furthermore, devices 
+designed to serve a general population 
+may not be accessible for people 
+with disabilities.
+For people with disabilities, medications 
+may have side effects that interact 
+dangerously with their disability, 
+such as adversely affecting blood 
+pressure in those with spinal cord 
+injuries. Research to describe precisely 
+how therapeutics affect specialized 
+populations is urgently needed. Without 
+these data, pregnant or lactating 
+women who take medications for 
+chronic health conditions do not have 
+enough information to assess whether 
+and at what dose these treatments are 
+appropriate and, importantly, neither 
+do their health care providers. At the 
+same time, leaving a chronic condition 
+untreated could seriously harm a 
+pregnant woman, the fetus, or both.
+Advances in pharmacogenomics, 
+bioinformatics, data linkages, AI, 
+and other innovative methods now 
+make it possible to better understand 
+how factors such as obesity, nutrition, 
+and environmental exposures affect 
+the action of medications. Applying 
+responsible AI, bioinformatics, and 
+data-linkage methods to large-
+scale data has great potential to 
+advance the study of pharmaceuticals 
+specifically in pregnant women, 
+lactating women, children, and 
+people with disabilities. Ultimately, 
+this research will be essential to help 
+health care providers tailor treatments 
+to the needs of the individual. There 
+are very few incentives for industry to 
+conduct such research, especially for 
+off-patent drugs or devices, making 
+the government’s role in this research 
+even more critical.
+NICHD will continue to lead research 
+efforts to establish the scientific 
+evidence needed for effective 
+treatment of pregnant women, 
+lactating women, children, and people 
+with disabilities. This research area 
+encompasses all types of medical 
+treatment, including pharmaceuticals, 
+behavioral interventions, and medical 
+devices. These efforts will require 
+multidisciplinary collaboration among 
+researchers in fields such as computer 
+science, AI, engineering, genetics and 
+genomics, pediatrics, obstetrics, and 
+other clinical professions.
+Natalie, left, was born 
+with a rare disease that 
+causes generalized 
+artery calcification and 
+autosomal recessive 
+hypophosphatemic 
+rickets type 2. Parents 
+Anne (middle) and 
+Jerry join Natalie in 
+speaking at a 2024 
+National Advisory Child 
+Health and Human 
+Development Council 
+meeting about the 
+importance of NICHD 
+research. Credit: NIH
+NICHD STRATEGIC PLAN 2025 | 33
+
+--- PAGE 34 matched=['STRATEGIC PLAN'] ---
+Scientific Objectives and Priorities
+ » Conduct and support foundational research on 
+the development of interventions targeted to the 
+specific needs of pregnant women, lactating 
+women, children, and/or people with 
+disabilities informed by pharmacokinetic, 
+pharmacodynamic, pharmacogenomic, 
+dosing, and formulation studies.
+ » Identify and validate biomarkers, modeling 
+approaches, and outcome measures 
+that can be used to support rigorous 
+testing and/or regulatory approval of 
+pharmacotherapies and devices in pregnant 
+women, lactating women, children, and/or 
+people with disabilities.
+ » Support clinical research and dissemination  
+and implementation research to evaluate scalable, 
+accessible therapeutics, diagnostics, and medical 
+devices for pregnant women, lactating women, 
+children, and/or people with disabilities.
+ » Use advanced data science techniques (including 
+AI and bioinformatics) to assess health outcomes, 
+therapeutic safety and effectiveness, patient 
+engagement, and health care delivery in datasets 
+that include pregnant women, lactating women, 
+children, and/or people with disabilities.
+Gyorgy Levay, who lost 
+both of his hands and 
+feet to an infection, 
+uses a prosthetic arm 
+to drink from a cup. 
+Mr. Levay works with 
+NICHD small-business 
+grantee Rahul Kaliki, 
+Ph.D. (R44HD090811), 
+to develop specialized 
+solutions for those with 
+upper limb loss and/or 
+differences. Credit: Infinite 
+Biomedical Technologies
+34 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 35 matched=['STRATEGIC PLAN'] ---
+MRI scan shows the fetus and 
+placental compartments—
+intervillous space (red), placental 
+vessels (green), and placental 
+tissue (blue). Credit: Z. Sun, et al. 
+DOI: 10.1002/uog.24959.  
+Funding: R01HD094381
+NICHD STRATEGIC PLAN 2025 | 35
+
+--- PAGE 36 matched=['STRATEGIC PLAN'] ---
+Aspirational 
+Goals
+36 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 37 matched=['STRATEGIC PLAN', 'mission'] ---
+NICHD has set aspirational goals 
+to encourage innovation in areas 
+relevant to its mission. Though they 
+are ambitious and potentially beyond 
+reach by 2030, these goals are 
+intended to serve as a call to action 
+for the scientific community, urging 
+researchers to work across disciplines 
+and undertake novel approaches 
+to deepen our understanding of 
+human development and improve the 
+prevention, diagnosis, and treatment of 
+specific diseases and conditions.
+The following aspirational goals 
+encourage the field to accelerate 
+scientific discovery, work beyond 
+traditional boundaries, and collaborate 
+on research that could lead to healthier 
+and more optimal lives for everyone.
+ » Build upon advances in 
+developmental biology to improve 
+function for people with acquired or 
+congenital neurologic impairment.
+ » Use emerging technologies to 
+advance human limb regeneration 
+by activating the body’s growth 
+processes.
+ » Identify properties of menstrual 
+effluent and semen that could 
+facilitate diagnosis of diseases and 
+disorders, including gynecologic 
+and andrologic conditions.
+ » Accelerate efforts to definitively 
+diagnose, prevent, and treat 
+endometriosis.
+ » Advance effective diagnostics and 
+interventions to prevent and treat 
+preeclampsia and postpartum 
+hemorrhage and help reduce 
+maternal mortality in at-risk 
+U.S. populations.
+ » Develop new models and methods 
+to inform research studies on the 
+lactation process, the composition 
+of human milk, and the impact of 
+medications taken by the mother 
+on breast milk.
+ » Identify the pathophysiological 
+mechanisms underlying stillbirth 
+and develop and test approaches 
+for stillbirth prevention.
+ » Understand the mechanisms 
+that lead to illness in preterm 
+infants to improve survival and 
+healthy development.
+ » Leverage AI and other emerging 
+technologies to establish an 
+evidence base for pediatric and 
+adolescent well care to prioritize 
+and optimize prevention and 
+treatment strategies.
+ » Streamline the translational 
+pipeline from basic research to 
+clinical interventions to improve 
+the health of infants, children, and 
+adolescents by expanding the 
+availability of gene therapies.
+NICHD STRATEGIC PLAN 2025 | 37
+
+--- PAGE 38 matched=['STRATEGIC PLAN'] ---
+Research Capacity and 
+Scientific Stewardship
+NICHD recognizes the importance 
+of maintaining public trust in its role 
+as a steward of scientific research 
+and resources. The institute works 
+to equip and develop the current 
+and future scientific workforce and to 
+develop research tools, systems, and 
+infrastructure that help investigators 
+advance fundamental knowledge and 
+scientific research priorities. Over the 
+next five years, NICHD will continue 
+its commitment to promoting diversity 
+and inclusion within the scientific 
+workforce, facilitating training and 
+career development opportunities, 
+strengthening scientific infrastructure 
+and partnerships, providing 
+transparency on performance, and 
+ensuring public accountability.
+Supporting Training and 
+Career Development
+NICHD maintains a fundamental 
+commitment to research training and 
+career development for all scientists, 
+from students exploring the possibility 
+of a research career to experienced 
+research mentors. The institute puts 
+this priority into practice by supporting 
+extramural institutional and individual 
+training grants, short courses, 
+scientific training elements within 
+research grants, and other programs, 
+such as loan repayment. Within its 
+intramural programs, NICHD’s support 
+for hundreds of trainees has launched 
+research careers all over the world. 
+Effective and efficient stewardship 
+of these programs is essential 
+Aisling Macaraeg, a 
+post-baccalaureate 
+fellow in the 
+Machner Lab at 
+NICHD, presents 
+her work using 
+CRISPR-interference 
+in Legionella 
+pneumophila to 
+identify genes 
+involved in bacterial 
+survival during 
+infection. Credit: 
+NICHD
+38 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 39 matched=['STRATEGIC PLAN', 'mission'] ---
+to maximizing the return on our 
+most valuable investment—the 
+people who will carry the future of 
+scientific research.
+Facilitating Data Sharing and 
+Access to Biospecimens
+Good data stewardship and sharing 
+are critical to trustworthy and 
+equitable scientific research. NICHD 
+will implement and refine a data 
+strategy to maximize data sharing and 
+enable responsible and innovative 
+use of data and biospecimens that 
+accelerates research and improves 
+health for NICHD populations. 
+NICHD will continue to integrate best 
+practices in data stewardship and 
+sharing into the scientific process 
+and make strategic investments to 
+enhance the accessibility, usability, 
+interoperability, and sustainability of 
+the NICHD data ecosystem, promote 
+the responsible use of data science 
+and AI technologies, and bolster data 
+strategy expertise within the internal 
+NICHD workforce.
+Partnering to Enhance 
+Science
+Partnerships provide the opportunity to 
+enhance existing resources, recruit the 
+expertise and skills needed to benefit 
+science, expand projects, leverage 
+existing infrastructure, and improve 
+recruitment and retention of participants 
+in clinical research. NICHD will augment 
+and strengthen its science by entering 
+into a range of agreements with several 
+public and private entities, including 
+not-for-profits, professional societies, 
+and foundations. Continued leadership 
+of NIH-wide committees, task forces, 
+and consortia will also allow the institute 
+to advance its strategic mission and 
+priorities through collaboration with other 
+NIH institutes, centers, and offices. In 
+addition, partnerships with other federal 
+agencies will allow NICHD to expand its 
+efforts to provide the evidence base for 
+future policies and programs that benefit 
+its communities.
+The Ladder, created 
+by Mary Ellen Scherl 
+and located at the 
+North entrance of the 
+NIH Clinical Center, 
+represents the ever-
+increasing role of 
+genome sequencing 
+in newborn care. 
+From left: Eric Green, 
+M.D., Ph.D.; John 
+Constantino, M.D.; 
+artist Mary Ellen 
+Scherl; NICHD Director 
+Diana W. Bianchi, M.D.; 
+James Gilman, M.D.; 
+and Frank Piatkowski, 
+A.I.A. Credit: NIH
+NICHD STRATEGIC PLAN 2025 | 39
+
+--- PAGE 40 matched=['strategic \nplan', 'mission'] ---
+Prioritization and Governance
+As NICHD implements its strategic 
+plan, there is a need to ensure that 
+its budget can advance strategic 
+objectives while balancing the need 
+to fund science that furthers its 
+mission. NICHD plans to emphasize 
+external involvement in achieving this 
+balance, by relying on the institute’s 
+advisory bodies and working with 
+communities, advocates, and those 
+with lived experience to bring a variety 
+of perspectives to inform prioritization. 
+Governance processes within the 
+institute will be updated carefully to 
+ensure the flexibility needed to respond 
+to emerging public health concerns 
+and scientific opportunities.
+Advancing Health Equity 
+in Scientific Research 
+Infrastructure, Workforce, 
+and Communications
+NICHD remains committed to 
+advancing optimal health for all people 
+by supporting the scientific workforce 
+and implementing initiatives throughout 
+NICHD’s extramural and intramural 
+scientific programs. Efforts will span 
+the array of disciplines relevant to the 
+institute’s mission, including strategies 
+to broaden participation in NICHD 
+research. NICHD will continue to 
+cultivate investigators at critical stages 
+of their research careers and support 
+an inclusive workforce across the full 
+range of biomedical, biobehavioral, 
+and clinical sciences. NICHD’s goal to 
+promote a robust scientific workforce 
+will require the collective efforts of 
+research and training experts across 
+the institute. Partnerships and effective 
+communication strategies will also 
+be needed to expand and strengthen 
+outreach and engagement efforts 
+to make NICHD research, funding, 
+career development, and training 
+opportunities more accessible for all.
+Clinical Research Oversight 
+and Management
+NIH is committed to responsible 
+stewardship, accountability, oversight, 
+and transparency of clinical research 
+and clinical trials supported by the 
+agency. NICHD will continue efforts in 
+its extramural and intramural research 
+programs to ensure appropriate 
+funding mechanisms and infrastructure, 
+milestone planning and progress 
+From Wheels to 
+Walking in Pittsburgh. 
+Lily Rosenblum’s 
+winning entry in the 
+2023 NICHD-led 
+youth original artwork 
+competition highlights 
+the strengths 
+of communities 
+that face health 
+disparities. Inspired 
+by a friend who 
+went from using 
+a wheelchair to 
+walking, the bridge 
+represents a golden 
+path to potential 
+opportunities.
+40 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 41 matched=['strategic plan'] ---
+review, ongoing risk management, and 
+public sharing of clinical trials data. 
+Clinical research supported by the 
+institute will continue to reflect NICHD’s 
+priority on appropriate inclusion of a 
+wide range of populations in research, 
+including pregnant women, lactating 
+women, children, and people with 
+disabilities. Careful and complete 
+monitoring and documentation of 
+participant data will ensure appropriate 
+recruitment and retention.
+Planning, Reporting, and 
+Program Evaluation
+NICHD regularly reviews and 
+rigorously evaluates its scientific 
+research and training programs to 
+ensure effectiveness and transparent 
+stewardship of research investments. 
+NICHD is committed to enhancing its 
+ability to monitor the implementation 
+of the strategic plan and continuously 
+improve alignment of institute activities 
+with overall strategy. The institute will 
+enhance its ability to track, analyze, 
+and report on the activities of complex 
+scientific research and training 
+programs; pursue new methods to 
+analyze information on stakeholder 
+participation and perspectives; gather 
+wide-ranging data on the impact 
+of scientific, organizational, and 
+community collaborations; and develop 
+and implement objective assessments 
+of scientific results and public health 
+effects. Portfolio analysis and program 
+evaluation will inform the development, 
+implementation, and reporting of 
+NICHD efforts and accomplishments.
+Facilitating Transparency and 
+Communication
+NICHD communications activities 
+help convey the goals, results, and 
+health impact of taxpayer-funded 
+research, reinforcing to the public 
+and other audiences the benefits of 
+their continued investment. NICHD 
+will continue to seek new ways to 
+reach its many audiences through 
+an array of vehicles, including media 
+engagement, content development, 
+social media messaging, and other 
+approaches. The institute will also 
+collaborate with NIH to streamline 
+Freedom of Information Act processes 
+and improve fulfillment of document 
+requests. NICHD’s legislative and  
+public policy efforts include 
+engagement with and outreach to its 
+many communities about the institute’s 
+wide range of research activities. The 
+institute will convey the significance 
+and value of the research it conducts 
+and supports so that the public 
+understands how NICHD uses funds 
+to improve health, thus allowing new 
+legislation and policies to better reflect 
+and facilitate the institute’s efforts.
+Federal health 
+leaders, including 
+NICHD Deputy 
+Director Alison 
+Cernich, Ph.D., and 
+advocates gather for 
+a stillbirth prevention 
+event at the White 
+House in July 2024. 
+Credit: HHS
+NICHD STRATEGIC PLAN 2025 | 41
+
+--- PAGE 42 matched=['STRATEGIC PLAN', 'mission'] ---
+Operational Priorities, 
+Management, 
+and Accountability
+NICHD’s success in its scientific 
+endeavors depends on the institute’s 
+success in management and 
+administration. Effective program 
+management, in which decisions 
+are based on careful analysis, will 
+allow NICHD to maximize the value 
+of its scientific initiatives. Innovation 
+in administrative functions will help 
+NICHD adapt rapidly to changing 
+needs and requirements and allow 
+programs to take advantage of the 
+growth opportunities presented by 
+advanced technologies and new 
+collaborations. NICHD will enhance 
+its ability to manage for results, 
+develop its workforce, and create 
+excellence in performing administrative 
+responsibilities, creating an innovative 
+administrative culture that can 
+proactively and effectively support 
+NICHD’s scientific mission.
+Promoting Workforce 
+Development and Balance 
+The work performed at NICHD 
+requires staff to demonstrate a wide 
+range of technical skills, knowledge, 
+and adaptability to continually develop 
+and adjust to fast-paced changes. The 
+institute will enhance the recruitment 
+and development of its workforce 
+through systematic and thoughtful 
+initiatives aimed at growing leadership, 
+supervisory, technical, and scientific 
+skills to meet current and future 
+organizational needs. Over the next 
+five years, NICHD will focus strongly 
+on developing innovative approaches 
+to knowledge management, career 
+development, staff engagement, 
+recognition, and recruitment of highly 
+qualified individuals.
+Jeffrey Farrell, 
+Ph.D. (center), 
+stands with 
+members of 
+his laboratory, 
+the Unit on Cell 
+Specification and 
+Differentiation. 
+Credit: NICHD
+42 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 43 matched=['STRATEGIC PLAN'] ---
+Enhancing Infrastructure 
+Innovation
+More than ever, effective management 
+depends on essential infrastructure 
+such as facilities, scientific equipment, 
+and high-quality data and information 
+technology resources. This infrastructure 
+must not remain static but must adapt to 
+the changing needs of institute programs 
+and staff. At the same time, sustainability 
+is necessary for effective stewardship. 
+To accomplish this goal, NICHD will 
+focus on capitalizing on existing 
+resources, innovating, anticipating 
+the potential needs of the workforce, 
+and leveraging ongoing efforts and 
+resources throughout NIH to ensure 
+operational efficiency.
+Improving Administrative 
+Efficiency
+NICHD aims to improve and streamline 
+administrative management and 
+processes while maintaining the highest 
+standards and quality of service. NICHD 
+will continue to develop as a learning 
+organization that anticipates change, 
+adapts readily to changing needs and 
+mandates, and leverages data to inform 
+decision making. NICHD will identify 
+opportunities to reduce the administrative 
+burden on scientific staff by streamlining 
+and automating processes.
+Advancing Enterprise Risk 
+Management
+As the environment supporting 
+biomedical research has become 
+increasingly complex and the pace of 
+change has accelerated, NICHD has 
+evolved its risk management approach 
+to ensure prompt, appropriate 
+assessment of internal and external 
+risks. Working with NIH leadership, 
+NICHD will continue to evaluate 
+its administrative, operational, and 
+scientific programs and improve 
+management practices. NICHD will 
+focus on the ability to adapt risk 
+management best practices to confront 
+and address emerging issues by 
+adjusting standardized procedures over 
+time to accommodate changing risk 
+levels and types.
+NICHD’s 2024 
+Combined Federal 
+Campaign Cornhole 
+Cheerleaders include 
+(left to right) Sybil 
+Philip, Deserae 
+Philpott, Kimberly 
+Kober, Jessica Wu, 
+Rodney Rivera, and 
+Elizabeth Walsh, Ph.D. 
+Credit: NICHD
+NICHD STRATEGIC PLAN 2025 | 43
+
+--- PAGE 44 matched=['STRATEGIC PLAN'] ---
+Appendix 1: NICHD Statutory Authority
+42 U.S.C. §285g: Purpose 
+of the Institute
+The general purpose of the 
+Eunice Kennedy Shriver National 
+Institute of Child Health and 
+Human Development (hereafter 
+in this subpart referred to as the 
+“Institute”) is the conduct and 
+support of research, training, health 
+information dissemination, and 
+other programs with respect to 
+gynecologic health, maternal health, 
+child health, intellectual disabilities, 
+human growth and development 
+(including prenatal development), 
+population research, and special 
+health problems and requirements 
+of mothers and children.
+Establishment
+The early years of President John 
+F. Kennedy’s administration were 
+influenced by senior advisors, 
+notably his sister, Eunice Kennedy 
+Shriver. Mrs. Shriver championed 
+the acceptance of people with 
+intellectual and developmental 
+disabilities (IDDs), while also 
+advocating for research to address the 
+health needs of those with IDDs.
+In 1961, Dr. Robert E. Cooke, a 
+pediatrician and another advisor 
+to President Kennedy, chaired a 
+task force on the health and well-
+being of children. Among the task 
+force’s recommendations was the 
+establishment of a new institute within 
+the NIH. Despite skepticism from 
+some leaders at NIH on the need 
+for a separate institute on children, 
+the law establishing the National 
+Institute of Child Health and Human 
+Development (NICHD) was signed on 
+October 17, 1962. NICHD became 
+the first NIH institute to focus on 
+health throughout human life, rather 
+than on a specific disease or organ 
+system. From its inception, NICHD 
+targeted its efforts toward helping the 
+scientific community, policy makers, 
+and public recognize the importance 
+of supporting research not only to help 
+those with IDDs, but also to increase 
+understanding of human development.
+Purpose
+Since 1962, NICHD’s statutory 
+“purpose” has only been amended 
+three times. In 2000, the phrase 
+“gynecologic health” was added. In 
+2007, the institute’s official name was 
+changed to the “Eunice Kennedy 
+Shriver National Institute of Child 
+Health and Human Development” to 
+honor the contributions of Mrs. Shriver. 
+NICHD Director Diana 
+W. Bianchi, M.D. 
+(center), joins Maria 
+Shriver and Timothy 
+Shriver, Ph.D., at an 
+event for the White 
+House Initiative on 
+Women’s Health 
+Research in 2024. 
+Credit: NICHD
+44 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 45 matched=['STRATEGIC PLAN'] ---
+In 2010, another law was passed that 
+updated NICHD’s statutory language 
+to change all references from “mental 
+retardation” to “intellectual disabilities.” 
+In addition, in 1990, Congress 
+established the National Center for 
+Medical Rehabilitation Research within 
+NICHD to support research, training, 
+and dissemination of health information 
+on the rehabilitation of people with 
+physical disabilities. This program 
+was reauthorized in 2016 by the 21st 
+Century Cures Act.
+Other Statutory Directives
+Other provisions of the Public Health 
+Service Act specifically direct NICHD 
+to support certain areas of research 
+in addition to the general mandates 
+governing NIH. Among these 
+provisions, which became law at 
+different points during NICHD’s history, 
+are research on sudden infant death 
+syndrome, intellectual disabilities, 
+contraception, and infertility; 
+intramural research on obstetrics and 
+gynecology; child health research 
+centers; studies on both adolescent 
+health and children’s health; research 
+centers on Fragile X syndrome; and 
+pediatric research training.
+More recently, Congress has provided 
+directives to the Secretary of Health 
+and Human Services (HHS) or to 
+NIH, with the understanding that 
+NICHD would be charged with their 
+implementation. One example, first 
+passed in 2000, is the directive for 
+NIH to create a program of research 
+for conducting pediatric clinical trials 
+with the aim of obtaining pediatric 
+labeling on drugs often prescribed 
+to children (Best Pharmaceuticals 
+for Children Act). Among other 
+provisions of the Newborn 
+Screening Saves Lives Act, NIH is 
+directed to coordinate and expand 
+research on newborn screening 
+(Hunter Kelly Newborn Screening 
+Research Program). A provision of 
+the 21st Century Cures Act directed 
+the HHS Secretary to establish a 
+Task Force on Research Specific 
+to Pregnant Women and Lactating 
+Women (PRGLAC) to identify 
+the research needed to inform 
+appropriate dosing of medications 
+used by these populations. The 
+Fiscal Year 2022 Consolidated 
+Appropriations Act (P .L. 117-103) 
+directed the HHS Secretary to 
+develop a task force on stillbirth 
+in the United States and the 
+Fiscal Year 2023 Consolidated 
+Appropriations Act (P .L. 117-
+328) continued the work of that 
+task force. The Fiscal Year 2023 
+Consolidated Appropriations Act 
+(P .L. 117-328) included funding 
+and language for HHS to create an 
+advisory committee to monitor and 
+report on the implementation of the 
+PRGLAC recommendations.
+NICHD STRATEGIC PLAN 2025 | 45
+
+--- PAGE 46 matched=['STRATEGIC PLAN', 'mission', 'Division of '] ---
+Appendix 2: 
+NICHD Organization and Functions
+The Division of Extramural 
+Research (DER) develops, 
+implements, and coordinates cross-
+cutting, multidisciplinary research 
+activities within NICHD’s mission. 
+DER supports this research through 
+grants and contracts to colleges, 
+universities, medical schools, 
+hospitals, and small businesses.
+The Division of Intramural Research 
+(DIR) conducts laboratory, clinical, 
+and population-based research to 
+seek fundamental knowledge about 
+the nature and behavior of living 
+systems. The Division of Population 
+Health Research within DIR designs 
+and conducts innovative etiologic 
+and interventional research to 
+promote health and well-being of 
+all populations, including vulnerable 
+subgroups such as pregnant women, 
+infants, and children.
+The Division of Extramural Activities 
+(DEA) is responsible for administering 
+and coordinating the implementation 
+of the institute’s research grant and 
+training programs. Activities conducted 
+within DEA include initial scientific merit 
+review of research grant applications 
+and contract proposals, assistance 
+with advisory council activities and 
+meetings, grants management, 
+extramural staff training, and enhancing 
+NICHD-wide understanding of 
+standardized approaches, policies, 
+methods, and procedures.
+The National Center for Medical 
+Rehabilitation Research (NCMRR) 
+aims to foster development of 
+scientific knowledge to enhance the 
+health, productivity, independence, 
+and quality of life of people with 
+physical disabilities through basic, 
+translational, and clinical research.
+The NICHD Office of the Director 
+(OD) provides overall leadership, 
+planning, direction, coordination, 
+and evaluation of the institute’s 
+research programs and activities. 
+OD also develops and monitors 
+internal policies and procedures to 
+effectively and efficiently advance 
+NICHD’s mission.
+For a full organizational chart, visit 
+http://bit.ly/NICHDOrgChart
+46 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 47 matched=['STRATEGIC PLAN'] ---
+Stanford University 
+researchers, co-funded by 
+NICHD (P41EB027060), 
+demonstrate OpenCap, 
+an open-source platform 
+for measuring human 
+movement dynamics 
+using smartphone videos. 
+Credit: Florent Vial
+NICHD STRATEGIC PLAN 2025 | 47
+
+--- PAGE 48 matched=['scientific priorit', 'strategic plan'] ---
+Appendix 3: Strategic Planning Process
+The pace of scientific and 
+technological progress demand that 
+NICHD refresh its strategic plan to 
+capitalize on new opportunities to 
+accelerate basic, translational, and 
+clinical research. In October 2023, the 
+institute embarked on a collaborative 
+process with internal and external 
+experts to identify priorities and 
+inform future investments in research, 
+training, and infrastructure. The 
+process for refreshing the NICHD 
+strategy was guided by three core 
+principles: transparency, decision 
+making informed by evidence, and 
+external participation.
+For the NICHD Strategic Plan 2025, 
+NICHD updated priorities to reflect 
+public health trends and progress 
+since the publication of the previous 
+plan, while maintaining the structure 
+of the NICHD Strategic Plan 2020. 
+The overarching goal of the process 
+was to identify scientific priority areas 
+in which NICHD can lead, harness 
+new technologies and methods 
+to address health disparities, 
+promote health equity, and improve 
+the health of the institute’s primary 
+populations: children, women, and 
+people with disabilities.
+The refresh started with reviewing 
+progress from the prior plan and 
+discussing emerging areas of 
+opportunity and importance to 
+validate existing priorities and 
+identify new ones across three focus 
+areas: scientific research, scientific 
+stewardship, and management and 
+accountability. The strategic planning 
+During the 
+NICHD: 60 Years 
+of Innovation  
+virtual symposium 
+on October 17, 
+2022, NICHD’s 
+Valerie Maholmes, 
+Ph.D. (lower left), 
+moderates the 
+session on Raising 
+Healthy Children. 
+Top left: Wendy 
+Chung, M.D., Ph.D.; 
+top right: Audrey 
+Odom John, M.D., 
+Ph.D.; lower right: 
+Kenneth Dodge, 
+Ph.D. Far upper 
+right: sign language 
+interpreter.
+48 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 49 matched=['research goal', 'cross-cutting theme', 'strategic plan'] ---
+process entailed three phases: 
+1.) formation of working groups, 
+2.) external engagement, and 
+3.) incorporating feedback and  
+finalizing the plan.
+Formation of Working Groups
+To guide the strategic plan refresh, 
+NICHD established working groups 
+charged with identifying the priorities 
+to highlight in the strategic plan. Of 
+the seven working groups, five were 
+focused on scientific research (one 
+for each scientific research goal), one 
+on scientific stewardship, and one 
+on management and accountability. 
+The NICHD Executive Committee 
+nominated members for the seven 
+working groups based on members’ 
+knowledge of relevant extramural and 
+intramural research portfolios and 
+familiarity with the goal areas. The 
+Executive Committee also provided 
+initial direction by delineating potential 
+emerging priority areas for working 
+groups to examine. At predetermined 
+milestones, the Executive Committee 
+reviewed and advised on updated 
+priorities the working groups identified.
+Given the length and complexity of 
+the focus areas, the scientific research 
+working groups met on a structured, 
+recurring cadence (bi-monthly at 
+minimum). Ad hoc meetings were 
+held for scientific stewardship and 
+management and accountability 
+working groups. The Executive 
+Committee identified champions for 
+each cross-cutting theme in addition 
+to the working groups. Champions 
+were responsible for identifying and 
+proposing priorities related to their 
+theme across scientific research 
+objectives and aspirational goals. To 
+ensure representation throughout 
+the strategic plan, champions served 
+as members of relevant scientific 
+research working groups. Cross-
+cutting theme champions were 
+engaged throughout the process to 
+provide feedback on representation of 
+their theme across the strategic plan.
+The scientific research working groups 
+began their efforts by conducting 
+a detailed data-informed review 
+of progress made on the NICHD 
+Strategic Plan 2020. Working groups 
+considered major programs and 
+funding opportunities to understand 
+grant spending trends and how 
+upcoming programs and opportunities 
+may impact research areas. They 
+also reviewed representation of 
+the cross-cutting themes in the 
+scientific research goals, noting well-
+represented areas and opportunities 
+to increase representation in the 
+refreshed strategic plan. These initial 
+efforts helped steer the priorities 
+of the strategic plan and provided 
+direction for planned external 
+engagement opportunities. 
+NICHD STRATEGIC PLAN 2025 | 49
+
+--- PAGE 50 matched=['research goal', 'cross-cutting theme', 'strategic plan'] ---
+External Engagement
+External feedback was essential 
+to the strategic planning process. 
+NICHD’s planning process intentionally 
+outlined three key avenues for 
+soliciting external feedback to identify 
+and confirm the refreshed strategic 
+priorities: listening sessions focused 
+on each of the five scientific research 
+goals, an update to the National 
+Advisory Child Health and Human 
+Development (NACHHD) Council, and 
+a public Request for Information (RFI) 
+on the updated priorities.
+In July 2024, NICHD engaged 
+external researchers in five structured 
+listening sessions, one for each of the 
+scientific research goals. Attendees 
+were invited based on their expertise 
+in the scientific research goal area 
+and knowledge of NICHD’s portfolio. 
+Working groups developed and 
+presented draft concepts for each 
+scientific research goal, providing 
+attendees with the opportunity to offer 
+feedback and ask clarifying questions. 
+Attendees were encouraged to 
+share novel research opportunities 
+not represented in the goals, directly 
+informing further iteration of the 
+concepts. Following the listening 
+sessions, working groups constructed 
+draft research objectives, taking 
+feedback from the listening session 
+into account. These draft research 
+objectives were subsequently 
+reviewed and refined by the 
+Executive Committee.
+In fall 2024, the NACHHD Council 
+received an update on the refreshed 
+strategic plan, including an overview 
+of the strategic planning process to-
+date and the draft scientific research 
+objectives. This presentation coincided 
+with the release of the RFI, which 
+summarized research opportunities for 
+each scientific research goal and the 
+updated cross-cutting themes. Council 
+members provided feedback on the 
+draft objectives, noting areas that 
+required clearer emphasis within 
+the plan, including endometriosis, 
+digital media and technology use, 
+and judicious use of AI. NICHD 
+gave due consideration to each 
+piece of feedback provided by the 
+NACHHD Council and made updates 
+as appropriate.
+In August 2024, the institute 
+published an RFI on the draft priorities 
+for the NICHD Strategic Plan 2025. 
+The RFI (NOT-HD-24-028) solicited 
+feedback on the scientific research 
+goals and opportunities from a 
+large external audience, including 
+academia and industry, scientific 
+and professional organizations, and 
+health care professionals. The notice 
+contained background information 
+on the purpose of the strategic 
+plan refresh and summaries of the 
+prioritized areas of opportunity within 
+each of the scientific research goals. 
+The RFI also included brief overviews 
+of the cross-cutting themes, given 
+their relevance to the scientific 
+research goals.
+The RFI was open for a 44-day 
+review period and obtained a total 
+of 170 relevant responses; 131 
+responses were from individuals from 
+85 different academic and research 
+institutions. Thirty-nine responses 
+50 |  NICHD STRATEGIC PLAN 2025
+
+--- PAGE 51 matched=['research goal', 'cross-cutting theme', 'strategic plan'] ---
+were on behalf of societies, advocacy 
+groups, and government agencies or 
+government contractors. Across these 
+170 responses, each piece of feedback 
+was summarized and tagged to the 
+most relevant research goal and/or 
+cross-cutting theme. Comments were 
+generally supportive of the direction of 
+the plan and offered suggestions on 
+clarifying important concepts. NICHD 
+thoroughly reviewed and considered 
+each piece of feedback and made 
+updates to the plan as appropriate.
+Incorporating Feedback and 
+Finalizing the Plan
+Working groups reviewed the feedback 
+provided across external engagement 
+opportunities, considering alignment 
+to emerging priorities and NICHD’s 
+mission. Edits were made to the 
+draft strategic plan and the internal 
+implementation plan. The updates 
+were reviewed and approved by the 
+Executive Committee.
+NICHD leadership dedicated extensive 
+consideration to the public health 
+priorities that the institute will address 
+over the next five years, including the 
+representation of cross-cutting themes 
+and the enhancement of scientific 
+stewardship and management and 
+accountability. In tandem with finalizing 
+the objectives, all seven working groups 
+began detailed internal implementation 
+planning that defined specific activities 
+designed to guide the institute in 
+meeting the set objectives.
+Future Progress
+The institute considers the strategic 
+plan to be part of an ongoing discussion 
+with its research, advocacy, and policy 
+communities, as well as the public. Over 
+the next five years, NICHD will provide 
+regular updates on its progress across 
+these focus areas. NICHD has also 
+defined metrics to measure success of 
+implementation efforts and will track 
+and report on those.
+The institute 
+promoted its 
+NICHD: 60 Years 
+of Innovation 
+virtual symposium 
+on various 
+digital channels 
+throughout 2022.
+NICHD STRATEGIC PLAN 2025 | 51

@@ -1,0 +1,2164 @@
+# NIMH (2023Update) — file: NIMH_Strategic_Plan_for_Research_2023_Update.pdf
+# 53 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['STRATEGIC PLAN'] ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Updated: June 2022 
+NATIONAL INSTITUTE OF MENTAL HEALTH 
+STRATEGIC PLAN FOR RESEARCH   
+Updated: May 2023 
+
+--- PAGE 2 matched=['Research Themes', 'Strategic Plan', 'Table of Contents'] ---
+  
+ 
+NIMH Strategic Plan for Research   i  
+ 
+Message from the Director 
+ 
+Message from the Director 
+ 
+Table of Contents 
+Table of Contents 
+Message from the Director ............................................................................................................................................ 1 
+Overview of NIMH ......................................................................................................................................................... 3 
+Serving as an Efficient and Effective Steward of Public Resources ............................................................................... 5 
+Scientific Stewardship ............................................................................................................................................... 5 
+Setting Research Priorities .................................................................................................................................... 5 
+Monitoring and Measuring Programs ................................................................................................................... 5 
+Emphasizing Rigor and Reproducibility ................................................................................................................. 6 
+Fostering Resource and Data Sharing  .................................................................................................................. 6 
+Enhancing Oversight and Monitoring of Clinical Trials ......................................................................................... 6 
+Creating and Strengthening Partnerships  ............................................................................................................ 7 
+Management and Accountability .............................................................................................................................. 7 
+Cultivating a Respectful and Inclusive Workplace at NIMH .................................................................................. 7 
+Promoting Innovation ........................................................................................................................................... 7 
+Enhancing Risk Management ................................................................................................................................ 8 
+Improving Administrative Processes ..................................................................................................................... 8 
+Promoting Workforce Development and Diversity............................................................................................... 8 
+Accomplishing the Mission ............................................................................................................................................ 9 
+Challenges and Opportunities ..................................................................................................................................... 10 
+Coronavirus Disease 2019 (COVID-19) Pandemic ................................................................................................... 10 
+Suicide Prevention................................................................................................................................................... 11 
+Early Intervention in Psychosis ................................................................................................................................ 12 
+Mental Health Equity .
+
+--- PAGE 3 matched=['Goal 1', 'Objective 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   ii  
+ 
+Message from the Director 
+ 
+Message from the Director 
+ 
+Table of Contents 
+Comorbidities .......................................................................................................................................................... 19 
+Translation .............................................................................................................................................................. 19 
+Computational Approaches..................................................................................................................................... 20 
+Harnessing the Power of Data .................................................................................................................................  21 
+Research Workforce ................................................................................................................................................ 21 
+Goal 1: Define the Brain Mechanisms Underlying Complex Behaviors  ....................................................................... 23 
+Objective 1.1: Elucidate the brain mechanisms underlying cognitive, affective, and social processes  .................. 24 
+Objective 1.2: Identify the genomic and non-genomic factors associated with mental illnesses .......................... 25 
+Objective 1.3: Identify and characterize the neural circuit mechanisms contr ibuting to human behavior and their 
+disruption in mental illnesses .................................................................................................................................. 27 
+Goal 2: Examine Mental Illness Trajectories Across the Lifespan ................................................................................ 30 
+Objective 2.1: Characterize the trajectories of brain, cognitive, affective, and behavioral development across the 
+lifespan and in diverse populations......................................................................................................................... 31 
+Objective 2.2: Identify and understand risk factors, biomarkers, and behavioral indicators of mental illnesses and 
+of intervention responses across the lifespan ........................................................................................................ 32 
+Goal 3: Strive for Prevention and Cures ...................................................................................................................... 34 
+Objective 3.1: Develop new interventions based on discoveries in genomics, engineering, neuroscience, and 
+behavioral science ................................................................................................................................................... 35 
+Objective 3.2: Develop strategies for tailoring existing interventions to optimize outcomes  ................................ 36 
+Objective 3.3: Test interventions for effectiveness in community practice settings  .............................................. 38 
+Goal 4: Advance Mental Health Services to Strengthen Public Health  ....................................................................... 41 
+Objective 4.1: Improve the efficiency, effectiveness, and reach of mental health services through research  ...... 41 
+Objective 4.2: Expedite adoption, sustained implementation, and continuous improvement of evidence -based 
+mental health services ....................................................................
+
+--- PAGE 4 matched=['Strategic Plan', 'mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   1  
+ 
+Message from the Director 
+ 
+Message from the Director 
+ 
+Message from the Director 
+Message from the Director 
+It is an exciting time to be at the helm of the National Institute of Mental Health (NIMH), the lead 
+federal agency charged with setting and supporting the national agenda for mental health research. 
+Scientific advances are rapidly transforming neuroscience and mental health care. Just in the last five 
+years, we have made considerable progress. In basic science, the genetic revolution has begun to pay off 
+for mental health research— after facing some challenges, we have now identified hundreds of places in 
+the genome irrefutably linked to mental illnesses such as schizophrenia, autism, and depression. Thanks 
+to the NIH Brain Research through Advancing Innovative Neurotechnologies® (BRAIN) Initiative, we have 
+new tools and resources that allow unprecedented insight into the exquisite complexities of the living 
+brain. In translational sciences, we celebrated the U.S. Food and Drug Administration (FDA) approval of 
+two of the first truly novel antidepressants in decades— esketamine for treatment-resistant depression, 
+and brexanolone for postpartum depression. And in intervention research, NIMH-sponsored studies 
+proving the effectiveness of coordinated specialty care for first episode psychosis led to nationwide 
+implementation of this evidence-based care model through state-supported mental health clinics. 
+The future is bright. We’ve enacted the NIMH Strategic Plan for Research, aiming to build on these 
+advances. Over the next few years, we look forward to further implementation of suicide prevention 
+efforts based on recent NIMH findings. These findings include studies demonstrating the benefit of 
+universal screening in emergency departments for suicidal thoughts and behaviors, and the benefits and 
+challenges of predicting suicide risk using electronic health records and other digital tools. NIMH is also 
+investing in practice-based research that examines mental health care delivery in real-world settings. For 
+example, NIMH is pioneering the Early Psychosis Intervention Network (EPINET), a research network 
+that will use data from community-based first episode psychosis clinics to enhance the delivery, 
+evaluation, and continual improvement of evidence-based care. These continuous advances drive the 
+enthusiastic and energetic efforts of the research workforce devoted to our mission. And, more 
+importantly, they offer hope and solutions to individuals with mental illnesses, as well as their families 
+and communities.  
+Since the advent of this plan in 2020, we have faced significant challenges. Early in the coronavirus 
+disease 2019 (COVID-19) pandemic, symptoms of depression, anxiety, and substance use increased for 
+many, and although those symptoms resolved for most, some continue to have elevated symptoms. At 
+the same time, minoritized and marginalized communities were disproportionately impacted by greater 
+rates of illness and death tragically due to SARS-CoV-2 infection as well as with broader mental health 
+consequences of the social, behavioral, and economic impacts of the pandemic. Those infected with 
+SARS-CoV-2 can also experience an increase in new mental illness both in the short- and long-term. 
+Regardless of direct infection, reports suggest mental health symptoms have remained elevated 
+compared to pre-pandemic data. Groups differentially impacted by 
+
+--- PAGE 5 matched=['Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   2  
+ 
+Message from the Director 
+ 
+Message from the Director 
+ 
+Message from the Director 
+NIMH has relied on its strategic plan to adapt to these challenges. We continue to collaborate with other 
+institutes, centers, and offices across NIH, funding more than 40 projects to understand the mental 
+health impacts of the pandemic, including the impact of public health mitigation approaches, and 
+critically to evaluate scalable, deployable interventions that are desperately needed to respond to the 
+increased mental health needs of diverse populations. All of these efforts are in line with our strategic 
+priorities, particularly in the context of ongoing mental health disparities.   
+As NIMH Director, I am committed to dismantling structural racism in biomedical research. At NIMH, we 
+aim to identify and address the extent to which our policies, practices, and culture serve to perpetuate 
+the status quo and are working to promote anti-racist ideas and actions both within NIMH and in the 
+research communities we support. We started by examining how our application review process affects 
+the diversity of our scientific workforce. For example, some of our early efforts are focused on 
+understanding and employing solutions to reduce disparities in award rates for grant applications 
+supporting Black investigators. We are also making changes to improve diversity, equity, inclusion, and 
+accessibility (DEIA) within the NIMH workplace. In response to an internal assessment, NIMH is creating 
+new opportunities for dialogue, training, and engagement to advance DEIA efforts. I recognize that 
+these efforts, among others in alignment with the NIH-Wide Strategic Plan for DEIA and the UNITE 
+initiative, are just the start to making lasting change.  
+The NIMH Strategic Plan for Research maps our path. From basic research aimed at understanding how 
+the brain produces behavior, to translational efforts to uncover novel treatment targets, to clinical 
+studies testing novel approaches in community settings, we have charted numerous routes linking these 
+challenges and opportunities. Each has the potential to deliver significant advances in mental health 
+care. NIMH’s broad portfolio aims to ensure that our research will have public health impacts across a 
+range of timeframes— from the near-term to the far-off future. At NIMH, we are proud of how far we 
+have come, humbled by the distance yet to be traveled, and empowered by the hope that drives us 
+forward.  
+ 
+Joshua A. Gordon, M.D., Ph.D. 
+Director, National Institute of Mental Health
+
+
+--- PAGE 6 matched=['Strategic Plan', 'mission', 'Division of '] ---
+  
+ 
+NIMH Strategic Plan for Research   3  
+ 
+Overview of NIMH 
+ 
+Overview of NIMH 
+ 
+Overview of NIMH 
+ 
+Overview of NIMH 
+The National Institute of Mental Health (NIMH) is the lead federal agency for research on mental 
+illnesses. NIMH is one of the 27 institutes and centers that make up the National Institutes of Health 
+(NIH), the largest biomedical research agency in the world. The mission of NIMH is to transform the 
+understanding and treatment of mental illnesses through basic and clinical research, paving the way for 
+prevention, recovery, and cure.  
+To carry out this mission, NIMH, as established by the Mental Health Act of 1946 and in accordance with 
+Title IV of the Public Health Service Act, conducts and supports biomedical and behavioral research, 
+health services research, research training, and health information dissemination with respect to the 
+causes, diagnosis, treatment, management, and prevention of mental illnesses. As mental health is an 
+important part of overall health, NIMH invests in research on adaptive and maladaptive behaviors to 
+better understand mental function and dysfunction.  
+NIMH supports research and research training through extramural activities and conducts research and 
+research training through intramural activities. Through its extramural program, NIMH currently 
+supports more than 3,500 research grants and contracts annually at universities, academic health 
+centers, and other research institutions across the country and around the world. The NIMH Extramural 
+Research Program is organized into four scientific funding Divisions— the Division of Neuroscience and 
+Basic Behavioral Science, the Division of Translational Research, the Division of Services and Intervention 
+Research, and the Division of AIDS Research. NIMH staff manage and administer the extramural 
+research grants and contracts that support cutting-edge scientific discovery in basic, translational, 
+comparative effectiveness, and implementation science that aims to transform understanding, 
+prevention, and treatment of mental illnesses across the lifespan, from prenatal development to late 
+life.  
+Staff in the NIMH Intramural Research Program (IRP) plan and conduct basic, clinical, and translational 
+research to advance understanding of the diagnosis, causes, treatment, and prevention of psychiatric 
+disorders. NIMH IRP investigators utilize the unique resources of the NIH to conduct state-of-the-art 
+research in an environment conducive to the training and development of clinical and basic scientists 
+that often complements extramural research activities. The NIMH IRP supports approximately 600 
+scientists, who work on the NIH campus in Bethesda, MD. NIMH intramural scientists range from 
+molecular biologists working in laboratories to clinical researchers working with patients in the NIH 
+Clinical Center, the world’s largest hospital dedicated to clinical research. The variety of scientific 
+expertise facilitates interdisciplinary studies and promotes translational research, linking basic research 
+discoveries to clinical care.  
+To deliver high quality, impactful research and promote translation of such research into clinical 
+practice, services delivery, and policy, NIMH developed the Strategic Plan for Research to advance our 
+mission and guide research over a five-year period. The NIMH Strategic Plan for Research builds on the 
+successes of previous NIMH Strategic Plans, provides a framework for research to leverage new 
+
+--- PAGE 7 matched=['Goal 1', 'Strategic Plan', 'research area'] ---
+  
+ 
+NIMH Strategic Plan for Research   4  
+ 
+Overview of NIMH 
+ 
+Overview of NIMH 
+ 
+Overview of NIMH 
+ 
+opportunities for scientific exploration, and addresses new challenges in mental health. In this Strategic 
+Plan for Research, NIMH outlines four high-level Goals as follows: 
+• Goal 1: Define the Brain Mechanisms Underlying Complex Behaviors 
+• Goal 2: Examine Mental Illness Trajectories Across the Lifespan 
+• Goal 3: Strive for Prevention and Cures 
+• Goal 4: Advance Mental Health Services to Strengthen Public Health  
+ 
+These four Goals form a broad roadmap for the institute’s research priorities over the next five years, 
+beginning with fundamental science of the brain and behavior, and extending through evidence-based 
+services that improve public health outcomes. 
+ 
+Please Note: The terms “mental illnesses,” “mental disorders,” and “psychiatric disorders” are used 
+interchangeably throughout this document. These terms are meant to include an array of disorders 
+within NIMH’s scope of interest. Reference to a specific disorder (i.e., as an example or a highlight) or 
+research area does not imply prioritization, unless otherwise noted. Furthermore, NIMH respects the 
+known comorbidity and heterogeneity of symptoms across mental disorders and recognizes that 
+knowledge gained from studying one may inform understanding of and treatment for others.  
+  
+
+--- PAGE 8 matched=['Strategic Plan', 'Vision', 'mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   5  
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+Serving as an Efficient and Effective Steward of Public Resources 
+  
+Scientific Stewardship 
+ 
+Setting Research Priorities 
+At the agency level, NIH sets research priorities by managing a dynamic balance among existing and 
+emerging public health needs, scientific opportunities, budgetary considerations, and the range of 
+science in its portfolio. At the institute level, priorities are outlined within the NIMH Strategic Plan for 
+Research. At NIMH, a balanced portfolio starts with excellent science that includes diverse subject 
+matter (basic, translational, and applied sciences), diverse timeframes (research with potential impact in 
+the short-, medium-, and long-terms), diverse study populations, and a diverse workforce. NIMH 
+research priorities are also informed by strategic planning. Strategic planning at NIMH is comprehensive, 
+responsive, and adaptive to the often serendipitous nature of scientific progress. Planning also includes 
+input from a variety of stakeholders, including NIMH leadership and staff, the National Advisory Mental 
+Health Council, as well as federal and private partners, both domestic and global.  
+NIMH also sets priorities in accordance with NIH-wide strategic plans and research plans of partnering 
+organizations. Such plans include the NIH-Wide Strategic Plan, the Advancing Science for the Health of 
+Women: The Trans-NIH Strategic Plan for Women’s Health Research, the NIH Minority Health and Health 
+Disparities Strategic Plan, the NIH Strategic Plan for Tribal Health Research, the Office of Disease 
+Prevention Strategic Plan, the NIH Strategic Plan for Data Science, and the NIH-wide Strategic Plan for 
+COVID-19 Research, among others. NIMH also has a substantial investment in supporting HIV research; 
+this investment is guided by the NIH Strategic Plan for HIV and HIV-Related Research, coordinated 
+through the NIH Office of AIDS Research. Additionally, NIMH has contributed to the creation of several 
+strategic plans and reports that include more detail on specific topics, which also inform NIMH priorities. 
+These documents include but are not limited to: the White House Report on Mental Health Research 
+Priorities; the Interagency Autism Coordinating Committee (IACC) Strategic Plan for Autism Spectrum 
+Disorder; the Interdepartmental Serious Mental Illness Coordinating Committee Report to Congress; the 
+Grand Challenges in Global Mental Health Initiative; A Prioritized Research Agenda for Suicide 
+Prevention: An Action Plan to Save Lives, a collaboration with the National Action Alliance for Suicide 
+Prevention; and, the Brain Research through Advancing Innovative Neurotechnologies® (BRAIN) Initiative 
+strategic plan, BRAIN 2025: A Scientific Vision, and Working Group reports and plans, including the 
+BRAIN Initiative 2.0: From Cells to Circuits, Toward Cures and the BRAIN Initiative and Neuroethics: 
+Enabling and Enhancing Neuroscience Advances for Society.  
+ 
+Monitoring and Measuring Programs 
+NIMH continuously reviews and evaluates its scientific research and training programs to ensure 
+responsible management of public funds and measure progress toward accomplishing our mission. For 
+
+--- PAGE 9 matched=['Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   6  
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+example, NIMH regularly conducts portfolio analyses to identify research gaps and opportunities. 
+NIMH’s monitoring and evaluation efforts continue to evolve to keep pace with changing methods to 
+analyze information, and new requirements mandated by NIH, the Department of Health and Human 
+Services (HHS), and Congress. Program monitoring and evaluation informs the development, 
+implementation, and reporting of NIMH efforts and accomplishments.  
+ 
+Emphasizing Rigor and Reproducibility 
+Funding excellent science is essential to the research enterprise. As such, NIMH emphasizes the 
+importance of both rigor and reproducibility. Research studies must have a sufficiently rigorous design 
+and be sufficiently powered, such that they can be replicated. This means NIMH ensures the sample 
+sizes within studies are appropriate so they are adequately powered for meaningful effect sizes; ensures 
+the statistical analysis plans included in grant applications contain sufficient information for reviewers to 
+properly evaluate them; ensures expertise in review sections and program staff to properly assess 
+statistical methodologies; and, encourages the use of data sharing platforms that can enable third-party 
+confirmation and mega-analyses that consolidate data from multiple studies.  
+ 
+Fostering Resource and Data Sharing  
+Access to biospecimens and data sharing efficiently expands research capacity and maximizes NIMH’s 
+investments by promoting hypothesis generation, increasing the potential for testing novel questions by 
+integrating and harmonizing existing data, and encouraging reproducibility. NIMH continues to support 
+programs that provide access to biospecimens, such as the NIH NeuroBioBank, a national resource for 
+investigators utilizing human post-mortem brain tissue and related biospecimens. Existing NIMH 
+investments in the NIMH Data Archive and other data archives have made it easier for NIMH applicants 
+to meet NIH expectations for a Data Management and Sharing Plan (NIH Data Management and Sharing 
+policy). NIMH also strongly encourages investigators to use common data elements, such as those 
+available in the PhenX Toolkit, and requires the use of a small set of common data elements for NIMH-
+funded research on mental health and HIV.  
+ 
+Enhancing Oversight and Monitoring of Clinical Trials 
+NIMH is committed to responsible stewardship, accountability, oversight, and transparency of clinical 
+trials. NIMH continues to enhance oversight and monitoring of clinical trials to strengthen clinical 
+research, ensure compliance, uphold inclusion standards, and safeguard research participants and their 
+data. For example, to ensure studies are meeting their recruitment goals, NIMH expanded the Policy for 
+the Recruitment of Participants in Clinical Research to apply to all clinical trials, regardless of size. 
+Furthermore, the NIH Inclusion Policy and Guidelines strengthen the commitment to clinical trials being 
+conducted through a health equity lens and that diverse participants are included in clinical trials to 
+better ensure evidence can be generalized back to communities. 
+
+--- PAGE 10 matched=['Strategic Plan', 'mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   7  
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+ 
+Creating and Strengthening Partnerships  
+Collaborations and partnerships across the research pipeline are vital components of NIMH efforts to 
+achieve its public health mission. NIMH collaborates with other NIH institutes and centers, as well as 
+HHS (e.g., the Centers for Disease Control and Prevention (CDC), the Centers for Medicare and Medicaid 
+Services (CMS), the U.S. Food and Drug Administration (FDA), the Health Resources and Services 
+Administration (HRSA), the Substance Abuse and Mental Health Services Administration (SAMHSA), the 
+Indian Health Service (IHS), the Administration for Community Living (ACL), the Office of the Assistant 
+Secretary for Planning and Evaluation (ASPE), the Administration for Children and Families (ACF)), and 
+other federal agencies (e.g., the Department of Defense (DoD), the Department of Veterans Affairs 
+(VA)). NIMH also works with public, private, non-profit, and research partners, both domestic and 
+international, including those in the biotech and pharmaceutical industries. To broaden the 
+dissemination and impact of research, NIMH works with external stakeholders— policymakers, advocacy 
+groups, providers, and people with lived experience, including family members— who are also 
+committed to the prevention, treatment, recovery, and cure of mental illnesses. Collaboration, 
+communication, and coordination occur at various stages of research and continue to improve 
+dissemination and implementation of evidence-based strategies, practices, and programs.  
+ 
+Management and Accountability 
+ 
+Cultivating a Respectful and Inclusive Workplace at NIMH 
+In alignment with the NIH-Wide Strategic Plan for Diversity, Equity, Inclusion, and Accessibility (DEIA), 
+NIMH is committed to creating and maintaining a work environment that promotes civility and 
+respectful behavior and does not tolerate harassment or discrimination. The contributions of each and 
+every member of the NIMH community are vital to transform the understanding, prevention, and 
+treatment of mental illnesses. An environment where all people feel welcome, respected, valued, and 
+heard is essential for individuals to contribute to their fullest potential. Over the past few years, NIMH 
+completed an in-depth, third-party assessment of its internal workforce and has been actively engaging 
+with staff to improve processes, resources, communication, and accountability with the ultimate goal of 
+enhancing workplace culture and climate. Further, NIMH is involved in NIH-wide efforts, such as the NIH 
+UNITE initiative, to identify and take actions to address structural racism within the NIH and across the 
+biomedical research community.  
+ 
+Promoting Innovation  
+The fields of science and technology are constantly evolving. Beyond scientific innovation, NIMH also 
+embraces innovative administrative management practices to ensure the institute can adapt rapidly to 
+changing needs and requirements while managing existing resources in a complex environment. In 
+
+--- PAGE 11 matched=['Strategic Plan', 'mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   8  
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+Stewardship 
+ 
+addition, NIMH is committed to encouraging a diverse research and scientific support workforce 
+equipped with the knowledge and skills required to execute NIMH’s mission.   
+ 
+Enhancing Risk Management 
+NIMH proactively identifies and mitigates internal and external risks to support the institute's mission. 
+Working with HHS and NIH leadership, NIMH continues to improve procedures to develop standardized, 
+automated, metric-oriented, and consistent business practices to mitigate risk. NIMH will leverage the 
+values of collaboration, transparency, and accountability throughout our functional areas to proactively 
+adapt risk-management mitigation procedures when confronted with emerging issues.   
+ 
+Improving Administrative Processes 
+NIMH is committed to innovative and agile process improvement and aims to optimize, automate, and 
+streamline business processes to ensure quality and consistency. As an example, NIMH regularly 
+conducts internal workflow analyses to identify opportunities to reduce administrative burden. NIMH 
+strives to implement business process management initiatives to maintain accountability and support 
+our staff. NIMH will also continue to support efforts aimed at leveraging data to manage the needs of 
+the institute and drive decision-making processes.   
+ 
+Promoting Workforce Development and Diversity 
+To keep pace with advancing science, the NIMH workforce needs resources and training to ensure it has 
+the knowledge, skills, and technologies to support its activities. NIMH encourages and supports the 
+development of an inclusive, diverse, and well-trained research workforce. In addition, to preserve 
+institutional knowledge, NIMH employs innovative approaches to encourage career development, retain 
+expertise, and reward outstanding performance with an eye toward achieving equity and inclusion. 
+
+--- PAGE 12 matched=['Research Themes', 'Strategic Plan', 'Mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   9  
+ 
+Accomplishing the Mission 
+ 
+Accomplishing the Mission 
+ 
+Accomplishing the Mission 
+ 
+Accomplishing the Mission 
+NIMH developed the Strategic Plan for Research to advance the institute’s mission and guide research 
+over a five-year period. The sections of this plan specifically address areas of crucial importance as NIMH 
+strives to accomplish its mission. First, Challenges and Opportunities confronts the challenges that may 
+lie ahead and describes some of the unique opportunities for scientific exploration to overcome these 
+challenges and advance the understanding of mental illnesses. Second, Cross-Cutting Research Themes 
+are topics that are integral to the Goals of the Strategic Plan for Research and will influence the direction 
+of mental health research as we move forward. Finally, the four Goals of the Strategic Plan for Research 
+form a broad roadmap for the institute’s research priorities, beginning with the fundamental science of 
+the brain and behavior, and extending through evidence-based services that improve public health 
+outcomes. Each of the four Goals include Objectives, followed by Strategies, which include research 
+areas of specific interest that will help drive progress toward achieving our mission. The topics 
+throughout the plan are not exhaustive. Prior to submitting an application, investigators are encouraged 
+to contact NIMH program staff to discuss proposed aims and relevance to NIMH’s Goals and overall 
+priorities. 
+NIMH will assess and monitor its performance in achieving the Goals presented in this plan by gathering 
+and analyzing metrics associated with its core mission. Findings will be integrated to inform and refine 
+the direction of the plan over time. The institute will share these findings and updates to the plan with 
+stakeholders regularly, such as through NIMH's Strategic Plan Progress Reports. 
+In the context of prioritizing excellent science, the overall strategy for funding science is to support a 
+broad spectrum of both investigator-initiated and institute-solicited research across the NIMH portfolio. 
+Full implementation of the NIMH Strategic Plan for Research will help transform the prevention, 
+diagnosis, and treatment of mental illnesses. 
+
+--- PAGE 13 matched=['Strategic Plan', 'mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   10  
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+The urgency of NIMH’s mission stems from the significant burden mental illnesses impose on 
+individuals, their families, and society. In any given year, it is estimated that more than one in five U.S. 
+adults live with a mental illness1 and the burden of mental illness is predicted to rise worldwide in 
+coming decades.2,3 Mental illnesses cut across age, sex, race, ethnicity, and socioeconomic status. 
+Mental illnesses occur more commonly in people with other chronic illnesses, such as heart disease, 
+diabetes, cancer, and HIV.4,5 In fact, people with a mental illness may have an increased risk for chronic 
+illnesses,6 and effective treatment for mental illnesses can reduce that risk.7 Individuals with mental 
+illnesses are also disproportionately represented among homeless and incarcerated populations.8 
+Furthermore, serious mental illnesses significantly impair one’s ability to function in daily life, are 
+associated with personal loss of earnings,9 have a negative global financial impact,10 and are among the 
+leading causes of poor health and early mortality worldwide.4,11 Tragically, suicide remains an urgent 
+public health crisis in the United States.12 Although the national suicide rate declined between 2018 and 
+2020, the rate rose again in 2021 and is, at least in part, driven by disparities among certain minoritized 
+groups.13 The burden of mental illnesses demands that we harness scientific knowledge and tools to 
+achieve better understanding, prevention, and treatment of these disabling conditions. In this section, 
+we outline our plans to leverage considerable research opportunities to address the many challenges of 
+mental health and mental health research.  
+ 
+Coronavirus Disease 2019 (COVID-19) Pandemic 
+To address the ongoing challenges that SARS-CoV-2 and the COVID-19 pandemic pose to our health and 
+well-being, NIH is working urgently in unprecedented ways to understand and mitigate health threats. 
+The NIH Strategic Plan for COVID-19 Research provides a framework for funding research across the 
+scientific spectrum, primarily focusing on the direct testing, therapeutic, and preventive approaches 
+needed to address SARS-CoV-2 and its long term consequences. As part of the strategic response to 
+COVID-19, NIMH is actively engaged with the NIH Researching COVID to Enhance Recovery (RECOVER) 
+initiative, which seeks to understand, prevent, and treat post-acute sequelae of SARS-CoV-2 infection. 
+NIMH is also participating in multiple Rapid Acceleration of Diagnostics (RADx®) initiatives, including 
+the RADx® Underserved Populations (RADx-UP) program, which aims to lay the foundation to reduce 
+disparities for those underserved and vulnerable populations who are disproportionately affected by the 
+COVID-19 pandemic. NIMH is also involved in several other NIH-wide efforts, including the Social, 
+Behavioral, and Economic Impacts of COVID-19 and Maternal and Child Health workgroups. Emerging 
+data indicate that people with serious mental illness have been hard hit by the pandemic. Individuals 
+with schizophrenia or depression are more than seven times more likely to contract COVID-19 and are 
+more than twice as likely to die from it if they do fall ill, compared with individuals who do not have a 
+mental illness.14-16 NIMH-supported researchers are examinin
+
+--- PAGE 14 matched=['Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   11  
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+been impacted by the pandemic, particularly as access to mental health services remain insufficient for 
+the demand. In addition, NIMH staff continue to develop resources and share coping strategies to help 
+people during the pandemic. More information about NIH’s response to the COVID-19 pandemic and 
+guidance for researchers can be found on the NIH COVID-19 webpage. 
+ 
+Suicide Prevention 
+Given the troubling rise in the national suicide rate in the past decades, suicide prevention research 
+remains an urgent priority for NIMH. From 1999 through 2018, U.S. suicide rates had shown small but 
+consistent increases. The overall national suicide rate decreased between 2018 (14.2 per 100,000) and 
+2020 (13.5 per 100,000); however, the suicide rate rose again in 2021 (14.1 per 100,000). This is, in part, 
+due to rising rates among some racially and ethnically minoritized groups, and explanations for these 
+disparities are being explored.12,13 NIMH’s portfolio includes projects aimed at identifying individuals and 
+populations most at risk for suicide, understanding the causes of suicide risk, developing suicide 
+prevention interventions, and testing the effectiveness of these interventions and services in real-world 
+settings. NIMH intramural and extramural research efforts have resulted in the development of 
+screening tools and clinical pathways for implementation in real-world settings to identify those at risk 
+for suicide. Our current collaborative efforts are testing the benefits of various strategies for risk 
+detection and intervention. Because many suicide decedents in the United States have accessed health 
+care services in the 12 months preceding death, health care systems can play a vital role in identifying 
+individuals at risk and preventing suicide attempts.17 NIMH research has focused on emergency 
+departments as a critical focal point, demonstrating that brief screening tools can improve providers’ 
+ability to identify individuals at risk for suicidal behavior.18,19 Pairing this screening with a low-cost 
+intervention, such as safety planning and follow-up phone calls, results in significant decreases in 
+subsequent suicide attempts in the following year.18 NIMH-supported research has also led to the 
+development of a computerized adaptive screener, which may make it easier for providers to screen 
+more people and could help emergency departments quickly facilitate a connection with mental health 
+services. NIMH continues to support research to identify how and why these screening and follow-up 
+interventions work, and how these evidence-based tools can be scaled up for broader implementation 
+to prevent suicide attempts and deaths. To more rapidly test and implement novel suicide risk reduction 
+strategies, NIMH is supporting Practice-based Suicide Prevention Research Centers that will advance 
+research, implementation, and training in specific content areas. Given that firearms account for over 
+50% of suicides annually in the United States, NIMH is funding research on preventing firearm injury and 
+mortality. In addition, accumulating evidence suggests that various preventive interventions delivered 
+early in life can change children’s mental health and substance use trajectories in a positive manner, 
+including decreased risk for suicidal ideation and behaviors in adolescence and a
+
+--- PAGE 15 matched=['Strategic Plan', 'area of focus'] ---
+  
+ 
+NIMH Strategic Plan for Research   12  
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+American Indian and Alaska Native, and Asian youth, as well as pre-teens, older adults, and rural 
+residents, continues to be an important area of focus.   
+ 
+Early Intervention in Psychosis 
+In 2008, NIMH launched the Recovery After an Initial Schizophrenia Episode (RAISE) project, a large-
+scale research initiative with the goal to help reduce the likelihood of long-term disability that people 
+with schizophrenia often experience and help them lead productive, independent lives. The RAISE 
+studies aimed to answer questions about the feasibility, effectiveness, and scalability of early 
+intervention services for people experiencing first episode psychosis in the United States, with an 
+emphasis on coordinated specialty care (CSC), a team-based, integrated, multi-element treatment 
+approach to early psychosis. Baseline findings from the RAISE studies documented areas in need of 
+improvement, including the long duration of untreated psychosis,20 variable adherence to treatment 
+guidelines,21 and poor attention to comorbid medical conditions associated with premature mortality.22 
+In addition, the RAISE studies demonstrated that early intervention improves clinical outcomes among 
+youth and young adults with first episode psychosis, and that CSC is a feasible and cost-effective 
+approach to early intervention in first episode psychosis.23,24,25 Through collaborations with other federal 
+agencies, NIMH transformed these findings into real-world change.26,27 CSC is now the standard of care 
+for early psychosis, with more than 360 CSC programs across the country. In 2019 alone, CSC programs 
+helped over 22,000 young people confronting the tremendous challenge of a first episode of psychosis 
+by ensuring they had access to the best possible evidence-based care. 
+NIMH leveraged this expansion of CSC programs in the United States through the Early Psychosis 
+Intervention Network (EPINET). The goal of EPINET is to accelerate advances in early psychosis care, 
+recovery outcomes, and scientific discovery through a national early psychosis learning health care 
+partnership. In this “learning health care system,” data that are routinely collected in CSC programs, as 
+part of clinical practice, drive continuous improvement in client care and further scientific inquiry. 
+Through EPINET, NIMH supports eight regional scientific hubs that include more than 100 CSC clinics in 
+17 states, as well as a national data coordinating center that standardize, collect, and aggregate data 
+across community clinics and use computational methods to study CSC quality and treatment 
+effectiveness. By studying large, nationally representative datasets, EPINET may offer crucial insights 
+into how best to tailor early psychosis care for individuals and provide information to guide 
+improvements in diagnosis and intervention. 
+NIMH has joined the Accelerating Medicines Partnership® (AMP®) to form a public-private partnership 
+between the NIH, the U.S. Food and Drug Administration (FDA), the European Medicines Agency, and 
+multiple public and private organizations to establish the AMP Schizophrenia (AMP SCZ) initiative. AMP 
+is managed through the Foundation for the National Institutes of Health (FNIH). The goal of the initiative 
+is to generate tools for future studies that will improve success in developing early stage pharmacologi
+
+--- PAGE 16 matched=['Strategic Plan', 'research areas'] ---
+  
+ 
+NIMH Strategic Plan for Research   13  
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+outcome measures and clinical endpoints. The initiative has also established a Data Processing, Analysis, 
+and Coordinating Center to allow researchers to integrate and analyze data from new and key existing 
+cohorts at clinical high risk for psychosis, with all data and analyses made publicly available through the 
+NIMH Data Archive. Findings from these studies may enable researchers to develop algorithms that 
+predict the course of illness for individuals with clinical high risk for psychosis and allow clinical trials to 
+test new pharmacologic interventions to prevent the onset of psychosis. 
+ 
+Mental Health Equity 
+Mental health equity is the state in which all people have a fair and just opportunity to experience their 
+highest level of mental health and emotional well-being. Racial and ethnic minorities, sexual and gender 
+minorities, socioeconomically disadvantaged populations, and underserved rural populations experience 
+striking disparities in burden of mental illness, access to and engagement in care, and recovery. 
+Moreover, people from minoritized and marginalized communities are disproportionately affected by 
+existing disparities that have been exacerbated by recent acts of racism and discrimination and 
+converging public health crises (e.g., COVID-19, HIV, and opioid epidemics).28 In accordance with the 
+21st Century Cures Act, NIMH staff work closely with the National Institute on Minority Health and 
+Health Disparities (NIMHD), the Office of Research on Women’s Health (ORWH), and other NIH 
+institutes, centers, and offices to ensure activities take into account the health needs of minoritized 
+individuals and women and are focused on reducing health disparities. In our efforts to achieve mental 
+health equity, NIMH developed an Approach to Mental Health Disparities Research which outlines five 
+priority research areas to address mental health disparities, and an NIMH Strategic Framework for 
+Addressing Youth Mental Health Disparities. NIMH supports research that addresses the needs of 
+individuals and communities across age, race, ethnicity, language, gender identity, sexual orientation, 
+geography, and social determinants of health (e.g., education, economic stability, quality of housing, 
+access to health care, experience of discrimination), as well as their intersectionality (a framework that 
+addresses the multiple dimensions of individuals’ identity and social systems as they intersect with one 
+another and relate to inequality).29 Of particular priority is research that identifies mechanisms 
+contributing to the persistence of mental health disparities, and tests interventions aimed at reducing 
+disparities, improving outcomes, and promoting equity. Further, to build a valid evidence base for 
+effective prevention, treatment, and mental health services, NIMH strives to foster a culture of inclusion 
+that values and fosters partnerships between study participants, communities, and researchers from all 
+backgrounds.  
+ 
+HIV Research  
+The prevalence of mental illnesses is higher in people with or at risk for HIV compared to the general 
+population. Mental illnesses can be a barrier to HIV prevention, testing, linkage to treatment, treatment 
+engagement, and retention in care. Mental illnesses are associated with poor health outcomes such as 
+lower medication adherence, highe
+
+--- PAGE 17 matched=['Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   14  
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+many co-occurring biological, psychosocial, and structural factors, as well as social determinants such as 
+stigma, violence, and stress, that influence the development and course of mental illnesses and HIV. 
+Mental health research is an integral component of HIV-related research across the lifespan. As such, 
+NIMH supports a broad research portfolio in the United States and around the world to prevent HIV 
+acquisition in high incidence populations and improve treatment and care among people with HIV, 
+including those with comorbid mental and substance use disorders. 
+NIMH utilizes basic science to understand the pathogenic mechanisms of HIV-associated central nervous 
+system (CNS) disorders, while translational research supports the development of therapeutic strategies 
+to treat HIV-CNS comorbidities, including cognitive disorders and mental illnesses. In addition, NIMH 
+supports efforts focused on eradicating the virus from the CNS, a prerequisite to finding a safe, effective, 
+and complete cure for HIV. To complement efforts in basic and translational science, NIMH also 
+advances behavioral and social science research to examine individual, interpersonal, community, 
+institutional/health system, and environmental factors; peer and community-based strategies; structural 
+and psychosocial determinants; and, data science, methodologies, and technological approaches critical 
+in HIV prevention and treatment. NIMH supports implementation science to enable researchers to bring 
+evidence-based interventions to the greatest number of people who may benefit, and develop 
+innovative communication and dissemination approaches that facilitate trust and use of those 
+interventions, particularly among people with HIV in resource-limited settings. NIMH also places a high 
+priority on HIV research that can impact individuals from high-incidence populations across the lifespan, 
+both domestically and globally, including racial and ethnic minorities, sexual and gender minorities, 
+mobile populations, adolescents, women, and infants. 
+ 
+Digital Health Technology 
+Recent advances in technology continue to evolve and create new opportunities to improve access, 
+availability, utilization, and quality of mental health care services. The pace of research and clinical use 
+of digital health approaches has been dramatically accelerated by the COVID-19 pandemic. The growth 
+of digital health technologies, which blend mobile health and health information technology (such as 
+smartphones, wearable sensors, electronic health records), gives the public, health care providers, and 
+researchers new ways to access information and to measure and manage health and productivity. 
+Ongoing NIMH-supported research leverages mobile and other emerging technologies to develop, test, 
+and deliver targeted preventive and treatment interventions for disorders such as anxiety, insomnia, 
+and depression. Approaches include just-in-time interventions that can be pushed out using 
+smartphones or other technology based on information about the person’s current state and needs. 
+Additional innovations employ patient- and clinician-facing digital monitoring devices, smartphones, and 
+other applications or dashboards that facilitate monitoring and early detection of changes in patient 
+status that might signal the need for additional or more in
+
+--- PAGE 18 matched=['Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   15  
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+opportunities for therapeutics (e.g., drug development, brain stimulation, behavioral therapies) and 
+mental health care, much work remains to address questions about efficacy and effectiveness, bias, 
+regulation, privacy, and additional ethical considerations. As technology is increasingly utilized in mental 
+health research and care, innovation is needed to bridge the digital divide and ensure that lower 
+resourced settings are included.  
+ 
+Genetics  
+Tremendous progress has been made in psychiatric genetics. Genome-wide association studies (GWAS) 
+as well as rare variant association analyses, both of which required global-scale collaborations to 
+assemble immense sample sizes, uncovered statistically rigorous and fully replicated genetic links to 
+schizophrenia, autism, depression, and other psychiatric disorders. In considering the complexity of the 
+genetic landscape, the Report of the National Advisory Mental Health Council Workgroup on Genomics 
+provided recommendations for the future of genomics research: 1) utilize statistically rigorous, 
+unbiased, and well-powered studies; 2) harness innovative approaches that address both common and 
+rare genetic variants; and, 3) leverage universal datasets that capture genetic and phenotypic variation 
+across diverse human populations. NIMH is focused on expanding the ancestral diversity of genetic 
+samples and increasing our understanding of the genetic determinants of mental illnesses like 
+obsessive-compulsive disorder, anorexia nervosa, and other disorders where additional work is needed. 
+A significant goal is to better understand how molecular, neural, environmental, and psychosocial 
+mechanisms interact with the genetic and epigenetic links that have been identified. Acquiring this new 
+knowledge will likely cross levels of analysis, from genes to cells to circuits to behavior. 
+ 
+Neural Circuits 
+Neuroscience has provided us with the tools to look deeply into the function of neural circuits, and 
+directly test hypotheses about brain-behavior relationships using noninvasive brain stimulation 
+technologies. Over the past decade, technologies— such as optogenetics, chemogenetics, viral tracing, 
+and high-resolution optical imaging— aimed at measuring and modulating the activity of specific circuits, 
+have facilitated the attainment of a vast knowledge base about the circuits that control behavior and 
+mental processes. Noninvasive neuromodulation devices allow scientists to change function within 
+circuits for therapeutic benefit, and this approach led to the U.S. Food and Drug Administration (FDA) 
+approval of transcranial magnetic stimulation (TMS) for the treatment of depression and obsessive-
+compulsive disorder. This knowledge, in turn, may enable the development of diagnostic and treatment 
+strategies that detect and normalize circuit dysfunction in people with mental illnesses. In addition, 
+invasive neural recording devices (e.g., deep brain stimulation with dual stimulation and recording 
+electrodes) that are used to treat a variety of clinical conditions in humans may enable researchers to 
+explore neural circuity underlying complex human behavior and mental illnesses. To drive progress in 
+circuit neuroscience, NIMH, in part through the NIH Brain Research Through Advancing Innovative 
+Neurotechnologies® (BRAIN) Initiative, aims to r
+
+--- PAGE 19 matched=['Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   16  
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+Challenges and Opportunities 
+ 
+to influence mental functions. NIMH is committed to understanding which circuits are altered in mental 
+illnesses and how; which circuit elements can be changed to reverse or compensate for these 
+alterations; and, at which points in time during the course of illness these manipulations are most 
+effective. 
+ 
+ 
+
+--- PAGE 20 matched=['Research Themes', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   17  
+ 
+Cross-Cutting Research Themes Cross-Cutting Research Themes Cross-Cutting Research Themes 
+Cross-Cutting Research Themes 
+Several significant research themes cut across and are integral to the Goals of the NIMH Strategic Plan 
+for Research. These themes highlight areas where NIMH-funded science may have the greatest impact, 
+bridge research gaps, and offer novel approaches to accelerate advances and promote equity in mental 
+health research. This section summarizes these major themes that, along with the challenges and 
+opportunities facing the mental health field, inspired this Strategic Plan for Research. 
+ 
+A Comprehensive Research Agenda 
+Excellent and comprehensive science requires an inclusive approach focused on varied topic areas, 
+extending research participation and partnerships, and advancing the research agenda across multiple 
+timeframes. To ensure there is the potential to improve clinical care over the short-, medium-, and long-
+term, study designs should engage diverse populations and perspectives, methods, tools, and models. 
+Diversity in these areas of research, such as engaging multiple perspectives, enables us to address 
+complex basic, translational, and applied questions, including those at the intersection of the brain, 
+behavior, and community. All vertebrate animal and human studies should factor sex as a biological 
+variable into research designs and reporting. Depending on the research question, researchers should 
+consider how genetic background will advance the quality and interpretability of the outcomes. Clinical 
+research studies should include participants from diverse racial and ethnic backgrounds, and across 
+gender identities, geographical context, socioeconomic status, neurotype, and age— offering 
+meaningfully representative samples best suited to address public health concerns and provide the most 
+rigorous foundation to inform care and policy.  
+ 
+Prevention 
+NIMH has a developmentally focused, theory-based prevention research program that spans the life 
+course from prenatal though late-life, at different levels of intervention (e.g., universal, selective, 
+indicated, tiered), and in different settings (e.g., homes, schools, health care settings, 
+communities). While the targeted developmental stage may change, the primary focus of interventions 
+is on reducing risk and increasing protective factors that can modify proximal outcomes (e.g., parenting, 
+self-regulation, skill development) and long-term, distal outcomes (e.g., depression, anxiety, suicide 
+ideation and behaviors). Transition periods (e.g., biological, normative, social) offer important 
+opportunities for the implementation of preventive interventions at different developmental 
+stages. NIMH supports research focused on developing and testing scalable preventive interventions, 
+including prevention trials conducted in a variety of contexts and settings where preventive services are 
+offered, and implementation research that tests strategies that can be used to promote the adoption 
+and sustained implementation of effective preventive interventions in communities.   
+ 
+
+--- PAGE 21 matched=['Research Themes', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   18  
+ 
+Cross-Cutting Research Themes Cross-Cutting Research Themes Cross-Cutting Research Themes 
+Global Mental Health 
+Mental illnesses are a global concern, presenting shared opportunities to advance science across 
+international boundaries. NIMH investments in effectiveness and implementation research in low- and 
+middle-income countries are producing innovative strategies for expanding access to mental health care 
+and improving care quality and outcomes in a range of settings worldwide. Notably, several researchers 
+are taking interventions developed for low-resource settings in the global context and applying them in 
+the United States to address the tremendous burden of illness and limited health care capacity during 
+the COVID-19 pandemic. At the same time, new global opportunities are emerging to advance our 
+understanding of how genetics (or population genetics), cultural backgrounds, societal and familial 
+structures, and environmental exposures can be integrated within basic and translational mental health 
+research. Findings from this research will enhance our knowledge of mental health and illness; point to 
+new targets for better preventive and treatment interventions; and, lead to novel approaches for 
+addressing mental health needs worldwide, including those of currently underserved populations. NIMH 
+also supports research on the implementation of new and evolving tools and technologies to facilitate 
+and improve mental health screening, assessment, prediction, prevention, and treatment across 
+systems of care. International collaborations with researchers, providers, advocates, individuals living 
+with mental illness and their families, and global health and development agencies are also improving 
+NIMH’s ability to address mental illnesses in the United States, especially for those from geographically, 
+socioeconomically, and culturally diverse populations.  
+ 
+Environmental Exposures  
+Numerous factors in the environment can influence the development of mental illnesses. The 
+environment includes natural and built components, individual factors such as the microbiome, and 
+social factors such as family interactions, peer relationships, and social determinants of health. Social 
+determinants may include structural racism, housing instability, food insecurity, socioeconomic status, 
+and others. These environmental factors, which vary within and across populations and settings, can 
+affect biological systems important in regulating functions of the body and mental processes. We are 
+making significant strides toward understanding how environmental factors affect brain development 
+and shape behavior. For example, as part of the Adolescent Brain Cognitive DevelopmentSM Study (ABCD 
+Study®), which has enrolled over 10,000 children across the country, researchers are examining how 
+biology and environment interact and relate to developmental outcomes, such as physical health and 
+mental health. NIMH also continues to vigorously support efforts to study the biological and 
+psychological impacts of trauma, mechanisms of prenatal risk, and numerous other environmental 
+factors that may contribute to mental illnesses. In collaboration with the NIH Helping to End Addiction 
+Long-term® (HEAL) Initiative, NIMH supports the HEALthy Brain and Child Development (HBCD) Study to 
+understand the impact of prenatal and postnatal exposure to drugs and other adverse environmental 
+conditions on bra
+
+--- PAGE 22 matched=['Research Themes', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   19  
+ 
+Cross-Cutting Research Themes Cross-Cutting Research Themes Cross-Cutting Research Themes 
+cutting effort to reduce health threats from climate change and build health resilience in individuals, 
+communities, and nations around the world, especially among those at highest risk. 
+ 
+Comorbidities 
+Comorbidities— the co-occurrence of mental and/or other physical disorders, including substance use 
+disorders— may affect both the development and clinical course of mental illnesses through their effects 
+on basic biological processes. For example, some treatments for people with HIV may affect 
+inflammation in the CNS, metabolism, and the microbiome— factors that also impact the development 
+of mental illnesses. Examining the interactions between mental illnesses and co-occurring conditions will 
+provide additional insight into the causes and facilitators of mental illnesses, as well as provide 
+pathways to improve the provision of interventions and services to ultimately prevent and treat mental 
+illness and comorbidities and achieve better outcomes for people with mental illnesses. NIMH works 
+with other NIH institutes and centers to support research to address treatable medical comorbidities 
+linked to premature mortality associated in people with serious mental illness. For example, through the 
+NIH HEAL Initiative®, NIMH leads a portfolio of research to help improve the provision of services for 
+people with co-occurring opioid use disorder and mental disorders and/or suicide risk.  
+ 
+Translation 
+Engaging Novel Frameworks for Studying Mental Disorders. High rates of psychiatric comorbidity and 
+heterogeneity of symptoms occur when patients are characterized using solely the current diagnostic 
+categories, which rely on self-reported or observable symptoms. To extend research beyond diagnostic 
+boundaries, NIMH’s evolving Research Domain Criteria (RDoC) framework integrates many approaches 
+and levels of information to advance our understanding of mental illnesses. These levels of information 
+span from cellular to behavioral measures, with attention to developmental trajectories and the impact 
+of environmental and social factors. The RDoC framework is also well-suited to computational 
+approaches, such as those described below, which incorporate multiple multimodal sources of 
+information to improve mental health outcomes. Through the RDoC framework, NIMH encourages the 
+identification of neurobehavioral mechanisms of specific domains of function. Beyond improving 
+research sample characterization using objectively measurable factors, this approach holds promise for 
+uncovering mechanisms of mental illnesses, identifying putative therapeutic targets, and paving the way 
+for novel preventive and treatment interventions. 
+Advancing Interventions. Historically, novel prevention and treatment development has been slow, 
+expensive, and high risk. To facilitate progress across the basic-to-clinical research pipeline, NIMH 
+employs an experimental therapeutics approach to clinical trials requiring studies to define intervention 
+targets and milestones. With NIMH’s experimental therapeutics approach, studies not only evaluate the 
+clinical effect of an intervention, but also generate information about the mechanisms contributing to a 
+disorder or an intervention response. 
+
+--- PAGE 23 matched=['Research Themes', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   20  
+ 
+Cross-Cutting Research Themes Cross-Cutting Research Themes Cross-Cutting Research Themes 
+Accelerating Public Health Impact. The translation of new interventions into routine practice and 
+population-level benefits has also been far too slow. To accelerate the adoption and implementation of 
+evidence-based interventions and strategies into routine mental health care and other settings, NIMH 
+invests in studies that anticipate real-world implementation during intervention development. 
+Additionally, NIMH takes an experimental approach to testing mechanisms of effective care delivery in 
+real-world settings, engages stakeholders throughout the research process, and attends to pragmatic 
+questions about implementation like financing, scalability, and sustainability. This is especially important 
+when considering the challenges of delivering care to underserved communities and in low-resource 
+settings. 
+ 
+Computational Approaches 
+Computational approaches are aimed at developing mathematical and modeling frameworks to improve 
+the understanding, prevention, and treatment of mental illnesses. Computational approaches can allow 
+us to mechanistically describe and empirically test how high-level behavioral phenotypes emerge from 
+complex neurobiological processes at the micro-, meso-, and macro-scale levels of the brain. For 
+example, computational models can put into explicit mathematical terms testable hypotheses regarding 
+how alterations in genes might causally affect circuit function through disruptions of neuronal and 
+synaptic dynamics. Similarly, computational models can suggest how circuit dysfunction impacts neural 
+development and plasticity, and how that dysfunction manifests in behavior leading to progressive, 
+chronic disorders. In addition to modeling frameworks incorporating biophysical realism, more data-
+driven computational approaches can take advantage of large datasets, categorizing brain dysfunction in 
+ways that can lead to better diagnoses, improved biomarkers, and tailored preventive and treatment 
+interventions. Using big data and theoretical approaches in clinical research can help bridge the gap 
+between integrative multi-omics (e.g., epigenomics, transcriptomics, proteomics), neuroimaging, and 
+digital phenotyping to traverse the complex path from genomics to therapeutics. Using computational 
+approaches to assist in the development of explanatory theoretical models that integrate information 
+across diverse experimentally tested domains (such as biological, psychological, social, and cultural 
+environments; see the RDoC framework) can help define a critical path forward for understanding 
+mechanisms and advancing new treatments. Within clinical research, computational methods (e.g., data 
+mining, machine learning, predictive analytics) may also be used to analyze electronic health records or 
+other clinical data to identify modifiable risk factors, derive quantitative predictions to inform the 
+optimal timing of interventions, and evaluate the outcomes of treatment trajectories. For instance, 
+mathematical modeling approaches may predict which patients might respond best to which of the 
+many existing treatments for depression, optimizing treatment selection and speeding recovery. These 
+and other computational advances hold the promise of objective, data-driven diagnosis and treatment 
+recommendations for serious mental illnesses. NIMH is dedicated to supporting co
+
+--- PAGE 24 matched=['Research Themes', 'Strategic Plan', 'research areas'] ---
+  
+ 
+NIMH Strategic Plan for Research   21  
+ 
+Cross-Cutting Research Themes Cross-Cutting Research Themes Cross-Cutting Research Themes 
+ 
+Harnessing the Power of Data 
+Advances in data acquisition and the availability of aggregated, harmonized datasets, coupled with new 
+computational modelling tools like machine learning, are revolutionizing the efficiency with which 
+researchers turn data into knowledge. These advances will ultimately help us better understand the 
+complex factors affecting prevention and treatment outcomes, and will optimize mental health care 
+quality and effectiveness. NIMH is committed to providing modernized data infrastructure for use by the 
+research community, capitalizing on advances in data science and information technology; setting 
+policies to address storing data efficiently and securely for productive and ethical data use; and, 
+connecting with the NIH data ecosystem and other data systems to make NIMH data usable to the 
+broader community, consistent with findability, accessibility, interoperability, and reusability (FAIR) 
+principles. In addition to providing the infrastructure, NIMH is working with other major mental health 
+research funders around the world to establish a set of measures (e.g., PhenX Toolkit), that all mental 
+health researchers may use as they collect data. This effort is expected to allow researchers to better 
+integrate data from different laboratories. Further, the development, validation, optimization, and 
+expansion of digital mental health tools will improve our understanding of mental illnesses in real time, 
+help track the course of illness, and improve mental health care. NIH’s Data Sharing Policy encourages 
+widespread data sharing and collaborations with experts in other areas of science, including behavioral 
+and social scientists, implementation scientists, ethicists, engineers, informaticists, and computer 
+scientists, to add significant value to research and accelerate the pace of discovery.  
+ 
+Research Workforce 
+Scientific advancement requires investment in future generations of mental health researchers. 
+Indeed, research shows that diverse teams working together and capitalizing on innovative ideas and 
+distinct perspectives outperform homogenous teams. As such, NIMH encourages investigators to 
+consider diverse perspectives in designing their investigative teams, and emphasizes the importance of 
+the diversity of perspectives across all phases of career development. 
+Training. Supporting outstanding scientists who will advance the field of mental health research is a 
+priority for NIMH. NIMH uses institutional and individual funding mechanisms to support research 
+training, education, and career development across a range of career stages from undergraduate 
+education through early stage faculty positions. The institute maintains a robust investment in the 
+career development of investigators in all priority research areas described in NIMH’s Strategic Plan for 
+Research and is committed to the inclusion of individuals who enrich the diversity of perspectives in 
+research.  
+Inclusion and Diversity. By prioritizing inclusion and diversity, NIMH remains steadfast in its 
+commitment to improving recruitment, training, advancement, and retention of researchers from 
+diverse backgrounds, including those from groups underrepresented in the biomedical and behavioral 
+
+--- PAGE 25 matched=['Research Themes', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   22  
+ 
+Cross-Cutting Research Themes Cross-Cutting Research Themes Cross-Cutting Research Themes 
+sciences, across areas of research funded by NIMH. For example, at the institutional level, NIMH 
+supports the NIH Blueprint Program for Enhancing Neuroscience Diversity through Undergraduate 
+Research Education Experiences (BP-ENDURE) that is focused on preparing undergraduates to enter and 
+successfully complete neuroscience Ph.D. programs. Likewise, NIMH participates in the Maximizing 
+Opportunities for Scientific and Academic Independent Careers (MOSAIC) effort to enhance diversity 
+within the academic biomedical research workforce by providing support and mentorship to facilitate 
+the transition of promising postdoctoral researchers from diverse backgrounds into independent faculty 
+careers in research-intensive institutions. NIMH also encourages the neuroscience community to take 
+advantage of the NIH-wide Faculty Institutional Recruitment for Sustainable Transformation (FIRST) 
+Program, supported by the NIH Common Fund. Further, NIMH is participating in the BRAIN Initiative 
+effort to support the establishment of facilities at minority-serving institutions and Institutional 
+Development Award-eligible institutions for improved access to key neuroscience research resources. 
+NIMH is also participating in an effort to evaluate the impact of the recent Plan for Enhancing Diverse 
+Perspectives (PEDP), a required element for some NIH applications to outline strategies to advance the 
+scientific and technical merit of the proposed project through expanded inclusivity. In addition, NIMH 
+offers several funding opportunities and supplement programs to enhance the diversity of the 
+workforce. To better understand barriers and facilitators to achieving racial and ethnic equity in funding 
+success, NIMH also hosted virtual listening sessions during which extramural researchers shared their 
+experiences navigating the NIH grant application process.  
+
+--- PAGE 26 matched=['Goal 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   23  
+ 
+Goal 1 Goal 1 Goal 1 
+Goal 1: Define the Brain Mechanisms Underlying Complex Behaviors 
+Through basic science, researchers endeavor to answer fundamental questions about the mechanisms 
+(e.g., brain, behavioral, environmental, psychosocial) that contribute to cognition, perception, 
+motivation, and social behavior. We have seen extraordinary progress in basic science over the past 
+several years, including in neuroscience. New tools have enabled precise mapping and the ability to 
+modulate brain circuits across model systems, from cells in a dish to the human brain. New techniques 
+have improved the resolution of structural and functional imaging in humans. New sensor technologies 
+are transforming the study of behavior. These new tools, techniques, and technologies will help us piece 
+together the many complex connections among genes, the brain, and behavior. Researchers are also 
+exploring how these aspects of mental function become altered in mental illnesses. 
+The vast number of cells and connections in the brain make understanding its function in complex 
+behavior particularly challenging. New tools and technologies are helping us create a detailed map of 
+the circuits involved in complex behavior, including those associated with mental illnesses. For example, 
+to address the range of individual variation in brain circuits, the Human Connectome Project provided a 
+reference atlas of neuronal connectivity— or a connectome— of 1,200 healthy brains. Researchers are 
+now mapping long-distance brain connections and looking at their variability in unprecedented detail. 
+These efforts are underway across development and across mental illnesses.  
+The genomics revolution, fueled by technological advances, has revealed insights into the genetic 
+architecture of mental illnesses. Over the past several years, large, replicated genomic studies have 
+revealed many common and rare variants associated with the most heritable conditions (e.g., 
+schizophrenia, bipolar disorder, autism). We are also making strides in identifying the genetic and 
+nongenetic factors that control gene expression and play other roles in mental health and illness. While 
+we have gone from few clues to many, we still cannot fully explain the root causes of mental illnesses. 
+Researchers have begun the task of sorting through the complex patterns of genomic variation and 
+environmental moderators to define and elucidate how these variations confer risk and resilience. We 
+now know hundreds of identifying locations in the genome where genetic variation raises risk for 
+psychiatric disorders. Because most participants in these studies have been of European descent, the 
+findings may not be applicable to all. NIMH is expanding efforts to increase the diversity of the study 
+participants across our genomics research to better benefit people of all racial and ethnic groups. 
+Researchers are also exploring the role of nongenomic factors (e.g., the environment, experience, the 
+microbiome) and their impact on the risk for mental illnesses, including their impact on gene expression.  
+We seek to understand how the interplay of molecular, cellular, circuit-level, genetic, and environmental 
+factors influence the development of mental illnesses through animal and human studies. 
+Multidisciplinary approaches integrating statistics, mathematics, physics, computer science, and 
+engineering will help us begin to explain how our brain predic
+
+--- PAGE 27 matched=['Goal 1', 'Objective 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   24  
+ 
+Goal 1 Goal 1 Goal 1 
+The following Objectives further define this Goal:   
+ 
+Objective 1.1: Elucidate the brain mechanisms underlying cognitive, affective, and 
+social processes 
+To truly transform our understanding of mental illnesses, we need to identify the roles of all brain cell 
+types and circuits in the myriad aspects of mental processes. Knowing how brain cells work together in 
+circuits to drive cognitive, affective, and social processes will inform future circuit-based preventive and 
+treatment interventions. New tools and techniques that span units of analysis (e.g., genes, molecules, 
+cells, circuits, physiology, behavior) will transform our understanding of the brain, thus fostering our 
+understanding of mental illnesses.  
+To better elucidate the brain mechanisms underlying cognitive, affective, and social processes, NIMH 
+will support research that employs the following Strategies: 
+ 
+Strategy 1.1.A: Characterizing the genomic, molecular, cellular, and circuit components 
+contributing to brain organization and function 
+Interest areas include: 
+1. Determining the phenotypic properties and dynamic interactions of neurons, astrocytes, 
+oligodendrocytes, microglia, immune cells, and other cell types and how they contribute to 
+brain organization and function. 
+2. Exploring the genomic, molecular, and physiological factors in cell-to-cell variation and 
+determining the functional consequences of this variation. 
+3. Applying advanced neuroanatomical and functional approaches to map neural circuits at micro-, 
+meso- and macro-scales. 
+ 
+Strategy 1.1.B: Identifying the developmental, functional, and regulatory mechanisms relevant 
+to cognitive, affective, and social domains, across units of analysis 
+Interest areas include: 
+1. Elucidating the developmental processes that lead to the establishment of functional brain 
+networks subserving these domains, including modifying factors (e.g., genomic, experiential) 
+affecting these trajectories. 
+2. Identifying the mechanisms that mediate normal cellular communication and plasticity at the 
+level of molecular control, signal transduction, synapses, circuits, and/or behavior. Examining 
+how alterations of these mechanisms may disrupt function; such mechanisms may involve non-
+neural components (e.g., immune system, microbiome, blood-brain barrier, vasculature).  
+3. Developing and validating experimentally grounded theories for how the brain computes within 
+these domains across spatiotemporal scales and levels of neurobiological abstraction (e.g., 
+coordinated neural activity patterns and network state changes).  
+
+--- PAGE 28 matched=['Goal 1', 'Objective 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   25  
+ 
+Goal 1 Goal 1 Goal 1 
+4. Applying novel behavioral assays of the domains that are causally linked to specific mechanisms 
+at multiple units of analysis (e.g., genetic, molecular, cellular, circuit, physiological, behavioral, 
+systems). These approaches will be prioritized over studies relying on traditional behavioral 
+tests that presume congruence with human symptoms of mental illnesses and do not give 
+insight into the function of the circuit(s) under investigation.  
+5. Evaluating the preclinical utility of modifying cellular, synaptic, or circuit function for therapeutic 
+benefit. 
+ 
+Strategy 1.1.C: Generating and validating novel tools, techniques, and measures to quantify 
+changes in the activity of molecules, cells, circuits, and connectomes 
+Interest areas include: 
+1. Developing novel assays that can be used to interrogate key regulators of cellular 
+communication using in situ and circuit-based models for screening, target discovery, and 
+development of novel probes of cell function. 
+2. Advancing human cell-based assays using induced pluripotent stem cells (iPSCs) for studying the 
+molecular factors in mental illnesses, with an emphasis on optimizing robustness, scalability, 
+reproducibility, and fidelity to in vivo human cell phenotypes, maturation, three-dimensional 
+organization, and/or circuit function. 
+3. Developing novel, age-appropriate imaging assays with higher spatial and temporal resolution 
+for visualization and analyses of brain structure, maturation, connectivity, and function, with 
+particular emphasis on advancing real-time measurement approaches. 
+4. Developing innovative computational tools for the analysis and interpretation of neural activity 
+including single unit, local field potentials, and other electrophysiological temporal dynamic 
+patterns. 
+5. Developing and validating novel, objective physiological and behavioral measures as research 
+tools to assess synaptic plasticity and circuit function in experimental systems, and as assays for 
+assessing therapeutic targets in humans.  
+6. Advancing objective, quantitative assays to track, manipulate, and analyze behavior at high 
+temporal resolution in a range of species, ages, and settings, and across multiple modalities and 
+systems.   
+7. Developing noninvasive assays for interrogating and manipulating brain circuit function for 
+therapeutic purposes. 
+8. Advancing novel assays to develop biomarkers of disease and for therapeutic discovery. 
+ 
+Objective 1.2: Identify the genomic and non-genomic factors associated with 
+mental illnesses  
+A full understanding of the multifaceted contributors to risk for mental illnesses requires examination of 
+genomic, epigenomic, and other factors, including the environment and experience, worldwide. 
+Understanding how these factors contribute to adaptive and maladaptive behaviors, mental function 
+
+--- PAGE 29 matched=['Goal 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   26  
+ 
+Goal 1 Goal 1 Goal 1 
+and dysfunction, and mental illnesses is critical for developing improved diagnostics and interventions 
+that are effective for diverse individuals and populations. The genetic architecture of mental illnesses is 
+extraordinarily complex. While the field of genomics has achieved remarkable advances in the past few 
+years, the exact mechanisms that place certain individuals and populations at higher risk than others 
+remain unknown. We need comprehensive approaches to understand genomic and non-genomic risk 
+factors, and such investigations must consider diverse populations from around the world. To facilitate 
+the transition of knowledge to practice, we need novel study designs, advanced genomic technologies, 
+and innovative statistical and bioinformatic methods. These approaches will help us to revolutionize the 
+analysis and interpretation of genetic associations and will speed the transition of this knowledge to 
+practice. 
+To more effectively identify the genomic and non-genomic factors associated with mental illnesses, 
+NIMH will support research that employs the following Strategies:  
+ 
+Strategy 1.2.A: Discovering gene variants and other genomic elements that contribute to the 
+development of mental illnesses in diverse populations 
+Interest areas include: 
+1. Performing large, well-powered, whole genome and exome-, epigenome-, and other “ome”-
+wide studies in appropriate tissues. 
+2. Elucidating genetic architecture and heritability across the full allele frequency spectrum. 
+3. Mapping and identifying causal variants within risk loci. 
+4. Analyzing co-heritability and shared genetic risk architecture using cross-trait analyses. 
+5. Collecting and genomically characterizing ancestrally diverse cohorts. 
+ 
+Strategy 1.2.B: Advancing our understanding of the complex etiology of mental illnesses using 
+molecular epidemiologic approaches that incorporate individual genetic information in large 
+cohorts 
+Interest areas include: 
+1. Conducting robust, well-powered, and unbiased genome-wide x phenome-wide association 
+studies by leveraging large-scale genetic and phenotypic/exposure data from biobanks, health 
+systems, and other population-scale cohorts.  
+2. Conducting Mendelian randomization studies that identify modifiable exposures mediating or 
+mitigating risk for mental illnesses. 
+3. Developing epidemiologic studies that incorporate individual polygenic risk scores, and other 
+genetic markers of risk, and leveraging existing large, population-based cohorts, including 
+ethnically and ancestrally diverse cohorts, registries, and/or health systems to conduct analyses 
+that advance understanding of the complex etiologies, trajectories, comorbidities, and 
+treatment responses of severe mental illnesses. 
+ 
+
+--- PAGE 30 matched=['Goal 1', 'Objective 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   27  
+ 
+Goal 1 Goal 1 Goal 1 
+Strategy 1.2.C: Elucidating how human genetic variation affects the coordination of molecular, 
+cellular, and physiological networks supporting higher-order functions and emergent properties 
+of neurobiological systems 
+Interest areas include: 
+1. Creating human molecular reference maps from defined cell types and circuits.  
+2. Elucidating the relationship between genomic features, such as gene regulatory elements and 
+chromatin structure, and the spatiotemporal dynamics of gene and protein expression in 
+healthy individuals and those with mental illnesses. 
+3. Assembling reference, multi-omic molecular maps (e.g., epigenomic, transcriptomic, proteomic) 
+across development, regions, and cell types of the human brain.  
+4. Mapping quantitative trait loci (e.g., expression, methylation, histone acetylation, chromatin 
+accessibility) across development, regions, and cell types of the human brain. 
+5. Identifying the developmental periods, signaling pathways, cell types, and neural systems 
+driving disease pathogenesis in humans. 
+ 
+Strategy 1.2.D: Developing novel tools and techniques for the analysis of large-scale genetic, 
+multi-omic data as it applies to mental health 
+Interest areas include: 
+1. Increasing the power and reliability of association studies including whole genome, exome-, 
+epigenome-, phenome-, and other “ome”-wide studies.  
+2. Integrating multi-omic datasets from tissues and single cells.  
+3. Integrating phenotype data spanning multiple units (e.g., genetic variation, gene expression, 
+electrophysiology, neuroimaging, behavior).  
+4. Focusing on robust genome-wide and brain-wide association studies, genome-wide x phenome-
+wide interaction studies, and genome-wide epistasis detection. 
+ 
+Objective 1.3: Identify and characterize the neural circuit mechanisms 
+contributing to human behavior and their disruption in mental illnesses  
+Most of what we currently know about human brain circuits comes from studying healthy functioning. 
+To understand changes in neural structure and function related to mental illnesses, we must apply the 
+research tools we have in hand to characterize the neural circuits implicated in mental illnesses across 
+diverse populations. It is becoming increasingly possible to map both proximal and distal neural 
+connectivity in the brain, enabling an understanding of the relationships between neuronal structure 
+and function at the systems level. To develop comprehensive understanding of neural connectivity in 
+mental illnesses, we must extend existing structural and functional mapping to the cellular level. 
+Connectomic studies of the brain are bringing us innovative tools and technologies. Emerging 
+developments include robust molecular markers for synapses, new tracers for identifying circuit inputs 
+and outputs, high density electrode arrays, and novel microscopy techniques to reconstruct brain 
+
+--- PAGE 31 matched=['Goal 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   28  
+ 
+Goal 1 Goal 1 Goal 1 
+circuits. New technologies are faster, less expensive, and scalable for anatomic reconstruction of neural 
+circuits at all biological scales. Focused studies of circuit disruption in mental illnesses will be essential to 
+translate knowledge gained from these technologies into novel targets for therapeutics.  
+To better characterize and analyze the neural circuit mechanisms involved in mental illnesses, NIMH will 
+support research that employs the following Strategies:  
+ 
+Strategy 1.3.A: Utilizing connectomic approaches to identify brain networks and circuit 
+components that contribute to various aspects of mental function and dysfunction 
+Interest areas include: 
+1. Conducting brain-wide analyses to determine which neural circuits drive network patterns 
+associated with a pathology. 
+2. Characterizing network components at the molecular, single-cell, morphological, 
+microenvironmental, or circuit level that contribute to risk for mental illnesses. 
+3. Conducting connectomic studies during brain development, from prenatal to late adulthood. 
+ 
+Strategy 1.3.B: Determining through brain-wide analysis how changes in the physiological 
+properties of molecules, cells, and circuits contribute to mental illnesses 
+Interest areas include: 
+1. Investigating how molecular, cellular, and/or circuit-level changes in the brain, or changes in 
+response to environmental factors affect the coordination of neural activity patterns (very large-
+scale samples) during cognitive function, emotional regulation, and social cognition at one or 
+more stage of development, from prenatal to late adulthood. 
+ 
+Strategy 1.3.C: Developing molecular, cellular, and circuit-level biomarkers of impaired neural 
+function in humans  
+Interest areas include: 
+1. Validating translatable biomarkers using analysis of neural circuits; combining approaches, such 
+as those that assess or detect synaptic integrity, plasticity, and function; as well as immune 
+signaling activity and cells that affect neural circuits. 
+2. Integrating molecular and genomic data from large-scale multi-omic studies with connectomics 
+and functional approaches in humans to formulate multilevel hypotheses regarding circuit 
+function and dysfunction in mental illness. 
+3. Testing the causal nature of circuit-based hypotheses in animal, computational, and human 
+experimental systems. 
+ 
+
+--- PAGE 32 matched=['Goal 1', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   29  
+ 
+Goal 1 Goal 1 Goal 1 
+Strategy 1.3.D: Developing innovative technologies— including new imaging, computational, 
+electrophysiological, pharmacological, and genetic tools— to interrogate and modulate circuit 
+activity and structure altered in mental illnesses 
+Interest areas include: 
+1. Creating or improving methods to investigate the connectivity of brain networks, at total or very 
+large scale and during one or more stages of development that are relevant to mental illnesses, 
+including age-appropriate, novel imaging tools for visualization and analyses of brain structure 
+and function. 
+2. Pioneering strategies to use circuit-based technologies to identify circuit-specific intervention 
+targets. 
+3. Developing novel technologies to modulate specific circuit elements with the potential for 
+translation into humans. 
+
+--- PAGE 33 matched=['Goal 2', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   30  
+ 
+Goal 2 Goal 2 Goal 2 
+Goal 2: Examine Mental Illness Trajectories Across the Lifespan 
+Many mental illnesses first present in childhood, adolescence, or young adulthood, yet mental illnesses 
+are likely the late behavioral manifestations of changes that began years earlier. These early alterations 
+may influence the course of brain and behavioral development and establish the trajectories of mental 
+illnesses. To better understand these trajectories, we need to develop a comprehensive picture of 
+typical and atypical brain and behavioral development across the lifespan. At the same time, novel 
+biomarkers and behavioral indicators hold promise for identifying who is at risk at the earliest possible 
+point, when development or aging is going off course, or which preventive and treatment interventions 
+will produce the best outcomes for which individuals. We also need to understand the factors 
+contributing to risk of, resilience to, and protection from development of mental illness.  
+Multi-level approaches will be critical in clarifying the complex relationships between biological and 
+behavioral processes, social determinants of health, and environmental influences. At the level of 
+individual factors, examining biological and behavioral processes across the lifespan will transform our 
+understanding of the neurodevelopmental origins and progression of mental illnesses. Research to 
+identify the earliest markers or signs that distinguish typical from atypical brain and/or functional 
+development will be instrumental in predicting illness trajectories and outcomes decades later. NIMH 
+encourages deep phenotyping and integrative approaches to correlate developmental patterns across 
+multiple levels of investigation (e.g., molecules, cells, circuits, networks, behavior).  
+At the level of contextual factors, examining how theses social determinants and environmental factors 
+impact risk and resilience to mental illnesses, burden of disease, access to care, and mental health 
+outcomes will advance our understanding of mental health disparities. NIMH encourages community-
+engaged approaches to help elucidate the mechanisms by which social determinants of health and 
+environmental factors impact mental health and ensure that the identification and interpretation of 
+findings reflect the diverse priorities and experiences of populations participating in research.  
+As we chart developmental and aging trajectories across the lifespan, it is important to identify sensitive 
+periods— critical timepoints to intervene to reduce risk for and to prevent the onset of mental illnesses 
+and improve outcomes. These sensitive periods may be meaningful because they represent 
+developmental stages of rapid brain maturation, physiological or epigenetic processes, and significant 
+life experiences. Interpreting trajectories and identifying sensitive periods for intervention will be 
+enhanced through a life course perspective that considers developmental events as they are impacted 
+by the complex interplay of individual and contextual factors. Unraveling these complexities will be key 
+to developing novel therapeutic and prevention strategies that hold the promise of reducing both the 
+burdens of mental illness and disparities in mental health outcomes. 
+The following Objectives further define this Goal: 
+
+--- PAGE 34 matched=['Goal 2', 'Objective 2', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   31  
+ 
+Goal 2 Goal 2 Goal 2 
+ 
+Objective 2.1: Characterize the trajectories of brain, cognitive, affective, and 
+behavioral development across the lifespan and in diverse populations 
+Across the lifespan, the brain and the cognitive, behavioral, and affective functioning it supports 
+undergo dramatic changes, in part as a result of myriad experiences. Yet, our understanding of how 
+biology, psychological development, and experience interact to affect brain development— and, 
+ultimately, social, behavioral, medical, and other outcomes— is still incomplete. Discoveries through 
+basic and translational research further our fundamental understanding of how mental illnesses develop 
+early or later in life and through the course of illness. By characterizing the trajectories of typical and 
+atypical brain, cognitive, affective, and behavioral development across the lifespan and in diverse 
+populations and contexts, we can identify factors that protect from, increase risk for, or give rise to 
+mental illnesses. Greater understanding is needed to determine periods when the brain is at increased 
+sensitivity to biological and environmental influences and optimal periods for intervention. Exposures 
+during sensitive periods may include viruses and toxins; stressful life events or adversity; environmental 
+factors such as light, temperature, or noise; and, social factors such as violence, discrimination, or 
+harassment based on race, ethnicity, sexual orientation, or gender. It is important to also consider the 
+dynamic and non-linear nature of development and aging, account for cumulative effects of risk and 
+protective factors, simultaneously evaluate multiple domains of function, and incorporate life course 
+perspectives. 
+To better understand developmental and aging trajectories and the progression of mental illnesses, 
+NIMH will support research that employs the following Strategies: 
+ 
+Strategy 2.1.A: Elucidating the mechanisms contributing to the trajectories of brain 
+development and behavior 
+Interest areas include: 
+1. Characterizing the interdependence and functional development of simultaneously occurring, 
+yet unevenly progressing, trajectories in different brain regions and circuits across the lifespan.  
+2. Determining the biological (e.g., epigenetic processes, neuroinflammation, allostatic load) and 
+psychological mechanisms by which experience, social determinants, and environment affect 
+neural and behavioral development.  
+3. Examining individual differences and the inter-relatedness of biological, behavioral, and 
+environmental (including social, cultural, and structural) contributors to heterogeneity in risk for 
+and resilience from mental illnesses across the lifespan, trajectories of illnesses, prevention, and 
+treatment interventions. Studies may use multi-level modeling to incorporate an intersectionality 
+framework in mental health research. 
+4. Developing novel statistical, computational, and analytical techniques to integrate behavioral, 
+genomic, multi-modal imaging, clinical, environmental, and other data types across repeated 
+assessments and across independent datasets. 
+
+--- PAGE 35 matched=['Goal 2', 'Objective 2', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   32  
+ 
+Goal 2 Goal 2 Goal 2 
+ 
+Strategy 2.1.B: Characterizing the emergence and progression of mental illnesses, and 
+identifying sensitive periods for optimal intervention 
+Interest areas include: 
+1. Conducting longitudinal studies that track changes in behavior, cognition, and affect; brain 
+maturation, psychosocial and physical development; and, environmental exposures, to 
+characterize the progression from early markers to subsequent impairment in domains of 
+functioning. NIMH encourages the use of large and diverse samples, adequately sampled for 
+underserved, minoritized, and underrepresented groups and with sufficient power to examine 
+mediators and moderators including structural, systemic, and interpersonal racism and 
+discrimination.  
+2. Identifying the biological mechanisms (e.g., molecular, cellular, circuit) involved in healthy and 
+dysfunctional neurodevelopmental trajectories, including processes that underlie sex and 
+gender differences in incidence, age of onset, and severity of mental illnesses. 
+3. Identifying and characterizing sensitive periods for brain, cognitive, social, and affective 
+development during which core facets of functioning (e.g., RDoC constructs, including social and 
+environmental influences) can be targeted for optimal intervention to prevent, pre-empt, 
+and/or effectively treat mental illnesses across diverse populations.  
+4. Translating knowledge about sensitive periods and their critical mechanisms to manipulate 
+developmental trajectories of neural circuits and associated behaviors, to prevent or minimize 
+disease trajectories and promote optimal outcomes, or to provide evidence to inform policies 
+directed at social and environmental determinants of health associated with mental illness risk 
+and severity. 
+ 
+Objective 2.2: Identify and understand risk factors, biomarkers, and behavioral 
+indicators of mental illnesses and of intervention responses across the lifespan 
+The best time to address a mental illness is before the appearance of symptoms. Preventive 
+interventions will rely on biomarkers and other indicators that give health care providers the ability to 
+predict the onset of illness for individuals, not just populations, at risk. Currently, the mental health field 
+lacks predictors that could inform a diagnosis, guide intervention, or predict response to intervention 
+and the future course of illness. Further, understanding the mechanisms involved in risk and protective 
+factors may shed light on novel intervention targets. Targets can include molecular processes; synaptic- 
+and circuit-level regions or networks; neural systems; intrapersonal factors (e.g., psychological, 
+cognitive, emotional, behavioral); interpersonal processes; and, environmental factors. We need to 
+identify clinically useful biomarkers, behavioral indicators, and measures of social-environmental 
+exposures with high predictive value to guide the use of preventive interventions across diverse 
+populations, environments, and developmental processes.   
+To lay the foundation for predicting outcomes and optimizing preventive and treatment interventions, 
+NIMH will support research that employs the following Strategies: 
+
+--- PAGE 36 matched=['Goal 2', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   33  
+ 
+Goal 2 Goal 2 Goal 2 
+ 
+Strategy 2.2.A: Determining early risk and protective factors, and related mechanisms, to serve 
+as novel intervention targets  
+Interest areas include: 
+1. Identifying early manifestations of core functional domains (see RDoC framework) particularly 
+during infancy, early childhood, and adolescence that predict the onset and course of mental 
+illnesses. 
+2. Examining mechanisms of sequential, additive, and/or interactive combinations of risk, 
+resilience, and protective factors that span modalities and units of analysis and predict 
+progression along the illness trajectory. 
+3. Identifying novel intervention targets based on knowledge of neurobehavioral, psychological, 
+and contextual mechanisms and trajectories, and the optimal time points for intervention. 
+4. Demonstrating that putative targets are mutable and potentially modifiable. 
+5. Using qualitative and mixed methods approaches to identify risk and protective factors, 
+especially community and cultural strengths, that could be engaged by preventive and 
+treatment interventions. 
+ 
+Strategy 2.2.B: Developing reliable and robust biomarkers and assessment tools to predict 
+illness onset and course across diverse populations  
+Interest areas include: 
+1. Identifying specific, clinically relevant, developmentally, culturally appropriate, and validated 
+biomarkers of risk, onset, progression, recovery, and relapse phases of illnesses.   
+2. Using multiple modalities and standardized methods to identify robust mediators, moderators, 
+and predictors of resilience, illness course, and differential trajectories. 
+3. Harnessing computational approaches to define and refine biomarkers, and to demonstrate 
+potential clinical utility. 
+4. Capitalizing on big data and computational approaches to identify the existence and potential 
+drivers of mental health disparities and to quantify population-attributable risk for social-
+environmental factors. 
+5. Developing fine-grained, objective, and quantitative behavioral assessment tools in animals and 
+humans to evaluate dysfunction in domains relevant to the trajectories of mental illnesses.  
+6. Developing evidence-based risk assessment instruments that encompass multiple domains, are 
+sensitive to developmental and aging stages, and have high predictive power for the onset or 
+recurrence of mental illnesses. 
+7. Developing, testing, and refining tools and methodologies that integrate multimodal clinical, 
+behavioral, and biological risk factors to prevent the onset of chronic conditions and optimize 
+outcome. 
+ 
+
+--- PAGE 37 matched=['Goal 3', 'Strategic Plan'] ---
+ 
+ 
+NIMH Strategic Plan for Research   34  
+ 
+Goal 3 Goal 3 Goal 3 
+Goal 3: Strive for Prevention and Cures 
+We need to develop better ways to prevent and treat mental illnesses. To achieve that goal, we need 
+validated targets for interventions; new methods of intervention; improved methods to match 
+interventions to individuals and populations, including minoritized and marginalized communities; and, 
+strategies for scaling interventions for the greatest public health impact. A target may be a disease 
+mechanism, a factor related to a disease mechanism, or a factor that confers significant risk.  
+Appropriate targets will depend on the intervention modality and the conceptual framework underlying 
+hypotheses about its mechanism of action. Interventions may encompass prevention and treatment, 
+consider all therapeutic modalities (e.g., pharmacologic, psychosocial, behavioral, device-based, 
+biologics), and include structural changes (e.g., policies). Many protective/promotive factors are at 
+intrapersonal and interpersonal levels, such as presence of a trusted adult or cultural connectedness. 
+The socio-ecological levels beyond the individual level play a large role in risk factors that underlie 
+mental health disparities and also strength-based strategies to overcome disparities. Research should 
+strive to identify strategies for influencing modifiable factors for the development, testing, and 
+implementation of prevention and treatment interventions, including approaches that are relevant and 
+acceptable to communities impacted by health disparities. 
+Robust clinical studies require testable hypotheses on how an intervention will engage a relevant target. 
+Interventions should aim to modify targets, based on a hypothesis that such modification will result in 
+improved symptoms, behavior, or functional outcomes. Evaluating the relationship between 
+modification of targets and clinical outcomes allows us to fine-tune our understanding of mental 
+illnesses and helps us to prioritize the most promising interventions. This idea underlies NIMH’s 
+experimental therapeutics approach by which interventions serve not only as potential therapies or 
+preventive strategies, but also as probes to generate objective information about mechanisms of illness 
+and/or resilience. Through the experimental therapeutics approach, information from a research study 
+has scientific value, irrespective of the intervention’s success.   
+Precision in mental health care means that individuals and populations will receive preventive and 
+treatment interventions that are optimally matched to their characteristics and needs, across disease 
+stages, diagnostic categories, cultures, environments, and the lifespan. Optimizing interventions will not 
+only require consideration of symptoms and functioning, but also a broader consideration of etiologies, 
+intervention, preferences of patients and families, and the contexts of intervention delivery.  
+NIMH supports the development and testing of preventive as well as treatment interventions, 
+recognizing that many mental illnesses begin well before adulthood and often before symptoms appear 
+or daily functioning is impaired. We need preventive interventions for delivery early in the course of 
+illness and early in life for at-risk individuals, plus treatment interventions to mitigate mental illnesses 
+and associated dysfunction at the earliest possible opportunity. NIMH encourages the development and 
+testing of preventive
+
+--- PAGE 38 matched=['Goal 3', 'Objective 3', 'Strategic Plan'] ---
+ 
+ 
+NIMH Strategic Plan for Research   35  
+ 
+Goal 3 Goal 3 Goal 3 
+The following Objectives further define this Goal: 
+ 
+Objective 3.1: Develop new interventions based on discoveries in genomics, 
+engineering, neuroscience, and behavioral science 
+The experimental therapeutics approach focuses not only on testing whether new interventions show 
+clinical benefit, but, more importantly, on a staged approach where researchers initially establish 
+confidence that the intervention is acting on the presumed target in humans, through a dose-dependent 
+mechanism. If successful, larger clinical trials would serve to reconfirm target engagement and further 
+assess clinical impact of the potential intervention. If the interventions do not work in the expected 
+manner, negative results are likewise scientifically informative and fundamental. In the case of an 
+intervention engaging the target but failing to demonstrate a clinical effect, the target would be 
+disqualified. If the intervention fails to adequately engage the target, the intervention would be 
+disqualified from further consideration.  
+The experimental therapeutics framework also recognizes that clinical targets may differ qualitatively 
+and quantitatively throughout the life course. Therefore, there needs to be a strong scientific premise 
+for selecting clinical targets within a particular age range. Additionally, the dose of an intervention that 
+is safe and effective for target engagement may be age- or developmental stage-dependent and should 
+be systematically established in advance of efficacy testing. It is also recognized that multiple targets 
+may need to be engaged to exert beneficial outcomes. 
+To more effectively develop new preventive and treatment interventions based on novel genomic, 
+engineering, neurobiological, and behavioral advancements, NIMH will support research that employs 
+the following Strategies: 
+ 
+Strategy 3.1.A: Developing novel interventions using a mechanism-informed, experimental 
+therapeutics approach    
+Interest areas include: 
+1. Enhancing the predictive value of preclinical assays used to select targets, drug candidates, 
+circuit-based or cognitive/behavioral interventions, devices, and biologics for clinical 
+development.  
+2. Developing strategies to identify any missing elements in preclinical data to better inform future 
+clinical trial designs.   
+3. Identifying preventive and treatment intervention targets appropriate to an individual’s age and 
+stage of illness, and testing interventions to modify those targets to prevent or improve 
+symptoms. Putative targets should be based on scientific discoveries that advance our 
+understanding of the mechanisms and trajectories of mental resilience and illnesses. 
+4. Developing promising preventive and treatment intervention strategies that target specific 
+molecular, cellular, neural circuit, psychological, intrapersonal, and interpersonal mechanisms 
+driving core domains of cognitive, behavioral, and affective function that are disrupted in 
+
+--- PAGE 39 matched=['Goal 3', 'Objective 3', 'Strategic Plan'] ---
+ 
+ 
+NIMH Strategic Plan for Research   36  
+ 
+Goal 3 Goal 3 Goal 3 
+mental illnesses, including those that cut across diagnostic categories. Strategies may include 
+pharmacological, psychosocial, device-based, or biologic therapeutic candidates that engage the 
+target of interest. Studies may also evaluate the functional impact of target engagement and 
+off-target effects and determine the optimal dose and dosing regimen needed to achieve 
+functional impact.  
+5. Developing novel preventive interventions based on an understanding of risk and protection at 
+the level of the individual and within a developmental and environmental context, and testing 
+whether targeting proximal risk and protective factors, or intervening factors that reduce risk, 
+result in promoting health and preventing illness. 
+ 
+Strategy 3.1.B: Developing and implementing measurement strategies to facilitate mechanism-
+based intervention development and testing   
+Interest areas include: 
+1. Developing and validating quantitative behavioral and neurophysiological measures of target 
+engagement in humans and animals as translational assays linked to functional domains 
+disrupted in and across mental illnesses. 
+2. Developing and optimizing reliable and objective measures of target engagement and 
+intervention on brain (molecular, cellular, circuit) function, side effects, clinical symptoms, and 
+functional outcomes that can be implemented in clinical trials. 
+3. Testing novel behavioral markers and their associated neural activity patterns as potential 
+stratification measures. Such testing might include computational and bioinformatics 
+approaches and remote sensors.  
+4. Optimizing and validating real world outcome measures, including participant-reported 
+outcomes, for use across clinical and non-clinical populations. Such measures may take into 
+account illness phase, age, sex, race, ethnicity, culture, education, socioeconomic background, 
+and other factors. 
+5. Developing and assessing novel mobile technology and digital health tools to enable objective 
+measurement of behavior and intervention effects on symptom expression, functional 
+outcomes, and quality of life in naturalistic environments.  
+6. Developing valid proxy measures or markers that are relatively brief and cost-effective for use in 
+outcomes research. 
+7. Applying quantitative methods, algorithms, and metrics to assess the value and efficiency of 
+intervention strategies. 
+ 
+Objective 3.2: Develop strategies for tailoring existing interventions to optimize 
+outcomes 
+Clinical trials have traditionally focused on diagnostic status and symptom severity. Inattention to the 
+complex topography of intervention targets, and to individual differences in psychopathology and 
+intervention needs and preferences, can limit the value of findings and their potential uptake in routine 
+
+--- PAGE 40 matched=['Goal 3', 'Strategic Plan'] ---
+ 
+ 
+NIMH Strategic Plan for Research   37  
+ 
+Goal 3 Goal 3 Goal 3 
+practice. Strategies should focus on functional outcomes, considered within the context of an 
+individual’s development stage, environment, and culture.  
+Personalized mental health interventions mean that people should receive preventive and treatment 
+interventions optimally matched to their needs. Optimizing interventions and technologies will not only 
+require consideration of symptoms, phases of illness, and functioning, but also a broader consideration 
+of genetic, developmental, psychosocial, cultural, and environmental factors, and functional deficits and 
+needs. Optimal care will also require consideration of the characteristics of population stratification or 
+the candidate interventions and characteristics of providers and settings. Efficient research designs are 
+needed to examine approaches for optimizing interventions for individuals, families, communities, 
+populations, and settings. 
+To better tailor existing interventions to optimize outcomes, NIMH will support research that employs 
+the following Strategies: 
+ 
+Strategy 3.2.A: Investigating personalized intervention strategies across disease progression 
+and development  
+Interest areas include: 
+1. Investigating heterogeneity in, and mechanisms of, response to existing efficacious preventive 
+and treatment interventions to inform personalized interventions that address specific 
+outcomes.  
+2. Investigating strategies for sequencing or integrating interventions that are optimal for 
+individuals in the context of phases of disease progression, stages of development, and other 
+characteristics.  
+3. Establishing the safety and efficacy of efficacious therapeutic interventions developed for adult 
+populations in children and the elderly, as well as women at various phases of the reproductive 
+cycle (including menarche, the menstrual cycle, all stages of pregnancy, and menopause), while 
+testing targets, target engagement, and/or biomarkers of efficacy specific to these populations. 
+4. Running prospective studies of known efficacious interventions to identify moderator variables 
+and objective biomarkers, digital phenotypes, composite biomarkers, and/or multi-modality 
+derived biotypes.  
+5. Developing multi-modal intervention strategies that combine the simultaneous application of 
+established or novel pharmacological, psychosocial, biologic, and/or neuromodulation 
+interventions to selectively access specific therapeutic targets through synergistic action. 
+ 
+Strategy 3.2.B: Developing and refining computational approaches and research designs that 
+can be used to inform and test personalized interventions  
+Interest areas include: 
+1. Developing and refining research methods that can be used to advance personalized 
+interventions, including computational algorithms for prescriptive approaches and innovative 
+trial designs.  
+
+--- PAGE 41 matched=['Goal 3', 'Objective 3', 'Strategic Plan'] ---
+ 
+ 
+NIMH Strategic Plan for Research   38  
+ 
+Goal 3 Goal 3 Goal 3 
+2. Reanalyzing or conducting meta-analyses using individual or aggregated clinical trials, patient 
+registries, electronic health records, or other existing clinical datasets to identify moderators 
+that might serve as tailoring variables for interventions.  
+3. Applying innovative computational approaches (e.g., machine learning, artificial intelligence, 
+pattern classification techniques, predictive analytics) to multiple streams of data (e.g., routinely 
+collected standardized measures in electronic health records, sensor-based data, social 
+media/device use metrics, community-level data) using existing data sources to inform targets 
+and timing for interventions and to facilitate clinical decision-making. 
+4. Developing and using innovative trial designs and data collection strategies to test personalized 
+strategies that incorporate tailoring variables (e.g., clinical data, biomarkers, behavioral markers 
+derived from passive sensing of naturalistic behaviors, patient response history) into participant 
+assignment. 
+5. Promoting research designs that address the needs of underserved, minoritized, and 
+marginalized groups. Such studies may include computational approaches that address biases in 
+the data used to develop models (e.g., systemic under diagnosis in certain racial or ethnic 
+groups) and use gold standard data that are diverse, appropriately over-sampled for minoritized 
+groups, and that do not train the model to perpetuate existing health disparities. 
+ 
+ 
+Objective 3.3: Test interventions for effectiveness in community practice settings 
+Effectiveness research aims to generate information about the implementation of interventions and 
+services in real-world settings. Effectiveness research is most useful for informing practice or policy 
+decisions when it addresses a condition that has substantial public health significance; when it justifies 
+the practical benefit of the intervention over existing approaches; when it is conducted in diverse, 
+representative populations and contexts; when interventions are potentially scalable and could be 
+disseminated into current practice; and, when it assesses a broad array of stakeholder-relevant 
+outcomes. 
+Effectiveness research is best implemented through efficient and innovative platforms and designs that 
+advance treatment personalization in community settings. Deployment-focused models of intervention 
+and services research, which consider the key characteristics of the settings and providers where 
+interventions and services will be implemented, are critical. Consistent with the NIMH experimental 
+therapeutics approach to intervention development and testing, there is a need for effectiveness trials 
+that contribute to our overall understanding of intervention change mechanisms. Not only are these 
+effectiveness trials beneficial when they test the impact of interventions on clinical endpoints; they are 
+beneficial when they explicitly examine whether the intervention engages the targets that mediate the 
+clinical benefit. 
+To better test intervention effectiveness in community practice settings, NIMH will support research 
+that employs the following Strategies: 
+ 
+
+--- PAGE 42 matched=['Goal 3', 'Strategic Plan'] ---
+ 
+ 
+NIMH Strategic Plan for Research   39  
+ 
+Goal 3 Goal 3 Goal 3 
+Strategy 3.3.A: Developing and testing approaches for adapting, combining, and sequencing 
+interventions to achieve the greatest impact on people’s lives and functioning  
+Interest areas include: 
+1. Developing and testing approaches for implementing new indications and developing and 
+testing adaptations or augmentations of evidence-based interventions when research suggests 
+that a moderator or negative prognostic factor can be targeted to improve response 
+substantially for a readily identifiable refractory subgroup. 
+2. Testing integrated and sequenced approaches to optimize effectiveness and safety, while 
+minimizing unnecessary or off-label use of devices or psychotropic medications among children, 
+adolescents, and adults.  
+3. Developing and testing broadly relevant preventive/early interventions that target shared 
+modifiable risk and protective factors and/or key domains of functioning (e.g., emotion 
+regulation, cognitive systems, social processes) and thereby change life trajectories and reduce 
+risk for multiple mental illnesses. 
+4. Focusing on strategies that address the needs of individuals and populations at risk for 
+relapse/recurrence and manage chronic disorders (e.g., post-acute phase interventions/service 
+strategies that are matched to the stage of illness both in terms of the goals and approaches to 
+maximize the chances of complete recovery and sustained remission). 
+5. Developing and testing approaches that employ mobile health (mHealth) and other emerging 
+technologies to boost the effectiveness of evidence-based interventions and to monitor health.  
+6. Examining when and how social determinants of health moderate intervention outcomes and 
+identifying opportunities to implement interventions that target modifiable determinants.   
+7. Using community-engaged research approaches to ensure that mental health interventions align 
+with the needs of underserved, minoritized, and marginalized populations; that community 
+stakeholders are involved in all phases of research; and, that community-based intervention 
+studies employ rigorous designs to address health disparities questions.  
+ 
+Strategy 3.3.B: Conducting efficient pragmatic trials that employ new tools to rapidly identify, 
+engage, assess, and follow participants in the context of routine care and other settings 
+Interest areas include: 
+1. Conducting effectiveness trials that leverage practice-based research and other research 
+investments to inform intervention development and increase the efficiency and relevance of 
+effectiveness research, including identifying targets and optimal timing for intervention.  
+2. Supporting refinement of preventive and treatment interventions for mental illnesses, while 
+capitalizing on efficiencies to facilitate participant recruitment and data collection. 
+3. Supporting practice-based research aimed at refining and testing efficacious preventive 
+interventions (including universal, selective, indicated, and tiered approaches), so that they are 
+scalable and can be sustainably implemented in settings (e.g., primary care, schools, 
+communities) where preventive services are delivered to youth. 
+4. Externally validating practice-based research across diverse populations and contexts to 
+enhance the relevance and translation potential of trial results. 
+
+--- PAGE 43 matched=['Goal 3', 'Strategic Plan'] ---
+ 
+ 
+NIMH Strategic Plan for Research   40  
+ 
+Goal 3 Goal 3 Goal 3 
+ 
+Strategy 3.3.C: Enhancing the practical relevance of effectiveness research via deployment-
+focused, hybrid effectiveness-implementation studies  
+Interest areas include: 
+1. Encouraging deployment-focused intervention and service models and effectiveness testing that 
+consider the perspective of relevant stakeholders and key characteristics of intended 
+intervention settings, to increase the likelihood that the interventions/services are feasible and 
+scalable, and the research results will have utility for end users.  
+2. Emphasizing hybrid effectiveness-implementation research that goes beyond examining the 
+effect of interventions on symptomatic or functional outcomes and designing studies to address 
+questions regarding how client-, provider-, community-, and organizational-level factors impact 
+clinical outcomes, implementation, and scalability of research-generated interventions. 
+3. Encouraging hybrid effectiveness-implementation trials across diverse settings to identify 
+setting characteristics (e.g., workforce capacity, case mix) that impact intervention delivery and 
+test strategies to sustain intervention effectiveness and quality of implementation in diverse 
+settings.   
+4. Examining novel applications of technology that can generalize across indications, target 
+populations, and operating platforms to facilitate the delivery of interventions and enhance 
+their reach and therapeutic value.
+
+--- PAGE 44 matched=['Goal 4', 'Objective 4', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   41  
+ 
+Goal 4 
+Goal 4: Advance Mental Health Services to Strengthen Public Health  
+Through mental health services research, investigators seek generalizable strategies for increasing 
+access to and continuity with evidence-based interventions, fostering high quality equitable care, and 
+improving clinical and recovery outcomes for millions of people with mental illnesses. To increase the 
+public health impact of services studies, investigators test ways to develop or adapt, implement, scale-
+up, and sustain effective service delivery strategies and interventions for varied populations across 
+multiple service and community settings in a cost-effective manner. This work requires new research 
+designs, measures, and statistical approaches for evaluating system-wide interventions and measuring 
+population-level effects. Increasingly, stakeholder input is sought to improve the reach and sustainability 
+of evidence-based practices. New models of health care financing and delivery of care, along with 
+evolving technologies such as electronic health records, health informatic systems, and multipurpose 
+mobile computing devices, present unique opportunities for conducting deployment-focused services 
+research in real-world settings. Such research may help to improve mental health care by determining 
+the effectiveness of service strategies and optimizing the organization and sustained delivery of 
+evidence-based preventive and treatment interventions; speeding the implementation of research-
+based innovations in community settings; and, ultimately ensuring optimal outcomes for individuals at 
+risk for and affected by mental illnesses, particularly those from underserved communities and 
+underrepresented minoritized groups.  
+The following Objectives further define this Goal: 
+ 
+Objective 4.1: Improve the efficiency, effectiveness, and reach of mental health 
+services through research  
+Practice-based research, conducted within primary, specialty, and non-traditional health care and other 
+community settings, is uniquely suited to address questions concerning clinical epidemiology; access to 
+care, quality, effectiveness, and continuity of services; and, clinical, functional, and societal outcomes 
+associated with mental health interventions. Weaving systematic data collection into routine care is an 
+efficient means for capturing information about clinical populations, provider behavior, system-level 
+performance, and outcomes for key subgroups. In addition, NIMH recognizes a need for more research 
+on the impact of various financing strategies to ensure care for all, especially children and adolescents at 
+risk for and with developmental precursors of mental illnesses and people with serious mental illness, 
+neurodevelopmental conditions, and complex health needs. 
+To test approaches for improving the efficiency, effectiveness, and reach of mental health services, 
+NIMH will support research that employs the following Strategies: 
+ 
+
+--- PAGE 45 matched=['Goal 4', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   42  
+ 
+Goal 4 
+Strategy 4.1.A: Employing assessment platforms within health care and other relevant systems 
+to accurately assess the distribution and determinants of mental illnesses and to inform 
+strategies for improved services  
+Interest areas include: 
+1. Examining mental illness prevalence, service use, intervention response, and relapse events via 
+data from large, diverse, and representative population samples or practice-based research 
+networks, to identify new opportunities for individual-, provider-, organizational-, community-, 
+or system-level interventions.  
+2. Promoting data-driven approaches for improving screening and detection of low base-rate 
+events (e.g., suicidal behavior, first episode psychosis); monitoring real-time trends in incidence, 
+prevalence, and severity; and, identifying novel service delivery targets for preventive 
+interventions or treatment engagement.   
+ 
+Strategy 4.1.B: Optimizing real-world data collection systems to identify strategies for 
+improving access, quality, effectiveness, and continuity of mental health services  
+Interest areas include: 
+1. Developing pragmatic, valid, and reliable measures of engagement, intervention fidelity and 
+quality, and outcomes that can be applied at the person, clinic, system, community, and/or 
+population level to advance measurement-based care. 
+2. Comparing performance feedback methods and quality improvement processes for adoption 
+across a range of systems and age groups to advance the principles of learning health care. 
+3. Applying computational modeling and data analytics to electronic health records, administrative 
+claims data, and information from other sources to study mental health needs, social 
+determinants, and services over time, and to identify mutable targets for improving service 
+access, delivery, quality, and outcomes. 
+ 
+Strategy 4.1.C: Comparing alternative financing models to promote effective and efficient care 
+for individuals with serious emotional disturbance and serious mental illness 
+Interest areas include: 
+1. Comparing alternative financing mechanisms that promote high quality, clinically effective, 
+affordable, and efficient mental health care across settings and populations and discourage low-
+value services. 
+2. Optimizing public and commercial financing mechanisms that cover integrated care packages for 
+individuals with complex needs (e.g., combination psychopharmacology, psychotherapy, 
+rehabilitative therapy, care coordination interventions). 
+3. Studying the impact of national, state, provincial/county-level, or other health care system rules 
+and regulations on participation in provider reimbursement and/or waiver programs. 
+4. Understanding the role of financing and economic factors on developing and supporting a 
+mental health workforce qualified to deliver evidence-based mental health services. 
+
+--- PAGE 46 matched=['Goal 4', 'Objective 4', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   43  
+ 
+Goal 4 
+5. Understanding the impact of economic factors affecting patients’ access to and ability to seek 
+high-quality mental health services on mental health outcomes. 
+ 
+Objective 4.2: Expedite adoption, sustained implementation, and continuous 
+improvement of evidence-based mental health services 
+The delay between research findings and implementation in real-world settings is often lengthy, and 
+delayed uptake of effective mental health interventions and services is widespread. NIMH recognizes 
+the need for research to develop and test strategies that speed dissemination, adoption, and 
+implementation of evidence-based interventions and sustain these practices over time. Strategies that 
+reduce the lag between research discovery and science-driven practice could radically alter the quality 
+and outcomes of care provided for all individuals with mental illnesses. 
+To accelerate deployment-focused intervention and services research, NIMH encourages strong 
+partnerships among scientists, those who directly benefit from evidence-based approaches (e.g., service 
+users, providers, caregivers), and other public and private stakeholders. Effective partnerships with and 
+among these stakeholders are crucial for identifying salient services research questions, developing 
+realistic interventions and services, and testing adoptable, scalable, and sustainable approaches that 
+promote continuous improvement of mental health care.  
+To speed adoption, implementation, and continuous improvement of evidence-based mental health 
+services, NIMH will support studies that employ the following Strategies: 
+ 
+Strategy 4.2.A: Strengthening partnerships with key stakeholders to develop and validate 
+strategies for implementing, sustaining, and continuously improving evidence-based practices 
+Interest areas include: 
+1. Conducting dissemination and implementation studies that reflect active partnerships between 
+scientists and key stakeholders across all phases of the research process. 
+2. Investigating strategies that promote rapid incorporation of practice-based research findings 
+into health and other system decision making, clinical practice guidelines, and reimbursement 
+policies for mental health services.   
+3. Addressing workforce issues related to implementation and sustainment of evidence-based 
+approaches in health care and other settings (e.g., training providers in new treatment models 
+and technologies; maintaining provider competence; involving paraprofessionals and peer 
+providers; retaining qualified providers; managing staff turnover without compromising the 
+quality of services; and, studying policies that impede or facilitate high quality care). 
+ 
+Strategy 4.2.B: Building models to scale-up evidence-based practices for use in public and 
+private primary care, specialty care, and non-traditional settings 
+Interest areas include: 
+
+--- PAGE 47 matched=['Goal 4', 'Objective 4', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   44  
+ 
+Goal 4 
+1. Examining and monitoring client, caregiver, provider, organizational-level, and community 
+factors, including social determinants of health, that affect the usability and transportability of 
+interventions and services (i.e., the degree to which the evidence-informed intervention can be 
+implemented with fidelity). 
+2. Adapting interventions and services with demonstrated effectiveness in one setting to 
+determine fit for use in other contexts such as low-resource settings or non-specialty 
+community/practice settings where mental health care is or could be delivered (e.g., primary 
+care, schools, child and adult welfare, criminal and juvenile justice settings, long-term care 
+facilities, geriatric service programs). 
+3. Employing hybrid effectiveness-implementation designs to enhance the delivery of evidence-
+based mental health practices and improve implementation outcomes (e.g., fidelity, 
+acceptability, feasibility, appropriateness, penetration, and sustainability of services within a 
+single study).  
+ 
+Strategy 4.2.C: Developing decision-support tools and technologies that increase the 
+effectiveness, implementation, and continuous improvement of mental health interventions in 
+public and private primary care, specialty care, and other settings 
+Interest areas include: 
+1. Developing and validating novel tools, smart technologies, real-time analytics, and ecologically 
+valid measures to monitor the engagement of intervention targets in services interventions. 
+2. Examining and adapting the attributes of evidence-based interventions (e.g., intensity, duration, 
+frequency) and implementation (e.g., fidelity, feasibility, acceptability) that affect their 
+generalizability to practice settings. 
+3. Developing and testing decision-support algorithms for matching services within a health system 
+(e.g., pharmacotherapy, psychotherapy, rehabilitation, care coordination, transition planning) to 
+clients’ needs over time, including stepped-care algorithms that span non-specialty and mental 
+health specialty services. 
+4. Developing and testing strategies (e.g., shared decision making or behavioral economic 
+approaches to behavior change) to enhance prevention and treatment engagement and 
+adherence. 
+ 
+Objective 4.3: Develop innovative service delivery models to dramatically improve 
+the outcomes of mental health services received in diverse communities and 
+populations  
+Service delivery models provide a framework for mental health care, which account for various settings, 
+providers, and resources. Available data indicate that many current service delivery models are 
+inadequate to meet the mental health service needs in the United States and around the globe. To 
+provide high quality care to populations in need, researchers may need to adapt evidence-based models 
+to account for moderators, including social determinants of health, known to impact intervention 
+
+--- PAGE 48 matched=['Goal 4', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   45  
+ 
+Goal 4 
+effectiveness among underrepresented, underserved, vulnerable, and minoritized groups. Services 
+research and implementation science strategies that test adaptations should be designed to determine 
+whether the adapted strategy counteracts moderators that have been shown to impede effectiveness 
+and clinical outcomes.   
+NIMH is committed to supporting research that reduces disparities and advances equity in mental 
+health services and outcomes. As such, we need innovative and sustainable service delivery models that 
+address disparities that stem from historical, social, and economic inequities that disproportionately 
+affect minoritized and marginalized populations and people with serious mental illness, to include 
+people experiencing instability in housing, employment, income, and food. People with serious mental 
+illness are among the first and most disproportionately affected by these social and economic 
+insecurities. We must develop and test novel components of care across multiple settings where mental 
+health services are needed and use developmentally and culturally appropriate tools to better reach 
+populations in need and substantially improve the delivery of evidence-based mental health care.  
+To improve the outcomes of individuals receiving mental health services and to ensure equity of 
+outcomes in all populations, NIMH will support research to develop innovative services delivery models 
+that employs the following Strategies: 
+ 
+Strategy 4.3.A: Adapting, validating, and scaling-up programs currently in use that improve 
+mental health services for underserved populations 
+Interest areas include: 
+1. Testing innovative approaches for reducing empirically documented disparities in care access, 
+quality, and outcomes for racial and ethnic minority groups; individuals limited by English 
+language proficiency, educational, or cultural barriers; sexual and gender minorities; individuals 
+living in rural areas; socioeconomically disadvantaged persons; and, other underserved groups. 
+2. Combining data from multiple sources of information (e.g., electronic health records, 
+administrative claims data, epidemiologic surveys, census data, qualitative methods) to identify 
+underserved groups and to explore novel approaches for coordinating health/community 
+service resources and improving overall health outcomes. 
+3. Conducting research to better understand, predict, and reduce mental health workforce 
+shortages across pediatric, adolescent, adult, and geriatric services; reduce the shortage of 
+culturally and linguistically competent care providers for racial and ethnic minorities; reduce the 
+workforce shortages in certain geographic areas (e.g., rural and underserved communities); and, 
+promote care that is respectful and affirming of an individual’s sexual orientation and gender 
+identity. 
+ 
+Strategy 4.3.B: Developing and validating service delivery models that provide evidence-based 
+care for individuals throughout the course of mental illness 
+Interest areas include: 
+
+--- PAGE 49 matched=['Goal 4', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   46  
+ 
+Goal 4 
+1. Developing and testing innovative strategies to promote early identification and engagement in 
+prevention and mental health services for children, adolescents, and adults, especially for those 
+experiencing early symptoms of mental illness. 
+2. Characterizing care pathways to identify mutable barriers and facilitators to improving access to 
+care across the lifespan, including children at risk for autism or mental illnesses, transition-age 
+youth with autism or emerging mental illnesses, and adults with autism or mental illnesses.  
+3. Defining and testing the specific mechanism(s) of action (i.e., targets) in service delivery 
+approaches purported to improve mental health outcomes across developmental stages. When 
+paraprofessionals or peer providers are delivering services, the research should make clear the 
+intended purpose for involving nontraditional staff (e.g., addressing workforce shortages, 
+instilling hope and re-moralization, improving client engagement) and then test whether 
+engagement of these targets mediates outcomes, with consideration for scalability of strategies 
+that prove effective. 
+ 
+Strategy 4.3.C: Developing and validating systems-level strategies, using technology and other 
+approaches, to identify, support, optimize, and monitor the effectiveness of evidence-based 
+care throughout the course of illness 
+Interest areas include: 
+1. Using technology to improve prevention and early detection of mental illnesses, connect clients 
+across all ages to evidence-based care, increase reach of and engagement with services for 
+underserved populations, and improve client-level outcomes. 
+2. Developing and testing clinician-facing “dashboards” or other system-level technologies that can 
+be used to support providers in their use of measurement-based care, to facilitate and optimize 
+system-level quality monitoring and improvement, and to improve clinical workflows. 
+3. Developing and testing implementation strategies for evidence-based practices (e.g., ensuring 
+availability, accessibility, effectiveness, scalability, sustainability) in low-resource settings or non-
+specialty settings where significant unmet need exists (e.g., the criminal and juvenile justice 
+systems, employment settings, military or veteran organizations, schools, and the child welfare 
+system). 
+4. Building novel service delivery models that capitalize on systems that are already engaging 
+individuals with mental health needs (e.g., schools, social services, or other community-based 
+settings, online/virtual communities). 
+ 
+Strategy 4.3.D: Developing and validating decision-making models that bridge mental health, 
+medical, and other care settings to integrate the appropriate care for people with serious 
+mental illness and comorbid medical conditions 
+Interest areas include: 
+1. Developing and testing service delivery models for people with comorbid conditions (e.g., 
+medical comorbidities, co-occurring substance use disorder), such as care decision models that 
+integrate treatment for mental illnesses and medical conditions, and service delivery 
+
+--- PAGE 50 matched=['Goal 4', 'Strategic Plan'] ---
+  
+ 
+NIMH Strategic Plan for Research   47  
+ 
+Goal 4 
+interventions to reduce modifiable health risks associated with premature mortality in people 
+with serious mental illness. These innovative service delivery models should be feasible in a 
+wide range of settings, including low-resource settings, and acceptable to a wide variety of 
+health disparity populations, since racial and ethnic minorities have greater prevalence of 
+comorbidities.
+30   
+2. Developing and validating decision-support tools to assess mental health and functional needs, 
+medical risk factors, and mental health/medical treatment availability in non-specialty settings 
+where children and adolescents are served, and to facilitate treatment planning.  
+3. Using existing and developing novel technologies (e.g., mobile devices, information systems, 
+artificial intelligence) to significantly improve access, engagement, quality, effectiveness, and 
+efficiency of integrated mental health services, while making sure that these advances benefit 
+people with a wide range of backgrounds, socioeconomic status, ethnicity, race, and 
+geographical area of residence. 
+4. Investigating strategies for active symptom management that reduce the symptom burden in 
+individuals with serious mental illness and multiple chronic conditions.
+
+--- PAGE 51 matched=['Strategic Plan', 'mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   48  
+ 
+Strategic Planning Process 
+ 
+Strategic Planning Process 
+The National Institute of Mental Health (NIMH) updates its Strategic Plan for Research every five years 
+to keep pace with scientific advancements and the changing landscape of the mental health field. NIMH 
+uses the Strategic Plan to communicate our priorities and help guide future mental health research 
+efforts at the institute. The new 2020 plan retains core elements of previous NIMH Strategic Plans, and 
+has been revised, updated, and expanded in response to the many discoveries and changes in the field 
+over the past five years.  
+We began by updating the institute’s four overarching Goals (referred to as Strategic Objectives in the 
+2015 Strategic Plan for Research). To accomplish this, we sought input from NIMH leadership, subject 
+matter experts, and other staff to identify knowledge gaps and opportunities for research advancement. 
+The four Goals are intended to be broad and capture the diversity of topics the institute must focus on 
+to achieve its mission. The Goals successively build in scale from basic neuroscience and behavioral 
+science to research on delivery of mental health services. These four Goals are: 
+1. Define the Brain Mechanisms Underlying Complex Behaviors 
+2. Examine Mental Illness Trajectories Across the Lifespan 
+3. Strive for Prevention and Cures 
+4. Advance Mental Health Services to Strengthen Public Health 
+Updating the plan was an iterative process, with opportunities for NIMH staff, advisory boards, and the 
+public to contribute. NIMH presented a framework for the 2020 plan to the Interdepartmental Serious 
+Mental Illness Coordinating Committee (ISMICC), and cross-walked the institute’s priorities with ISMICC 
+focus areas and recommendations. The framework was also presented to the National Advisory Mental 
+Health Council (NAMHC) and a draft plan was reviewed by the NAMHC members. We incorporated their 
+feedback and published a revised draft plan for public comment; members of the scientific community, 
+professional societies, advocacy organizations, and the general public were invited to share feedback via 
+a Request for Information (RFI) published in the NIH Guide and in the Federal Register. Comments were 
+submitted via a web-based RFI input tool, email, or mail from December 2, 2019 to January 15, 2020. 
+The institute received robust feedback from our many stakeholders, including researchers, mental 
+health advocates, and individuals with lived experience. After reviewing comments and making 
+numerous edits, the final plan was presented to the NAMHC and published on the NIMH website.   
+The 2020 NIMH Strategic Plan for Research is the product of many authors. We would like to thank 
+everyone who took the time to review and provide feedback and input on the many draft Plans. We look 
+forward to your continued involvement as we support research to transform the understanding and 
+treatment of mental illnesses to pave the way for prevention, recovery, and cure. 
+ 
+
+--- PAGE 52 matched=['Strategic Plan', 'mission'] ---
+  
+ 
+NIMH Strategic Plan for Research   49  
+ 
+Strategic Planning Process 
+ 
+Updates to the Plan 
+The NIMH Strategic Plan for Research is a living document, which means it is updated regularly to keep 
+pace with ever-evolving scientific approaches and research priorities that can lead to new discovery. The 
+most recent update was published in May 2023. Archived PDFs of the previous versions of the plan are 
+available below.  
+• NIMH Strategic Plan for Research – 2022 Update – published June 2022 (PDF) 
+• NIMH Strategic Plan for Research – 2021 Update – published July 2021 (PDF) 
+• NIMH Strategic Plan for Research— published May 2020 (PDF)  
+In addition, on the Progress pages included in the digital version of the Plan, we highlight key 
+contributions of NIMH and NIMH-funded investigators in advancing research toward achieving the four 
+Goals of the NIMH Strategic Plan for Research and the institute’s mission.  
+ 
+ 
+
+--- PAGE 55 matched=['STRATEGIC PLAN'] ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+NIMH STRATEGIC PLAN FOR RESEARCH 
+NIH Publication Number: 20-MH-8096 
+https://www.nimh.nih.gov/strategicplan 
+Published: May 2020 
+Updated: May 2023 

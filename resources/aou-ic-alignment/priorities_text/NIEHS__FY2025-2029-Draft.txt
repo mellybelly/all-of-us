@@ -1,0 +1,181 @@
+# NIEHS (FY2025-2029-Draft) — file: NIEHS_Strategic_Plan_FY2025-2029_FinalDraft.pdf
+# 5 pages matched priority-heading patterns
+
+
+--- PAGE 1 matched=['Strategic Plan'] ---
+ 
+1 of 9 
+NIEHS FY 2025–2029 Final Draft Strategic Plan 
+Notice number: NOT-ES-24-014 
+ 
+Submitted via email to ehs-strategic-plan@mail.nih.gov on July 18, 2024 
+ 
+We are writing on behalf of People for the Ethical Treatment of Animals—PETA entities have 
+more than 9 million members and supporters globally—regarding the National Institute of 
+Environmental Health Sciences (NIEHS) draft strategic plan framework. Recognizing the failure 
+of animal-based research results translating into human-relevant knowledge, PETA supports 
+NIEHS’s goals and priorities on advancing environmental health sciences via the implementation 
+of the many modern, human-based approaches presented in this five-year strategic plan. In this 
+regard, we expand on recommendations for most of the areas of emphasis listed in this request 
+for public comment. Our key recommendation for the NIEHS is to conduct and fund 
+research using only human biology-based systems and not those that use other species. 
+ 
+We also take this opportunity to share our Research Modernization Deal, a plan of action with 
+detailed recommendations for advancing biomedical research in the U.S. through non-animal 
+methods, applicable across various research domains. This plan can be accessed at 
+https://www.peta.org/wp-content/uploads/2023/01/peta-research-modernization-deal.pdf. We are 
+happy to meet and discuss with NIEHS any questions related to this response or the topics 
+covered in the Research Modernization Deal. 
+
+--- PAGE 2 matched=['Crosscutting Theme', 'Crosscutting'] ---
+2 of 9 
+ 
+Contents 
+Exposomics ................................................................................................................................. 2 
+Precision Environmental Health (PEH) ...................................................................................... 3 
+Mechanistic Biology and Toxicology ......................................................................................... 4 
+Data Science and Computational Biology .................................................................................. 6 
+Environmental Health Disparities, Environmental Justice, and Health Equity .......................... 8 
+Crosscutting Themes ................................................................................................................... 8 
+ 
+Exposomics 
+Exposomics is a burgeoning research field focused on understanding the environmental 
+exposures that can affect an individual's health over their lifetime. According to the NIEHS, 
+exposomics serves as the "environmental counterpart to genomics." Longitudinal studies are 
+particularly valuable for exposomics research, as they enable the tracking of individuals over 
+extended periods, which is unfeasible with animals who are confined to laboratories. A 2023 
+meta-analysis, which included over 400 publications and was published in Nature Medicine by 
+Flor and colleagues, found that secondhand smoke exposure was linked to nine health outcomes, 
+including an 8% increased risk of heart disease and a 5% increased risk of stroke. 1 Most of these 
+studies were case-control studies. When combined with other study modalities, such as 
+retrospective clinical cohorts, exposomics can significantly contribute to the future human 
+exposome atlas, a key goal of the NIEHS. 
+ 
+Environmental exposure significantly contributes to various illnesses. For instance, in 2022, the 
+French Agency for Food, Environmental and Occupational Health & Safety (ANSES) 
+recognized the link between charcuterie consumption and an increased risk of colon cancer, 
+recommending reduced dietary exposure.2 This recommendation was later endorsed by the 
+Canadian Cancer Society3 and extended to other cancer types.4 Similarly, air pollution has long 
+ 
+1 Flor, L.S., Anderson, J.A., Ahmad, N. et al. Health effects associated with exposure to secondhand smoke: a Burden of Proof 
+study. Nat Med. 2024:30, 149–167. 
+2Reducing dietary exposure to nitrites and nitrates. ANSES. Published July 12, 2022. Assess July 1, 2024. 
+https://www.anses.fr/en/content/reducing-dietary-exposure-nitrites-and-nitrates 
+3 Reducing your risk for colorectal cancer. Canadian Cancer Society. Assess July 1, 2024. https://cancer.ca/fr/cancer-
+information/cancer-types/colorectal/risks/reducing-your-risk.  
+4Le lien entre le cancer colorectal et les nitrites se confirme. Émilie Bilodeau. La Presse. Published July 13, 2024. Assess July 1, 
+2024. https://www.lapresse.ca/actualites/sante/2022-07-13/le-lien-entre-le-cancer-colorectal-et-les-nitrites-se-confirme.php 
+
+--- PAGE 4 matched=['strategic plan'] ---
+4 of 9 
+ 
+produce science that benefits humankind. Among the topics described in the strategic plan, 
+integrative research methods are important, but integrative multidisciplinary teams gathering 
+specialists are also necessary to achieve NIEHS goals. In the U.K., the British program Born in 
+Bradford (BIB) is the largest longitudinal program studying different aspects of human life. It 
+includes more than 40 thousand people over many years, involving entire families, communities, 
+and health specialists.9 The network is a great model, and a good example for the NIEHS, for 
+studying humans in their environment to identify health determinants and develop appropriate 
+healthcare interventions. 
+ 
+Although exposomics can be geography-dependent,10,11 there are universal environmental factors 
+that affect human health; the COVID-19 pandemic was a prime example. Similarly, the 
+application of geographic information system (GIS) software and AI technologies can contribute 
+to mapping contextual environmental factors, and some companies, such as ESRI, are already 
+working with these systems.12 Such strategies would likely reduce bias from small cohorts and, 
+at the same time, provide significant information about risk factors for human health and insights 
+to develop more personalized interventions. This is the subject of geomedicine, an emerging 
+field that integrates spatial and health data to improve the quality of care and human health. 
+More details about this area are available in the book Geomedicine: Geography and Personal 
+Health, by Bill Davenhall.13 
+ 
+Mechanistic Biology and Toxicology 
+In this area, there are myriad cutting-edge technologies that the NIEHS can explore to obtain 
+reproducible, human-based data for toxicology testing. Patient-derived in vitro models, such as 
+organoids and organs-on-chip (OoC), have the potential for high-throughput application and 
+mechanistic-driven studies. Multi-OoCs have been developed to study the relationship between 
+ 
+9 Born in Bradford. About Bradford. BorninBradford.nhs.uk. Copyright 2024. Access June 13, 2024. 
+https://borninbradford.nhs.uk/. 
+10 Campbell M, Marek L, Hobbs M. Reconsidering movement and exposure: Towards a more dynamic health geography. Geo 
+Compass. 2021:15,6, e12566. 
+11Michael Blanding. Project uses geographic data to show that where a person lives matters to their health. Harvard School of 
+Public Health. Published November 10, 2022. Assess July 2, 2024. https://www.hsph.harvard.edu/news/features/project-uses-
+geographic-data-to-show-that-where-a-person-lives-matters-to-their-health/ 
+12 About ESRI: Overview. ESRI. Assess July 2, 2024. https://www.esri.com/en-us/about/about-esri/overview 
+13Bill Davenhall. Geomedicine: Geography and Personal Health. ESRI. Published August 2012. Assess July 2, 2024. 
+https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/ebooks/geomedicine.pdf 
+
+--- PAGE 7 matched=['research areas'] ---
+7 of 9 
+ 
+those exposures by collecting human samples.27 Since the conclusion of the initiative in 2021, a 
+platform developed by the Flemish Institute for Technological Research and managed by the 
+Partnership for the Assessment of Risk from Chemicals (PARC) has been sharing data to inform 
+decision-makers, enabling more precise health interventions across Europe.28 Such strategies can 
+leverage the impact of fundamental science to the benefit of humans by using humans as models, 
+not other animals that lack human relevance. Therefore, all cross-system in vivo models 
+supported by the NIEHS should be of human origin (either through wearable devices, 
+epidemiology, health records, or ex vivo samples). 
+ 
+Spatial biology, which investigates the spatial distribution of molecules or cells within a tissue, is 
+another growing field for which NIEHS can increase funding. When integrated into -omics 
+technologies and algorithms, it can generate data on human biological function in a range of 
+complex conditions, such as metabolic dysfunction. 19 These approaches relying on patients’ data 
+can be combined with AI/ML tools to simulate the human response to chemicals and better 
+correlate phenotype and environmental factors. Therefore, NIEHS can significantly boost data 
+science and computational biology through a series of strategic initiatives in the coming years. 
+First, the NIEHS should create collaborative grants that encourage partnerships between 
+computational biologists and environmental health scientists and should invest in cutting-edge 
+computing resources to support complex computational needs. Second, the NIEHS can establish 
+interdisciplinary research centers, taking as an example the MILA Quebec Artificial Intelligence 
+Institute, which opened in 2018 in Canada and is today the world’s largest academic research 
+center for deep learning.29 MILA connects universities, industry, and startups, fostering public-
+private partnerships in different research areas. Third, we also encourage the NIEHS to promote 
+training and education by offering fellowships and scholarships for young scientists to develop 
+expertise in these new in silico tools that can accelerate the translation of fundamental biology 
+into actionable plans for the benefit of all. 
+ 
+27 About HBM4E. HBM4EU. Assess July 16, 2024. https://www.hbm4eu.eu/about-us/about-hbm4eu/ 
+28 Human biomonitoring data services. VITO. Assess July 16, 2024. https://hbm.vito.be/human-biomonitoring-data-services 
+29 About Mila. Mila. Assess July 10, 2024. https://mila.quebec/en/about-mila 
+
+--- PAGE 8 matched=['Crosscutting Theme', 'Crosscutting'] ---
+8 of 9 
+ 
+Environmental Health Disparities, Environmental Justice, and Health Equity 
+Community engagement in research is essential to facilitate the collection of much-needed 
+human samples and data. To achieve the priorities described in Area 5, it is crucial to build trust 
+within communities. The NIEHS must organize campaigns and discussions that disseminate 
+scientific knowledge in ways that the public can understand and that are responsive to their 
+needs. These efforts can encourage communities to enroll in studies. For example, New York City 
+launched the Plant-Based Lifestyle Medicine Programme (PBLM) in 2019, the first of its kind initiative 
+to mitigate cardiometabolic risk by adopting a healthier lifestyle.30 The multidisciplinary study was 
+funded by the New York City Health + Hospitals (NYC H+H) system to serve an initial 200 participants 
+from different races. The project resulted in a significant reduction in the consumption of health-risk 
+foods such as sweet beverages, meat, and dairy, as well as a drop in media and screen time with 
+improvement in physical activity during the initial six months of the study.31 
+ 
+The PBLM is currently expanded to more hospitals within the NYC H+H, which is the largest municipal 
+public health care system in the United States, serving over 1 million patients annually.32 Although the 
+lifestyle changes resulted in weight loss and a reduction in medication for chronic conditions among the 
+cohort, the program reported “challenges faced delivering the program or navigating participation” 
+because of insufficient administrative support.33 The NIEHS should partner with municipalities 
+engaged in identifying health determinants to pursue its goal of major investments in human 
+studies, providing the necessary support for an effective program implementation and 
+management of collected data, which will also benefit its goals of increasing “Public Trust in 
+Science.” 
+ 
+Crosscutting Themes 
+The NIEHS’ priorities of investing in infrastructure and professional capacity in both health care 
+and research centers are laudable. In this vein, new infrastructure and professional training 
+should focus on non-animal, human-relevant research to best prepare teams for the future 
+ 
+30 New York City, USA: Plant-Based Lifestyle Medicine Programme. AIPH. Access July 9, 2024. https://aiph.org/green-city-case-
+studies/new-york-usa/.  
+31 Massar RE, McMacken M, Kwok L, et al. Patient-Reported Outcomes from a Pilot Plant-Based Lifestyle Medicine Program in 
+a Safety-Net Setting. Nutrients. 2023;15(13):2857. 
+32 Babich JS, McMacken M, Correa L, et al. Advancing Lifestyle Medicine in New York City's Public Health Care System. Mayo 
+Clin Proc Innov Qual Outcomes. 2024;8(3):279-292. 
+33 Albert SL, Massar RE, Kwok L, et al. Pilot Plant-Based Lifestyle Medicine Program in an Urban Public Healthcare System: 
+Evaluating Demand and Implementation. Am J Lifestyle Med. 2022;18(3):403-419. 
