@@ -1,0 +1,20 @@
+theme_code,theme_name,aou_share,peer_median_share,aou_vs_peers_index,flag
+1,Cardiometabolic disease,0.278,0.4285,0.649,
+2,Genomics methods & complex-trait genetics,0.2525,0.6139,0.411,AoU-under (<0.5)
+3,"Methods, infrastructure & phenotyping (non-genomic)",0.1827,0.0605,3.018,AoU-over (>2.0)
+4,"Mental health, behavioral & substance use",0.1849,0.1325,1.395,
+5,Cancer,0.1281,0.1393,0.92,
+6,Social determinants of health & health disparities,0.3333,0.0648,5.141,AoU-over (>2.0)
+7,Wearables & digital health,0.0531,0.0387,1.373,
+8,Infectious disease & immunology,0.0575,0.0441,1.303,
+9,Autoimmune & inflammatory disease,0.0779,0.0319,2.44,AoU-over (>2.0)
+10,Rare disease & Mendelian genetics,0.0393,0.1502,0.262,AoU-under (<0.5)
+11,"Aging, frailty & ADRD",0.0546,0.065,0.84,
+12,Dermatology,0.1434,0.0185,7.759,AoU-over (>2.0)
+13,Respiratory & sleep medicine,0.0429,0.0786,0.546,
+14,Neurology (non-ADRD),0.056,0.1294,0.433,AoU-under (<0.5)
+15,"Pregnancy, maternal & women's health",0.0269,0.0508,0.531,
+16,Pharmacogenomics & drug response,0.0233,0.0051,4.601,AoU-over (>2.0)
+17,"ELSI, participant engagement & recruitment",0.0502,0.0024,21.232,AoU-over (>2.0)
+18,"Ophthalmology, ENT & sensory medicine",0.0779,0.0458,1.699,
+19,Environmental health & climate,0.0051,0.0121,0.422,AoU-under (<0.5)
