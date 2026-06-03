@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>AoU Data Types — Inventory and Investment Recommendations</title>
+<style>
+@page { size: Letter; margin: 0.4in 0.65in 0.35in 0.65in; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9pt;
+  line-height: 1.18;
+  color: #1c1c1c;
+  margin: 0;
+}
+h1 {
+  font-size: 14pt; margin: 0 0 1pt 0; color: #1A3A6B;
+  border-bottom: 1.5pt solid #1A3A6B; padding-bottom: 1pt;
+  font-weight: 700; letter-spacing: -0.2pt;
+}
+.subtitle {
+  font-size: 8pt; color: #555; margin: 1pt 0 5pt 0; font-style: italic;
+}
+h2 {
+  font-size: 9.5pt; margin: 6pt 0 2pt 0; color: #1A3A6B;
+  font-weight: 700; text-transform: uppercase; letter-spacing: 0.4pt;
+  border-bottom: 0.5pt solid #c8c8c8; padding-bottom: 1pt;
+}
+h3 {
+  font-size: 9pt; margin: 4pt 0 1pt 0; color: #216bb3;
+  font-weight: 700;
+}
+p { margin: 0 0 2pt 0; }
+ul { margin: 0 0 2pt 0; padding-left: 13pt; }
+li { margin-bottom: 0.5pt; line-height: 1.18; }
+strong { color: #1A3A6B; }
+.accent { color: #216bb3; font-weight: 600; }
+table {
+  border-collapse: collapse; width: 100%; margin: 1pt 0 3pt 0;
+  font-size: 8.2pt;
+}
+th, td {
+  border-bottom: 0.5pt solid #c8c8c8; padding: 1pt 4pt;
+  vertical-align: top; text-align: left; line-height: 1.18;
+}
+th {
+  background: #f0f3f8; color: #1A3A6B; font-weight: 600;
+  border-bottom: 1pt solid #1A3A6B;
+}
+.col-type { width: 20%; }
+.col-evidence { width: 36%; }
+.col-anchor { width: 22%; }
+.col-effort { width: 12%; text-align: center; }
+.col-status { width: 10%; text-align: center; }
+.effort-S { color: #2a7a4a; font-weight: 600; }
+.effort-M { color: #b08a00; font-weight: 600; }
+.effort-L { color: #a14040; font-weight: 600; }
+.footer {
+  font-size: 7.5pt; color: #666; margin-top: 4pt;
+  border-top: 0.5pt solid #c8c8c8; padding-top: 1.5pt; font-style: italic;
+}
+.key {
+  font-size: 7.5pt; color: #555; margin: 1pt 0 0 0; line-height: 1.2;
+}
+</style>
+</head>
+<body>
+
+<h1>AoU Data Types &mdash; Inventory and Investment Recommendations</h1>
+<div class="subtitle">2026 Science Committee Working Group, Scientific Roadmap Refresh &middot; Co-leads: Smoller &amp; Haendel &middot; Draft 2026-06-02</div>
+
+<p>This catalog consolidates the data-type evidence scattered across the Phase-4 recommendations, IC-alignment matrix, peer-biobank comparison, and Lina Sulieman&rsquo;s prior workspace mapping (DRC 2023). It is organized by the AoU Scientific Roadmap&rsquo;s &ldquo;Core Data&rdquo; axis (EHR, surveys, physical measures, digital health, genomes, assays) plus a derived-data layer. Effort symbols: <span class="effort-S">S</span> small (existing tooling), <span class="effort-M">M</span> moderate (linkage / curation), <span class="effort-L">L</span> large (new collection / governance / infrastructure).</p>
+
+<h2>Currently in AoU (baseline)</h2>
+<table>
+<thead><tr><th class="col-type">Data type</th><th class="col-evidence">What&rsquo;s available</th><th class="col-anchor">Coverage / scale</th><th class="col-status">Status</th></tr></thead>
+<tbody>
+<tr><td><strong>EHR</strong> (OMOP)</td><td>Conditions, procedures, medications, labs, vitals; ~95% of cohort linked</td><td>~315k participants</td><td class="col-status">live</td></tr>
+<tr><td><strong>Surveys (PPI)</strong></td><td>Basics, lifestyle, healthcare utilization, SDOH, family/personal history</td><td>Full cohort</td><td class="col-status">live</td></tr>
+<tr><td><strong>Physical measures</strong></td><td>Height, weight, BP, heart rate, hip/waist at enrollment</td><td>Full cohort</td><td class="col-status">live</td></tr>
+<tr><td><strong>Wearables</strong></td><td>Fitbit (step, HR, sleep stage), some Garmin; daily-level streams</td><td>~15k participants (opt-in)</td><td class="col-status">live</td></tr>
+<tr><td><strong>Genomes</strong></td><td>Whole-genome sequencing, short-read; v8 expanded</td><td>~245k participants</td><td class="col-status">live</td></tr>
+<tr><td><strong>Baseline assays</strong></td><td>CBC, basic lipids, HbA1c on participants providing biospecimens</td><td>Limited</td><td class="col-status">partial</td></tr>
+</tbody>
+</table>
+
+<h2>Recommended for new investment &mdash; Raw data</h2>
+<table>
+<thead><tr><th class="col-type">Data type</th><th class="col-evidence">Evidence + peer comparison</th><th class="col-anchor">Anchor ICs</th><th class="col-effort">Effort</th></tr></thead>
+<tbody>
+<tr><td><strong>Plasma proteomics</strong><br>(Olink / SomaScan)</td><td>Largest peer-comparative gap: UKB 12.8% post-2023, AoU 1.9%. UKB-PPP and FinnGen Olink releases drive the gap. Multi-omics-beyond-genomics hot area (HA1).</td><td>NHLBI, NIDDK, NIA, NCI</td><td class="col-effort effort-L">L</td></tr>
+<tr><td><strong>Metabolomics</strong><br>(NMR / untargeted MS)</td><td>UKB has NMR metabolomics on ~120k. Paired with proteomics under multi-omics; broad cardiometabolic + nutritional epi use.</td><td>NIDDK, NHLBI, NCCIH</td><td class="col-effort effort-L">L</td></tr>
+<tr><td><strong>Stool biospecimens</strong> &rarr; 16S + shotgun metagenomics</td><td>AoU 0.8% vs peer median 11.1% (UKB 9.8%, FinnGen 14%, CKB 11.1%). Field-wide growth, not single-peer artifact. NIDDK gut-microbiome strategic priority.</td><td>NIDDK, NCCIH, NCI</td><td class="col-effort effort-L">L</td></tr>
+<tr><td><strong>Imaging release</strong> &mdash; modality-prioritized: (i) EHR-linked CXR/CT via DICOM, (ii) retinal/fundus (OCT), (iii) prospective MRI subset</td><td>AoU 8 imaging pubs total (HA3 thin coverage); UKB 8.1% structurally. Data-supply not demand problem. WG-3 Imaging owns staging plan; WG-1 frames the ask.</td><td>NCI, NEI, NIBIB, NHLBI, NINDS</td><td class="col-effort effort-L">L</td></tr>
+<tr><td><strong>Environmental exposure linkage</strong> &mdash; PM2.5, ozone, NO<sub>2</sub>, NDVI, heat, water quality, EJI/EJScreen via residential history</td><td>Single largest demand-supply gap: NIEHS 6 strategic priorities vs AoU 7 substantive pubs. Residential history already collected &mdash; linkage layer needed, not new data.</td><td>NIEHS, NCI, NHLBI, NIMHD</td><td class="col-effort effort-M">M</td></tr>
+<tr><td><strong>Advanced physiologic sensors</strong> beyond Fitbit (CGM, BP cuff, ECG patch)</td><td>CGM is a 2024 standard-of-care for diabetes; emerging cohort use. Builds on existing wearables infrastructure.</td><td>NIDDK, NHLBI</td><td class="col-effort effort-L">L</td></tr>
+</tbody>
+</table>
+
+<h2>Recommended for new investment &mdash; Derived / processed data</h2>
+<table>
+<thead><tr><th class="col-type">Data type</th><th class="col-evidence">Evidence</th><th class="col-anchor">Anchor ICs / Lead</th><th class="col-effort">Effort</th></tr></thead>
+<tbody>
+<tr><td><strong>NLP-derived phenotypes</strong> from clinical notes (CLAMP &amp; successors)</td><td>Smoller subgroup 2024 prioritization 3.40; notes already in EHR layer but unprocessed. Pairs with phecode workflow.</td><td>NLM, disease-specific ICs</td><td class="col-effort effort-M">M</td></tr>
+<tr><td><strong>Polygenic risk scores</strong> (validated, multi-ancestry)</td><td>Partial in genomic v8; expand to all major outcomes with cross-validated PRS-CSx. AoU&rsquo;s diverse cohort is the right setting for ancestry-fair PRS.</td><td>NHGRI, disease ICs</td><td class="col-effort effort-S">S</td></tr>
+<tr><td><strong>Phecode v8 + Workbench integration</strong></td><td>Smoller 2024 prioritization 3.80; v7 done, v8 needed, &ldquo;needs incorporated/integrated into workbench.&rdquo;</td><td>NLM</td><td class="col-effort effort-S">S</td></tr>
+<tr><td><strong>Validated computational phenotype repository</strong> (PheKB-style)</td><td>Smoller 2024 prioritization 3.80; eMERGE/PheKB algorithm library. Maps to Q4 (new tools needed) of Roadmap 2.0.</td><td>NLM, NCATS</td><td class="col-effort effort-M">M</td></tr>
+<tr><td><strong>Foundation-model embeddings</strong> (patient EHR-trajectory dense vectors, pre-computed)</td><td>WG-4 AI rec 3.50; 31 AI/foundation-model pubs already in AoU corpus. Lowers barrier for downstream researchers.</td><td>NLM; co-funded NHLBI/NCI for use cases</td><td class="col-effort effort-M">M</td></tr>
+<tr><td><strong>Imaging-derived radiomics features</strong></td><td>Gated on imaging release. WG-3 owns. Phecode-radiomics crosswalk (WG-3 rec 3.88).</td><td>NIBIB, NCI</td><td class="col-effort effort-S">S*</td></tr>
+<tr><td><strong>Ascertainment-bias-adjusted variables</strong></td><td>Smoller 2024 prioritization 3.00; inverse-probability weights vs external population reference (e.g., NHANES). Smoller subgroup explicitly flagged.</td><td>NLM, NIMHD</td><td class="col-effort effort-M">M</td></tr>
+</tbody>
+</table>
+
+<h2>Considered and deprioritized</h2>
+<ul>
+<li><strong>Cerebrospinal fluid biomarkers / amyloid-PET</strong> &mdash; very high participant burden, low throughput. Defer pending an explicit ADRD-cohort strategy (peer comparison: AoU 4&times; under-indexed on aging/ADRD but not yet positioned to compete with ADNI / UKB neuroimaging).</li>
+<li><strong>Single-cell omics on cohort scale</strong> &mdash; not technically feasible at AoU scale in this Roadmap horizon.</li>
+<li><strong>Dermatology photo capture</strong> &mdash; despite 14% derm corpus share (peer index 7.8&times;), known to be a 1&ndash;2-group artifact; not a strategic priority.</li>
+<li><strong>Cross-cohort individual-data joins</strong> (Smoller 2024 prioritization 3.00) &mdash; flagged as compelling but with substantial data-use-agreement and IRB-harmonization hurdles; defer pending a Translational-WG (WG-2) governance framework.</li>
+</ul>
+
+<h2>Already in flight (no new recommendation needed)</h2>
+<p>PheWAS&times;GWAS infrastructure (Smoller 4.00, addressed by the <em>All by All</em> initiative); ancestry-tagged genomic v8 release; cohort and dataset builders; basic Workbench tooling.</p>
+
+<p class="key"><strong style="color:#1A3A6B;">Cross-references.</strong> Full evidence for each line item lives in <code>phase4-recommendations/</code>, <code>aou-ic-alignment/gap_analysis.md</code>, <code>peer-biobanks/emerging_themes.md</code>, and <code>aou-roadmap-refresh/temporal_trends.md</code>. <em>*</em>Imaging-radiomics features are S effort *once imaging is released* (L); the gate is the imaging release itself.</p>
+
+<div class="footer">Companion to the AoU_Roadmap_Refresh_Executive_Summary; full machine-readable evidence at <span style="font-family: 'SF Mono', Menlo, monospace;">github.com/mellybelly/all-of-us</span></div>
+
+</body>
+</html>
