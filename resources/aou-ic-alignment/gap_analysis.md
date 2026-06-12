@@ -343,3 +343,45 @@ Crosscutting Themes. The five Crosscutting Themes are:
   any of them; AoU is the cross-IC delivery vehicle.
 - **Climate/environment is the one crosscut AoU does *not* yet deliver.**
   Worth naming this as an honest gap relative to the IC asks.
+
+---
+
+## (E) NASEM strategic context
+
+Added per the June 3, 2026 WG request (Jordan: "Add NASEM strategy docs").
+The independent National Academies consensus reports cataloged in
+`../strategic-plans/nasem/` provide a second strategic axis alongside the 22 IC
+plans: where the IC plans say what each Institute wants, these say what the
+independent scientific consensus recommends for the enterprise AoU sits inside.
+Three reinforce the gap-analysis findings above.
+
+1. **The coordination gap has a NASEM mandate.** *The State of the U.S.
+   Biomedical and Health Research Enterprise* (NAM, 2024,
+   [27588](https://nap.nationalacademies.org/catalog/27588)) calls explicitly
+   for **national strategic coordination** and a **health-equity focus** across
+   the enterprise. This is the external, non-AoU authority behind the "the LCT
+   group no longer exists — who coordinates across ICs?" gap raised on 05-21 and
+   behind section (D)'s pan-IC-infrastructure case. The pan-IC argument is no
+   longer just "five IC plans imply it"; a National Academies consensus report
+   recommends exactly this coordination posture.
+
+2. **The genetics-equity alignment (A1) has a NASEM framework.** *Using
+   Population Descriptors in Genetics and Genomics Research* (NASEM, 2023,
+   [26902](https://nap.nationalacademies.org/catalog/26902)) was NIH-requested
+   and governs how race/ethnicity/ancestry should be used in genomics. It
+   directly underwrites the NHGRI × Genomics and NHGRI × equity alignment hits
+   (A1) and the FA7/FA8 framing — AoU's multi-ancestry, ancestry-aware methods
+   are the operational answer to this report's recommendations.
+
+3. **AoU's intellectual lineage is a NASEM report.** *Toward Precision Medicine:
+   Building a Knowledge Network for Biomedical Research and a New Taxonomy of
+   Disease* (NRC, 2011, [13284](https://nap.nationalacademies.org/catalog/13284))
+   is the report that originated the precision-medicine knowledge-network and
+   "new taxonomy of disease" vision the program operationalizes. Useful for the
+   Communications WG: AoU is not an isolated initiative but the realization of a
+   15-year National Academies arc.
+
+**Headline for WG-1 / Communications.** The pan-IC infrastructure and coordination
+case now rests on **both** sides of the evidence: five IC strategic plans imply
+it *and* an independent 2024 National Academies consensus report recommends it.
+Pair the two when making the coordination argument.

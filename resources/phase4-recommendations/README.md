@@ -7,6 +7,8 @@ Generated 2026-06-02 from the evidence base in this repository:
 - `aou-roadmap-refresh/crosswalk_19_to_8.md` + `temporal_trends.md`
 - `peer-biobanks/emerging_themes.md` + `aou_vs_peers_index.csv`
 - `aou-research-landscape/taxonomy.md`
+- `disease-burden/burden_vs_attention.md` (burden × attention; added June 2026)
+- `strategic-plans/nasem/` (NASEM consensus reports; added June 2026)
 - Slide 7 of `2026 Science Committee Working Groups.pptx` (the "what's changed since 2023" priority list)
 
 ## Method
@@ -33,6 +35,7 @@ rather than forced.
 | `wg4_ai_strategies.md` | AI Strategies | Sastry |
 | `wg5_communications.md` | Scientific Communications | Korf |
 | `cross_cutting_synthesis.md` | — | Multi-WG / Sci Com narrative |
+| `tooling_recommendations.md` | Cross-WG (WG-2 × WG-4) | Tooling/DB-integration; added per June 3, 2026 |
 
 ## How to use
 

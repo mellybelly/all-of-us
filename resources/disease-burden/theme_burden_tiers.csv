@@ -1,0 +1,21 @@
+theme_code,theme_name,us_burden_tier,burden_anchor,aou_pub_share,attention_vs_burden,note
+1,Cardiometabolic disease,High,"IHD #1 US DALYs; diabetes, CKD, obesity top causes",0.278,Aligned,Largest AoU theme; matches highest-burden cluster.
+2,Genomics methods & complex-trait genetics,Cross-cutting,Method/substrate (not a disease),0.2525,N/A,Enabling method; burden applies via the diseases it studies.
+3,"Methods, infrastructure & phenotyping (non-genomic)",Cross-cutting,Method/substrate,0.1827,N/A,Largest orphan theme; not burden-rankable.
+4,"Mental health, behavioral & substance use",High,"Depressive disorders #2 & drug use disorders #3 US YLDs",0.1849,Aligned-to-under,"High attention, but literature flags this cluster as chronically underfunded vs burden (sources 2,5)."
+5,Cancer,High,Neoplasms among top US DALYs,0.1281,Aligned,Well-funded nationally (source 2); AoU attention proportionate.
+6,Social determinants of health & health disparities,Cross-cutting,Risk/equity framing (not a disease),0.3333,N/A,Cross-cuts most disease themes; load-bearing for the program.
+7,Wearables & digital health,Cross-cutting,Method/measurement substrate,0.0531,N/A,Enabling measurement modality.
+8,Infectious disease & immunology,Medium,"Lower US NCD-relative DALYs; HIV overfunded vs burden",0.0575,Aligned,HIV funding>>burden nationally (sources 1,5); AoU share modest.
+9,Autoimmune & inflammatory disease,Medium,Moderate US DALYs,0.0779,Aligned,
+10,Rare disease & Mendelian genetics,Medium-High,High per-condition severity; collectively large,0.0393,Aligned,Severity-weighted burden high; AoU rare-disease reach limited by adult cohort.
+11,"Aging, frailty & ADRD",High,Alzheimer's/other dementias top & rising US DALYs,0.0546,Under-indexed,"GAP: high & growing burden, low corpus share; Alzheimer's also flagged as deliberately overfunded post-2016 (source 1)."
+12,Dermatology,Low,High prevalence but low DALY/mortality,0.1434,Over-indexed,"GAP (inverse): high attention on low-burden domain — confirms known 1-2-group artifact (see crosswalk caveat)."
+13,Respiratory & sleep medicine,High,COPD among top US DALYs; sleep apnea high prevalence,0.0429,Under-indexed,GAP: high-burden cluster with low corpus share.
+14,Neurology (non-ADRD),Medium-High,"Stroke, migraine (high YLD), epilepsy, Parkinson's",0.056,Under-indexed,Mild gap; migraine & stroke are high-burden.
+15,"Pregnancy, maternal & women's health",Medium,US maternal morbidity/mortality a policy priority,0.0269,Aligned,Adult-cohort maternal-only; child arm structurally absent.
+16,Pharmacogenomics & drug response,Cross-cutting,Treatment/method,0.0233,N/A,Return-of-results use case.
+17,"ELSI, participant engagement & recruitment",Cross-cutting,Program meta,0.0502,N/A,
+18,"Ophthalmology, ENT & sensory medicine",Medium,Vision & hearing loss among top US YLDs (aging),0.0779,Aligned,Sensory YLD burden rises with aging cohort.
+19,Environmental health & climate,Cross-cutting,Risk factor (not a disease),0.0051,N/A,Structurally under-represented; slide-7 priority.
+MSK,"Musculoskeletal / low back pain (NO AoU theme)",High,Low back pain = #1 US YLD cause (1990 & 2021); osteoarthritis & neck pain top YLDs,0.0,Absent,"HEADLINE GAP: the single highest US YLD cluster has no theme in the AoU taxonomy."
