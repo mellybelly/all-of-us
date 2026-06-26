@@ -12,3 +12,5 @@ __pycache__/
 resources/peer-biobanks/raw/*_efetch_*.xml
 resources/aou-research-landscape/raw/fulltext/
 resources/aou-research-landscape/raw/abstracts/
+# Regenerable from the raw cache via `fetch_fulltext.py --no-net` (15 MB).
+resources/aou-research-landscape/fulltext_augmented.jsonl
