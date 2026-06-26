@@ -307,7 +307,7 @@ add_header(s, "We took a five-step, evidence-driven approach",
            "Every recommendation here can be traced to a primary corpus, IC plan, peer biobank, or rubric cell.")
 
 steps = [
-    ("1", "Inventory", "the AoU corpus — 1,378 substantive publications + 12,899 substantive workspace projects, theme-tagged against a locked 19-theme taxonomy."),
+    ("1", "Inventory", "the AoU corpus — 1,428 substantive publications + 12,899 substantive workspace projects, theme-tagged against a locked 19-theme taxonomy."),
     ("2", "Map", "AoU themes onto 29 NIH strategic plans (NIH-Wide + 21 ICs + cross-cutting). Extracted 166 priority statements; built a corpus × IC alignment matrix."),
     ("3", "Compare", "AoU corpus against 4 peer biobanks (UK Biobank, FinnGen, MVP, China Kadoorie) using a same-tagger keyword approach — calibrates AoU's distinctive contributions and gaps."),
     ("4", "Identify", "structural framework gaps, emerging research themes, and demand-supply mismatches across the 8 focus areas."),
@@ -355,7 +355,7 @@ add_header(s, "Evidence base: numbers that anchor every recommendation",
            "Where claims rest on small samples (peer biobanks, pre-2023 baseline), we flag the limitation explicitly.")
 
 stats = [
-    ("1,378",     "substantive AoU\npublications",       NAVY),
+    ("1,428",     "substantive AoU\npublications",       NAVY),
     ("12,899",    "substantive workspace\nprojects",     NAVY),
     ("29",        "NIH strategic plans\n(NIH-Wide + 21 ICs)", NAVY),
     ("166",       "IC strategic priorities\nextracted",  NAVY),
@@ -400,25 +400,25 @@ add_header(s, "The 19-theme taxonomy: where AoU science actually lives",
 
 # Two-column theme list with pub-share
 theme_data = [
-    ("1", "Cardiometabolic disease",                            "27.8%", True),
-    ("2", "Genomics methods & complex-trait genetics",          "25.3%", True),
-    ("3", "Methods, infrastructure & phenotyping",              "18.3%", True),  # highlighted
-    ("4", "Mental health, behavioral & substance use",          "18.5%", False),
+    ("1", "Cardiometabolic disease",                            "28.4%", True),
+    ("2", "Genomics methods & complex-trait genetics",          "24.9%", True),
+    ("3", "Methods, infrastructure & phenotyping",              "18.4%", True),  # highlighted
+    ("4", "Mental health, behavioral & substance use",          "18.8%", False),
     ("5", "Cancer",                                              "12.8%", False),
-    ("6", "Social determinants & health disparities",           "33.3%", False),
-    ("7", "Wearables & digital health",                          "5.3%",  False),
-    ("8", "Infectious disease & immunology",                     "5.8%",  False),
-    ("9", "Autoimmune & inflammatory disease",                   "7.8%",  False),
-    ("10", "Rare disease & Mendelian genetics",                  "3.9%",  False),
+    ("6", "Social determinants & health disparities",           "32.9%", False),
+    ("7", "Wearables & digital health",                          "5.4%",  False),
+    ("8", "Infectious disease & immunology",                     "6.0%",  False),
+    ("9", "Autoimmune & inflammatory disease",                   "7.6%",  False),
+    ("10", "Rare disease & Mendelian genetics",                  "3.8%",  False),
     ("11", "Aging, frailty & ADRD",                              "5.5%",  False),
-    ("12", "Dermatology (artifact — flag)",                      "14.3%", False),
-    ("13", "Respiratory & sleep medicine",                       "4.3%",  False),
-    ("14", "Neurology (non-ADRD)",                               "5.6%",  False),
+    ("12", "Dermatology (artifact — flag)",                      "13.9%", False),
+    ("13", "Respiratory & sleep medicine",                       "4.2%",  False),
+    ("14", "Neurology (non-ADRD)",                               "5.7%",  False),
     ("15", "Pregnancy, maternal & women's health",               "2.7%",  False),
-    ("16", "Pharmacogenomics & drug response",                   "2.3%",  False),
-    ("17", "ELSI, participant engagement & recruitment",         "5.0%",  False),
-    ("18", "Ophthalmology, ENT & sensory medicine",              "7.8%",  False),
-    ("19", "Environmental health & climate",                     "0.5%",  False),
+    ("16", "Pharmacogenomics & drug response",                   "2.4%",  False),
+    ("17", "ELSI, participant engagement & recruitment",         "4.9%",  False),
+    ("18", "Ophthalmology, ENT & sensory medicine",              "7.6%",  False),
+    ("19", "Environmental health & climate",                     "0.6%",  False),
 ]
 
 col_w = Inches(6.15); col_h = Inches(0.27); start_y = Inches(1.40)
@@ -464,9 +464,9 @@ add_textbox(s, Inches(0.55), Inches(6.85), Inches(12.2), Inches(0.30),
 add_footer(s, 5)
 set_notes(s, """Source: aou-research-landscape/theme_summary.csv
 
-Theme 3 (Methods/AI) — 251 pubs / 2,389 projects, 18.3% pub share / 18.5% project share — is the single largest orphan in the 19→8 crosswalk. This is the empirical case for the 9th focus area.
+Theme 3 (Methods/AI) — 262 pubs / 2,388 projects, 18.4% pub share / 18.5% project share — is the single largest orphan in the 19→8 crosswalk. This is the empirical case for the 9th focus area.
 
-Theme 12 (Dermatology) at 14.3% share is anomalous and driven by 1–2 prolific groups per Phase 1 README; trend is declining (−3.9). Flagged on slide 18 (Caveats).
+Theme 12 (Dermatology) at 13.9% share is anomalous and driven by 1–2 prolific groups per Phase 1 README; trend is declining (−4.4). Flagged on slide 18 (Caveats).
 
 Theme 6 (SDOH) at 33.3% is the largest single theme — defines AoU as a cohort.""")
 
@@ -484,17 +484,17 @@ sx = Inches(0.55)
 
 cards = [
     ("ORPHAN", "Methods, AI & Infrastructure",
-     "18% of substantive pubs (251) and 19% of projects (2,389) have NO clean home in the 8-area framework.",
-     "Includes the AI/foundation-model surge (HA4: 31 pubs, 28 post-2023), workbench tooling, EHR phenotyping, federated learning.",
+     "18% of substantive pubs (262) and 19% of projects (2,388) have NO clean home in the 8-area framework.",
+     "Includes the AI/foundation-model surge (HA4: 33 pubs, 30 post-2023), workbench tooling, EHR phenotyping, federated learning.",
      "Sub-signal: AoU peer-index 3.0× — distinctive AoU strength currently invisible in the framework."),
     ("ORPHAN", "Wearables / remote monitoring",
-     "70 pubs (5.3% share) — slide-7 priority that has nowhere to live in the 8 areas.",
-     "Trend is flat (+1.0) — wearables have already MATURED, not emerging. Important reframe.",
+     "75 pubs (5.4% share) — slide-7 priority that has nowhere to live in the 8 areas.",
+     "Trend is flat (+0.2) — wearables have already MATURED, not emerging. Important reframe.",
      "Stretch-fit into FA5 (Behavioral) misses sleep, HRV, circadian, multimodal EHR+wearable AI work."),
     ("INVISIBLE", "Multi-omics inside \"Genetics & Biology\"",
      "Multi-omics is a slide-7 2023+ priority that is buried inside FA8.",
      "HA1: 24 pubs (23 post-2023), mostly external proteomics linked to AoU genotypes.",
-     "Largest peer-comparative growth differential: UKB 12.8% post-2023 vs AoU 1.9%. 2026 omics releases need a NAMED home."),
+     "Largest peer-comparative growth differential: UKB 12.2% post-2023 vs AoU 1.8%. 2026 omics releases need a NAMED home."),
 ]
 
 for i, (badge, title, l1, l2, l3) in enumerate(cards):
@@ -522,7 +522,7 @@ add_textbox(s, Inches(0.75), Inches(6.30), Inches(11.85), Inches(0.55),
 add_footer(s, 6)
 set_notes(s, """Source: aou-roadmap-refresh/crosswalk_19_to_8.md §4
 
-The crosswalk's Q6 answer in one paragraph: the 8 areas hold for disease anchoring (FA1 73%, FA8 53%, FA7 51%) but three structural problems exist — (a) theme 3 methods/AI orphan, (b) wearables orphan despite being a slide-7 priority, (c) multi-omics + imaging + AI buried in FA8 / theme 3.
+The crosswalk's Q6 answer in one paragraph: the 8 areas hold for disease anchoring (FA1 74%, FA8 54%, FA7 50%) but three structural problems exist — (a) theme 3 methods/AI orphan, (b) wearables orphan despite being a slide-7 priority, (c) multi-omics + imaging + AI buried in FA8 / theme 3.
 
 The 9th focus area is the single most important recommendation in the entire WG package — it's the one change ONLY this WG can make, and three downstream WGs (Imaging, AI, Communications) depend on it.""")
 
@@ -535,19 +535,19 @@ add_header(s, "Four slide-7 priorities are already realized in the corpus",
 
 realized = [
     ("AI / LLMs / foundation models",
-     "31 pubs (HA4); 28 post-2023",
+     "33 pubs (HA4); 30 post-2023",
      "PMID:39794311 foundation-model phenome-wide onset prediction; PMID:40417537 DL time-to-event depression/asthma; PMID:40750633 PAL-AI oocyte maturation.",
      "Theme 3 peer-index 3.0×"),
     ("Breakthrough therapeutics",
-     "16 pubs (HA8); 15 post-2023",
+     "20 pubs (HA8); 19 post-2023",
      "GLP-1 hepatic decompensation (PMID:41847743); third-line CRC cost-effectiveness (PMID:41807852); obesity meds vs bariatric trends (PMID:41741949).",
      "Clearest 'translation in progress' signal in the corpus"),
     ("Wearables / remote monitoring",
-     "70 pubs (HA2); 62 post-2023; trend flat",
+     "75 pubs (HA2); 67 post-2023; trend flat",
      "Mature, not emerging. Sleep-stage, HRV, circadian, multimodal EHR+wearable AI work all happening — but invisible in the focus-area framework.",
      "Reframe: recognition gap, not growth gap"),
     ("G×E×SDOH integrated holistic risk",
-     "10 pubs (HA6); 0 pre-2023",
+     "11 pubs (HA6); 0 pre-2023",
      "Genuinely novel category. PMID:41518215 PRS + neighborhood disorder + sleep; PMID:42109163 CoQ10 PRS + statin myopathy.",
      "AoU positioned to LEAD the field here"),
 ]
@@ -573,7 +573,7 @@ set_notes(s, """Source: aou-roadmap-refresh/temporal_trends.md §4–§5; phase4
 
 These four areas are RESEARCHER-DRIVEN and need recognition, not investment. The framework change (9th focus area) is what makes them visible.
 
-Wearables specifically: the trend score is +1.0 — flat in relative terms. Wearables have already matured to a permanent place in the work but the framework hasn't caught up. This is a 'recognition gap, not growth gap' — important to surface explicitly so Sci Com doesn't try to invest in something that's already steady-state.""")
+Wearables specifically: the trend score is +0.2 — flat in relative terms. Wearables have already matured to a permanent place in the work but the framework hasn't caught up. This is a 'recognition gap, not growth gap' — important to surface explicitly so Sci Com doesn't try to invest in something that's already steady-state.""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 8 — Q1: aspirational, pending upstream investment
@@ -586,7 +586,7 @@ aspirational = [
     ("Multi-omics beyond genomics",
      "24 pubs (HA1); 23 post-2023",
      "Mostly external proteomics/metabolomics linked to AoU genotypes (PMID:41712304 COPD proteomics+PRS; PMID:40050615 fibroid GWAS+eQTL).",
-     "UKB 12.8% post-2023 / AoU 1.9% — largest growth differential. 2026 release closes mechanically."),
+     "UKB 12.2% post-2023 / AoU 1.8% — largest growth differential. 2026 release closes mechanically."),
     ("Imaging / radiomics",
      "8 pubs total (HA3) — below thin-coverage threshold",
      "All 8 use EXTERNAL imaging linked to AoU phenotypes (UKB MRI, EHR mammography). No AoU-originated imaging.",
@@ -594,9 +594,9 @@ aspirational = [
     ("Nutrition / microbiome",
      "11 pubs (HA7); structurally limited",
      "AoU dietary surveys thin vs UKB 24-hour recall; no stool biospecimens collected.",
-     "UKB 10.4% / FinnGen 15.1% post-2023 / AoU 0.8%. Requires sample-collection decision."),
+     "UKB 11.3% / FinnGen 14.6% post-2023 / AoU 0.8%. Requires sample-collection decision."),
     ("Environmental health & climate",
-     "12 pubs (HA5); 7 substantive (theme 19)",
+     "13 pubs (HA5); 8 substantive (theme 19)",
      "Largest single demand-supply gap in the IC alignment matrix. NIEHS has 6 plan priorities tagged here.",
      "Requires PM2.5 / EJI / heat / water linkage investment — engineering, not data acquisition."),
 ]
@@ -636,10 +636,10 @@ ic_rows = [
      "Largest single matrix cell. AoU delivers Bold Prediction #9 (equitable benefit from genomics for ancestrally diverse populations).",
      "\"…the equitable benefit of genomics for all populations.\" — NHGRI 2020 Strategic Vision, BP #9"),
     ("NIMHD × SDOH / disparities",
-     "Goal 7 literally describes the AoU mandate. AoU 33.3% SDOH share; 5.1× peer median.",
+     "Goal 7 literally describes the AoU mandate. AoU 32.9% SDOH share; 5.1× peer median.",
      "\"…analysis of populations experiencing health disparities in big data sets, clinical research, and future big science initiatives.\" — NIMHD G7"),
     ("NLM × Methods / infrastructure",
-     "The only IC plan that explicitly names All of Us. Theme 3: 251 pubs, 2,389 projects.",
+     "The only IC plan that explicitly names All of Us. Theme 3: 262 pubs, 2,388 projects.",
      "\"NLM will engage with the entire NIH to determine how to accommodate data generated in … All of Us.\" — NLM 2017–2027 Strategic Plan"),
 ]
 
@@ -694,8 +694,8 @@ gaps = [
      "Closes mechanically — 2026 omics release",
      "Plus FA8 rename to send a forward signal (Rec 2)."),
     ("NIA × Aging / ADRD",
-     "Lecanemab/donanemab era  ↔  AoU flat at 4.2%",
-     "Peer surge (UKB +6.0; MVP +5.7; CKB +5.4 post-2023); AoU has structural advantage but under-utilization.",
+     "Lecanemab/donanemab era  ↔  AoU at 6.0% (near peer median)",
+     "Peer growth (UKB +6.9; MVP +5.4; CKB +5.1 post-2023); AoU growing (+4.7) but trailing UKB despite structural advantage.",
      "Engagement decision",
      "Surfaces as cross-cutting flag (no single WG owns it; CC-5)."),
 ]
@@ -734,7 +734,7 @@ The four gap categories require different decision types — important to surfac
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Peer-biobank comparison: AoU's gaps and AoU's distinctive strengths",
-           "Same-tagger keyword search across UK Biobank (5,831 pubs), FinnGen (3,075), MVP (426), and CKB (551).")
+           "Same-tagger keyword search across UK Biobank (11,868 pubs), FinnGen (3,152), MVP (438), and CKB (558) — full PubMed census.")
 
 # Two-column: under-indexed and over-indexed
 add_textbox(s, Inches(0.55), Inches(1.30), Inches(6.0), Inches(0.4),
@@ -764,11 +764,11 @@ add_textbox(s, Inches(0.75), Inches(6.55), Inches(11.85), Inches(0.5),
 add_footer(s, 11)
 set_notes(s, """Source: peer-biobanks/aou_vs_peers_index.csv + emerging_themes.md.
 
-Under-indexed (left chart): multi-omics 1.7% vs UKB 10%, imaging 0.6% vs UKB 8.1%, microbiome 0.8% vs FinnGen 14%, rare disease 3.9% vs UKB 17%, aging 4.2% vs UKB 14.9%.
+Under-indexed (left chart): multi-omics 1.7% vs UKB 10%, imaging 0.6% vs UKB 8.0%, microbiome 0.8% vs FinnGen 14%, rare disease 3.8% vs UKB 18%, aging 5.5% vs UKB 15.7%.
 
-Over-indexed (right chart): ELSI 21.2× peer median, SDOH 5.1×, PGx 4.6×, methods 3.0×. These are AoU's DEFENSIBLE IDENTITY — distinctive strengths the Refresh must preserve.
+Over-indexed (right chart): ELSI 26.3× peer median, SDOH 5.1×, PGx 4.6×, methods 3.0×. These are AoU's DEFENSIBLE IDENTITY — distinctive strengths the Refresh must preserve.
 
-Caveats: PubMed-name-search has known undercount (especially MVP); pre-2023 baseline is small (157 AoU pubs); use STATIC SHARE INDEX, not trend differentials. Dermatology 7.8× over-index is an artifact (1-2 prolific groups).""")
+Caveats: PubMed-name-search has known undercount (especially MVP); pre-2023 baseline is small (157 AoU pubs); use STATIC SHARE INDEX, not trend differentials. Dermatology 6.9× over-index is an artifact (1-2 prolific groups).""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 12 — WG-1 (OURS) Top-3
@@ -781,12 +781,12 @@ add_header(s, "WG-1 Top-3: the framework changes only this WG can make",
 rows = [
     ("1",
      "Add a 9th focus area: \"Data, AI & Methods\"",
-     "Absorbs theme 3 (18% orphan), wearables (HA2 70 pubs), AI/foundation models (HA4 31 pubs), and imaging-as-data once it flows.",
+     "Absorbs theme 3 (18% orphan), wearables (HA2 75 pubs), AI/foundation models (HA4 33 pubs), and imaging-as-data once it flows.",
      "3.71",
      "ENDORSE the framework addition"),
     ("2",
      "Rename FA8 → \"Genetics, Multi-omics & Biology\" + commit to proteomics roadmap",
-     "Signal that 2026 omics releases (Olink / SomaScan) have a home. UKB 12.8% post-2023 / AoU 1.9% — largest growth differential.",
+     "Signal that 2026 omics releases (Olink / SomaScan) have a home. UKB 12.2% post-2023 / AoU 1.8% — largest growth differential.",
      "3.38",
      "ENDORSE rename + AUTHORIZE release roadmap"),
     ("3",
@@ -821,7 +821,7 @@ add_textbox(s, Inches(0.75), Inches(6.55), Inches(11.85), Inches(0.5),
 add_footer(s, 12)
 set_notes(s, """Source: phase4-recommendations/wg1_roadmap_refresh.md (Top-3 with full rubric tables).
 
-Rec 1 (3.71 mean): 'Add a Data, AI & Methods focus area.' 18% corpus orphan; HA4 31 AI pubs; NLM-G1 explicit alignment. Risk: Sci Com may prefer reorganization to addition; defend with the empirical orphan count.
+Rec 1 (3.71 mean): 'Add a Data, AI & Methods focus area.' 18% corpus orphan; HA4 33 AI pubs; NLM-G1 explicit alignment. Risk: Sci Com may prefer reorganization to addition; defend with the empirical orphan count.
 
 Rec 2 (3.38 mean): 'Rename FA8 + multi-omics roadmap.' Largest peer-comparative growth differential. The rename without the data is a hollow gesture; the data without the rename buries the work — recommendation explicitly pairs them.
 
@@ -842,7 +842,7 @@ rows = [
      "ACMG actionable-gene implementation (54 pubs/433 projects); multi-ancestry PRS clinical pilots; PGx implementation (4.6× peer); cardiometabolic+SDOH; RWE for breakthrough therapeutics.",
      "3.38"),
     ("3", "Bias-in-translation framework — AoU as pan-NIH diversity benchmark",
-     "AoU UBR oversample as a citable diversity reference. ELSI 21.2× + SDOH 5.1× are the political-defense argument. FDA Modernization Act 2.0 creates a regulatory window.",
+     "AoU UBR oversample as a citable diversity reference. ELSI 26.3× + SDOH 5.1× are the political-defense argument. FDA Modernization Act 2.0 creates a regulatory window.",
      "3.75"),
 ]
 
@@ -920,7 +920,7 @@ Also-considered: AI-radiomics pilot funding (hand to WG-4); UKB/NIH-IDC partners
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-4 AI Strategies: researchers are already using AI — define what AoU provides",
-           "Lead: Sastry. HA4 already has 31 AI pubs (28 post-2023); the question is what AoU builds, integrates, or governs.")
+           "Lead: Sastry. HA4 already has 33 AI pubs (30 post-2023); the question is what AoU builds, integrates, or governs.")
 
 rows = [
     ("1", "AoU Workbench AI co-scientist (cohort-builder + code-generator)",
@@ -971,7 +971,7 @@ rows = [
      "Single externally-citable artifact aggregating translational, scientific, equity, and engagement performance. Publish v1 within 12 months.",
      "3.57"),
     ("2", "Plain-language distinctive-evidence narrative",
-     "ELSI 21.2× + SDOH 5.1× + PGx 4.6× + methods 3.0×. Anchors the Sci Com ambassador toolkit and IC-PO briefings. \"AoU scaled up everything around genomics that genomics needs to work.\"",
+     "ELSI 26.3× + SDOH 5.1× + PGx 4.6× + methods 3.0×. Anchors the Sci Com ambassador toolkit and IC-PO briefings. \"AoU scaled up everything around genomics that genomics needs to work.\"",
      "3.60"),
     ("3", "Five audience-tuned dissemination products + Sci Com ambassador toolkit",
      "Researcher digest; per-IC briefs (21 already drafted); Congressional 2-page brief; annual participant report; journalist story-pitch sheets.",
@@ -999,7 +999,7 @@ set_notes(s, """Source: phase4-recommendations/wg5_communications.md.
 
 Rec 1 (3.57): Impact Report v1 within 12 months. WG-2 defines metrics; WG-5 produces the report. NIH precedent: BD2K, BRAIN Initiative, Cancer Moonshot all publish annual impact products.
 
-Rec 2 (3.60): the four-strength narrative is the MOST EVIDENCE-DRIVEN recommendation in any WG — peer-index numbers are precise from the corpus analysis. Distinctive ≠ growing; the headline rests on these four genuine over-indexes. Dermatology 7.8× over-index is an artifact (rehearsed answer required).
+Rec 2 (3.60): the four-strength narrative is the MOST EVIDENCE-DRIVEN recommendation in any WG — peer-index numbers are precise from the corpus analysis. Distinctive ≠ growing; the headline rests on these four genuine over-indexes. Dermatology 6.9× over-index is an artifact (rehearsed answer required).
 
 Rec 3 (3.60): the 21 per-IC briefs in aou-ic-alignment/per_ic_briefs/ are mostly drafted. Productize them rather than rebuilding.""")
 
@@ -1020,7 +1020,7 @@ deps = [
     ("CC-4", "WG-5 narrative requires WG-1 framework",
      "The distinctive-evidence narrative depends on framework being settled. Pre-Sci Com circulation should sequence WG-1 → WG-5."),
     ("CC-5", "Aging/ADRD — no WG owns it cleanly",
-     "Real peer-comparative gap (AoU flat 4.2% vs UKB +6.0 / MVP +5.7 / CKB +5.4 post-2023). FLAG for WG leads; consider Tier-2 priority + WG-5 patient story."),
+     "Narrowing peer gap (AoU 6.0% post-2023, ~peer median 0.84×, trend +4.7 vs UKB +6.9 / MVP +5.4 / CKB +5.1). FLAG for WG leads; consider Tier-2 priority + WG-5 patient story."),
 ]
 
 y0 = Inches(1.42)
@@ -1047,7 +1047,7 @@ set_notes(s, """Source: phase4-recommendations/cross_cutting_synthesis.md §1.
 
 The five interlocks should be in the Sci Com's awareness because they determine whether the WGs ship semi-aligned outputs that compete or genuinely-aligned outputs that compound.
 
-CC-5 (Aging/ADRD) is the most important flag because no Top-3 currently owns it. AoU is flat at 4.2% post-2023 while every peer biobank surges in the lecanemab/donanemab era. Structural advantage (EHR + UBR diversity) but under-utilization. NIA engagement workstream is the natural answer; outside any current Top-3.""")
+CC-5 (Aging/ADRD) is a flag because no Top-3 currently owns it. AoU is at 6.0% post-2023 (≈peer median, index 0.84×) and growing (+4.7), but still trailing UKB's +6.9 surge in the lecanemab/donanemab era. Structural advantage (EHR + UBR diversity); the gap is narrowing rather than flat, so this is now a weaker-evidence flag than in the prior draft. NIA engagement workstream is the natural answer; outside any current Top-3.""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 18 — Caveats
@@ -1059,13 +1059,13 @@ add_header(s, "Caveats — three things the Sci Com should know before acting",
 caveats = [
     ("1",
      "Dermatology over-representation is an ARTIFACT",
-     "Dermatology is 14.3% of the corpus and 7.8× the peer median — but driven by 1–2 prolific groups, not a strategic priority. Trend score −3.9 (declining share). Do NOT elevate dermatology in the Refresh even though the share index suggests it. WG-5 ambassador toolkit must have the artifact answer rehearsed."),
+     "Dermatology is 13.9% of the corpus and 6.9× the peer median — but driven by 1–2 prolific groups, not a strategic priority. Trend score −4.4 (declining share). Do NOT elevate dermatology in the Refresh even though the share index suggests it. WG-5 ambassador toolkit must have the artifact answer rehearsed."),
     ("2",
      "Peer-biobank counts use PubMed name-search fallback",
-     "UKB, FinnGen, MVP, and CKB corpora come from PubMed name-search with same-tagger keyword tagging. Internally consistent across peers but absolute counts under- and over-count differently. USE THE STATIC SHARE INDEX, not trend differentials, for action-relevant comparisons. MVP corpus is small (426); single-MVP signals need a second-peer corroboration."),
+     "UKB, FinnGen, MVP, and CKB corpora come from PubMed name-search with same-tagger keyword tagging — now full PubMed censuses (UKB 11,868; FinnGen 3,152; MVP 438; CKB 558). Internally consistent across peers but absolute counts under- and over-count differently. USE THE STATIC SHARE INDEX, not trend differentials, for action-relevant comparisons. MVP corpus is small (438); single-MVP signals need a second-peer corroboration."),
     ("3",
      "AoU pre-2023 baseline is tiny (157 pubs)",
-     "Any active post-2023 theme will trend positive in AoU's split simply because the corpus grew ~7.8× from pre- to post-2023. Apparent 'growth' on cardiometabolic, mental health, and cancer is largely a small-baseline artifact — read as 'AoU has built a presence here,' not 'AoU is uniquely outpacing the field.' True growth signals come from the peer-comparison panel, not from the AoU-internal pre/post split."),
+     "Any active post-2023 theme will trend positive in AoU's split simply because the corpus grew ~8.1× from pre- to post-2023. Apparent 'growth' on cardiometabolic, mental health, and cancer is largely a small-baseline artifact — read as 'AoU has built a presence here,' not 'AoU is uniquely outpacing the field.' True growth signals come from the peer-comparison panel, not from the AoU-internal pre/post split."),
 ]
 
 for i, (num, head, body) in enumerate(caveats):
@@ -1090,7 +1090,7 @@ for i, (num, head, body) in enumerate(caveats):
 add_footer(s, 18)
 set_notes(s, """Source: aou-research-landscape/README.md; peer-biobanks/emerging_themes.md §caveats; phase4-recommendations/README.md.
 
-The dermatology caveat is NON-NEGOTIABLE to include — if Sci Com or external audiences see 'dermatology peer-index 7.8×' without context, they may push to elevate dermatology, which would mislead the Roadmap. Phase 1 README flagged the 1-2-prolific-groups origin; Phase 3b temporal trends show declining share.
+The dermatology caveat is NON-NEGOTIABLE to include — if Sci Com or external audiences see 'dermatology peer-index 6.9×' without context, they may push to elevate dermatology, which would mislead the Roadmap. Phase 1 README flagged the 1-2-prolific-groups origin; Phase 3b temporal trends show declining share.
 
 The peer-biobank fallback caveat protects against over-reading single-peer trend differentials. The static share index is what we ranked recommendations on.
 
