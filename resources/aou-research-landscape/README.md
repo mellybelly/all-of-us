@@ -4,7 +4,7 @@ Phase 1 work product: complete pull of the All of Us (AoU) Research Program
 publication directory and research project directory, normalized to CSV +
 JSONL, with raw responses kept for reproducibility.
 
-**Pulled on:** 2026-06-02
+**Pulled on:** 2026-06-02 (publications refreshed 2026-06-26 — see note below)
 **Extraction script:** `extract.py` (re-run idempotently; `--refetch` to re-pull)
 **Total wall time to pull + extract:** under 30 seconds (cached APIs return in 1–10 s; extract runs in ~1 s)
 
@@ -38,18 +38,39 @@ loaded via XHR on page render.
 
 If/when the production endpoint comes back online, re-run `extract.py --refetch` to capture a fresher snapshot.
 
+## Refresh — 2026-06-26 (publications)
+
+Re-pulled the publications endpoint on 2026-06-26: the feed now serves **1,432
+records, up from 1,378** on 2026-06-02. The diff is purely additive — **54 new
+records, 0 removed** — matched on PubMed ID + DOI. All 54 are 2026-dated
+(online-ahead-of-print / newly indexed), lifting the 2026 bucket from 199 → 253.
+Thematically they track the existing corpus (polygenic-risk / GWAS methods,
+cardiometabolic & CKM, SDOH / health-disparities, dermatology, AI-on-EHR
+methods). Coverage of the 54: PMID 54/54, DOI 27/54, PMC 28/54.
+
+`publications.csv` / `publications.jsonl` were regenerated from the fresh feed
+(`raw/publications_api_2026-06-26.json`); the original 2026-06-02 raw snapshot is
+retained for reproducibility. The just-the-new-54 subset is in
+`raw/new_publications_2026-06-26.json`. **Projects were not re-pulled** (prod
+endpoint still down — see above); they remain the 2025-10-24 Wayback capture.
+
+> Downstream Phase 2 artifacts (IC attribution, theme tagging) have **not** yet
+> been re-run against the 54 new pubs.
+
 ## Counts
 
 | Dataset | Records |
 | --- | ---: |
-| Publications (`publications.csv` / `publications.jsonl`) | **1,378** |
+| Publications (`publications.csv` / `publications.jsonl`) | **1,432** (was 1,378 on 2026-06-02) |
 | Projects (`projects.csv` / `projects.jsonl`) | **21,242** |
 
 ## Files
 
 | Path | What it is |
 | --- | --- |
-| `raw/publications_api_2026-06-02.json` | Verbatim publications API response (10 MB). |
+| `raw/publications_api_2026-06-02.json` | Verbatim publications API response, original Phase 1 pull (10 MB). |
+| `raw/publications_api_2026-06-26.json` | Verbatim publications API response, 2026-06-26 refresh — 1,432 records (11 MB); current source for `publications.csv`/`.jsonl`. |
+| `raw/new_publications_2026-06-26.json` | The 54 records new in the 2026-06-26 refresh (diff vs 2026-06-02). |
 | `raw/projects_wayback_20251024.json` | Verbatim 2025-10-24 Wayback capture of projects-directory feed (42 MB). |
 | `raw/projects_stable_2026-06-02.json` | The stable-mirror response — staging workspaces only; kept for completeness, not used for analysis. |
 | `raw/publication-directory.html`, `raw/research-project-directory.html` | The HTML containers (also include the JS that names the API endpoints — useful for re-discovering the feeds). |
@@ -120,8 +141,10 @@ AoU directory page itself uses when rendering):
 | 2023 | 157 |
 | 2024 | 343 |
 | 2025 | 520 |
-| 2026 | 199 |
+| 2026 | 253 |
 | 2027 | 1 |
+
+(2026-06-26 refresh: 2026 rose from 199 → 253; all other years unchanged.)
 
 Note: 2026/2027 entries are publications dated by their indexing year (online
 ahead of print or accepted manuscripts), not future records.
