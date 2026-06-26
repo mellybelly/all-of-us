@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Year-stratified UKB pull.
+"""Year-windowed UKB full-census pull.
 
-Default PubMed sort is descending PubDate, so 4000-cap returns only
-2024-2026 pubs. We instead split into year windows and pull ~600-800 per
-window so we have pre-2023 vs post-2023 representation suitable for the
-trend-differential analysis.
+A single all-years esearch truncates at NCBI's ~9,999-per-WebEnv idlist
+cap, so we split the query into year windows (each well under the cap) and
+union the PMIDs to retrieve the complete UKB corpus (~11.9k pubs). Year
+windows also give a clean pre-2023 vs post-2023 split for the trend
+analysis. Windows are uncapped (10000 is just the per-call ceiling).
 """
 from __future__ import annotations
 
@@ -16,6 +17,7 @@ from acquire import (
     EUTILS,
     RAW,
     ROOT,
+    _loads_esearch,
     efetch_batch,
     http_get,
     parse_pubmed_xml,
@@ -24,16 +26,19 @@ import urllib.parse
 
 UKB_BASE = '"UK Biobank"[Title/Abstract] AND humans[MeSH Terms] AND Journal Article[Publication Type]'
 
-# Year windows and per-window caps. UKB pubs really started growing in 2017+.
-# We want ~4500 pubs total: ~1500 pre-2023, ~3000 post-2023 (reflecting the
-# field's growth). This gives stable theme-share for both halves.
+# Year windows, UNCAPPED for a full census. NCBI's esearch idlist is hard-
+# capped near 9,999 returns per WebEnv, so a single all-years query truncates;
+# splitting into year windows (each well under 10k) lets us pull every pub.
+# The 10000 per-window value is just the per-call safety ceiling. Windows are
+# kept narrow in the high-volume recent years so none approaches the cap.
 WINDOWS = [
-    ("2007:2018", 800),
-    ("2019:2020", 800),
-    ("2021:2022", 1000),
-    ("2023:2023", 1000),
-    ("2024:2024", 1000),
-    ("2025:2026", 1500),
+    ("2007:2018", 10000),
+    ("2019:2020", 10000),
+    ("2021:2021", 10000),
+    ("2022:2022", 10000),
+    ("2023:2023", 10000),
+    ("2024:2024", 10000),
+    ("2025:2026", 10000),
 ]
 
 
@@ -49,7 +54,7 @@ def esearch_for_window(date_range: str, retmax: int):
         "usehistory": "y",
     }
     url = f"{EUTILS}/esearch.fcgi?{urllib.parse.urlencode(params)}"
-    data = json.loads(http_get(url))
+    data = _loads_esearch(url)
     res = data.get("esearchresult", {})
     pmids.extend(res.get("idlist", []))
     count = int(res.get("count", 0))
@@ -66,7 +71,7 @@ def esearch_for_window(date_range: str, retmax: int):
             "usehistory": "y",
         }
         url = f"{EUTILS}/esearch.fcgi?{urllib.parse.urlencode(params)}"
-        data = json.loads(http_get(url))
+        data = _loads_esearch(url)
         new_ids = data.get("esearchresult", {}).get("idlist", [])
         if not new_ids:
             break

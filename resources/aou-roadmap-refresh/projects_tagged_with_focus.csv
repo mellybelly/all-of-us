@@ -4,17 +4,17 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 35014,5;10;11,FA1;FA3;FA4;FA8,4,0,XPC Analysis Workspace
 34835,4;15,FA1;FA2;FA5,3,0,PPD Dataset
 35013,10,FA1;FA4;FA8,3,0,Vit. D Deficiency and Ehlers Danlos and Osteogenesis Imperfecta
-35012,1;2,FA1;FA8,2,0,Identification of New Genetic Associations with Vascular Disorders (N3)
-31950,1;2,FA1;FA8,2,0,Identification of New Genetic Associations with Vascular Disorders (N)
-34811,1;2,FA1;FA8,2,0,Identification of New Genetic Associations with Vascular Disorders (N2)
+35012,,,0,1,Identification of New Genetic Associations with Vascular Disorders (N3)
+31950,,,0,1,Identification of New Genetic Associations with Vascular Disorders (N)
+34811,,,0,1,Identification of New Genetic Associations with Vascular Disorders (N2)
 35009,2;3,FA8,1,0,Proteomics
 30582,2,FA8,1,0,Genomic_Analysis_Reg_other
 35008,3;5;6,FA1;FA7;FA8,3,0,Predictors of PSA Testing and Screening Patterns
 31813,2,FA8,1,0,v8_PheWAS analysis for Tandem Repeat Expansions
-35007,3;4,FA1;FA5,2,0,Pain_Prediction
+35007,,,0,1,Pain_Prediction
 35006,1;15,FA1;FA2;FA8,3,0,PreE_Omics
-28851,1;2,FA1;FA8,2,0,WUSM Bolton Lab - IDH Clonal Hematopoiesis and CVD (v8)
-35004,1;2;8,FA1;FA8,2,0,SepsisAKI
+28851,1,FA1;FA8,2,0,WUSM Bolton Lab - IDH Clonal Hematopoiesis and CVD (v8)
+35004,2,FA8,1,0,SepsisAKI
 35003,2;8;10,FA1;FA4;FA8,3,0,Pathogenic Variant Detection in Common Variable Immunodeficiency Patients
 18633,4;13,FA1;FA5,2,0,COPD and Nicotine/Tobacco Use (Controlled Tier)
 33256,1;2;3,FA1;FA8,2,0,Machine learning for genetic risk prediction of Blood Pressure and hypertension
@@ -52,7 +52,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 34975,2;3,FA8,1,0,AMI Genetic Risk Analysis
 34973,2;5;6,FA1;FA7;FA8,3,0,genomic and SES in cancer survival
 30202,2,FA8,1,0,All of US saliva sample
-34972,2;11,FA1;FA3;FA8,3,0,APOE_neutrophil_correlation
+34972,,,0,1,APOE_neutrophil_correlation
 33206,1;2;3,FA1;FA8,2,0,Duplicate of All of Us v7 GWAS on LDL Cholesterol with Regenie
 24385,2,FA8,1,0,RGC Workspace 4: Study of genetic association of health-related traits
 34968,3;4,FA1;FA5,2,0,Duplicate of Demo Project: Mental Health and Well Being
@@ -149,7 +149,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 34858,5;15,FA1;FA2;FA8,3,0,BRCA Study
 27592,1;2;10,FA1;FA4;FA8,3,0,Rare_variant_monogenic_diabetes_V2
 34854,1;2;3;6,FA1;FA7;FA8,3,0,Novel Design and Analysis Development in Electronic Health Record Studies
-24060,1;2,FA1;FA8,2,0,CHIP in All of Us v7
+24060,1,FA1;FA8,2,0,CHIP in All of Us v7
 34853,2;12,FA1;FA7;FA8,3,0,CCCA
 34852,,,0,1,Clinician Compensation Project
 33252,1;2,FA1;FA8,2,0,PGRS_CT
@@ -158,7 +158,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 28729,1;3,FA1;FA8,2,0,CORE_Murugiah_v8
 32957,2;3,FA8,1,0,Genetics underlying lab value trajectories
 34843,1;6;14,FA1;FA7;FA8,3,0,Heart Rhythm
-32862,4,FA1;FA5,2,0,Exploring Substance Abuse Risk Factors
+32862,,,0,1,Exploring Substance Abuse Risk Factors
 34822,2;5,FA1;FA8,2,0,AOU_cedars_controlled_tier
 34841,11,FA1;FA3,2,0,Parkinsons_Laryngeal_Disorders
 34839,1;6,FA1;FA7;FA8,3,0,Prescription Disparities
@@ -167,7 +167,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 20181,4;18,FA1;FA5;FA7,3,0,Hearing Loss and Mental Health
 34059,2;6;10,FA1;FA4;FA7;FA8,4,0,Estimating rare variant contributions to complex disease
 30979,1;6,FA1;FA7;FA8,3,0,HCAU Disparities in Southern US Women
-34838,8;9;11;14,FA1;FA3,2,0,virus_ndd_autoimmune
+34838,11,FA1;FA3,2,0,virus_ndd_autoimmune
 34837,3;11;13,FA1;FA3,2,0,OSA_CPAP
 24158,2,FA8,1,0,Duplicate of June2024_PheRSWAS_pTL_gTL
 29302,2;9,FA1;FA8,2,0,Duplicate of MS GWAS/PheWAS2_v8
@@ -186,13 +186,13 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 34823,1;3,FA1;FA8,2,0,Duplicate of Demo - Cardiovascular Risk Scoring
 34821,2;3;4,FA1;FA5;FA8,3,0,Duplicate of Demo - PheWAS Smoking
 34815,1;3;5,FA1;FA8,2,0,Type 2 Diabetes and its Connections with Cancer
-33989,10;14,FA1;FA4;FA8,3,0,neuromuscular  genetic diseases - google batch
-13875,10;14,FA1;FA4;FA8,3,0,neuromuscular genetic diseases
+33989,14,FA1,1,0,neuromuscular  genetic diseases - google batch
+13875,14,FA1,1,0,neuromuscular genetic diseases
 33416,1;3;6;14,FA1;FA7;FA8,3,0,Stroke-Project-Share
 34816,2,FA8,1,0,cvd_analysis_new
 32697,,,0,1,conditions
 34813,5,FA1;FA8,2,0,Kit/Pediatric Cancer Genetic Review
-34812,2;5,FA1;FA8,2,0,KIT/Pediatric Cancer
+34812,5,FA1;FA8,2,0,KIT/Pediatric Cancer
 34810,3;19,FA6,1,0,Climate change and thyroid
 34808,2;3;13,FA1;FA8,2,0,Sleep Apnea Project
 34806,1;2;14,FA1;FA8,2,0,DADA2
@@ -241,7 +241,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 26538,5;6,FA1;FA7;FA8,3,0,Duplicate of Benign Breast Disease and Breast Cancer
 27385,11,FA1;FA3,2,0,"Duplicate of Infectious Diseases, Inflammatory Markers and Cognition"
 34322,,,0,1,Master's Thesis Controlled
-26945,1;2,FA1;FA8,2,0,CHIP in All of Us v8
+26945,1,FA1;FA8,2,0,CHIP in All of Us v8
 34724,1;15,FA1;FA2;FA8,3,0,Pregnancy
 25831,5;6,FA1;FA7;FA8,3,0,Epidemiology and Racial Disparity in Hematuria Workup
 34718,6;7,FA7,1,0,Fitness Tracker Use in Rural Areas
@@ -943,7 +943,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 33972,1;7;9;14;15,FA1;FA2;FA8,3,0,GuNi-PA
 33981,2;10,FA1;FA4;FA8,3,0,NF Hypothesis Generation: Genomic Data
 29198,2;5;6;15,FA1;FA2;FA7;FA8,4,0,V8 Genetic and Non-Genetic Risk Factors Associated with Endometrial Cancer Risk
-33976,1;2,FA1;FA8,2,0,CHIP Analysis
+33976,1,FA1;FA8,2,0,CHIP Analysis
 25381,,,0,1,LDLR rare variants V8
 29837,,,0,1,Duplicate of LDLR rare variants V8
 26638,1,FA1;FA8,2,0,Version 8 dup of Genetics and Triglycerides
@@ -1058,7 +1058,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 33837,1;3,FA1;FA8,2,0,Predicting Incident Obesity Using All of Us Data
 33835,2;6,FA7;FA8,2,0,Dup (V7) Duplicate of Genetic Substructure in the All of Us Biobank
 32083,4,FA1;FA5,2,0,Procedure Type and Comorbidities with poor Opioid Outcomes
-33832,1;2,FA1;FA8,2,0,CHIP and Cardiovascular disease
+33832,1,FA1;FA8,2,0,CHIP and Cardiovascular disease
 33831,2;6,FA7;FA8,2,0,Dup (V8) Duplicate of Genetic Substructure in the All of Us Biobank
 33830,6,FA7,1,0,"Compassion, SDOH, and physical rehabilitation in spine surgery"
 28325,2;6,FA7;FA8,2,0,(VERSION 8) Duplicate of Genetic Substructure in the All of Us Biobank
@@ -1783,7 +1783,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 32894,2;3,FA8,1,0,fedgene3
 32892,3;4,FA1;FA5,2,0,All Of Us Opioid Data
 28294,9,FA1,1,0,COVID + Autoimmune Disease
-32889,9;12,FA1;FA7,2,0,Inflammatory skin disease and IPV
+32889,12,FA1;FA7,2,0,Inflammatory skin disease and IPV
 32888,,,0,1,Current Status Project
 32886,1;3;5;6;15,FA1;FA2;FA7;FA8,4,0,Duplicate of Defining co-occurring SDoH endometrial cancer disparities
 12842,2,FA8,1,0,CAC Requests
@@ -1945,8 +1945,8 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 32695,,,0,1,Evaluating the Impact of NSAIDs on Periodontitis
 32694,4,FA1;FA5,2,0,Substance use
 23272,11,FA1;FA3,2,0,Dementia and AMD
-32693,9;12,FA1;FA7,2,0,Inflammatory Skin Diseases Reg
-32692,9;12,FA1;FA7,2,0,Inflammatory Skin Diseases
+32693,,,0,1,Inflammatory Skin Diseases Reg
+32692,,,0,1,Inflammatory Skin Diseases
 32686,2;3;10;17,FA1;FA4;FA7;FA8,4,0,Pompe Disease
 32228,2;3;10;17,FA1;FA4;FA7;FA8,4,0,Glycogen Storage Disease II
 31804,2,FA8,1,0,Test_Nucleus_PRS
@@ -2348,7 +2348,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 28154,2;10,FA1;FA4;FA8,3,0,Understanding Rare Disease Genetics in All of Us Participants
 30899,2;4,FA1;FA5;FA8,3,0,OCRD polygenic risk score
 32173,3;4;7,FA1;FA5,2,0,MDD Early Detection
-17074,1;9;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases and Associated Conditions
+17074,1;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases and Associated Conditions
 7782,6;12,FA1;FA7,2,0,Barriers to Care for Patients with Chronic Skin Diseases and US Adults (v7-C)
 32170,6,FA7,1,0,"IR Procedures (Angioplasty, Embolization, etc)"
 32162,3;15,FA2,1,0,Duplicate of HIPPS_Complete_7_22
@@ -2425,7 +2425,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 15459,1;2;4;11,FA1;FA3;FA5;FA8,4,0,Gene-Environment Interactions in Alzheimer’s Disease
 24776,1;11,FA1;FA3;FA8,3,0,kristin_med_2025
 32040,5;10,FA1;FA4;FA8,3,0,Francesca_Working_v8_Germline mutations
-27379,1;2,FA1;FA8,2,0,CHIP exploration
+27379,1,FA1;FA8,2,0,CHIP exploration
 32034,4;11,FA1;FA3;FA5,3,0,DementiaLithium
 23893,5,FA1;FA8,2,0,aou-cancer-germline
 17714,1;3,FA1;FA8,2,0,CORE_Yale_Murugiah
@@ -2782,7 +2782,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 31164,1,FA1;FA8,2,0,Exploring Type 2 diabetes subtypes and their risk to cardiovascular disease
 16441,14,FA1,1,0,TBI and SCI
 27437,2;3;6,FA7;FA8,2,0,CSSB Disease Association Predictions 2
-18329,1;2,FA1;FA8,2,0,WUSM Bolton Lab - IDH Clonal Hematopoiesis and CVD
+18329,1,FA1;FA8,2,0,WUSM Bolton Lab - IDH Clonal Hematopoiesis and CVD
 31574,,,0,1,Initial Exploration of Thyroid Diseases in the All of Us Dataset
 11200,5;6,FA1;FA7;FA8,3,0,v7 SDoH and Black Women in the Deep South
 31573,1;13,FA1;FA8,2,0,Duplicate of Duplicate of Gene Burden
@@ -2912,7 +2912,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 31369,1;16,FA1;FA4;FA8,3,0,Duplicate of Metformin PGx Controlled
 31368,2;10,FA1;FA4;FA8,3,0,ACMG Secondary Findings Frequency Analysis
 27334,2,FA8,1,0,Gene Interaction
-30074,1;2,FA1;FA8,2,0,Duplicate 2 of CHIP in All of Us v7
+30074,1,FA1;FA8,2,0,Duplicate 2 of CHIP in All of Us v7
 31364,,,0,1,IR5IndividualizedExternalValidation
 31363,2;4;9;15,FA1;FA2;FA5;FA8,4,0,Develop tools for accurate diagnosis of Chronic Pelvic Pain diseases (duplicate)
 4520,1;2,FA1;FA8,2,0,BMI Gene enviornment interaction
@@ -2934,7 +2934,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 27324,1;3;15,FA1;FA2;FA8,3,0,Contraception Medication Sequencing - Controlled Tier - V8
 30929,1;5,FA1;FA8,2,0,Not in use
 31330,,,0,1,Wafa CC Social Support v Access
-31329,8;18,FA1;FA7,2,0,Trachoma 2
+31329,,,0,1,Trachoma 2
 26299,1,FA1;FA8,2,0,MASH Model - v8 Dataset
 30499,3;6,FA7,1,0,Irritable bowel syndrome and Medication Use
 30690,2;4;9;15,FA1;FA2;FA5;FA8,4,0,Develop tools for earlier and accurate diagnosis of Chronic Pelvic Pain diseases
@@ -3423,7 +3423,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 25722,2,FA8,1,0,Duplicate of Rice cultivation and human adaptation
 30192,2,FA8,1,0,UGT polymorphisms in cholestatic liver diseases (v8)
 26739,2,FA8,1,0,GxE PFAS
-30420,1;2;5,FA1;FA8,2,0,CHIP and cancer
+30420,1;5,FA1;FA8,2,0,CHIP and cancer
 30507,2;4,FA1;FA5;FA8,3,0,Duplicate of PGS Pipeline Workspace
 30505,6,FA7,1,0,Duplicate of ABRC medical gaslighting in arizona
 30503,2;8;9,FA1;FA8,2,0,V8 ARI Genomics Workspace - 5-28-2025
@@ -3443,7 +3443,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 30480,1;2;6,FA1;FA7;FA8,3,0,Cardiac Arrest Genetics
 30475,6,FA7,1,0,ALD comorbidity
 30473,2;3;6;16,FA4;FA7;FA8,3,0,Pharmacogenomics sample size exploration
-30470,1;2,FA1;FA8,2,0,Duplicate of CHIP in All of Us v7_Nandan
+30470,1,FA1;FA8,2,0,Duplicate of CHIP in All of Us v7_Nandan
 30439,3;6;18,FA1;FA7,2,0,Glaucoma V8
 30469,1,FA1;FA8,2,0,Type 2 Diabetes/Vitamin D
 30347,2;3;5;7;16,FA1;FA4;FA8,3,0,Wearable Devices for Adverse Cancer Effects
@@ -3767,7 +3767,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 15399,1;7;14,FA1;FA8,2,0,Neuropathy and its associated factors
 29727,1;3;7,FA1;FA8,2,0,Metabolic_EHR_Wearable_Phenotyping
 26512,2;8,FA1;FA8,2,0,NTM v8
-29724,9;12,FA1;FA7,2,0,IPV and inflammatory skin disease
+29724,12,FA1;FA7,2,0,IPV and inflammatory skin disease
 29723,1,FA1;FA8,2,0,Trial
 26864,4,FA1;FA5,2,0,Sociocultural factors of mental health and alcohol use WW
 29463,1;3;4;8,FA1;FA5;FA8,3,0,HIV related variables and Role of Social Determinants
@@ -3949,7 +3949,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 29340,2;5,FA1;FA8,2,0,scao87
 29338,,,0,1,BBS-CT
 29337,1;4;6;19,FA1;FA5;FA6;FA7;FA8,5,0,neighborhood built environment and allostatic load
-29334,1;2,FA1;FA8,2,0,Duplicate of CHIP in All of Us v7
+29334,1,FA1;FA8,2,0,Duplicate of CHIP in All of Us v7
 29331,,,0,1,Understanding_genomics_broadly
 29330,17,FA4;FA7,2,0,NSTA
 16804,2,FA8,1,0,Mutli_ancestry_GWAS_benchmarking
@@ -3986,7 +3986,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 29271,2;10,FA1;FA4;FA8,3,0,Genotype First NF1
 29268,5,FA1;FA8,2,0,Cancer Screening with Eye disorders
 29266,2,FA8,1,0,ASD in Individuals with African Ancestry
-29265,1;2,FA1;FA8,2,0,Duplicate of CHIP exploration
+29265,1,FA1;FA8,2,0,Duplicate of CHIP exploration
 29261,6;18,FA1;FA7,2,0,Uveitis SDOH
 29259,1,FA1;FA8,2,0,Serum IPA levels and Diabetes/Obesity
 10317,2;4,FA1;FA5;FA8,3,0,Suicide phenotypes GWAS
@@ -4153,7 +4153,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 28937,3,,0,1,Pressure_Ulcer_Project_Zhuo
 24769,2,FA8,1,0,Validate blood cell PGS v7
 28930,2;3;5,FA1;FA8,2,0,Pancreatic Cancer Driver Mutations
-28928,1;2;5,FA1;FA8,2,0,Clonal hematopoiesis and liver disease
+28928,1;5,FA1;FA8,2,0,Clonal hematopoiesis and liver disease
 23410,3;4;9;12,FA1;FA5;FA7,3,0,kerataconus
 28918,15,FA2,1,0,"Duplicate of Pregnancy, Demographics, and Health Outcomes (v7)"
 28916,15,FA2,1,0,"Pregnancy, Demographics, and Health Outcomes (v8)"
@@ -4269,7 +4269,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 28688,1;2;14,FA1;FA8,2,0,Stroke PRS v8
 28686,1,FA1;FA8,2,0,LIPIDS AND CVD
 28685,6;18,FA1;FA7,2,0,Uveitis care SDOH
-28105,9;12;15,FA1;FA2;FA7,3,0,V8 Inflammatory Skin Diseases and Gynecological Disease
+28105,12;15,FA1;FA2;FA7,3,0,V8 Inflammatory Skin Diseases and Gynecological Disease
 28674,4,FA1;FA5,2,0,SzP Substance Use
 28673,2,FA8,1,0,Duplicate of Anthracycline Cardio V8_fromJ
 28671,2;6,FA7;FA8,2,0,SDOH project
@@ -4506,7 +4506,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 25893,1;2,FA1;FA8,2,0,Target Discovery for Cardiovascular Disease - V8
 28132,1,FA1;FA8,2,0,Identifying genetic variants associated with cardiovascular pathologies
 28131,2;4;7,FA1;FA5;FA8,3,0,w3zheng
-27639,9;12,FA1;FA7,2,0,V8 Duplicate of 2024 of Inflammatory Skin Diseases - New
+27639,,,0,1,V8 Duplicate of 2024 of Inflammatory Skin Diseases - New
 28129,3,,0,1,ICIgenomics
 28128,5,FA1;FA8,2,0,Anastomotic Leak Following Colorectal Surgery Availability Assessment
 27827,2;4,FA1;FA5;FA8,3,0,Depressive Disorders
@@ -4546,7 +4546,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 28032,1;4;5;6,FA1;FA5;FA7;FA8,4,0,Mental Health in Head & Neck Cancer
 28028,5;6,FA1;FA7;FA8,3,0,Duplicate of controlled Colorectal Cases
 28023,3,,0,1,Dup of Rep Learning and Mechanistic Interpretability for Health Data Models
-15599,1;2,FA1;FA8,2,0,MGUS/MBL/CHIP/TCUS
+15599,1,FA1;FA8,2,0,MGUS/MBL/CHIP/TCUS
 28018,2;15,FA2;FA8,2,0,Endometriosis Subtyping
 28013,1;2;6,FA1;FA7;FA8,3,0,Dup V7 Kidney Disease in African Americans: Genetic and Environmental Factors
 28012,2;10,FA1;FA4;FA8,3,0,Rare disease project
@@ -4618,7 +4618,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 27858,3;7,,0,1,Fitbit_data
 27679,2,FA8,1,0,EtM_1
 26780,1;2;3;14,FA1;FA8,2,0,metabolic and neurological disease analyses v8
-15073,1;2;5,FA1;FA8,2,0,Determinants of clonal hematopoiesis and cancer risk in All of Us
+15073,1;5,FA1;FA8,2,0,Determinants of clonal hematopoiesis and cancer risk in All of Us
 27851,9;12,FA1;FA7,2,0,Genetic interactions in autoimmune diseases
 16483,3;8,FA1,1,0,HIV_Research
 27023,5,FA1;FA8,2,0,V8 Fitness_Metabolic_PCa
@@ -4722,7 +4722,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 27615,10,FA1;FA4;FA8,3,0,SAAS 2025 Proj
 19959,,,0,1,PAD Adverse Events - Tanmay
 11969,2;15,FA2;FA8,2,0,OXTR PheWAS
-27603,1;2;6,FA1;FA7;FA8,3,0,CHIP VTE
+27603,1;6,FA1;FA7;FA8,3,0,CHIP VTE
 27596,2;5,FA1;FA8,2,0,HCC_GWAS
 27595,2,FA8,1,0,sTWAS_v8
 27593,,,0,1,LCMM_IDs
@@ -5035,7 +5035,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 26928,1;2;5,FA1;FA8,2,0,Breast Cancer CVD_Registered
 26927,11,FA1;FA3,2,0,Dementia Awareness
 3917,4;6;8,FA1;FA5;FA7,3,0,Housing Insecurity and Mental Wellbeing v6 CT
-26919,1;9;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases and Associated Conditions 8c
+26919,1;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases and Associated Conditions 8c
 14043,2;11,FA1;FA3;FA8,3,0,Duplicate of StarD6 SNPs in Alzheimer's Disease
 26917,1;2;6;15,FA1;FA2;FA7;FA8,4,0,Duplicate of Exploratory analysis of pregnancy events in All of Us Biobank
 8549,,,0,1,Duplicate of Exploratory Workspace for Feasibility Research
@@ -5168,7 +5168,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 26648,,,0,1,Duplicate of All_of_us_training
 24684,5;10,FA1;FA4;FA8,3,0,v7_Germline mutations in cancer susceptibility genes - Working WS
 26642,15,FA2,1,0,Postmenopausal endometriosis
-26641,1;9;12,FA1;FA7;FA8,3,0,Duplicate of Inflammatory Skin Diseases and Associated Conditions 8c
+26641,1;12,FA1;FA7;FA8,3,0,Duplicate of Inflammatory Skin Diseases and Associated Conditions 8c
 14070,6;7,FA7,1,0,Social Determinants of Health and Average Steps
 21183,2;9,FA1;FA8,2,0,Duplicate of XZ_RA_Chung
 25410,2;6;12,FA1;FA7;FA8,3,0,Duplicate of Genetics of Hidradenitis Suppurativa v8
@@ -5379,7 +5379,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 26069,1;3;5,FA1;FA8,2,0,Duplicate of Metabolic Syndrome
 26067,4;7,FA1;FA5,2,0,Duplicate of Sleep spectrogram (v8)
 26066,4;6,FA1;FA5;FA7,3,0,Understanding substance use (V8)
-25459,1;9;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases and Associated Conditions v8
+25459,1;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases and Associated Conditions v8
 26063,2,FA8,1,0,phasing-ibd-resource
 26056,2;4,FA1;FA5;FA8,3,0,Duplicate of BPD using Dataset v8
 26052,4,FA1;FA5,2,0,"Duplicate of Social Isolation, Social Support, and Stress"
@@ -6155,7 +6155,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 24068,4;6;19,FA1;FA5;FA6;FA7,4,0,Wildfires and Mental Health
 16470,2,FA8,1,0,OA_workspace_01
 24061,1,FA1;FA8,2,0,Duplicate of NWCO and CVD
-6988,1;2,FA1;FA8,2,0,Clonal Hematopoiesis in All of Us Genomes
+6988,1,FA1;FA8,2,0,Clonal Hematopoiesis in All of Us Genomes
 24059,1;3;4,FA1;FA5;FA8,3,0,GLP-1 and SUD/AUD Cohort Builder
 24056,2;5;6,FA1;FA7;FA8,3,0,Functional PRS Project
 24055,3,,0,1,Duplicate of Dental
@@ -6259,7 +6259,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 14990,3;5;8,FA1;FA8,2,0,irAE in cancer with vaccination
 23821,1;5,FA1;FA8,2,0,Metabolic profiles in people with cancer
 23814,1,FA1;FA8,2,0,Joslin BRI 1
-23813,9;12,FA1;FA7,2,0,2024 of Inflammatory Skin Diseases - New
+23813,,,0,1,2024 of Inflammatory Skin Diseases - New
 23811,6;18,FA1;FA7,2,0,Race and Ethnicity and Retinal Diseases
 15810,2,FA8,1,0,Rice cultivation and human adaptation
 5531,2;6;9,FA1;FA7;FA8,3,0,Urban genetics
@@ -6407,10 +6407,10 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 23460,13,FA1,1,0,Complement Idiopathic Pulmonary Fibrosis
 23454,2;4,FA1;FA5;FA8,3,0,OUD Pharmacogenomics
 23449,4,FA1;FA5,2,0,Amputation and Mental Health outcomes
-23444,9;12,FA1;FA7,2,0,Inflammatory Skin Disease Geographic Distribution
+23444,12,FA1;FA7,2,0,Inflammatory Skin Disease Geographic Distribution
 23098,2;4;6,FA1;FA5;FA7;FA8,4,0,Pilitsis Lab
 22963,2;11,FA1;FA3;FA8,3,0,DPOP Alzheimer's Omics Research
-21378,1;2;6,FA1;FA7;FA8,3,0,Studying the association of venous thromboembolism with clonal hematopoiesis
+21378,1;6,FA1;FA7;FA8,3,0,Studying the association of venous thromboembolism with clonal hematopoiesis
 23356,6;17,FA4;FA7,2,0,Intersectional Disparities in Research Engagement
 23341,2,FA8,1,0,Afro-Puerto Rican Genetic Ancestry Project
 23181,2,FA8,1,0,Anthracycline Cardio
@@ -6471,7 +6471,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 23271,8,FA1,1,0,GenoMLizer_test
 23237,2;5;6,FA1;FA7;FA8,3,0,Duplicate of PGS for Breast Carcinoma in Diverse Populations
 23264,1;12,FA1;FA7;FA8,3,0,Assessing Risk Factors and Inflammatory Comorbidities for Granuloma Annulare
-23262,1;2;5,FA1;FA8,2,0,ALPK1 mutations in CHIP
+23262,1;5,FA1;FA8,2,0,ALPK1 mutations in CHIP
 23260,1;2;10,FA1;FA4;FA8,3,0,Duplicate of FH and ancestry
 21670,,,0,1,Neural Tube Defects
 15329,3;4;6;8,FA1;FA5;FA7,3,0,Gender Minority and HIV
@@ -6620,7 +6620,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 22885,,,0,1,First Workspace
 22878,4;6,FA1;FA5;FA7,3,0,Duplicate of SGM and mental health
 22877,11,FA1;FA3,2,0,Exploring Data
-22873,1;2,FA1;FA8,2,0,Duplicate of Clonal Hematopoiesis in All of Us Genomes
+22873,1,FA1;FA8,2,0,Duplicate of Clonal Hematopoiesis in All of Us Genomes
 22868,1;3,FA1;FA8,2,0,Duplicate of Demo - Cardiovascular Risk Scoring Copy
 22867,2;3;11,FA1;FA3;FA8,3,0,"Duplicate of Complex traits, GWA and protein"
 22866,,,0,1,Graphing test
@@ -6702,7 +6702,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 22638,8,FA1,1,0,Duplicate of How to Reproduce the All of Us SARS-CoV-2 Antibody Study (v5)
 22530,1;7,FA1;FA8,2,0,ChaturYodha
 22558,2;6,FA7;FA8,2,0,PC Neighborhood
-20152,1;2,FA1;FA8,2,0,Duplicate of Clonal Hematopoiesis
+20152,1,FA1;FA8,2,0,Duplicate of Clonal Hematopoiesis
 21687,1;3,FA1;FA8,2,0,Biomarker discovery in diabetes
 22627,11,FA1;FA3,2,0,RBD/Cognitive Decline-PD
 22626,2,FA8,1,0,Uncovering the genetic causes of rare hematological disorders
@@ -7011,7 +7011,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 21814,4;5;13;15,FA1;FA2;FA5;FA8,4,0,Reduced Risk of Endometrial Cancer Associated with Smoking Tobacco
 21811,2,FA8,1,0,Hemophagocytic Lymphohistiocytosis
 21807,1;2;13,FA1;FA8,2,0,Sex-specific CVD associations
-21542,9;12,FA1;FA7,2,0,Inflammatory Skin Diseases - New
+21542,,,0,1,Inflammatory Skin Diseases - New
 21803,2;3,FA8,1,0,PGRN 2024 Scientific Meeting  All of Us Genomics workshop - CC
 21800,5;6;9;12,FA1;FA7;FA8,3,0,Sjogren's Syndrome
 21799,2;3,FA8,1,0,Duplicate of PGRN 2024 Scientific Meeting  All of Us Genomics workshop_RL
@@ -7172,7 +7172,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 19976,5;10,FA1;FA4;FA8,3,0,Germline mutations in cancer susceptibility genes - Working WS
 8288,2,FA8,1,0,LongReadsTRs_v7
 21396,5,FA1;FA8,2,0,Bone Cancer
-21394,1;9;12,FA1;FA7;FA8,3,0,Duplicate of Inflammatory Skin Diseases and Associated Conditions
+21394,1;12,FA1;FA7;FA8,3,0,Duplicate of Inflammatory Skin Diseases and Associated Conditions
 19803,,,0,1,Barriers to Care
 16533,3;7;11,FA1;FA3,2,0,Aging prediction
 21078,4;6,FA1;FA5;FA7,3,0,Chronic pain stigma and disparities
@@ -7350,7 +7350,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 21041,2;5,FA1;FA8,2,0,Ancestry_Targeted_Cancer_Panel
 21039,5;6,FA1;FA7;FA8,3,0,Cancer-associated genetic variants in diverse populations
 21038,3;7;9,FA1,1,0,MVPA-IBD
-21030,1;2;5,FA1;FA8,2,0,Clonal Hematopoiesis and Lung Cancer
+21030,1;5,FA1;FA8,2,0,Clonal Hematopoiesis and Lung Cancer
 21022,,,0,1,Roger_birthtrauma
 21006,2,FA8,1,0,Structural Variant Signatures in Germline Genomes
 21017,5;6,FA1;FA7;FA8,3,0,Colorectal Cancer Screening Post Medicaid Expansion
@@ -7394,7 +7394,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 20955,,,0,1,Optic_atrophy_controlled tier
 20953,9,FA1,1,0,Autoimmune Disease
 20952,2;11;13,FA1;FA3;FA8,3,0,Obstructive_sleep_apnea_Alzheimer_PRS
-20951,9;12,FA1;FA7,2,0,Duplicate of Inflammatory Skin Diseases
+20951,,,0,1,Duplicate of Inflammatory Skin Diseases
 20942,2;4,FA1;FA5;FA8,3,0,IAN: Genetic Studies
 20939,,,0,1,Tripology
 20765,2;4,FA1;FA5;FA8,3,0,Spine project
@@ -7509,7 +7509,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 18278,1,FA1;FA8,2,0,Comparing ASCVD Risk Estimates Using the PCE and PREVENT Equations
 20660,2;18,FA1;FA7;FA8,3,0,Validating AMD Predictors
 20664,1;2;3;4;8,FA1;FA5;FA8,3,0,Ancestral variation at CTRA gene loci
-20649,1;2;5,FA1;FA8,2,0,CHIP Mutation Analysis
+20649,1;5,FA1;FA8,2,0,CHIP Mutation Analysis
 20645,2,FA8,1,0,How to Work with All of Us Genomic Data (Hail - Plink)(v7)
 20642,13,FA1,1,0,Exacerbation cohort
 15255,1;3;6;15,FA1;FA2;FA7;FA8,4,0,Study 1: Determinants of CGM Use
@@ -8650,7 +8650,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 7222,4;6,FA1;FA5;FA7,3,0,"Social Determinants of Health, Trauma, and Health Outcomes for SGM People"
 16916,,,0,1,Cat's Delirium
 16913,,,0,1,drug nitrofurantoin
-16910,6;9;12,FA1;FA7,2,0,Inflammatory Skin Diseases and associated inflammatory conditions / environment
+16910,6,FA7,1,0,Inflammatory Skin Diseases and associated inflammatory conditions / environment
 16907,1;4;6,FA1;FA5;FA7;FA8,4,0,Exploring diabetes and depression among Black communities
 3924,2;5,FA1;FA8,2,0,Family History of Chronic Conditions2
 14766,14;19,FA1;FA6,2,0,Migraine and Air Quality
@@ -8712,7 +8712,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 13260,1;3;6,FA1;FA7;FA8,3,0,Predictive Model of Cardiovascular Risk in People with Type II Diabetes
 16692,6;7,FA7,1,0,Working Analysis of Functional status among survivors of RF
 16689,6;7,FA7,1,0,Duplicate of Duplicate: Functional status among survivors of RF
-16688,1;2;5,FA1;FA8,2,0,"How do Vitamin B12, A and C levels influence risk of clonal hematopoiesis?"
+16688,1;5,FA1;FA8,2,0,"How do Vitamin B12, A and C levels influence risk of clonal hematopoiesis?"
 16682,1;6,FA1;FA7;FA8,3,0,Mediators of Cardiovascular Health and Social Determinants of Health in Women
 16681,5;9;12,FA1;FA7;FA8,3,0,Skin Disease
 16680,1;4;9;12;14;18,FA1;FA5;FA7;FA8,4,0,Ocular Co-morbidities
@@ -8998,7 +8998,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 15722,3;5;6,FA1;FA7;FA8,3,0,the Distribution of Multiple Myeloma Risk Factors and Treatment Patterns (new)
 6632,3;5;6,FA1;FA7;FA8,3,0,the Distribution of Multiple Myeloma Risk Factors and Treatment Patterns
 15588,3;6,FA7,1,0,TL_risk_prediction
-15799,1;2;4;6,FA1;FA5;FA7;FA8,4,0,Psychosocial factors and Clonal Hematopoiesis of Indeterminate Potential (CHIP)
+15799,1;4;6,FA1;FA5;FA7;FA8,4,0,Psychosocial factors and Clonal Hematopoiesis of Indeterminate Potential (CHIP)
 15798,1;2,FA1;FA8,2,0,Genetics of Cardiovascular Disease related phenotypes
 15778,3;8,FA1,1,0,Prediction of Sepsis Risks using Vital Signs Data
 15777,1;2;14,FA1;FA8,2,0,Mediators of the CKD and ICH Association
@@ -9349,7 +9349,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 14657,4,FA1;FA5,2,0,Research on perceived stigma and patients with substance use disorder
 13972,6,FA7,1,0,Analyze Emergency Care Disparities Across Demographics.
 11115,1;2;5,FA1;FA8,2,0,Genetics of HCC and CCA
-9743,1;2,FA1;FA8,2,0,Clonal Hematopoiesis
+9743,1,FA1;FA8,2,0,Clonal Hematopoiesis
 14640,1;3;6,FA1;FA7;FA8,3,0,Social Determinants of Health in Cardiovascular Disease
 14493,6,FA7,1,0,Discrimination Index
 14631,1;3;4,FA1;FA5;FA8,3,0,Hyponatremia associated with the use of common antidepressants
@@ -9966,7 +9966,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 12278,2,FA8,1,0,genomics exploration
 12274,1;14,FA1;FA8,2,0,Health outcomes of Asians - Mimi's proposal
 7255,1,FA1;FA8,2,0,PTC and Blood Pressure Relationship
-12269,9;12;14,FA1;FA7,2,0,Inflammatory Skin Disease and Neurological Disorders
+12269,12;14,FA1;FA7,2,0,Inflammatory Skin Disease and Neurological Disorders
 3989,4;6;18,FA1;FA5;FA7,3,0,V6 Duplicate of Cannabis-glaucoma study
 12268,3;7,,0,1,LearningWorkspace_v7
 12093,1;10,FA1;FA4;FA8,3,0,Monogenic Diabetes
@@ -10151,7 +10151,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 4675,3;7;8,FA1,1,0,Long-COVID AoU Project
 11130,2,FA8,1,0,Genomic Data All of Us  (Hail - Plink)(v7)
 11619,1;6,FA1;FA7;FA8,3,0,Weight-related discrimination
-11603,1;2;14,FA1;FA8,2,0,CHIP controlled
+11603,1;14,FA1;FA8,2,0,CHIP controlled
 11599,2;3;5,FA1;FA8,2,0,Duplicate of Evaluation of genetic risk in a diverse PCa patients
 11591,,,0,1,NIH_R15
 11589,7;11,FA1;FA3,2,0,"Timing, Temporal Characteristics, and Pattern of Physical Activity"
@@ -10375,7 +10375,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 7997,,,0,1,RUNX1-FPD Control Comparisons
 10762,6,FA7,1,0,Healthcare accessibility
 10757,1;2;6;17,FA1;FA4;FA7;FA8,4,0,Candidacy Materials
-10756,4;9;12,FA1;FA5;FA7,3,0,Lifestyle Associations in Inflammatory Skin Diseases
+10756,4;12,FA1;FA5;FA7,3,0,Lifestyle Associations in Inflammatory Skin Diseases
 10755,1;11,FA1;FA3;FA8,3,0,Frailty and CVD/CKD
 10749,2;3;8;11,FA1;FA3;FA8,3,0,Deep Learning Derived Phenotypes for Neuro-PASC (V7)
 10748,,,0,1,HemePredisposition
@@ -12027,7 +12027,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 4371,3;7,,0,1,Duplicate of Added Value of Fitbit Data in Fall Risk Prediction
 4370,4,FA1;FA5,2,0,ADHD and Harmful Outcomes
 4367,1,FA1;FA8,2,0,"The correlation between Coronary Artery Disease and sex, age, and weight"
-3525,2;9;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases (genomic)
+3525,2;12,FA1;FA7;FA8,3,0,Inflammatory Skin Diseases (genomic)
 4113,3,,0,1,Older Adult Alcohol Misuse
 4356,3;4;7,FA1;FA5,2,0,Fitbit_mental
 4354,1;3,FA1;FA8,2,0,Graph learning on health records
@@ -12433,7 +12433,7 @@ workspaceId,themes,focus_areas,n_focus_areas,is_orphan_proj,title
 1542,,,0,1,Antibiotic musculoskeletal effects
 1544,,,0,1,Nutrition for Precision Health v1
 1545,,,0,1,Duplicate of NOVA
-3356,9;12,FA1;FA7,2,0,Barriers to Care for Patients with Chronic Inflammatory Skin Diseases
+3356,12,FA1;FA7,2,0,Barriers to Care for Patients with Chronic Inflammatory Skin Diseases
 1546,3,,0,1,Surgical Site Infections
 1547,1,FA1;FA8,2,0,Demo- Healthy Obesity
 1551,,,0,1,Stimulants Project

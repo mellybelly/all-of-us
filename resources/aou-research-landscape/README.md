@@ -54,8 +54,13 @@ retained for reproducibility. The just-the-new-54 subset is in
 `raw/new_publications_2026-06-26.json`. **Projects were not re-pulled** (prod
 endpoint still down — see above); they remain the 2025-10-24 Wayback capture.
 
-> Downstream Phase 2 artifacts (IC attribution, theme tagging) have **not** yet
-> been re-run against the 54 new pubs.
+Downstream Phase 2 artifacts were re-run against the full 1,432-pub corpus on
+2026-06-26: IC attribution (`ic_attribute.py`) and theme tagging
+(`tag_corpus.py`). Tagging now also incorporates **PMC full text** (612 articles)
+and **gap-filled abstracts**, with two output layers — an abstract-level
+canonical series and a full-text-augmented series. See
+[`fulltext_augmentation.md`](fulltext_augmentation.md) for the method, the
+OA-coverage-by-year confound, and the abstract-vs-full-text theme deltas.
 
 ## Counts
 

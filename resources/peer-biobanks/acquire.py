@@ -37,10 +37,12 @@ RAW.mkdir(parents=True, exist_ok=True)
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 USER_AGENT = "AoU-roadmap-refresh/1.0 (melissa@tislab.org)"
 
-# Cap PMIDs per biobank. UK Biobank has ~10k+ pubs by name-search; we cap
-# to keep the fetch under ~10 min per biobank at 200-id batches and ~1
-# req/sec.
-CAP_PMIDS = 4000
+# Full census: no effective cap. Every PubMed name-search return is pulled
+# for all biobanks (UKB ~11.9k, FinnGen ~3.2k, MVP ~440, CKB ~560). The
+# 20000 ceiling is just a pagination safety bound, well above any biobank's
+# current total. (Previously capped at 4000 with a year-stratified UKB
+# sub-sample; we now pull the complete corpus per user request.)
+CAP_PMIDS = 20000
 
 BIOBANKS = [
     {
@@ -79,6 +81,21 @@ def http_get(url: str, retries: int = 3) -> bytes:
     raise RuntimeError(f"GET failed after {retries} retries: {url}\n{last_err}")
 
 
+def _loads_esearch(url: str, attempts: int = 4) -> dict:
+    """Fetch + JSON-parse an esearch URL. NCBI occasionally returns a response
+    with raw control characters (or a transient error page); tolerate control
+    chars and retry on parse failure."""
+    last = None
+    for i in range(attempts):
+        raw = http_get(url)
+        try:
+            return json.loads(raw, strict=False)
+        except json.JSONDecodeError as e:
+            last = e
+            time.sleep(1.0 + i)  # back off, then retry
+    raise last
+
+
 def esearch_pmids(query: str, retmax: int = 4000):
     pmids: list[str] = []
     params = {
@@ -89,7 +106,7 @@ def esearch_pmids(query: str, retmax: int = 4000):
         "usehistory": "y",
     }
     url = f"{EUTILS}/esearch.fcgi?{urllib.parse.urlencode(params)}"
-    data = json.loads(http_get(url))
+    data = _loads_esearch(url)
     res = data.get("esearchresult", {})
     pmids.extend(res.get("idlist", []))
     count = int(res.get("count", 0))
@@ -106,7 +123,7 @@ def esearch_pmids(query: str, retmax: int = 4000):
             "usehistory": "y",
         }
         url = f"{EUTILS}/esearch.fcgi?{urllib.parse.urlencode(params)}"
-        data = json.loads(http_get(url))
+        data = _loads_esearch(url)
         new_ids = data.get("esearchresult", {}).get("idlist", [])
         if not new_ids:
             break

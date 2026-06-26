@@ -1,9 +1,9 @@
 focus_area_code,focus_area_name,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,total
-FA1,Prevalent Common & Rare Conditions,0,1,0,2,2,1,20,57,119,242,394,169,1,1008
-FA2,Maternal & Child Health,0,0,0,0,0,0,0,1,2,12,17,5,0,37
-FA3,Healthy Aging & Resilience Across the Lifespan,0,0,0,0,0,0,0,2,3,12,36,22,0,75
-FA4,Return of Results on Individual & Population Health,0,3,0,7,3,4,5,9,16,38,54,14,1,154
-FA5,"Lifestyle, Substance, & Behavioral Health",0,0,0,0,0,0,1,13,23,60,103,54,0,254
-FA6,Environment,0,0,0,0,0,0,0,0,0,4,3,0,0,7
-FA7,Health Equity,0,3,1,6,4,5,19,49,96,198,247,73,1,702
-FA8,Genetics & Biology,0,1,0,5,4,3,12,22,68,170,311,136,1,733
+FA1,Prevalent Common & Rare Conditions,0,1,0,2,2,1,20,57,118,242,397,209,1,1050
+FA2,Maternal & Child Health,0,0,0,0,0,0,0,1,2,12,17,6,0,38
+FA3,Healthy Aging & Resilience Across the Lifespan,0,0,0,0,0,0,0,2,3,12,36,25,0,78
+FA4,Return of Results on Individual & Population Health,0,3,0,7,3,4,5,9,16,36,54,19,1,157
+FA5,"Lifestyle, Substance, & Behavioral Health",0,0,0,0,0,0,1,14,23,61,105,65,0,269
+FA6,Environment,0,0,0,0,0,0,0,0,0,4,3,1,0,8
+FA7,Health Equity,0,3,1,6,4,5,19,49,96,198,247,90,1,719
+FA8,Genetics & Biology,0,1,0,5,4,3,12,22,68,171,312,173,1,772

@@ -1,20 +1,20 @@
 theme_code,theme_name,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,total
-1,Cardiometabolic disease,0,1,0,1,2,0,9,17,35,87,153,77,0,382
-2,Genomics methods & complex-trait genetics,0,0,0,4,4,2,1,5,27,81,155,68,0,347
-3,"Methods, infrastructure & phenotyping (non-genomic)",0,0,0,0,1,0,10,12,25,71,90,42,0,251
-4,"Mental health, behavioral & substance use",0,0,0,0,0,0,1,13,23,60,103,54,0,254
-5,Cancer,0,0,0,0,0,1,3,3,17,42,78,32,0,176
-6,Social determinants of health & health disparities,0,1,1,2,2,2,10,30,54,124,169,62,1,458
-7,Wearables & digital health,0,0,0,0,1,0,0,6,5,11,30,20,0,73
-8,Infectious disease & immunology,0,0,0,0,0,0,3,9,16,15,27,9,0,79
-9,Autoimmune & inflammatory disease,0,0,0,0,0,0,0,4,21,29,40,13,0,107
-10,Rare disease & Mendelian genetics,0,0,0,1,0,0,0,3,2,13,25,9,1,54
-11,"Aging, frailty & ADRD",0,0,0,0,0,0,0,2,3,12,36,22,0,75
-12,Dermatology,0,0,0,0,0,0,6,22,43,71,51,4,0,197
-13,Respiratory & sleep medicine,0,0,0,0,0,0,0,1,10,8,27,13,0,59
-14,Neurology (non-ADRD),0,0,0,1,0,0,1,1,6,21,29,18,0,77
-15,"Pregnancy, maternal & women's health",0,0,0,0,0,0,0,1,2,12,17,5,0,37
-16,Pharmacogenomics & drug response,0,0,0,0,1,0,1,1,5,7,13,4,0,32
-17,"ELSI, participant engagement & recruitment",0,3,0,6,2,4,4,6,9,18,16,1,0,69
-18,"Ophthalmology, ENT & sensory medicine",0,0,0,0,0,0,4,6,16,21,45,15,0,107
-19,Environmental health & climate,0,0,0,0,0,0,0,0,0,4,3,0,0,7
+1,Cardiometabolic disease,0,1,0,1,2,0,9,17,35,87,154,99,0,405
+2,Genomics methods & complex-trait genetics,0,0,0,4,4,2,1,5,26,80,151,83,0,356
+3,"Methods, infrastructure & phenotyping (non-genomic)",0,0,0,0,1,0,10,12,26,70,91,52,0,262
+4,"Mental health, behavioral & substance use",0,0,0,0,0,0,1,14,23,61,105,65,0,269
+5,Cancer,0,0,0,0,0,1,3,3,17,43,78,37,0,182
+6,Social determinants of health & health disparities,0,1,1,2,2,2,10,30,53,124,168,76,1,470
+7,Wearables & digital health,0,0,0,0,1,0,0,6,5,11,30,24,0,77
+8,Infectious disease & immunology,0,0,0,0,0,0,3,9,16,15,28,15,0,86
+9,Autoimmune & inflammatory disease,0,0,0,0,0,0,0,3,20,28,41,16,0,108
+10,Rare disease & Mendelian genetics,0,0,0,1,0,0,0,3,2,11,25,11,1,54
+11,"Aging, frailty & ADRD",0,0,0,0,0,0,0,2,3,12,36,25,0,78
+12,Dermatology,0,0,0,0,0,0,6,22,42,70,51,8,0,199
+13,Respiratory & sleep medicine,0,0,0,0,0,0,0,1,10,8,27,14,0,60
+14,Neurology (non-ADRD),0,0,0,1,0,0,1,0,6,21,29,24,0,82
+15,"Pregnancy, maternal & women's health",0,0,0,0,0,0,0,1,2,12,17,6,0,38
+16,Pharmacogenomics & drug response,0,0,0,0,1,0,1,1,5,7,13,6,0,34
+17,"ELSI, participant engagement & recruitment",0,3,0,6,2,4,4,6,9,18,16,2,0,70
+18,"Ophthalmology, ENT & sensory medicine",0,0,0,0,0,0,4,6,16,21,45,16,0,108
+19,Environmental health & climate,0,0,0,0,0,0,0,0,0,4,3,1,0,8

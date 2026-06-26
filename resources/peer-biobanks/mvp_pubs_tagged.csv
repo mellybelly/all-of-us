@@ -1,10 +1,22 @@
 pubmed_id,year,title,journal,themes,subthemes,publication_types
+42339981,2026,Examining Associations Between Environmental Exposures and Neurobehavioral Symptoms in Post-9/11 Veterans With a Probable History of TBI.,The Journal of head trauma rehabilitation,14,,Journal Article
+42332914,2026,Genome-wide association study of cardiovascular disease in people with HIV from the Million Veteran Program (MVP).,"AIDS (London, England)",1;2;8,,Journal Article
+42326799,2026,Albuminuria Changes as a surrogate endpoint in Apolipoprotein L1 Mediated Kidney Disease in Vanderbilt BioVU and the Million Veteran Program.,medRxiv : the preprint server for health sciences,1,,Journal Article;Preprint
+42326776,2026,Human genetic evidence links serine biosynthesis to diabetic peripheral neuropathy.,medRxiv : the preprint server for health sciences,1;2;10;14,,Journal Article;Preprint
+42315158,2026,Impact of Physical Activity on Clinical Outcomes in Veterans Completing the VA's Traumatic Brain Injury Screening and Evaluation Program.,The Journal of head trauma rehabilitation,4;7;14,,Journal Article
+42305533,2026,Multi-layered functional genomics prioritizes candidate effectors and regulatory mechanisms of ankylosing spondylitis.,Frontiers in immunology,2;9;12,,Journal Article;Meta-Analysis
+42296096,2026,Association between deployment and Gulf War Illness and adverse COVID outcomes in a nationwide cohort of 1990-1991 Gulf Era war veterans in the VA's Million Veteran Program.,PloS one,8,,Journal Article
+42277823,2026,Observational and genetically-informed characterization of Gulf War Illness symptoms in 1990-1991 Gulf War deployed Veterans and non-deployed Gulf War Era Veterans.,Environmental health : a global access science source,1;2;4,,Journal Article
+42256007,2026,A Primary Open-Angle Glaucoma Locus Near Transcription Factor PRRX1 Identified in the Million Veteran Program.,Ophthalmology science,2;18,,Journal Article
+42245063,2026,A Common CD36 Variant and the Genetic Landscape of Dilated Cardiomyopathy in Individuals of African Ancestry.,medRxiv : the preprint server for health sciences,1;2;10,,Journal Article;Preprint
+42240401,2026,Polygenic risk scores for prediction of immune checkpoint inhibitor thyroid toxicity in diverse populations.,Clinical cancer research : an official journal of the American Association for Cancer Research,2;5;6,,Journal Article
+42238393,2026,GWAS Meta-analysis Identifies Novel Associated Loci and Points to Causal Tissues in Central Serous Chorioretinopathy.,medRxiv : the preprint server for health sciences,2;18,,Journal Article;Preprint
 42221328,2026,Large-scale meta- and cross-trait analyses uncover shared genetic risk factors for IBS and psychiatric disorders.,Frontiers in psychiatry,2;4,,Journal Article
 42210358,2026,Examining the additive risk of TBI and comorbid conditions on dementia in military veterans: a retrospective cohort study.,Alzheimer's research & therapy,3;4;11;14,,Journal Article
 42198943,2026,Traumatic Brain Injury and High Combat Exposure Pose Additive Risk for Specific Chronic Health Conditions in Veterans Affairs Million Veteran Program Enrollees.,Journal of neurotrauma,4;14,,Journal Article
 42173832,2026,Genetic variants affect diurnal glucose levels throughout the day.,Nature communications,1;2,,Journal Article
 42173079,2026,Integrated network pharmacology and Mendelian randomization analysis to elucidate potential mechanisms of curcumin and resveratrol in myocardial infarction treatment.,The Journal of pharmacology and experimental therapeutics,1;2;10,,Journal Article
-42170857,2026,Opioid use disorder and dementia risk: evidence from observational and genetic analyses in diverse ancestry cohorts.,Alzheimer's & dementia : the journal of the Alzheimer's Association,2;4;11,,Journal Article;Observational Study
+42170857,2026,Opioid use disorder and dementia risk: evidence from observational and genetic analyses in diverse ancestry cohorts.,Alzheimer's & dementia : the journal of the Alzheimer's Association,2;4;11,,Journal Article
 42162961,2026,Relationship between major depressive disorder and venous thromboembolism: a five-ancestry genetic analysis.,"Hematology (Amsterdam, Netherlands)",1;2;4,,Journal Article
 42145622,2026,Germline polygenic score for prostate cancer aggressiveness.,medRxiv : the preprint server for health sciences,2;5,,Journal Article;Preprint
 42142497,2026,Examining the prognostic utility of symptom etiology groupings on the VA's comprehensive traumatic brain injury evaluation.,Psychiatry research,4;14,,Journal Article
@@ -16,7 +28,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41932550,2026,Deep learning and statistical methods identify novel asthma risk variants in Europeans.,The Journal of allergy and clinical immunology,2;3;13,,Journal Article
 41904542,2026,An atlas of genetic effects on the monocyte methylome across European and African populations.,Genome medicine,1;2,,Journal Article
 41896945,2026,Genomic interplay between deployment exposures and Gulf War illness in Million Veteran Program participants.,Human genomics,2,,Journal Article
-41894076,2026,"Chronic pain and type 2 diabetes: associations between neuropathic and nociplastic pain conditions, health behaviors, and mental health in veterans.",Journal of behavioral medicine,1;4,,Journal Article
+41894076,2026,"Chronic pain and type 2 diabetes: associations between neuropathic and nociplastic pain conditions, health behaviors, and mental health in veterans.",Journal of behavioral medicine,1;4;14,,Journal Article
 41877849,2026,Obstructive Sleep Apnea and Hypercoagulability: Combining Observational and Mendelian Randomization Analyses to Explore Causal Relationships.,Nature and science of sleep,1;2;10;13,,Journal Article
 41846316,2026,Bayesian Mendelian randomization methods for index trait bias correction in subsequent trait genome-wide association studies.,HGG advances,1;2;10;14,,Journal Article
 41840298,2026,Polygenic Contribution to Sensorineural Hearing Loss Implicates Novel Risk Loci and Convergence with Congenital Hearing Loss Genes.,Journal of the Association for Research in Otolaryngology : JARO,2;10;18,,Journal Article
@@ -33,7 +45,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41705751,2026,Systemic Manifestations and Mortality Risk in Transthyretin V142I Variant Carriers: A Million Veteran Program Analysis.,JACC. CardioOncology,1;14,,Journal Article
 41691648,2026,Cross-sectional Comparison of Social Drivers of Health in The Million Veteran Program and Behavioral Risk Factor Surveillance System (2011-2023).,Military medicine,6,,Journal Article
 41683293,2026,Alcohol Intake and Incidence of Heart Failure and Its Subtypes: VA Million Veteran Program.,Nutrients,1;4,,Journal Article
-41665936,2026,Carriage of rare APOB variants predisposes to severe steatotic liver disease and hepatocellular carcinoma.,The Journal of clinical investigation,1;5,,Journal Article;Meta-Analysis;Clinical Trial
+41665936,2026,Carriage of rare APOB variants predisposes to severe steatotic liver disease and hepatocellular carcinoma.,The Journal of clinical investigation,1;5,,"Journal Article;Meta-Analysis;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't"
 41646717,2026,Epigenetics in Abdominal Aortic Aneurysm: Mechanisms and Risk Prediction.,medRxiv : the preprint server for health sciences,1;2;3,,Journal Article;Preprint
 41646688,2026,Multi-ancestry epigenome wide association study of generalized anxiety disorder.,medRxiv : the preprint server for health sciences,2;4,,Journal Article;Preprint
 41632728,2026,A Genome-Wide Association Study of Hidradenitis Suppurativa from the VA's Million Veteran Program.,"Dermatology (Basel, Switzerland)",2;12,,Journal Article
@@ -42,7 +54,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41588240,2026,Genomic risk model to implement precision prostate cancer screening in clinical care: the ProGRESS study.,Nature cancer,2;5,,Journal Article
 41572430,2026,SAIGE-GPU: accelerating genome- and phenome-wide association studies using GPUs.,"Bioinformatics (Oxford, England)",2,,Journal Article
 41565822,2026,Biological insights into schizophrenia from ancestrally diverse populations.,Nature,2;4;6,,"Journal Article;Research Support, N.I.H., Extramural"
-41548865,2026,Multiomics analyses prioritize disease genes and pathways in hidradenitis suppurativa.,The Journal of investigative dermatology,2;12,,Journal Article
+41548865,2026,Multiomics analyses prioritize disease genes and pathways in hidradenitis suppurativa.,The Journal of investigative dermatology,2;12,,Journal Article;Meta-Analysis
 41542675,2026,Phecoder: semantic retrieval for auditing and expanding ICD-based phenotypes in EHR biobanks.,medRxiv : the preprint server for health sciences,2;3;4,,Journal Article;Preprint
 41513650,2026,A large-scale multi-ancestry genome-wide association study of chronic prostatitis/chronic pelvic pain syndrome in men.,Nature communications,2;4;5,,Journal Article
 41511773,2026,Opportunistic Genomic Screening for Familial Hypercholesterolemia to Improve Low-Density Lipoprotein Cholesterol: A Randomized Clinical Trial.,JAMA network open,1;2;10,,Journal Article;Randomized Controlled Trial
@@ -73,7 +85,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40971195,2025,Genome-Wide Association Study of Hypoglycemia in Adults With Diabetes in the Million Veteran Program.,Diabetes,1;2;6;16,,Journal Article
 40953603,2025,"Association of HOXB13 G84E With Prostate Cancer Among 592,158 Men.",Journal of the National Comprehensive Cancer Network : JNCCN,5;17,,"Journal Article;Research Support, N.I.H., Intramural"
 40913361,2026,Proteome-Guided Drug Target Discovery for Periodontitis.,Journal of clinical periodontology,2,,"Journal Article;Research Support, Non-U.S. Gov't"
-40912238,2025,A semi-empirical Bayes approach for calibrating weak instrumental bias in sex-specific Mendelian randomization studies.,American journal of human genetics,1;2;10;13,,Journal Article
+40912238,2025,A semi-empirical Bayes approach for calibrating weak instrumental bias in sex-specific Mendelian randomization studies.,American journal of human genetics,1;2;10;13,,"Journal Article;Research Support, U.S. Gov't, Non-P.H.S.;Research Support, N.I.H., Extramural"
 40903904,2026,Genetics of SSRI antidepressant use and relationship to psychiatric and medical traits.,HGG advances,2;4,,Journal Article
 40901574,2025,Multi-Ancestry Mendelian Randomization Reveals Lipid-Associated Genetic Risk Factors for COPD.,International journal of chronic obstructive pulmonary disease,1;2;10;13,,Journal Article;Meta-Analysis
 40894127,2025,A Multivariate Genomic Investigation of the Externalizing Spectrum and Suicide Risk.,medRxiv : the preprint server for health sciences,2;4,,Journal Article;Preprint
@@ -84,7 +96,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40819635,2025,Identification of a subgroup of post-9/11 veterans with unique combat experiences and worse clinical outcomes.,Psychiatry research,4,,Journal Article
 40802183,2025,"Polygenic Risk, Agent Orange Exposure, and Lymphoid Neoplasms in the Veterans Affairs Million Veteran Program.",JAMA network open,2;5,,Journal Article
 40799756,2025,Using Real-World Data on Depression from EHR-based Research Networks: A Scoping Review.,Research square,3;4,,Journal Article;Preprint
-40790903,2025,Association of COVID-19 Susceptibility and Severity with Primary Angle-Closure Glaucoma.,Ophthalmic epidemiology,8;18,,Journal Article
+40790903,2025,Association of COVID-19 Susceptibility and Severity with Primary Angle-Closure Glaucoma.,Ophthalmic epidemiology,8;18,,"Journal Article;Research Support, Non-U.S. Gov't;Address"
 40778174,2025,Multi-ancestry Genome-wide Association Study of Inpatient Opioid Dosing Following Knee or Hip Arthroplasty.,medRxiv : the preprint server for health sciences,2;4,,Journal Article;Preprint
 40730666,2025,Genome-wide analysis of 3' untranslated region alternative polyadenylation quantitative trait loci identified a potential novel susceptibility locus for lung cancer in cross-ancestry populations.,Journal of human genetics,2;5,,Journal Article
 40695203,2025,"Traumatic brain injury, environmental exposures, and subjective cognition in post-9/11 veterans enrolled in the VA Million Veteran Program.",Journal of the neurological sciences,14,,Journal Article
@@ -156,7 +168,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39226462,2024,Whole-genome analysis of plasma fibrinogen reveals population-differentiated genetic regulators with putative liver roles.,Blood,2,,Journal Article
 39211851,2025,An atlas of genetic effects on the monocyte methylome across European and African populations.,medRxiv : the preprint server for health sciences,2,,Journal Article;Preprint
 39193854,2025,Cognitive symptoms in veterans with migraine or traumatic brain injury: A Million Veteran Program study.,Headache,4;14,,"Journal Article;Observational Study;Research Support, U.S. Gov't, Non-P.H.S."
-39163132,2024,Protein-truncating variant in APOL3 increases chronic kidney disease risk in epistasis with APOL1 risk alleles.,JCI insight,1;2,,Journal Article
+39163132,2024,Protein-truncating variant in APOL3 increases chronic kidney disease risk in epistasis with APOL1 risk alleles.,JCI insight,1;2,,"Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural"
 39158558,2024,Measuring Frailty Using Self-Report or Automated Tools to Identify Risk of Cardiovascular Events and Mortality: The Million Veteran Program.,Journal of the American Heart Association,1;11;14,,Journal Article
 39158361,2024,Development of electronic health record based algorithms to identify individuals with diabetic retinopathy.,Journal of the American Medical Informatics Association : JAMIA,1;2;3;18,,"Journal Article;Validation Study;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't"
 39158116,2025,Genetically predicted lipoprotein(a) associates with coronary artery plaque severity independent of low-density lipoprotein cholesterol.,European journal of preventive cardiology,1;2,,Journal Article
@@ -180,7 +192,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38779869,2024,Agent orange exposure and prostate cancer risk in the million veteran program.,"Acta oncologica (Stockholm, Sweden)",2;5,,Journal Article
 38762090,2024,Design and pilot results from the Million Veteran Program Return Of Actionable Results (MVP-ROAR) Study.,American heart journal,1;10;17,,"Journal Article;Randomized Controlled Trial;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S."
 38634508,2024,Genetic Causal Relationship Between Alanine Aminotransferase Levels and Risk of Gestational Diabetes Mellitus: Mendelian Randomization Analysis Based on Two Samples.,Twin research and human genetics : the official journal of the International Society for Twin Studies,1;2;10;15,,"Journal Article;Research Support, Non-U.S. Gov't"
-38608262,2024,"Type 1 Diabetes Genetic Risk in 109,954 Veterans With Adult-Onset Diabetes: The Million Veteran Program (MVP).",Diabetes care,1;2,,Journal Article
+38608262,2024,"Type 1 Diabetes Genetic Risk in 109,954 Veterans With Adult-Onset Diabetes: The Million Veteran Program (MVP).",Diabetes care,1;2,,"Journal Article;Research Support, N.I.H., Extramural;Research Support, U.S. Gov't, Non-P.H.S.;Research Support, Non-U.S. Gov't"
 38582945,2024,"A multi-ancestry GWAS of Fuchs corneal dystrophy highlights the contributions of laminins, collagen, and endothelial cell regulation.",Communications biology,2;6,,Meta-Analysis;Journal Article
 38577307,2023,Leveraging the Million Veteran Program Infrastructure and Data for a Rapid Research Response to COVID-19.,"Federal practitioner : for the health care professionals of the VA, DoD, and PHS",8,,Journal Article
 38551561,2024,"Prevalence, Morbidity, and Mortality of Men With Sex Chromosome Aneuploidy in the Million Veteran Program Cohort.",JAMA network open,2;17,,"Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural;Research Support, U.S. Gov't, Non-P.H.S."
@@ -192,11 +204,11 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38476344,2023,Data resource profile: nutrition data in the VA million veteran program.,International journal of population data science,,,Journal Article
 38464744,2024,Development and utility of a clinical research informatics application for participant recruitment and workflow management for a return of results pilot trial in familial hypercholesterolemia in the Million Veteran Program.,JAMIA open,10;17,,Journal Article
 38441278,2024,An extra X chromosome among adult women in the Million Veteran Program: A more benign perspective of trisomy X.,"American journal of medical genetics. Part C, Seminars in medical genetics",1;2;11;18,,Journal Article
-38429522,2024,"A multi-ancestry genetic study of pain intensity in 598,339 veterans.",Nature medicine,2;4,,Meta-Analysis;Journal Article
+38429522,2024,"A multi-ancestry genetic study of pain intensity in 598,339 veterans.",Nature medicine,2;4,,"Meta-Analysis;Journal Article;Research Support, N.I.H., Extramural;Research Support, U.S. Gov't, Non-P.H.S."
 38416462,2024,Novel Polygenic Risk Score and Established Clinical Risk Factors for Risk Estimation of Aortic Stenosis.,JAMA cardiology,1;2,,Randomized Controlled Trial;Journal Article
 38382819,2024,Unraveling COVID-19 relationship with anxiety disorders and symptoms using genome-wide data.,Journal of affective disorders,2;4;8,,"Journal Article;Research Support, N.I.H., Extramural"
 38380516,2024,Multi-Ancestry Polygenic Risk Score for Coronary Heart Disease Based on an Ancestrally Diverse Genome-Wide Association Study and Population-Specific Optimization.,Circulation. Genomic and precision medicine,1;2;6,,Journal Article
-38355787,2024,Pleiotropy and genetically inferred causality linking multisite chronic pain to substance use disorders.,Molecular psychiatry,2;4,,Journal Article
+38355787,2024,Pleiotropy and genetically inferred causality linking multisite chronic pain to substance use disorders.,Molecular psychiatry,2;4,,"Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural"
 38352469,2024,Protein identification for stroke progression via Mendelian Randomization in Million Veteran Program and UK Biobank.,medRxiv : the preprint server for health sciences,1;2;10;14,14.2-stroke-cerebro,Preprint;Journal Article
 38330144,2024,Genetic Analysis of Obstructive Sleep Apnea and Its Relationship with Severe COVID-19.,Annals of the American Thoracic Society,2;8;13,,Journal Article
 38293137,2024,A genome-wide investigation into the underlying genetic architecture of personality traits and overlap with psychopathology.,medRxiv : the preprint server for health sciences,2;4,,Preprint;Journal Article

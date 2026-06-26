@@ -59,9 +59,12 @@ biobank) directed straight to this approach. Implications:
 - Comparisons are internally consistent because the same heuristic is
   applied to all four peers.
 
-UKB returns ~12,000 pubs by name-search; we sampled 5,831 in
-year-stratified windows. FinnGen, MVP, and CKB are pulled in their
-entirety (3,075 / 426 / 551 returns respectively).
+All four corpora are **full name-search censuses** (no sampling, as of the
+2026-06-26 refresh). UKB's ~11,882-pub universe exceeds NCBI's
+~9,999-per-WebEnv esearch limit, so it is pulled in year windows and
+unioned (11,868 pubs). FinnGen, MVP, and CKB are pulled in their entirety
+(3,152 / 438 / 558 returns respectively). Note: "~12,000" denotes the UKB
+publication *universe*, not a count of fetches.
 
 ## Reproducibility
 

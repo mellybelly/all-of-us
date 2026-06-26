@@ -4,9 +4,9 @@
 
 ## TL;DR
 
-Comparing All of Us's 1,374-pub substantive corpus against UK Biobank
-(5,831 pubs, year-stratified sample of ~12k name-search returns), FinnGen
-(3,075), Million Veteran Program (426), and China Kadoorie Biobank (551)
+Comparing All of Us's 1,428-pub substantive corpus against UK Biobank
+(11,868 pubs, full name-search census), FinnGen (3,152), Million Veteran
+Program (438), and China Kadoorie Biobank (558)
 surfaces a consistent signal: **AoU is materially under-indexed on
 multi-omics-beyond-genomics, imaging-anchored analyses, nutrition /
 microbiome, and rare-disease / Mendelian genetics.** These four areas
@@ -166,12 +166,11 @@ the AoU landscape README).
    pubs that use the data but don't mention the name. Comparisons are
    internally consistent (same heuristic across all peers) but
    absolute counts should not be treated as authoritative.
-2. **UKB was sampled with year stratification** (cap ~1000/window) to
-   correct for PubMed's default date-desc sort. The 5,831 UKB pubs
-   pulled are a representative sample of ~12,000 name-search returns,
-   not a full enumeration. Year-windowed sampling means UKB year
-   distribution doesn't reflect actual publication volume by year, only
-   relative pre/post-2023 mixing.
+2. **UKB is a full census pulled via year windows** (uncapped) to work
+   around NCBI's ~9,999-per-WebEnv esearch limit on a single all-years
+   query. The 11,868 UKB pubs are the complete name-search corpus (~14
+   short of the ~11,882 universe, pre-2007 pubs outside the windows), so
+   the UKB year distribution now reflects actual publication volume.
 3. **MVP's 426-pub corpus is small.** PubMed name-search for MVP is
    known to undercount; the VA-maintained list is likely 2-3× larger.
    The signals from MVP are therefore noisier than from UKB / FinnGen.

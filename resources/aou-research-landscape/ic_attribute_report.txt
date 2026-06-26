@@ -1,4 +1,4 @@
-Total publications: 1378
+Total publications: 1432
 Publications with non-N/A grant string: 445
 Publications with at least one parseable grant ID: 429
 Publications with at least one IC attribution: 422

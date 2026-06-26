@@ -58,8 +58,26 @@ def load_tagged_pubs() -> dict[str, dict]:
     return out
 
 
+def _load_filled_abstracts() -> dict[str, str]:
+    """record_id -> gap-filled abstract from fulltext_augmented.jsonl (if any).
+    Abstract-level only (no full-text body) so hot-area trends stay
+    year-comparable."""
+    aug = LANDSCAPE / "fulltext_augmented.jsonl"
+    out: dict[str, str] = {}
+    if aug.exists():
+        with aug.open() as f:
+            for line in f:
+                r = json.loads(line)
+                if r.get("abstract_filled"):
+                    out[str(r.get("record_id"))] = r["abstract_filled"]
+    return out
+
+
 def load_text_for_pubs(record_ids: set[str]) -> dict[str, dict]:
-    """Return {record_id: {title, abstract, year}} for the requested set."""
+    """Return {record_id: {title, abstract, year}} for the requested set.
+    Abstracts are gap-filled from fulltext_augmented.jsonl where the original
+    feed had none."""
+    filled = _load_filled_abstracts()
     src = LANDSCAPE / "publications_with_ic.jsonl"
     out: dict[str, dict] = {}
     with src.open() as f:
@@ -81,6 +99,7 @@ def load_text_for_pubs(record_ids: set[str]) -> dict[str, dict]:
                 rec.get("calc_abstract")
                 or rec.get("manual_abstract")
                 or rec.get("pdr_abstract")
+                or filled.get(rid)
                 or ""
             )
             year = (

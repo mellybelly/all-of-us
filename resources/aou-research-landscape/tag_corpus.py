@@ -44,6 +44,7 @@ from __future__ import annotations
 
 import csv
 import json
+import os
 import random
 import re
 import sys
@@ -54,11 +55,37 @@ ROOT = Path(__file__).resolve().parent
 PUBS_IN = ROOT / "publications_with_ic.jsonl"
 PROJ_IN = ROOT / "projects_filtered.jsonl"
 
-PUBS_OUT_JSONL = ROOT / "publications_tagged.jsonl"
-PUBS_OUT_CSV = ROOT / "publications_tagged.csv"
+# Tagging text source for publications. Controlled by env var AOU_TAG_MODE:
+#   "abstract" (default) — tag on title + (gap-filled) abstract. Comparable
+#                          across years and to the abstract-only peer biobanks.
+#   "fulltext"           — also append PMC full-text *body* (back-matter
+#                          stripped) where available. Richer cross-sectional
+#                          theme map; NOT year-comparable (OA coverage skews
+#                          to recent papers — see README).
+# Both modes use gap-filled abstracts from fulltext_augmented.jsonl when present.
+MODE = os.environ.get("AOU_TAG_MODE", "abstract").strip().lower()
+AUG_IN = ROOT / "fulltext_augmented.jsonl"
+_SUFFIX = "_fulltext" if MODE == "fulltext" else ""
+
+PUBS_OUT_JSONL = ROOT / f"publications_tagged{_SUFFIX}.jsonl"
+PUBS_OUT_CSV = ROOT / f"publications_tagged{_SUFFIX}.csv"
 PROJ_OUT_JSONL = ROOT / "projects_tagged.jsonl"
 PROJ_OUT_CSV = ROOT / "projects_tagged.csv"
-THEME_SUMMARY_CSV = ROOT / "theme_summary.csv"
+THEME_SUMMARY_CSV = ROOT / f"theme_summary{_SUFFIX}.csv"
+
+
+def _load_augmentation() -> dict:
+    """Map record_id -> {abstract_filled, fulltext_body, has_fulltext,
+    abstract_source}. Empty dict if the augmentation file is absent."""
+    aug = {}
+    if AUG_IN.exists():
+        for line in AUG_IN.open():
+            r = json.loads(line)
+            aug[str(r.get("record_id"))] = r
+    return aug
+
+
+AUG = _load_augmentation()
 
 # ----------------------------------------------------------------------------
 # Taxonomy
@@ -782,7 +809,16 @@ def tag_publications():
         for line in f:
             d = json.loads(line)
             title, abstract, year, pmid = extract_pub_text(d)
+
+            # Augmentation: gap-filled abstract (both modes) + full-text body
+            # (fulltext mode only). Meta detection always stays abstract-level.
+            aug = AUG.get(str(d.get("record_id")), {})
+            if aug.get("abstract_filled"):
+                abstract = aug["abstract_filled"]
             text = f"{title}\n{abstract}"
+            if MODE == "fulltext" and aug.get("has_fulltext"):
+                text = f"{text}\n{aug.get('fulltext_body', '')}"
+
             themes, evidence, subthemes = tag_record(text, title=title)
             meta = detect_meta(title, abstract)
 
@@ -805,6 +841,9 @@ def tag_publications():
                 "in_substantive_corpus": in_substantive,
                 "admin_ics": d.get("_admin_ics", []),
                 "cofunding_ics": d.get("_cofunding_ics", []),
+                "tag_mode": MODE,
+                "tagged_on_fulltext": bool(MODE == "fulltext" and aug.get("has_fulltext")),
+                "abstract_source": aug.get("abstract_source", "orig" if abstract else "none"),
             })
     return out
 
@@ -1047,6 +1086,9 @@ def report_stats(label: str, rows: list[dict]) -> dict:
 
 
 def main():
+    n_aug_ft = sum(1 for r in AUG.values() if r.get("has_fulltext"))
+    print(f"Tag mode: {MODE!r}  (augmentation records: {len(AUG)}, "
+          f"with full text: {n_aug_ft})", flush=True)
     print("Tagging publications…", flush=True)
     pubs = tag_publications()
     print(f"  {len(pubs)} publication records processed", flush=True)

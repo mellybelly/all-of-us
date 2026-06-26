@@ -5,3 +5,10 @@ __pycache__/
 *.tmp
 # Microsoft Office lock files
 ~$*
+
+# Large, regenerable raw API caches (rebuildable via the acquisition scripts).
+# Derived/analysis outputs and the augmented jsonl ARE tracked; the bulky raw
+# XML/JSON responses are not.
+resources/peer-biobanks/raw/*_efetch_*.xml
+resources/aou-research-landscape/raw/fulltext/
+resources/aou-research-landscape/raw/abstracts/

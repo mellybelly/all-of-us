@@ -1,4 +1,73 @@
 pubmed_id,year,title,journal,themes,subthemes,publication_types
+42351606,2026,Insulin Resistance-Related Traits and Diabetic Maculopathy: Causal Insights from Mendelian Randomization.,Biomedicines,1;2;10,,Journal Article
+42350979,2026,Dissecting the shared genetic architecture between migraine subtypes and cardiovascular diseases: a multi-layered genomic analysis.,The journal of headache and pain,1;2;14,,Journal Article
+42346336,2026,Mendelian Randomization Analysis of Systemic Iron Status and Risk of Metabolic Dysfunction-Associated Steatotic Liver Disease.,Metabolites,1;2;5;10,,Journal Article
+42344833,2026,"Differential Causal Associations of Gut Microbiota, Blood Metabolites, and Immune Cell Phenotypes With Early- and Late-Onset Alzheimer's Disease: A Bidirectional Mendelian Randomization Analysis.",Cureus,2;10;11,,Journal Article
+42344507,2026,Peripheral B cell immune dysregulation genetically contributes to stage-dependent neuroinflammation and identifies priority therapeutic targets in Parkinson's disease: a computational integration of Mendelian randomization and single-cell transcriptomics.,Frontiers in medicine,2;10;11,,Journal Article
+42343651,2026,"Integration of single-cell cis-expression quantitative trait locus and Mendelian randomization analyses identifies a Treg-specific gene for precision therapy in rheumatoid arthritis, gonarthrosis, and gouty arthritis.",The Journal of international medical research,2;9;10,,Journal Article
+42334208,2026,Modifiable risk factors for tinnitus: A Mendelian randomization study.,The Journal of international medical research,2;10;18,,Journal Article;Meta-Analysis
+42334105,2026,Genetic Correlation and Causal Inference Between Female Fat Distribution and Preeclampsia: An Integrative Genomic Study.,FASEB journal : official publication of the Federation of American Societies for Experimental Biology,1;2;15,,Journal Article
+42333856,2026,Immune Cell-Specific Genetic Regulation in Graves' Disease: An Integrative Mendelian Randomization Study.,"Endocrine, metabolic & immune disorders drug targets",2;10,,Journal Article
+42333391,2026,Novel susceptibility genes for varicose veins revealed by a cross-tissue transcriptome-wide association study.,Science progress,2,,Journal Article
+42332816,2026,PCSK9 inhibitors do not increase cognitive risk.,Biology direct,1;2;11,,Journal Article
+42332533,2026,Causal associations between mitochondrial DNA copy number and gastrointestinal diseases: A Mendelian randomization study.,Medicine,2;9;10,,Journal Article;Meta-Analysis
+42332442,2026,"A two-sample bidirectional Mendelian randomization study on gut microbiota, dental caries, and toothache.",Medicine,2;10,,Journal Article
+42330174,2026,Causal Relationship Between Gut Microbiota and Female Infertility: A Bidirectional Mendelian Randomization Analysis.,JBRA assisted reproduction,2;10;15,,Journal Article
+42328488,2026,Exploring the Role of Skin Microbiota in Autoimmune Skin Diseases from a Bidirectional Mendelian Randomization Perspective.,"Clinical, cosmetic and investigational dermatology",2;9;10;12,,Journal Article
+42328113,2026,Genetic Evidence for the Benefits and Risks of Glucose-Lowering Drugs on Cardiovascular-Kidney-Metabolic Syndrome: A Drug-Target Mendelian Randomization Study.,International journal of medical sciences,1;2;10;14,1.3-CKM,Journal Article;Meta-Analysis
+42325939,2026,The Gut-Disc Axis: Mendelian Randomization Study Reveals Causal Effects of Gut Microbiota on Intervertebral Disc Degeneration Not Mediated by Systemic Inflammation.,International journal of general medicine,2;10,,Journal Article
+42324202,2026,Association of Sodium-Glucose Cotransporter-2 Inhibitors With Incident Gout Risk: A Population-Based Comparative Cohort Study With Genetic Evidence From Mendelian Randomisation.,"Diabetes, obesity & metabolism",1;10,,Journal Article
+42323475,2026,Identifying druggable proteins of the association of chronotype on breast cancer using Mendelian randomization.,Communications medicine,2;5;10,,Journal Article
+42323305,2026,PGS Browser: a public platform for personalized polygenic score analysis and interpretation.,Nature communications,2,,Journal Article
+42320654,2026,Causal relationship between plasma branched-chain amino acids levels and nonalcoholic fatty liver disease: a bidirectional Mendelian randomization study.,Experimental gerontology,1;2;10,,Journal Article
+42317351,2026,Inflammatory protein mediators linking gut microbiota to degenerative lumbar spine disorders: cross-disease genetic evidence.,Frontiers in immunology,2,,Journal Article
+42316505,2026,Causal Relationship Between 91 Inflammatory Factors and Gastritis: A Two-Sample Bidirectional Mendelian Randomization Study.,Current molecular medicine,2;5;10,,Journal Article
+42310951,2026,Genetic architecture of 67 oral diseases and their links to systemic diseases.,HGG advances,2;12,,Journal Article
+42308237,2026,Ultra-fast genetic colocalisation across millions of association signals.,PLoS genetics,2,,Journal Article
+42307217,2026,Integrating Pharmacovigilance Data Mining and Mendelian Randomization to Identify Risk Profiles and Causal Targets of Opioid-Induced Delirium.,CNS neuroscience & therapeutics,2;4;10,,"Journal Article;Research Support, Non-U.S. Gov't"
+42306489,2026,Bidirectional Associations Between Frailty and Preeclampsia: A Two-Sample Mendelian Randomization Study.,International journal of women's health,1;2;10;11;15,,Journal Article
+42305872,2026,Causal interplay between lactose intolerance and gut microbiota: a combined bidirectional Mendelian randomization and in vivo validation study.,Frontiers in nutrition,2;10,,Journal Article
+42305533,2026,Multi-layered functional genomics prioritizes candidate effectors and regulatory mechanisms of ankylosing spondylitis.,Frontiers in immunology,2;9;12,,Journal Article;Meta-Analysis
+42305347,2026,Causal associations between sleep apnea and dementia: a two-sample Mendelian randomization study.,Archives of medical science : AMS,2;10;11;13,,Journal Article
+42305319,2026,"Bidirectional associations of depression, anxiety, sleep disorders, and constipation: insights from Mendelian randomization.",Archives of medical science : AMS,2;4;10,,Journal Article
+42305310,2026,The causal effects of 1400 genetically determined human blood metabolites and metabolite ratios on the risk of gastrointestinal tumors: a Mendelian randomization study.,Archives of medical science : AMS,2;5;10,,Journal Article
+42304365,2026,"An integrative framework combining Mendelian randomization, single-cell profiling, and experimental validation identifies FTMT as a mitochondrial-immune regulator in non-small cell lung cancer.",Cancer cell international,2;5;10;16,,Journal Article
+42304163,2026,Integrated Genomic and Transcriptomic Analysis Reveals the Genetic Basis and Causal Association Between Obesity and Atrial Fibrillation.,"Diabetes, obesity & metabolism",1;2,,Journal Article
+42300297,2026,Gene-predicted Causal Association of Immune Cell-mediated Plasma Metabolites with Acute Hepatitis B: A Mendelian Randomization Study.,"Endocrine, metabolic & immune disorders drug targets",2;8;10,,Journal Article
+42299524,2026,Causal link between folic acid and recurrent aphthous ulcers: A two-sample Mendelian randomization study.,Medicine,2;10,,Journal Article
+42298530,2026,Genetically predicted urinary sodium excretion and urolithiasis risk: a two-sample mendelian randomization study.,BMC urology,2;10,,Journal Article
+42298291,2026,Sleep and dementia: Assessing established dementia-related factors using multivariable Mendelian randomization.,Alzheimer's & dementia : the journal of the Alzheimer's Association,1;2;10;11;13,,Journal Article
+42297840,2026,Network-informed multi-trait genomic analysis decodes the shared genetic architecture and therapeutic landscape of pelvic floor disorders.,npj aging,2;15,,Journal Article
+42296063,2026,"Sedentary Behavior, Physical Activity, and Hypertension: Genetic Liability and the Role of Metabolic Factors.",Clinical cardiology,1;2;7,,Journal Article
+42295059,2026,"Integrative Drug-Target Causal Analysis, Single-Cell Sequencing and In-Vivo Validation for Dissecting Molecular Mechanisms Underlying Focal Epilepsy.",CNS neuroscience & therapeutics,2;14,,"Journal Article;Research Support, Non-U.S. Gov't"
+42293830,2026,The role of lipid-lowering drugs in urologic and male reproductive cancers: a Mendelian randomization study.,Translational andrology and urology,1;2;5;10,,Journal Article
+42289879,2026,Distinct causal associations of mitochondrial function-related proteins with eclampsia versus pre-eclampsia: a two-sample Mendelian randomization analysis.,"The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",2;10;15,,Journal Article
+42286187,2026,Biobank-based genetic characterization of neurodegenerative diseases and idiopathic normal pressure hydrocephalus: insights and lessons learned from FinnGen.,Molecular psychiatry,2;11,,Journal Article;Review
+42284210,2026,Causal associations between antibody-mediated immune responses to infectious agents and cardiovascular inflammatory diseases: A Mendelian randomization study based on UK Biobank and FinnGen.,Human vaccines & immunotherapeutics,1;2;8;9;10,,Journal Article
+42282992,2026,CLEC4G Promotes Pancreatic Cancer Progression by Suppressing Cathepsin B-Mediated Ferroptosis: Evidence From Mendelian Randomization Study and Experimental Validation.,Human mutation,2;5;10,,Journal Article
+42277436,2026,Association and risk prediction of 19 complex diseases with polygenic scores and socioeconomic status.,Communications medicine,2;3;6,,Journal Article
+42276423,2026,Polygenic risk impacts lifetime risk and prognosis of glaucoma.,Ophthalmology,2;18,,Journal Article
+42275142,2026,Cross-Species Comparison between Mouse Kidney Multi-Omics and Human Genome-Wide Association Studies Highlights Molecular Features Associated with Oxalate Nephropathy.,Kidney360,1;2,,Journal Article
+42269280,2026,Multi-Omics Integration Reveals the Genetic Mechanisms of Periodontitis and Predicts Therapeutic Drugs.,International dental journal,2,,Journal Article
+42265473,2026,Multiomics integration prioritizes potential drug targets for lung cancer.,Discover oncology,2;5,,Journal Article
+42260878,2026,Causal genes for osteoporosis: Mendelian randomization analysis with multilayer xQTL data.,Medicine,2;10,,Journal Article
+42260866,2026,Causal link between maternal PCOS and fetal/neonatal hemorrhagic and hematological disorders: A 2-sample MR study.,Medicine,1;2;4;15,,Journal Article
+42260829,2026,The effects of plasma protein levels on the risk of endometriosis: A Mendelian randomization study.,Medicine,2;10;15,,Journal Article
+42260813,2026,Causal effects between blood metabolites and myocardial infarction: A 2-sample Mendelian randomization study.,Medicine,1;2;10,,Journal Article
+42257465,2026,Integrative multi-omics analysis-based Mendelian randomization identifies association of DNA repair-related genes with oral cancer.,Cancer biomarkers : section A of Disease markers,2;5;10,,Journal Article
+42257261,2026,"Immune-Mediated Gut-Lung Axis in IPF: Bidirectional Mendelian Randomization and Mediation Analysis of Microbiota, Inflammatory Proteins, and Metabolites.","Endocrine, metabolic & immune disorders drug targets",2;10,,Journal Article
+42256007,2026,A Primary Open-Angle Glaucoma Locus Near Transcription Factor PRRX1 Identified in the Million Veteran Program.,Ophthalmology science,2;18,,Journal Article
+42255437,2026,"Multi-omics Mendelian randomization integrating metabolism, microbiome and immunity supports a putative gut-immune-pelvic pathway in deep infiltrating endometriosis.",Frontiers in endocrinology,2;3;10;15,,Journal Article
+42253798,2026,Dissecting the polygenic architecture of psychopathology via singular value decomposition of eight psychiatric genome-wide association studies and evaluation of component-based polygenic scores.,General psychiatry,2;4,,Journal Article
+42253256,2026,The Role of Firmicutes in Coronary Artery Disease: A Taxonomic-Level Meta-Analysis of Mendelian Randomization Studies.,Current cardiology reviews,1;2;10,,Journal Article;Meta-Analysis
+42251941,2026,Erucic acid aggravates cardiac fibrosis after myocardial infarction by CD36-mediated metabolic reprogramming with impaired mitochondrial aerobic oxidation.,Cellular signalling,1;2,,Journal Article
+42251386,2026,Identification of macrophage polarization-related genes for esophageal cancer risk: a multi-omics Mendelian randomization analysis.,Clinical epigenetics,2;5;10,,Journal Article
+42249740,2026,Dissecting Immune Cell Ferroptosis via Single-Cell Multi-Omics Identifies RPL8 as a Potential Therapeutic Target for Depression.,FASEB journal : official publication of the Federation of American Societies for Experimental Biology,2;4,,Journal Article
+42243103,2026,Integrative genomic analysis of 21 orofacial diseases identifies shared genetic architecture with systemic diseases.,Nature communications,1;2;5;14,,Journal Article
+42238462,2026,Wavelet Decomposition-Based Genomic Analysis of the Human Electrocardiogram.,medRxiv : the preprint server for health sciences,1;2,,Journal Article;Preprint
+42238393,2026,GWAS Meta-analysis Identifies Novel Associated Loci and Points to Causal Tissues in Central Serous Chorioretinopathy.,medRxiv : the preprint server for health sciences,2;18,,Journal Article;Preprint
+42238040,2026,Large-scale Searching for Causal Relationships of Body Mass Index Bridged Modifiable Lifestyle Factors on Colorectal Cancer Risk: A phenome-Wide Mendelian Randomization Study.,"Phenomics (Cham, Switzerland)",2;5;10,,Journal Article
+42232215,2026,Genetic inference of the etiological crosstalk between primary glaucomas and retinal vascular occlusions.,Advances in ophthalmology practice and research,1;2;14;18,,Journal Article
 42227395,2026,"Proteome-wide Mendelian Randomization and Colocalization Nominate CD58, PARP1, and Immune Co-stimulatory Pathways as Genetically Supported Targets for Multiple Sclerosis.",Current neuropharmacology,2;9;10;14,,Journal Article
 42227366,2026,Target Perturbation of Genetically Proxied Antidiabetic Drug Targets and Pneumonia Risk: A Mendelian Randomization Analysis.,Current topics in medicinal chemistry,1;2;10,,Journal Article
 42223506,2026,The Association Between Immune Cells and Venous Thromboembolism: A Causal Inference Based on Mendelian Randomization.,Clinical and applied thrombosis/hemostasis : official journal of the International Academy of Clinical and Applied Thrombosis/Hemostasis,1;2;10,,Journal Article
@@ -7,7 +76,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 42218054,2026,"Genetically predicted gut bacteria, circulating bacteria-associated metabolites and liver cancer: A Mendelian randomisation study.",Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver,1;5;10,,Journal Article
 42216396,2026,Lipid-lowering drugs and essential hemorrhagic thrombocythemia's risk: A drug-target Mendelian randomization study.,Medicine,1;2;10,,Journal Article
 42216389,2026,Association between coffee consumption and the risk of thyroid cancer: A Mendelian randomization study.,Medicine,2;5;10,,Journal Article
-42216352,2026,Gut microbiota may influence Sjögren's syndrome risk through immune cell mediation: A Mendelian randomization analysis.,Medicine,2;9;10,,Journal Article;Observational Study
+42216352,2026,Gut microbiota may influence Sjögren's syndrome risk through immune cell mediation: A Mendelian randomization analysis.,Medicine,2;9;10,,Journal Article
 42216331,2026,The causal role of plasma metabolites in breast cancer susceptibility mediated by immune cells: A two-sample Mendelian randomization analysis.,Medicine,2;5;10,,Journal Article
 42210767,2026,Noninvasive early warning markers for ovarian cancer: a Mendelian randomization study.,Journal of gynecologic oncology,2;5;10,,Journal Article
 42210128,2026,"Reduced HSD17B1 expression in preeclampsia: integrated transcriptomic, summary Mendelian randomization, immune deconvolution, and experimental validation.",BMC pregnancy and childbirth,1;2;10;15,,Journal Article
@@ -71,20 +140,23 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 42071857,2026,"Causal relationship between circulating immune cells, cytokines and different types of autoimmune liver diseases: A univariable and multivariable Mendelian randomization study.",Medicine,2;9;10,,Journal Article
 42071849,2026,Integrative Mendelian randomization reveals the mediating role of immune cell traits in the causal pathway from gene expression to neonatal bacterial sepsis.,Medicine,2;8;10,,Journal Article
 42071838,2026,DNA methylation-regulated ZDHHC5 and PPT1 in the pathogenesis of osteoporosis.,Medicine,2,,Journal Article
-42069741,2026,Population-based genome-wide association study of plasma complex lipid species.,Nature communications,1;2,,"Journal Article;Research Support, Non-U.S. Gov't"
+42069741,2026,Population-based genome-wide association study of plasma complex lipid species.,Nature communications,1;2,,Journal Article
 42067686,2026,Focus on M2-TAMs and gastric cancer: a Mendelian randomization and bioinformatics analysis.,Molecular genetics and genomics : MGG,2;5;10,,Journal Article
 42067089,2026,Identifying THBS3 as a potentially viable therapeutic target for gastric cancer: Intergration of Mendelian randomization and cell experiments validation study.,International journal of biological macromolecules,2;5;10,,Journal Article
 42058724,2026,Genetic Evidence Links Gestational Diabetes Mellitus to Increased ER-Negative Breast Cancer Risk Through a Mendelian Randomization Analysis.,International journal of endocrinology,1;2;5;10;15,,Journal Article
 42058110,2026,The causal relationship in hypertensive encephalopathy: mechanistic analysis of five specific circulating cytokines.,"Open medicine (Warsaw, Poland)",1;2;5;14,,Journal Article
 42054755,2026,Causal associations between plasma metabolites and head and neck cancer: a bidirectional Mendelian randomization study.,Brazilian journal of otorhinolaryngology,2;5;10,,Journal Article
+42053686,2026,The causal relationship between polycystic ovary syndrome and structural changes in brain: a Mendelian randomization study.,Brain imaging and behavior,2;10;15,,Journal Article
 42051519,2026,Identification of key biomarkers for myocardial infarction by multi-omics analysis and machine learning.,Frontiers in immunology,1;2;3,,Journal Article
 42051091,2026,Exploring Risk Drugs and Mechanisms in Dystonia: Insights from Pharmacovigilance and Proteogenomics.,Current neuropharmacology,2;11;14,,Journal Article
 42050911,2026,Exploring the causal effect of genetically predicted blood and cerebrospinal fluid metabolites and metabolic pathways on intracranial aneurysm.,The Journal of international medical research,1;2;14,,Journal Article;Meta-Analysis
 42047863,2026,The effects of micronutrients on the risk of upper gastrointestinal diseases: a two-sample Mendelian randomization study.,European journal of nutrition,2;5;10,,Journal Article
 42047173,2026,The causality between gut microbiota and ectopic pregnancy based on genome-wide association: A Mendelian randomization study.,African journal of reproductive health,2;10;15,,Journal Article
 42045633,2026,Genome-wide association study identifies protective genetic factors in active blood donors against multiple diseases.,European journal of human genetics : EJHG,2,,Journal Article
+42045466,2026,Identification of novel protein markers and therapeutic targets for common urological cancers by integrating large-scale human plasma proteome with the genome.,Scientific reports,2;5,,Journal Article
+42043654,2026,Identification of key genes as diagnostic biomarkers for lung adenocarcinoma using bioinformatics and machine learning.,Discover oncology,2;3;5,,Journal Article
 42032965,2026,Causal relationships of inflammatory cytokines and serum metabolites with colorectal carcinoma: A Mendelian randomization study.,Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences,2;5;10,,Journal Article
-42026994,2026,Causal association between systemic diseases and periodontitis: a twoway two-sample Mendelian randomization study.,"Quintessence international (Berlin, Germany : 1985)",1;2;10;14;18,,Journal Article
+42026994,2026,Causal association between systemic diseases and periodontitis: a two-way two-sample Mendelian randomization study.,"Quintessence international (Berlin, Germany : 1985)",1;2;10;14;18,,Journal Article
 42025820,2026,Exploring the regulatory mechanisms of antidiabetic drugs on osteoporosis and Bone mineral density.,Experimental gerontology,2,,Journal Article
 42025426,2026,Systematic elucidation of the cross-omics regulatory network in chronic rhinosinusitis: the LAT-IL23R metabolic axis.,Brazilian journal of otorhinolaryngology,2;18,,Journal Article
 42025296,2026,DNA Methylation Regulates CDK5R1 and NRBP1 to Exert Effects on Alcohol Dependence: Insights From Mendelian Randomization.,Addiction biology,2;10,,Journal Article
@@ -93,7 +165,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 42019808,2026,Causal statistical association between remnant cholesterol and coronary heart disease: genetic insights into the PSRC1-CELSR2-SORT1 gene cluster.,Journal of lipid research,1;2,,Journal Article
 42015547,2026,Inhibition of adenosine kinase alleviates hypertrophic cardiomyopathy by ameliorating coronary microvascular dysfunction.,ESC heart failure,1;2,,Journal Article
 42011270,2026,The Role of Vitamin B6 and Folate-Related Pathways Involved in Gut Microbial Composition in the Development of Preeclampsia: Metabolome-Wide Mendelian Randomization Analysis.,Health science reports,1;2;10;15,,Journal Article
-42010892,2026,Higher Body Mass Index Is a Causal Risk Factor for Skin Infections: A Mendelian Randomisation Study Using UK Biobank and FinnGen.,"Diabetes, obesity & metabolism",2;10,,Journal Article
+42010892,2026,Higher Body Mass Index Is a Causal Risk Factor for Skin Infections: A Mendelian Randomisation Study Using UK Biobank and FinnGen.,"Diabetes, obesity & metabolism",2;10,,Journal Article;Observational Study
 42010886,2026,Genetic risk factors in Finnish patients with Fuchs endothelial corneal dystrophy.,Acta ophthalmologica,2,,Journal Article
 42007325,2026,Causal Effects of Common Pregnancy Complications on Neonatal Birth Weight: A Mendelian Randomization Study.,International journal of women's health,1;2;10;15,,Journal Article
 42006396,2026,Obstructive Sleep Apnea and Female Reproductive Endocrine Diseases: A Mendelian Randomization and Mediation Analysis.,International journal of endocrinology,1;2;10;13;15,,Journal Article
@@ -114,7 +186,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41967304,2026,Genetic predisposition to smoking and the risk of Carpal Tunnel Syndrome: a mendelian randomization study.,"Clinics (Sao Paulo, Brazil)",2;4;10;14,,Journal Article
 41961712,2026,Causal effects of Epstein-Barr virus antibodies on autoimmune neuroinflammatory diseases: A generalised summary data-based Mendelian randomisation study.,Medicine,2;8;9;10;14,,Journal Article
 41961674,2026,Evaluating the causal role of LEPR signaling in 16 cancers: A drug-target Mendelian randomization study.,Medicine,2;5;10;12,,Journal Article
-41961647,2026,Celiac disease increases the risk of pulmonary arterial hypertension: A multivariable Mendelian randomization and mediation analysis.,Medicine,1;2;9;10;13,,Journal Article;Meta-Analysis
+41961647,2026,Celiac disease increases the risk of pulmonary arterial hypertension: A multivariable Mendelian randomization and mediation analysis.,Medicine,1;2;9;10;13,,Journal Article
 41956766,2026,[Inflammatory bowel disease increases the risk of hearing loss via autoimmunity: a Mendelian randomization study].,Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery,2;9;10;18,,English Abstract;Journal Article
 41955302,2026,Genetic variation near ROBO1 is associated with craniofacial microsomia and related phenotypes in the Finnish population.,Human molecular genetics,2,,Journal Article
 41954593,2026,Opportunistic Screening of High-Risk Breast Cancer Variants in Hospital Biobank Setting.,"Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",5,,Journal Article
@@ -122,6 +194,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41951048,2026,Antidiabetic drug effects on gastrointestinal health: convergent evidence from a longitudinal cohort and Mendelian randomization study.,Journal of advanced research,1;2;5;10,,Journal Article
 41948706,2026,Circulating Plasma Proteins Influence the Risk of Aortic Dissection via Blood Pressure: A Network Mendelian Randomization and Multi-Omics Study.,Journal of inflammation research,1;2;10,,Journal Article
 41943070,2026,"Triglyceride-glucose index, plasma metabolome and aortic stenosis: a Mendelian randomization analysis.",Journal of cardiothoracic surgery,1;2;10,,Journal Article
+41942860,2026,Causal associations between Sjögren's syndrome and subtypes of endometrial cancer.,BMC immunology,2;5;9;15,,Journal Article
 41941971,2026,The effect of SGLT2 inhibition on immune cells and transplant rejection/failure: A drug-targeted mendelian randomization study.,Transplant immunology,1;2;10,,Journal Article
 41940328,2026,Genetic evidence for causal roles of circulating proteins on breast cancer susceptibility.,iScience,2;5,,Journal Article
 41939841,2026,Genetic pharmacoepidemiology of JAK inhibitors in chronic immune-mediated skin diseases: implications for precision therapy and medication safety.,Frontiers in pharmacology,2;5;8;9;12,,Journal Article
@@ -134,7 +207,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41914530,2026,A Risk Factor Atlas for Allergy-Related Airway Diseases: Evidence From Multi-Biobank Genetic Study.,"Allergy, asthma & immunology research",1;2;4;7;9;12;13;18,,Journal Article
 41914438,2026,Causal Associations of Cerebrospinal Fluid and Circulating Metabolites With Malignant Brain Neoplasms: A Mendelian Randomization Analysis.,Brain and behavior,2;5;10,,Journal Article
 41908943,2026,Computational and Experimental Biology Reveals Dihydroartemisinin's Efficacy Against Steroid-Induced Osteonecrosis of the Femoral Head Adjusting Ferroptosis via CCL17-PRDX6.,"Drug design, development and therapy",2;11,,Journal Article
-41898761,2026,Investigating the Inflammatory Link Between Vitamin D and Hidradenitis Suppurativa: A Systematic Review and Causal Inference Analysis.,International journal of molecular sciences,2;12,,Journal Article;Systematic Review;Review
+41898761,2026,Investigating the Inflammatory Link Between Vitamin D and Hidradenitis Suppurativa: A Systematic Review and Causal Inference Analysis.,International journal of molecular sciences,2;12,,Systematic Review;Journal Article;Review
 41895592,2026,Causal Effect of Multicohort Circulating Proteome on the Risk of Aortic Aneurysm: A Mendelian Randomization Study.,Annals of vascular surgery,1;2;10,,Journal Article
 41891036,2026,Genome-wide association meta-analyses over one million individuals identify 54 loci associated with urinary incontinence and its subtypes.,medRxiv : the preprint server for health sciences,2;4;15,,Journal Article;Preprint
 41890708,2026,CCS-mediated mechanistic link between gestational diabetes mellitus and carpal tunnel syndrome: a multi-omics MR framework.,Frontiers in immunology,1;2;14;15,,Journal Article
@@ -170,7 +243,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41821112,2026,Mendelian randomization reveals DNA methylation-related pyroptosis genes associated with psoriasis risk.,Clinical epigenetics,2;9;10;12,,Journal Article
 41819985,2026,Placental weight may influence preeclampsia or eclampsia risk through modulating lipid metabolism: a mediation Mendelian randomization analysis.,"The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",1;2;10;15,,Journal Article
 41819524,2026,Integrative Mendelian randomization and experimental validation unveil novel druggable targets in primary biliary cholangitis.,European journal of pharmacology,2;10,,Journal Article
-41812932,2026,Genetic assessment of the causal relationship between obstructive sleep apnea and pulmonary hypertension: Mendelian randomization and meta-analysis.,Respiratory medicine,1;2;10;13,,"Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't"
+41812932,2026,Genetic assessment of the causal relationship between obstructive sleep apnea and pulmonary hypertension: Mendelian randomization and meta-analysis.,Respiratory medicine,1;2;10;13,,Journal Article;Meta-Analysis
 41812606,2026,Role of lipid metabolites in mediating causal effects of gut microbiota on type 2 diabetes mellitus.,Computational biology and chemistry,1;2,,Journal Article
 41811388,2026,"Comprehensive Analysis of IgA Nephropathy Causal Factors in Plasma Proteins, Immune Cell Types, and Immune Cell Traits.",Clinical journal of the American Society of Nephrology : CJASN,1;2,,Journal Article
 41810366,2026,"Triglyceride-rich lipoproteins, low-density lipoproteins, and risk of abdominal aortic aneurysm.",medRxiv : the preprint server for health sciences,1;2,,Journal Article;Preprint
@@ -184,12 +257,13 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41798317,2026,The impact of combined spinal-epidural analgesia (CSEA) on postpartum depression: A Mendelian randomization study.,Canadian journal of pain = Revue canadienne de la douleur,2;4;10;15,,Journal Article
 41797472,2026,"Causal relationship between renin-angiotensin system inhibitors and cancer: a two-sample, two-step Mendelian randomization study.",Chinese clinical oncology,1;2;5;10;15,,Journal Article
 41796324,2026,Genetic subtraction reveals divergent pathways and targets in anxiety-related and anxiety-independent TMD.,The journal of headache and pain,2;4,,Journal Article
+41793632,2026,POLK and KCNK17 as novel candidate genes for type 2 diabetes via stress response and ion channel regulation.,Journal of endocrinological investigation,1;2;3;4,,Journal Article
 41793359,2026,Association Between Unsaturated Fatty Acid Levels and Chronic Obstructive Pulmonary Disease: A Bidirectional Mendelian Randomization Study.,The clinical respiratory journal,2;10;13,,Journal Article
 41793208,2026,Genomic and proteomic insights into hidradenitis suppurativa.,Journal of the European Academy of Dermatology and Venereology : JEADV,2;12,,Journal Article
 41792138,2026,The genetic basis of dermatophytosis skin infection susceptibility.,Nature communications,2;8,,Journal Article;Meta-Analysis
 41791885,2026,"Finnish-Enriched SLC26A7 Variant in Congenital Hypothyroidism: Clinical Spectrum, Thyroid Histopathology, and Expression Analysis.",Thyroid : official journal of the American Thyroid Association,2;10,,Journal Article
 41790783,2026,Psychological distress and oral lichen planus: A bidirectional Mendelian randomization study.,Community dental health,2;4;10;12,,Journal Article
-41790701,2026,From lipid profiles to disease onset: Triglycerides as predictive biomarkers in endometriosis.,Medicine,1;2;15,,Journal Article;Observational Study
+41790701,2026,From lipid profiles to disease onset: Triglycerides as predictive biomarkers in endometriosis.,Medicine,1;2;15,,Journal Article
 41790691,2026,Mendelian randomization study finds no causal link between inflammatory bowel disease and cirrhosis.,Medicine,1;2;9;10,,Journal Article
 41790622,2026,Bidirectional Mendelian randomization analysis of the causal association between obesity and hepatocellular carcinoma in a European population.,Medicine,1;2;5;10,,Journal Article
 41790153,2026,"A two-sample Mendelian randomization study of the causal relationship between respiratory diseases, gastric cancer risk, and Helicobacter pylori infection.",Gastric cancer : official journal of the International Gastric Cancer Association and the Japanese Gastric Cancer Association,2;5;8;10;13,,Journal Article
@@ -206,7 +280,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41747595,2026,Single-cell transcriptomic mendelian randomization and co-localization reveal immune-mediated regulatory mechanisms and drug targets in atopic dermatitis.,International immunopharmacology,2;9;10;12;13,,Journal Article
 41746865,2026,A Phenome-Wide Association and Mendelian Randomization Study of Genetically Predicted Membranous Nephropathy with Multiple Diseases.,Kidney & blood pressure research,1;2;10,,Journal Article
 41743793,2026,Circulating Metabolic Factors Mediating the Effect of Obesity-Related Indicators on Meniscal Injuries: A Mendelian Randomization Study.,International journal of genomics,1;2;10,,Journal Article
-41740900,2026,Quantifying new threats to health and biomedical literature integrity from rapidly scaled publications and problematic research.,Journal of clinical epidemiology,,,Journal Article
+41740900,2026,Quantifying new threats to health and biomedical literature integrity from rapidly scaled publications and problematic research.,Journal of clinical epidemiology,,,"Journal Article;Research Support, Non-U.S. Gov't"
 41740536,2026,Exploring the molecular mechanisms and optimizing treatment of hypertrophic scar by integrating genome-wide association studies and multi-omics data.,Burns : journal of the International Society for Burn Injuries,2,,Journal Article
 41737652,2026,Sex-Specific Basal Metabolic Rate and NAFLD Risk: The Multi-Population Observational and Mendelian Randomization Study.,"Diabetes, metabolic syndrome and obesity : targets and therapy",1;2;10,,Journal Article
 41737303,2026,The Impact of Brain Morphometry on Low Back Pain Risk: A Mendelian Randomization Study.,Journal of pain research,2;4;10,,Journal Article
@@ -214,14 +288,14 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41732417,2026,Glycolysis-related genes for bladder cancer: A Mendelian randomization analysis.,Biochemistry and biophysics reports,2;5;10,,Journal Article
 41731807,2026,The impact of different intensities of physical activity on the risk of venous thromboembolism: A Mendelian randomization study.,Medicine,1;2;7;10,,Journal Article
 41731789,2026,Air pollution and migraine: causal association or epiphenomenon?,Medicine,2;14;19,,Journal Article
-41731770,2026,Genetic evidence linking anti-polyomavirus 2 IgG seropositivity to ovarian cancer risk.,Medicine,2;5;8,,Journal Article;Meta-Analysis
+41731770,2026,Genetic evidence linking anti-polyomavirus 2 IgG seropositivity to ovarian cancer risk.,Medicine,2;5;8,,Journal Article
 41731762,2026,Exploring dietary habits strongly associated with pancreatic cancer from the perspective of Mendelian randomization.,Medicine,2;5;10,,Journal Article
 41728547,2026,Causal Effects Between Antibody-Mediated Immune Responses and Parkinson's Disease: Insights from Genetic Studies.,Cureus,2;8;9;11,,Journal Article
 41728327,2026,Genome-wide association study of corneal dystrophy uncovers novel risk loci and enables improved polygenic prediction of Fuchs endothelial corneal dystrophy.,medRxiv : the preprint server for health sciences,2;3,,Journal Article;Preprint
 41724399,2026,Neuroticism as a protective factor for cardiomyopathy: A mediation Mendelian randomization study.,Journal of affective disorders,2;10,,Journal Article
 41722793,2026,Bidirectional causal associations between immune cell phenotypes and age-related macular degeneration subtypes: A mendelian randomization study.,Experimental gerontology,2;10;18,,Journal Article
 41716793,2026,"Causal associations between abdominal obesity, dietary patterns, and intervertebral disc degeneration: a bidirectional two-sample Mendelian randomization study with clinical validation.",Frontiers in medicine,1;2;10,,Journal Article
-41714395,2026,Relationship between the microbiome and obesity-associated cancer risk using Mendelian randomisation.,International journal of obesity (2005),1;5;10,,Journal Article
+41714395,2026,Relationship between the microbiome and obesity-associated cancer risk using Mendelian randomisation.,International journal of obesity (2005),1;5;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 41713536,2026,Integration of TWAS with single-cell and spatial transcriptomics identifies TLR1 as a susceptibility gene and therapeutic target in the breast cancer tumor microenvironment.,International journal of biological macromolecules,2;5,,Journal Article
 41711838,2026,"Exploring the causal relationship between plasma proteins and obstructive sleep apnea: a study using genome-wide Mendelian randomization, single-cell RNA sequencing analysis, and network pharmacology.",Naunyn-Schmiedeberg's archives of pharmacology,2;10;13,,Journal Article
 41710145,2026,Exploring Endoplasmic Reticulum Stress in Gestational Diabetes Mellitus: MultiOmics Insights Through Mendelian Randomization.,International journal of women's health,1;2;4;10;15,,Journal Article
@@ -234,7 +308,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41701340,2026,Causal association between gut microbiota and osteonecrosis in European populations: a two-sample Mendelian randomization analysis.,Journal of bone and mineral metabolism,2;10,,Journal Article
 41699864,2026,Unveiling Shared Genetic Architectures and Causality: Intestinal Diseases and Neurological Diseases.,Brain and behavior,1;2;9;11;14,,Journal Article
 41699549,2026,Multi-omics SMR and experimental supportive analyses decipher causal drivers hepatocellular carcinoma.,BMC cancer,1;2;5,,Journal Article
-41698610,2026,Prioritization of novel druggable targets for epilepsy via Mendelian randomization and colocalization.,Behavioural brain research,2;10;14,,"Journal Article;Research Support, Non-U.S. Gov't"
+41698610,2026,Prioritization of novel druggable targets for epilepsy via Mendelian randomization and colocalization.,Behavioural brain research,2;10;14,,Journal Article
 41697450,2026,Intra-pancreatic fat deposition links to widespread systemic health risks: UK Biobank prospective cohort study.,Insights into imaging,1;2;18,,Journal Article
 41695499,2026,Causality of atrial fibrillation and left atrial traits: Genetic and epigenetic perspectives.,Heart rhythm O2,1;2;14,,Journal Article
 41694684,2025,KLF4 orchestrates a Ccl2+ fibroblast-mediated inflammatory network driving preterm birth.,Frontiers in medicine,2;15,,Journal Article
@@ -273,11 +347,11 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41618121,2026,Causal Associations Between Human Blood Metabolites and Cardio-Cerebrovascular Diseases: A Mendelian Randomisation Study.,Clinical and applied thrombosis/hemostasis : official journal of the International Academy of Clinical and Applied Thrombosis/Hemostasis,2;10;14,,Journal Article
 41612813,2026,Exploring the Causal Links Between Toxoplasma gondii Infection and Risk of Brain Tumors: A Bidirectional Mendelian Randomization Analysis.,Brain and behavior,2;5;8;10,,Journal Article
 41609166,2026,Exploring Causal Effects of Sarcopenia on Chronic Obstructive Pulmonary Disease and Hospitalization Risk: A Bi-Directional Mendelian Randomization Study.,"British journal of hospital medicine (London, England : 2005)",2;10;11;13,,Journal Article
-41603368,2026,Clinical and genetic characterization of non-optimal triptan response among migraine patients.,Cephalalgia : an international journal of headache,2;14,,"Journal Article;Research Support, Non-U.S. Gov't"
+41603368,2026,Clinical and genetic characterization of non-optimal triptan response among migraine patients.,Cephalalgia : an international journal of headache,2;14,,Journal Article
 41603219,2026,"Gut Microbiota, Lipidome, and Metabolites Mediate Immune Dysregulation in Diabetic Microvascular Disease: A Two-sample Mendelian Randomization and Mediation Analysis.","Endocrine, metabolic & immune disorders drug targets",1;2;10,,Journal Article
 41601566,2025,Relationship between COVID-19 and hypopituitarism: A two-sample Mendelian randomization study.,IBRO neuroscience reports,2;8;10,,Journal Article
 41591677,2026,Large-Scale Disease-Wide Association Study Identified Predisposition Links Between Influenza and Cardiovascular Diseases.,Cardiovascular toxicology,1;2;3;8;11;13;14,,Journal Article
-41587130,2026,Association Between Telomere Length and Thyrotoxicosis: Insights from a Two-sample Mendelian Randomization Study.,Journal of visualized experiments : JoVE,2;10,,"Journal Article;Video-Audio Media;Research Support, Non-U.S. Gov't"
+41587130,2026,Association Between Telomere Length and Thyrotoxicosis: Insights from a Two-sample Mendelian Randomization Study.,Journal of visualized experiments : JoVE,2;10,,Journal Article;Video-Audio Media
 41585411,2026,Protective Effects of Bone Mineral Density on Age-Related Macular Degeneration: A Mendelian Randomization Study.,International journal of endocrinology,2;10;18,,Journal Article
 41582592,2026,"CXCL5/CXCR2 Axis Related to Neutrophilic Inflammation in Ulcerative Colitis: A Comprehensive Analysis Integrating eQTL, pQTL, and Transcriptome Data.",Current medicinal chemistry,2;9,,Journal Article
 41581718,2026,Genomic and AI-driven discovery in chronic prostatitis: Causal role of ITPR3 and therapeutic repurposing of raloxifene.,European journal of pharmacology,2,,Journal Article
@@ -303,8 +377,9 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41559995,2026,Causal effects of modifiable risk factors on obstructive sleep apnea: A Mendelian randomization study and validation study.,Medicine,1;2;10;13,,Journal Article;Validation Study
 41556068,2026,A Cross-Tissue Transcriptome-Wide Association Study Reveals Novel Susceptibility Genes for Inflammatory Bowel Disease.,FASEB journal : official publication of the Federation of American Societies for Experimental Biology,2;9,,Journal Article
 41553215,2026,Genetic Association Between Systemic Lupus Erythematosus and Cerebrovascular Disorders.,Turkish neurosurgery,1;2;9;14,,Journal Article
+41549149,2026,Unveiling novel susceptibility genes for kidney stone disease by a cross-tissue transcriptome-wide association study.,World journal of urology,1;2,,Journal Article
 41549014,2026,Causal relationships of lipid metabolism in diabetic nephropathy risk: A two-sample Mendelian randomization study.,"Nutrition, metabolism, and cardiovascular diseases : NMCD",1;2;10,,Journal Article
-41548865,2026,Multiomics analyses prioritize disease genes and pathways in hidradenitis suppurativa.,The Journal of investigative dermatology,2;12,,Journal Article
+41548865,2026,Multiomics analyses prioritize disease genes and pathways in hidradenitis suppurativa.,The Journal of investigative dermatology,2;12,,Journal Article;Meta-Analysis
 41541724,2025,Clonal hematopoiesis of indeterminate potential as a risk factor for atrial fibrillation: Evidence of a causal relationship by Mendelian randomization study.,Heart rhythm O2,1;2;10,,Journal Article
 41541708,2026,Plant-Based Food Preferences Rich in Polyphenols and Their Causal Effects on Inflammatory Bowel Disease.,Food science & nutrition,2;9,,Journal Article
 41541644,2026,Genomic Structural Equation Modeling Combined With Post-GWAS Analysis Identifies Two Risk Gene Loci and Functionally Sensitive Genes Associated With Cardiac Conduction Block.,Genetics research,1;2,,Journal Article
@@ -462,7 +537,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41270966,2026,Air pollution exacerbates cardiovascular-kidney-metabolic syndrome and sarcopenia comorbidity via shared genetic-epigenetic mechanisms: A multi-omics and Mendelian Randomization study.,Metabolism: clinical and experimental,1;2;10;11;19,1.3-CKM,Journal Article
 41266372,2025,"Genome-wide association study of 398,238 women unveils seven loci associated with high-grade serous ovarian cancer.",NPJ genomic medicine,2;5,,Journal Article
 41265617,2025,Anti-diabetic drug target perturbation modulates susceptibility to aortic aneurysm.,European journal of pharmacology,1;2,,Journal Article;Meta-Analysis
-41265278,2025,Causal effects of gut microbiome on aortic dissection: A mendelian randomization study.,"Clinics (Sao Paulo, Brazil)",1;2;10,,Journal Article
+41265278,2025,Causal effects of gut microbiome on aortic dissection: A mendelian randomization study.,"Clinics (Sao Paulo, Brazil)",1;2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 41264079,2026,Genetic variation in anti-diabetic drug targets and risk of atrial fibrillation: a drug-target mendelian randomization study.,International journal of clinical pharmacy,1;2;10,,Journal Article
 41261954,2025,Exploring Contraindicated Medications and Corresponding Targeted Genes for Migraine Through Integrated Genetic Approaches.,Brain and behavior,2;14,,Journal Article
 41261720,2025,Causal effects of dietary antioxidants on epigenetic age: A two-sample Mendelian randomization study.,Medicine,2;10;11,,Journal Article;Meta-Analysis
@@ -499,13 +574,13 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41235099,2025,"Causal Associations of Smoking, Alcohol, Obesity, Sedentary Behavior, Hypertension, and Hyperglycemia With Retinal Vein Occlusion: A Mendelian Randomization Study.",Current genomics,1;2;4;7;10;18,,Journal Article
 41234868,2025,Bioinformatics analysis identifies ULK3 as a novel prognostic and immune-related biomarker in esophageal cancer.,Translational cancer research,2;5;12,,Journal Article
 41232325,2026,Dissecting the effect of blood colony-stimulating factors and receptors on Alzheimer's disease: the role of myeloid traits and inflammation.,Cytokine,2;11,,Journal Article
-41230735,2026,Genetically predicted KIR2DS4 mediate the association between gut microbe K10 and osteoporosis fractures: A mediation Mendelian randomization study.,"PM & R : the journal of injury, function, and rehabilitation",2;10,,Journal Article
+41230735,2026,Genetically predicted KIR2DS4 mediate the association between gut microbe K10 and osteoporosis fractures: A mediation Mendelian randomization study.,"PM & R : the journal of injury, function, and rehabilitation",2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 41220142,2025,TLR1-Regulated Ferroptosis Gene Decreases the Occurrence of Restless Legs Syndrome.,Brain and behavior,2,,Journal Article
 41219819,2025,The role and prognostic value of mitochondria-related gene PARK7 in breast cancer.,Breast cancer research : BCR,2;5,,Journal Article
 41217734,2025,Plasma proteins and osteosarcoma risk: causal evidence from Mendelian randomization.,Discover oncology,2;10,,Journal Article
 41213931,2025,131 genetic loci highlight immunological pathways and tissues in nasal polyposis and asthma.,Nature communications,2;13;18,,Journal Article;Meta-Analysis
 41213472,2026,Causal Relationship Between Multiple Modifiable Risk Factors and Gestational Diabetes Mellitus: A 2-Sample Mendelian Randomization Study.,Canadian journal of diabetes,1;2;10;15,,Journal Article
-41212630,2025,Mitochondrial-related pathogenic genes in varicose veins: A multi-omics Mendelian randomization study.,Phlebology,2;10,,Journal Article
+41212630,2026,Mitochondrial-related pathogenic genes in varicose veins: A multi-omics Mendelian randomization study.,Phlebology,2;10,,Journal Article
 41211168,2025,Causal Influences of Micronutrients on Anxiety: Insights From an Observational and Mendelian Randomization Analysis.,Food science & nutrition,2;4;10,,Journal Article
 41206519,2026,Role of Transitional %B Cells in Mediating the Effect of Phosphatidylinositol (16:0_18:1) on Aortic Dissection.,American journal of hypertension,1;2,,Journal Article
 41204596,2025,Immune cells and the risk of acne vulgaris: A Mendelian randomization study.,Medicine,2;10;12,,Journal Article
@@ -610,7 +685,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41060444,2025,Potential drug targets for intracranial aneurysms identified through Mendelian randomization analysis.,Neurosurgical review,1;2;10;14,,Journal Article
 41058202,2025,Causal Relationship Between Brain Functional Networks and Sleep Disorders: A Mendelian Randomization Study.,Brain and behavior,2;4;10;13,,Journal Article
 41057938,2025,Identification of genetically-supported new drug targets for osteomyelitis based on druggable genomes.,Human genomics,2;8,,Journal Article;Meta-Analysis
-41056187,2025,Genetic variants of glucose-dependent insulinotropic polypeptide (GIP) signalling as proxy for body weight reduction and cardiovascular risk.,European heart journal,1;2,,Journal Article
+41056187,2026,Genetic variants of glucose-dependent insulinotropic polypeptide (GIP) signalling as proxy for body weight reduction and cardiovascular risk.,European heart journal,1;2,,Journal Article
 41050715,2025,Association Between Specific Sleep Traits and Four Inflammatory Skin Diseases: A Mendelian Randomization Study.,"Clinical, cosmetic and investigational dermatology",2;10;12;13,,Journal Article
 41049426,2025,Plasma Proteome Profiling Identifies Biomarkers and Potential Drug Targets for Non-Small Cell Lung Cancer.,International journal of medical sciences,2;5;12,,Journal Article;Meta-Analysis
 41049388,2025,Integrated multi-omics profiling reveals shared mechanistic pathways in asthma-allergic rhinitis comorbidity: A hybrid machine learning framework leveraging Mendelian randomization for precision diagnostics.,The World Allergy Organization journal,2;3;10;13;18,,Journal Article
@@ -710,7 +785,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40855105,2025,Identifying potential drug targets for postoperative abdominal wall hernia using Mendelian randomization: a multi-omics study.,Scientific reports,2;10,,Journal Article
 40883588,2025,Identification of Therapeutic Targets for Premature Ovarian Failure Through Mendelian Randomization and Colocalization Analysis Using Human Plasma Proteomics.,Journal of molecular neuroscience : MN,2;10;15,,Journal Article
 40878475,2025,The role of circadian rhythm-related genes in type 2 diabetes from a multi-omics perspective.,Journal of global health,1;2;13,,Journal Article
-40878120,2025,Mendelian Randomization Analysis Reveals Iron as a Potential Contributor to Male Infertility.,The world journal of men's health,2;10;15,,Journal Article
+40878120,2026,Mendelian Randomization Analysis Reveals Iron as a Potential Contributor to Male Infertility.,The world journal of men's health,2;10;15,,Journal Article
 40866628,2025,Cross-biobank generalizability and accuracy of electronic health record-based predictors compared to polygenic scores.,Nature genetics,2;3,,Journal Article
 40866154,2025,Proteomic insights into chronic pancreatitis: Proteome-wide mendelian randomization to identify potential therapeutic targets.,Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.],2;10,,Journal Article
 40865488,2025,Causal links between programmed cell death and hypertrophic scars: Integrative analysis of multi-omics Mendelian randomization and preliminary experimental validation.,Burns : journal of the International Society for Burn Injuries,2;10,,Journal Article
@@ -757,7 +832,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40793967,2025,Genetic insights into lipid traits and atherosclerosis risk: a Mendelian randomization and polygenic risk score analysis.,"International journal of surgery (London, England)",1;2;10,,Journal Article
 40791713,2025,Genome-wide study of somatic symptom and related disorders identifies novel genomic loci and map genetic architecture.,medRxiv : the preprint server for health sciences,2;4;14,,Journal Article;Preprint
 40791276,2025,Unraveling Genetic Causality Between Type 2 Diabetes Mellitus and Hemiplegia Based on Mendelian Randomization.,Journal of multidisciplinary healthcare,1;2;10,,Journal Article
-40790903,2025,Association of COVID-19 Susceptibility and Severity with Primary Angle-Closure Glaucoma.,Ophthalmic epidemiology,8;18,,Journal Article
+40790903,2025,Association of COVID-19 Susceptibility and Severity with Primary Angle-Closure Glaucoma.,Ophthalmic epidemiology,8;18,,"Journal Article;Research Support, Non-U.S. Gov't;Address"
 40785145,2025,Mitochondrial DNA copy number as a genetic determinant of renal function: insights from bidirectional Mendelian randomization.,Renal failure,1;2;10,,Journal Article
 40784413,2025,"Identification of novel drug targets for mental disorders through genetic, colocalization, and network pharmacology approaches.",Journal of affective disorders,2;4,,Journal Article
 40781856,2026,Association between postpartum depression and components of the metabolic syndrome: A bidirectional Mendelian randomization study.,International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics,1;2;4;10;15,,Journal Article
@@ -847,7 +922,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40653840,2025,Genetic Association Between Sleep Traits and Vertigo Risk: A Two-Sample Bidirectional Mendelian Randomization Study.,Current molecular medicine,2;10;13;14;18,,Journal Article
 40649979,2025,Identification of Potential Therapeutic Targets for Coronary Atherosclerosis from an Inflammatory Perspective Through Integrated Proteomics and Single-Cell Omics.,International journal of molecular sciences,1;2,,Journal Article
 40645183,2025,Haplotype analysis reveals pleiotropic disease associations in the HLA region.,American journal of human genetics,2;8,,"Journal Article;Research Support, N.I.H., Extramural"
-40644836,2025,Relationship between Tic disorders and 41 inflammatory factors in circulating blood: a two-sample Mendelian randomization study.,"Clinics (Sao Paulo, Brazil)",2;10,,Journal Article
+40644836,2025,Relationship between Tic disorders and 41 inflammatory factors in circulating blood: a two-sample Mendelian randomization study.,"Clinics (Sao Paulo, Brazil)",2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 40642874,2025,"Recessive FANCM cancer syndrome with high cancer risks, chemotherapy toxicity, chromosome fragility, and gonadal failure.",Genetics in medicine : official journal of the American College of Medical Genetics,5;10,,Journal Article
 40642590,2025,The role of mitochondria-related proteins in inflammation and autoimmune diseases: a causal analysis using Mendelian randomization and colocalization.,Health information science and systems,2;9;10,,Journal Article
 40641356,2025,"Dissecting Causal Relationships Between Gut Microbiota, Immunocyte Phenotype, and Migraine: A Mendelian Randomization Study.",Brain and behavior,2;10;14,,Journal Article
@@ -914,6 +989,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40525585,2025,"Exploring the causal association between pre-pregnancy obesity and pregnancy-related complications, and mediating pathways of obesity on adverse pregnancy outcomes: Insights from Mendelian randomization analysis.",International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics,1;2;4;10;15,,Journal Article
 40524203,2025,Genetically predicted the causal association between serum mineral elements with immune thrombocytopenia and Henoch-Schonlein purpura: a bidirectional two-sample Mendelian randomization analysis.,Thrombosis journal,2;10,,Journal Article
 40523815,2025,[A two-sample Mendelian randomization study on the association between temporomandibular disorder and insomnia].,Hua xi kou qiang yi xue za zhi = Huaxi kouqiang yixue zazhi = West China journal of stomatology,2;10;13,,English Abstract;Journal Article
+40522625,2025,Association of medium-chain acyl-CoA dehydrogenase with the risk of diabetic kidney disease: a mendelian randomized study.,"Hormones (Athens, Greece)",1;2;10,,Journal Article
 40521080,2025,Genetic Correlation and Mendelian Randomization Analyses Support Causal Relationships Between Instant Coffee and Age-Related Macular Degeneration.,Food science & nutrition,2;10;18,,Journal Article
 40520855,2025,Causal impact of genetically determined metabolites on kidney cancer and its subtypes: an integrated mendelian randomization and metabolomic study.,American journal of cancer research,2;5;10,,Journal Article
 40513936,2025,Decoding aortic dissection from potential drug targets to genetic risk factors: A Mendelian randomization study.,European journal of pharmacology,1;2;10,,Journal Article
@@ -978,6 +1054,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40391094,2025,Immune Cells Phenotypes and Causal Relationship with Acne Vulgaris: Insights from Mendelian Randomization.,"Clinical, cosmetic and investigational dermatology",2;10;12,,Journal Article
 40389789,2025,The causal association between psoriasis and 32 types of cancer: a mendelian randomization study.,Discover oncology,2;5;9;10;12,,Journal Article
 40388735,2025,"Post-traumatic stress disorder, attention deficit and hyperactivity disorder, and 24 gastrointestinal diseases: Evidence from Mendelian randomization analysis.",Medicine,2;4;5;10,,Journal Article
+42305336,2026,Exploring the association between asthma and frailty: a cross-sectional and a bidirectional Mendelian randomization study.,Archives of medical science : AMS,2;10;11;13,,Journal Article
 40376529,2025,Causal role of immune cells in male infertility: a Mendelian randomization study.,Translational andrology and urology,2;10;15,,Journal Article
 40372048,2025,Chronic hepatitis B infection and pre-eclampsia/eclampsia: a Mendelian randomisation study.,Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology,2;8;10;15,,Journal Article
 40369498,2025,Exploring glucagon-like peptide-1 receptor agonists as potential disease-modifying agent in psychiatric and neurodevelopmental conditions: evidence from a drug target Mendelian randomization.,BMC psychiatry,1;2;4;10,,Journal Article
@@ -999,14 +1076,14 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40348923,2025,"Blood metabolites, protein regulatory networks and their roles in pan-cancer: a mendelian randomisation study.",Discover oncology,2;5;10,,Journal Article
 40348582,2025,GEO combined with quantitative protein trait loci identify causative proteins in hypertrophic cardiomyopathy.,ESC heart failure,1;2,,Journal Article
 40348210,2025,Association between the gut microbiota and cystitis: A two-sample mendelian randomization study combined with the GEO database.,Microbial pathogenesis,2;10,,Journal Article
-40346920,2025,Multiomic Underpinnings of Drug Targets for Intracranial Aneurysm: Evidence From Diversified Mendelian Randomization.,CNS neuroscience & therapeutics,1;2;10,,Journal Article
+40346920,2025,Multiomic Underpinnings of Drug Targets for Intracranial Aneurysm: Evidence From Diversified Mendelian Randomization.,CNS neuroscience & therapeutics,1;2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 40346281,2025,"A phenome-wide Mendelian randomization analysis reveals the genetical associations of myocardial infarction, angina pectoris and Alzheimer's disease with lung cancer.",Scientific reports,1;2;5;10;11;13,,Journal Article
 40345928,2025,Causal relationship and mediating role between depression and cognitive performance.,The journal of prevention of Alzheimer's disease,2;4;11,,Journal Article
 40339110,2025,"Genomic Correlations, Shared Loci, and Drug Targets Between Polycystic Ovary Syndrome and Asthma: Insights From Genome-wide Association Analysis.",The Journal of clinical endocrinology and metabolism,2;13;15,,Journal Article
 40338389,2025,The relationship between cathepsins and nasopharyngeal carcinoma: a Mendelian randomization analysis.,Discover oncology,2;5;10,,Journal Article
 40335896,2025,Associations between psoriasis and risk of 33 cancers: a Mendelian randomization study.,BMC cancer,2;5;9;10;12,,Journal Article;Meta-Analysis
 40333164,2025,Investigating Correlation Between Gut Microbiota and Rheumatoid Arthritis Subtypes by Mendelian Randomization.,"Pathogens (Basel, Switzerland)",2;9;10,,Journal Article
-40324614,2025,Decoding the Lipid-POI connection: The mediating role of inflammatory factors.,Chemistry and physics of lipids,1;2,,Journal Article
+40324614,2025,Decoding the Lipid-POI connection: The mediating role of inflammatory factors.,Chemistry and physics of lipids,1;2,,"Journal Article;Research Support, Non-U.S. Gov't"
 40324257,2025,Exploring the causal association between fatty acid-binding proteins and anaphylactic shock due to adverse reactions to medications: A two-sample Mendelian randomization study.,Medicine,2;10,,Journal Article
 40324243,2025,"Mendelian randomization analysis of smoking, BMI, and nonalcoholic fatty liver disease in European descent populations.",Medicine,1;2;4;10,,Journal Article
 40324241,2025,Insights into modifiable risk factors of retinal vascular occlusion: A Mendelian randomization study.,Medicine,1;2;10;18,,Journal Article
@@ -1107,7 +1184,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40192887,2025,Causal Links Between Gut Microbiota and Vitamin Deficiencies: Evidence from Mendelian Randomization Analysis.,Current medical science,2;10,,Journal Article
 40191156,2025,Bone mineral density and cardiovascular diseases: a two-sample Mendelian randomization study.,JBMR plus,1;2;10,,Journal Article
 40186305,2025,Causal relationship between mitochondrial proteins and risks of aortic aneurysms and aortic dissection: a Mendelian randomization study.,Journal of cardiothoracic surgery,1;2;10,,Journal Article
-40185386,2025,Identifying blood mitochondrial DNA copy number as a biomarker for development of neurodegenerative diseases: Evidence from Mendelian randomization analysis.,Neuroscience,2;9;10;11;14;18,,Journal Article
+40185386,2025,Identifying blood mitochondrial DNA copy number as a biomarker for development of neurodegenerative diseases: Evidence from Mendelian randomization analysis.,Neuroscience,2;9;10;11;14;18,,"Journal Article;Research Support, Non-U.S. Gov't"
 40185222,2025,Researching the causal relationship between immune cells and frontotemporal Dementia: A Mendelian Randomization analysis.,Brain research,2;10;11,,Journal Article
 40184471,2025,Causal associations between premature ovarian insufficiency and cardiovascular diseases: a Mendelian randomization study.,Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology,1;2;10;14,,Journal Article
 40184142,2025,Investigating the correlation between gut microbiota and prostate cancer through a two-sample Mendelian randomization analysis.,Medicine,2;5;10,,Journal Article
@@ -1165,7 +1242,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40098143,2025,Shared genetic investigation of asthma and blood eosinophils in relation to chronic rhinosinusitis.,"Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology",2;13;18,,Journal Article
 40092126,2025,CDC42: unlocking a novel therapeutic target for primary sclerosing cholangitis through Mendelian randomization.,American journal of translational research,2;10,,Journal Article
 40091050,2025,Genetic insights into idiopathic pulmonary fibrosis: a multi-omics approach to identify potential therapeutic targets.,Journal of translational medicine,2;5;13,,Journal Article
-40088503,2025,Placental weight as a predictor of future health: Insights from a large-scale genome-wide association study.,Placenta,1;2;5;12;15,,Journal Article
+40088503,2025,Placental weight as a predictor of future health: Insights from a large-scale genome-wide association study.,Placenta,1;2;5;12;15,,"Journal Article;Research Support, Non-U.S. Gov't"
 40088380,2025,DNA Methylation-Regulated ZDHHC13 Promotes the Progression of Parkinson's Disease.,Molecular neurobiology,2;11,,Journal Article
 40087593,2025,Association between dietary intakes and pregnancy complications: a two-sample Mendelian randomization analysis.,BMC pregnancy and childbirth,1;2;10;15,,Journal Article
 40081583,2025,"Autoimmune thyroid disease is a risk factor for mood disorders, a Mendelian randomization study.",Journal of affective disorders,2;4;9;10;11,,Journal Article
@@ -1195,7 +1272,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40034746,2025,Role of PD-L1 in mediating the effect of lipid on ulcerative colitis: a mediation Mendelian randomization study.,Frontiers in genetics,1;2;9;10,,Journal Article
 40033246,2025,"Causal relationship between immune cell signatures and colorectal cancer: a bi-directional, two-sample mendelian randomization study.",BMC cancer,2;5;10,,Journal Article
 40032851,2025,Sleep traits causally affect epigenetic age acceleration: a Mendelian randomization study.,Scientific reports,2;10;11;13,,Journal Article
-40028715,2025,Causal Relationship Between Abortion and Endometriosis: A Bidirectional Two-Sample Mendelian Randomization Study.,"American journal of reproductive immunology (New York, N.Y. : 1989)",2;10;15,,Journal Article
+40028715,2025,Causal Relationship Between Abortion and Endometriosis: A Bidirectional Two-Sample Mendelian Randomization Study.,"American journal of reproductive immunology (New York, N.Y. : 1989)",2;10;15,,"Journal Article;Research Support, Non-U.S. Gov't"
 40028697,2025,Finding Potential Drug Targets for Pre-Eclampsia Using Mendelian Randomisation and Colocalisation Analysis.,"American journal of reproductive immunology (New York, N.Y. : 1989)",10;15,,Journal Article
 40027634,2025,EPIraction - an atlas of candidate enhancer-gene interactions in human tissues and cell lines.,bioRxiv : the preprint server for biology,2,,Journal Article;Preprint
 40027273,2025,Causal association between non-thyroidal autoimmune diseases and Graves' ophthalmopathy: A mendelian randomization study.,Advances in ophthalmology practice and research,1;2;9;10;12;14,,Journal Article
@@ -1366,7 +1443,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39760889,2025,"Effects of immune cells in mediating the relationship between inflammatory bowel disease and pyoderma gangrenosum: a two-sample, two-step mendelian randomization study.",Archives of dermatological research,2;9;10;12,,Journal Article
 39755304,2025,Identification of potential therapeutic targets for Alzheimer's disease from the proteomes of plasma and cerebrospinal fluid in a multicenter Mendelian randomization study.,International journal of biological macromolecules,2;10;11,,Journal Article;Multicenter Study
 39754686,2025,Causal associations between circulating protein ratios and drug resistance in papillary thyroid cancer: a Mendelian randomization study.,Discover oncology,2;5;10,,Journal Article
-39754389,2025,Appraising the Effects of Gut Microbiota on Insomnia Risk Through Genetic Causal Analysis.,"American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",2;13,,Journal Article
+39754389,2025,Appraising the Effects of Gut Microbiota on Insomnia Risk Through Genetic Causal Analysis.,"American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",2;13,,"Journal Article;Research Support, Non-U.S. Gov't"
 39752762,2025,Genetic evidence of the causal relationships between psychiatric disorders and cardiovascular diseases.,Journal of psychosomatic research,1;2;4,,Journal Article
 39751938,2025,Identification of biomarkers for chronic lymphocytic leukemia risk: a proteome-wide Mendelian randomization study.,Discover oncology,1;2;5;10,,Journal Article
 39751714,2025,SNP rs6543176 is associated with extreme human longevity but increased risk for cancer.,GeroScience,1;2;5;11,,"Journal Article;Research Support, N.I.H., Extramural"
@@ -1390,7 +1467,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39723230,2024,No Association of Polycystic Ovary Syndrome with Pancreatic Cancer: A Mendelian Randomization Study.,"Phenomics (Cham, Switzerland)",2;5;10;15,,Journal Article
 39723082,2024,Exploring the Impact of Dietary Factors on Intestinal Diverticular Disease: A Mendelian Randomization Approach.,Food science & nutrition,2;10,,Journal Article
 39723060,2024,Elucidating the Causal Impact of Dietary Factors on Rheumatoid Arthritis: Insights From Multivariable Mendelian Randomization Analysis.,Food science & nutrition,2;9;10,,Journal Article
-39720899,2024,Relation of 91 Circulating Inflammatory Proteins to Nonalcoholic Fatty Liver Disease: A Two-Sample Mendelian Randomisation Study.,Journal of cellular and molecular medicine,1;10,,Journal Article
+39720899,2024,Relation of 91 Circulating Inflammatory Proteins to Nonalcoholic Fatty Liver Disease: A Two-Sample Mendelian Randomisation Study.,Journal of cellular and molecular medicine,1;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 39720342,2024,Exploring the Genetic Association Between Connective Tissue Diseases and the Risk of Pulmonary Arterial Hypertension: A Mendelian Randomization Analysis.,Pulmonary circulation,1;2;9;10;13,,Journal Article
 39716115,2024,Systematic druggable genome-wide Mendelian randomization identifies therapeutic targets for hyperemesis gravidarum.,BMC pregnancy and childbirth,2;10;15,,Journal Article
 39713086,2024,"Bone morphogenetic proteins, DNA methylation, and gut microbiota interaction in lumbar disc degeneration: A multi-omics Mendelian randomization study.",JOR spine,2;10,,Journal Article
@@ -1422,13 +1499,13 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39673021,2024,Causal relationships between Alzheimer's disease and metabolic dysfunction associated with fatty liver disease: insights from bidirectional network Mendelian Randomization analysis.,Metabolomics : Official journal of the Metabolomic Society,1;2;10;11,,Journal Article
 39671847,2025,Hypertension and 28-day mortality in sepsis patients: An observational and mendelian randomization study.,Heart & lung : the journal of critical care,1;2;8;10,,Journal Article;Observational Study
 39671389,2025,Exploration oxidative stress underlying gastroesophageal reflux disease and therapeutic targets identification: a multi-omics Mendelian randomization study.,Postgraduate medical journal,2;4;10,,Journal Article
-39670376,2025,Constructing a multi-ancestry polygenic risk score for uterine fibroids using publicly available data highlights need for inclusive genetic research.,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,2;15,,Journal Article
+39670376,2025,Constructing a multi-ancestry polygenic risk score for uterine fibroids using publicly available data highlights need for inclusive genetic research.,Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,2;15,,"Journal Article;Research Support, N.I.H., Extramural"
 39669498,2024,Elucidating the causal links between plasma and cerebrospinal fluid metabolites and pituitary tumors: a Mendelian randomization analysis.,Frontiers in endocrinology,2;10,,Journal Article
 39669193,2024,"Exploring the handedness-breast cancer nexus: a comprehensive analysis via systematic review, meta-analysis, and Mendelian randomization.",Therapeutic advances in medical oncology,2;5;10,,Journal Article
 39666174,2025,The association between the presence of kidney stones and the risk of developing osteoporosis: a NHANES-based cross-sectional study and Mendelian randomization analysis.,International urology and nephrology,2;10,,Journal Article;Observational Study
 39665953,2025,Testing the Causal Association Between Metabolic Syndrome and Periodontitis: A Two-sample Mendelian Randomisation Study.,International dental journal,1;2;10,,Journal Article
 39662749,2025,Genetic association between inflammatory factors and abdominal aortic aneurysm: Insights from a genome-wide association study.,International journal of cardiology,1;2,,Journal Article
-39662686,2025,Omega-3 Fatty Acids as Protective Factors for Age-Related Macular Degeneration: Prospective Cohort and Mendelian Randomization Analyses.,Ophthalmology,2;10;18,,Journal Article
+39662686,2025,Omega-3 Fatty Acids as Protective Factors for Age-Related Macular Degeneration: Prospective Cohort and Mendelian Randomization Analyses.,Ophthalmology,2;10;18,,"Journal Article;Research Support, N.I.H., Extramural"
 39660282,2024,The causal relationship between the human gut microbiota and pyogenic arthritis: a Mendelian randomization study.,Frontiers in cellular and infection microbiology,2;10,,Journal Article
 39660030,2024,The Causal Effect Between Human Microbiota and Scabies: A Study from the Genetic Perspective.,"Clinical, cosmetic and investigational dermatology",2;12,,Journal Article
 39657297,2025,Genetic evidence strengthens the connection between emotional disorders and TMD-related pain: A two-sample Mendelian randomization study.,Archives of oral biology,2;4;10,,Journal Article
@@ -1486,7 +1563,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39568230,2025,Genetic Evidence of Obesity-Induced Chronic Wounds Mediated by Inflammatory Biomarkers.,Biological research for nursing,1;2,,Journal Article
 39567890,2024,Sex hormones and reproductive factors with cardiac arrhythmia and ECG indices: a mendelian randomization study.,BMC cardiovascular disorders,1;2;10,,Journal Article;Meta-Analysis
 39566493,2024,Inherited infertility: Mapping loci associated with impaired female reproduction.,American journal of human genetics,2;10;15,,"Journal Article;Research Support, Non-U.S. Gov't"
-39566130,2025,Causal role of genetically predicted 731 immune cell phenotypes in chronic lymphatic leukemia: A bidirectional Mendelian randomization study.,Leukemia research,2;5;10,,Journal Article
+39566130,2025,Causal role of genetically predicted 731 immune cell phenotypes in chronic lymphatic leukemia: A bidirectional Mendelian randomization study.,Leukemia research,2;5;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 39565405,2024,"Relationship between immune cell traits, circulating inflammatory cytokines, and the risk of incisional hernia after gastric surgery.",Hernia : the journal of hernias and abdominal wall surgery,2,,Journal Article
 39563277,2024,Leveraging large-scale multi-omics evidences to identify therapeutic targets from genome-wide association studies.,BMC genomics,2,,Journal Article
 39560825,2024,Causal relationship between immune cells and acute myeloid leukemia: a two-sample Mendelian randomization study.,Discover oncology,2;5;10,,Journal Article
@@ -1537,7 +1614,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39497808,2024,Hypertensive disorders of pregnancy and stroke: a univariate and multivariate Mendelian randomization study.,Frontiers in endocrinology,1;2;10;14;15,14.2-stroke-cerebro,Journal Article
 39497807,2024,Genetically mimicked effects of thyroid dysfunction on diabetic retinopathy risk: a 2-sample univariable and multivariable Mendelian randomization study.,Frontiers in endocrinology,1;2;9;10;18,,Journal Article;Meta-Analysis
 39497194,2024,Associations of human blood metabolome with optic neurodegenerative diseases: a bi-directionally systematic mendelian randomization study.,Lipids in health and disease,1;2;10;18,,Journal Article
-39495546,2025,Genetic Association Between Blood Metabolites and Craniosynostosis: A Mendelian Randomization Study.,The Journal of craniofacial surgery,2;10,,Journal Article
+39495546,2025,Genetic Association Between Blood Metabolites and Craniosynostosis: A Mendelian Randomization Study.,The Journal of craniofacial surgery,2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 39492919,2024,"Novel targets for the treatment and prevention of Alzheimer's disease in the European population, inspiration from amyloid beta and tau protein.",Heliyon,2;11,,Journal Article
 39490725,2024,Integrative multiomic analysis unveils the molecular nexus of mitochondrial dysfunction in the pathogenesis of age-related macular degeneration.,Experimental eye research,2;18,,Journal Article
 39489852,2024,Association between human blood metabolome and risk of myocarditis: a mendelian randomization study.,Scientific reports,2;10,,Journal Article
@@ -1636,12 +1713,12 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39371915,2024,Causal effects of post-traumatic stress disorder on autoimmune thyroid disease: insights from mendelian randomization.,Frontiers in psychiatry,2;4;9;10,,Journal Article
 39371139,2024,Gut-Brain Nexus: Mapping Multi-Modal Links to Neurodegeneration at Biobank Scale.,medRxiv : the preprint server for health sciences,1;11;14,,Journal Article;Preprint
 39370703,2024,Genetically Supported Drug Targets and Dental Traits: A Mendelian Randomization Study.,Journal of dental research,2;10,,Journal Article
-39370105,2025,Relationships between Frailty and the Risk of Glaucoma in Middle-aged and Older Adults.,Ophthalmology. Glaucoma,2;11;18,,Journal Article;Multicenter Study
+39370105,2025,Relationships between Frailty and the Risk of Glaucoma in Middle-aged and Older Adults.,Ophthalmology. Glaucoma,2;11;18,,"Journal Article;Multicenter Study;Research Support, Non-U.S. Gov't"
 39368924,2025,Association Between Circulating Inflammatory Cytokines and Dentofacial Anomalies.,International dental journal,2,,Journal Article
 39366807,2024,Research on the causal relationship between fine particulate matter and type 2 diabetes mellitus: A two-sample multivariable mendelian randomization study.,"Nutrition, metabolism, and cardiovascular diseases : NMCD",1;2;10;19,,"Journal Article;Research Support, Non-U.S. Gov't"
 39367514,2024,Association of lipid-lowering drugs with the risk of type 2 diabetes and its complications: a mendelian randomized study.,Diabetology & metabolic syndrome,1;2;10;14;18,,Journal Article
 39365385,2024,"Proinflammatory Diet Increases the Risk of Irritable Bowel Syndrome: A Prospective Study of 129,408 UK Biobank Participants and Mendelian Randomization Analysis.",Digestive diseases and sciences,1;2;10,,Journal Article
-39365109,2024,Bidirectional Mendelian Randomization Reveals Causal Effects of Immune Cell Traits on Endometriosis Risk.,"American journal of reproductive immunology (New York, N.Y. : 1989)",2;10;15,,Journal Article
+39365109,2024,Bidirectional Mendelian Randomization Reveals Causal Effects of Immune Cell Traits on Endometriosis Risk.,"American journal of reproductive immunology (New York, N.Y. : 1989)",2;10;15,,"Journal Article;Research Support, Non-U.S. Gov't"
 39364316,2024,No genetic causal relationship between acne and prostate cancer through Mendelian randomization combined with meta-analysis.,Frontiers in oncology,2;5;10;12,,Journal Article
 39362746,2024,Genetic variants associated with cardiac hypertrophy-related sudden cardiac death and cardiovascular outcomes in a Finnish population.,Heart (British Cardiac Society),1;2,,Journal Article
 39360292,2024,The Causal Effects between Mood Swings and Gastrointestinal Diseases: A Mendelian Randomization Study.,Alpha psychiatry,1;2;4;5;10,,Journal Article
@@ -1663,7 +1740,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39332193,2024,Association of air pollutants with psychiatric disorders: a two-sample Mendelian randomization.,Ecotoxicology and environmental safety,2;4;10;19,,Journal Article
 39331875,2024,"The potential causal relationship between BMI, T1D, urolithiasis, and hydronephrosis in European ancestry: A Mendelian randomization analysis.",Medicine,1;2;10,,Journal Article
 39328405,2024,"CXCR1 and CXCR2 are potential neutrophil extracellular trap-related treatment targets in ulcerative colitis: insights from Mendelian randomization, colocalization and transcriptomic analysis.",Frontiers in immunology,2;9;10,,Journal Article
-39327062,2024,Investigating the uncertain causal link between gut microbiota and glaucoma: A genetic correlation and Mendelian randomisation study.,Clinical & experimental ophthalmology,10;18,,Journal Article
+39327062,2024,Investigating the uncertain causal link between gut microbiota and glaucoma: A genetic correlation and Mendelian randomisation study.,Clinical & experimental ophthalmology,10;18,,"Journal Article;Research Support, Non-U.S. Gov't"
 39321259,2024,GNN4DM: a graph neural network-based method to identify overlapping functional disease modules.,"Bioinformatics (Oxford, England)",2;3,,Journal Article
 39320275,2025,Causal effects of pediatric asthma on psychiatric disorders: a bidirectional Mendelian randomization study.,The Journal of asthma : official journal of the Association for the Care of Asthma,2;4;10;13,,Journal Article
 39319183,2024,Causal Relationship Between Mood Swing and Gynecological Disorders: A Mendelian Randomization Study.,International journal of women's health,2;5;10;15,,Journal Article
@@ -1726,7 +1803,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39251963,2024,The causal relationship between CSF metabolites and GBM: a two-sample mendelian randomization analysis.,BMC cancer,2;5;10,,Journal Article
 39251923,2024,Genetic estimation of causalities between educational attainment with common digestive tract diseases and the mediating pathways.,BMC gastroenterology,2;4,,Journal Article;Meta-Analysis
 39250894,2024,"Causal Relationships between Gut Microbiotas, Blood Metabolites, and Neuroendocrine Tumors: A Mediated Mendelian Randomization Study.",Neuroendocrinology,2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
-39248096,2024,Thyroid function and preeclampsia: a two-sample bidirectional Mendelian randomization study.,Journal of hypertension,1;2;10;15,,Journal Article
+39248096,2024,Thyroid function and preeclampsia: a two-sample bidirectional Mendelian randomization study.,Journal of hypertension,1;2;10;15,,"Journal Article;Research Support, Non-U.S. Gov't"
 39243698,2024,"Gut microbiota, allergic rhinitis, vasomotor rhinitis, Mendelian randomization, causal association.",Brazilian journal of otorhinolaryngology,2;10;18,,Journal Article
 39243281,2024,Gut microbiota and risk of ankylosing spondylitis.,Clinical rheumatology,2;9,,Journal Article
 39240279,2025,Causal Relationships Between Retinal Diseases and Psychiatric Disorders Have Implications for Precision Psychiatry.,Molecular neurobiology,2;4;18,,Journal Article
@@ -1749,7 +1826,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39215321,2024,"Causal relationships between gut microbiota, plasma metabolites, and HIV infection: insights from Mendelian randomization and mediation analysis.",Virology journal,2;8;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 39215202,2025,Specific blood metabolite associations with Gout: a Mendelian randomization study.,European journal of clinical nutrition,2;10,,Journal Article
 39214524,2024,Association of gut microbiota with acute kidney injury: a two-sample Mendelian randomisation and case-control study.,Beneficial microbes,1;2;10,,Journal Article
-39213079,2024,Causal Effects of Kidney Function and Chronic Kidney Disease on Alzheimer's Disease by Analyzing Large-Scale Genome-Wide Association Study Datasets.,Journal of Alzheimer's disease : JAD,1;2;11,,Journal Article
+39213079,2024,Causal Effects of Kidney Function and Chronic Kidney Disease on Alzheimer's Disease by Analyzing Large-Scale Genome-Wide Association Study Datasets.,Journal of Alzheimer's disease : JAD,1;2;11,,"Journal Article;Research Support, Non-U.S. Gov't"
 39212570,2024,Genetic Susceptibility of Thrombin Measurement Levels and the Risk of Colon Adenocarcinoma: A Mendelian Randomization Study.,"British journal of hospital medicine (London, England : 2005)",2;10,,Journal Article
 39212392,2024,[Inflammatory factors and prostate cancer: Two-sample Mendelian randomization analysis].,Zhonghua nan ke xue = National journal of andrology,2;5;10,,English Abstract;Journal Article
 39210292,2024,Primary biliary cholangitis has causal effects on systemic rheumatic diseases: a Mendelian randomization study.,BMC gastroenterology,2;9;10,,Journal Article
@@ -1819,7 +1896,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39119008,2024,Metabolic factors are not the direct mediators of the association between type 2 diabetes and osteoporosis.,Frontiers in endocrinology,1;2,,Journal Article
 39118079,2024,Exploring the relationship between gut microbiota and breast cancer risk in European and East Asian populations using Mendelian randomization.,BMC cancer,2;5;10,,Journal Article
 39117358,2024,Central corneal thickness and the risk of primary open-angle glaucoma: a Mendelian randomisation mediation analysis.,The British journal of ophthalmology,2;10;18,,Journal Article
-39116870,2024,Multisystem health comorbidity networks of metabolic dysfunction-associated steatotic liver disease.,"Med (New York, N.Y.)",1;2;14,,Journal Article;Observational Study
+39116870,2024,Multisystem health comorbidity networks of metabolic dysfunction-associated steatotic liver disease.,"Med (New York, N.Y.)",1;2;14,,"Journal Article;Observational Study;Research Support, Non-U.S. Gov't"
 39114294,2024,"Lipids, lipid-modified drug target genes, and the risk of male infertility: a Mendelian randomization study.",Frontiers in endocrinology,1;2;10;15,,Journal Article
 39112975,2024,Circulating inflammatory cytokines and the risk of sepsis: a bidirectional mendelian randomization analysis.,BMC infectious diseases,2;8;10,,Journal Article
 39112560,2024,Genome-wide association study indicates novel associations of annexin A13 to secretory and GAS2L2 with mucous otitis media.,Scientific reports,2,,Journal Article
@@ -1877,7 +1954,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39045316,2024,Genetic correlation and causal relationship between sleep and myopia: a mendelian randomization study.,Frontiers in genetics,2;10;13;18,,Journal Article
 39045268,2024,Association between blood metabolites and basal cell carcinoma risk: a two-sample Mendelian randomization study.,Frontiers in endocrinology,2;5;10;12,,Journal Article
 39044964,2024,Asthma and risk of adverse pregnancy outcomes: A Mendelian randomization study.,Heliyon,1;2;10;13;15,,Journal Article
-39044827,2024,Platelet indices and inflammatory bowel disease: a Mendelian randomization study.,Frontiers in immunology,2;9;10,,Journal Article
+39044827,2024,Platelet indices and inflammatory bowel disease: a Mendelian randomization study.,Frontiers in immunology,2;9;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 39044823,2024,Causal effects of autoimmune diseases on temporomandibular disorders and the mediating pathways: a Mendelian randomization study.,Frontiers in immunology,1;2;9;10;12;13;14,,Journal Article
 39044191,2024,The causal relationship between inflammatory bowel diseases and erythema nodosum: a bidirectional two-sample mendelian randomization study.,BMC gastroenterology,2;9;10,,Journal Article
 39043809,2024,Effects of genetically proxied statins on diabetic nephropathy and retinopathy: a Mendelian randomization study.,Scientific reports,1;2;10;18,,Journal Article
@@ -2012,7 +2089,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38870908,2024,Genome-wide association study of the common retinal disorder epiretinal membrane: Significant risk loci in each of three American populations.,Cell genomics,2;6;18,,Journal Article
 38867366,2024,Type 2 diabetes mellitus and cardiovascular health: Evidence of causal relationships in a European ancestry population.,ESC heart failure,1;2;14,,Journal Article
 38866570,2024,TWINGEN: protocol for an observational clinical biobank recall and biomarker cohort study to identify Finnish individuals with high risk of Alzheimer's disease.,BMJ open,7;11;17,,Journal Article;Multicenter Study;Observational Study
-38863695,2024,Exploring risk factors for autoimmune diseases complicated by non-hodgkin lymphoma through regulatory T cell immune-related traits: a Mendelian randomization study.,Frontiers in immunology,2;5;9;10;12,,Journal Article
+38863695,2024,Exploring risk factors for autoimmune diseases complicated by non-hodgkin lymphoma through regulatory T cell immune-related traits: a Mendelian randomization study.,Frontiers in immunology,2;5;9;10;12,,"Journal Article;Research Support, Non-U.S. Gov't"
 38863045,2024,Genetic Causal Associations between Various Serum Minerals and Risk of Depression: A Mendelian Randomization Study.,Actas espanolas de psiquiatria,2;4;10,,Journal Article
 38863024,2024,Causal association between circulating blood cell traits and pulmonary embolism: a mendelian randomization study.,Thrombosis journal,1;2;10;13,,Journal Article
 38862880,2024,Investigating causal associations between pneumonia and lung cancer using a bidirectional mendelian randomization framework.,BMC cancer,2;5;8;10;13,,Journal Article
@@ -2074,7 +2151,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38776057,2024,Inflammatory cytokines and their potential role in kidney stone disease: a Mendelian randomization study.,International urology and nephrology,1;2;10,,Journal Article
 38772918,2024,Coeliac disease and type 2 diabetes risk: a nationwide matched cohort and Mendelian randomisation study.,Diabetologia,1;10,,Journal Article
 38766240,2024,"Rare genetic variation in VE-PTP is associated with central serous chorioretinopathy, venous dysfunction and glaucoma.",medRxiv : the preprint server for health sciences,18,,Journal Article;Preprint
-38763176,2024,Genetic Study of Psoriasis Highlights its Close Link with Socioeconomic Status and Affective Symptoms.,The Journal of investigative dermatology,2;6;9;12,,Journal Article;Meta-Analysis
+38763176,2024,Genetic Study of Psoriasis Highlights its Close Link with Socioeconomic Status and Affective Symptoms.,The Journal of investigative dermatology,2;6;9;12,,"Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't"
 38762700,2024,Potential drug targets for tumors identified through Mendelian randomization analysis.,Scientific reports,2;5;10,,Journal Article
 38762688,2024,Association between allergic diseases and both psoriasis and psoriatic arthritis: a bidirectional 2-sample Mendelian randomization study.,Archives of dermatological research,2;9;10;12;13;18,,Journal Article
 38760772,2024,Causal association of sleep traits with the risk of thyroid cancer: A mendelian randomization study.,BMC cancer,2;5;10;13,,Journal Article
@@ -2090,7 +2167,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38742944,2024,Deciphering the causal relationship between plasma and cerebrospinal fluid metabolites and glioblastoma multiforme: a Mendelian Randomization study.,Aging,2;5;10,,Journal Article
 38742127,2024,Investigating the shared genetic basis and causal relationships between mucosa-associated lymphoid tissue inflammation and psychiatric disorders.,Frontiers in psychiatry,2;4,,Journal Article
 38741062,2024,Causal inference between pernicious anemia and cancers: a bidirectional two-sample mendelian randomization analysis.,BMC cancer,2;5;10,,Journal Article
-38740536,2024,Genetically predicted biomarkers of iron homeostasis and risk of non-ischemic cardiomyopathy: A mendelian randomization study.,"Nutrition, metabolism, and cardiovascular diseases : NMCD",1;2;10,,Journal Article
+38740536,2024,Genetically predicted biomarkers of iron homeostasis and risk of non-ischemic cardiomyopathy: A mendelian randomization study.,"Nutrition, metabolism, and cardiovascular diseases : NMCD",1;2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 38736244,2024,Association between gut microbiota and central retinal artery occlusion: A two-sample Mendelian randomization study.,Indian journal of ophthalmology,2;10;18,,"Journal Article;Research Support, Non-U.S. Gov't"
 38731833,2024,Strengthening the Evidence for a Causal Link between Type 2 Diabetes Mellitus and Pancreatic Cancer: Insights from Two-Sample and Multivariable Mendelian Randomization.,International journal of molecular sciences,1;2;5;10,,Journal Article
 38729796,2024,Proteome-Wide Mendelian Randomisation Identifies Causal Links of Plasma Proteins With Periodontitis.,International dental journal,10,,Journal Article
@@ -2187,7 +2264,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38551704,2024,Assessment of bidirectional relationships between autoimmune diseases and primary ovarian insufficiency: insights from a bidirectional two-sample Mendelian randomization analysis.,Archives of gynecology and obstetrics,1;2;9;10,,Journal Article
 38551043,2024,Mendelian Randomization Highlights Gut Microbiota of Short-chain Fatty Acids' Producer as Protective Factor of Cerebrovascular Disease.,Current neurovascular research,1;2;10;11;14,,Journal Article
 38548111,2024,Causal relationship between gestational diabetes and preeclampsia: A bidirectional mendelian randomization analysis.,Diabetes research and clinical practice,1;2;10;15,,Journal Article
-38548025,2024,"Genetic risk, adherence to healthy lifestyle behaviors, and risk of cholelithiasis: A population-based cohort study.",Preventive medicine,2,,Journal Article
+38548025,2024,"Genetic risk, adherence to healthy lifestyle behaviors, and risk of cholelithiasis: A population-based cohort study.",Preventive medicine,2,,"Journal Article;Research Support, Non-U.S. Gov't"
 38547239,2024,The causal effect of iron status on risk of anxiety disorders: A two-sample Mendelian randomization study.,PloS one,2;4;10,,Journal Article
 38546604,2024,Genetic Associations of Primary Angle-Closure Disease: A Systematic Review and Meta-Analysis.,JAMA ophthalmology,2;18,,Journal Article;Meta-Analysis;Systematic Review
 38545784,2024,Evaluation of Plasma Biomarkers for Causal Association With Peripheral Artery Disease.,"Arteriosclerosis, thrombosis, and vascular biology",1;2,,"Journal Article;Research Support, N.I.H., Extramural;Research Support, Non-U.S. Gov't;Research Support, U.S. Gov't, Non-P.H.S."
@@ -2276,7 +2353,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38413695,2024,Associations of hyperthyroidism with epilepsy: a Mendelian randomization study.,Scientific reports,2;10;14,,Journal Article
 38411971,2024,Assessment of Causality Between Diet-Derived Antioxidants and Primary Open-Angle Glaucoma: A Mendelian Randomization Study.,Translational vision science & technology,2;10;18,,Journal Article
 38410634,2024,"IFN-γ, SCF, MIP1b and IL-16 Were Associated with Risk of Diabetic Nephropathy: A Mendelian Randomization Study.","Diabetes, metabolic syndrome and obesity : targets and therapy",1;2;10,,Journal Article
-38408649,2024,Association between leisure sedentary behaviors and hypertension risk: A prospective cohort study and two-sample Mendelian randomization analysis in Europeans.,Preventive medicine,1;2;7;10,,Observational Study;Journal Article
+38408649,2024,Association between leisure sedentary behaviors and hypertension risk: A prospective cohort study and two-sample Mendelian randomization analysis in Europeans.,Preventive medicine,1;2;7;10,,"Observational Study;Journal Article;Research Support, Non-U.S. Gov't"
 38408068,2024,Causal Association Analysis of Periodontitis and Inflammatory Bowel Disease: A Bidirectional Mendelian Randomization Study.,Inflammatory bowel diseases,2;9;10,,Journal Article
 38404289,2024,"Bacteroidaceae, Bacteroides, and Veillonella: emerging protectors against Graves' disease.",Frontiers in cellular and infection microbiology,2,,"Journal Article;Research Support, Non-U.S. Gov't"
 38403592,2024,Unraveling the causality between chronic obstructive pulmonary disease and its common comorbidities using bidirectional Mendelian randomization.,European journal of medical research,1;2;4;5;10;12;13,,Journal Article
@@ -2336,7 +2413,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38290183,2024,Causal effects between gut microbiota and pulmonary arterial hypertension: A bidirectional Mendelian randomization study.,Heart & lung : the journal of critical care,1;2;10;13,,Journal Article
 38287401,2024,Correlations between genetically predicted lipid-lowering drug targets and inflammatory bowel disease.,Lipids in health and disease,1;2;9,,Journal Article
 38286567,2024,Effect of the gut microbiome in glaucoma risk from the causal perspective.,BMJ open ophthalmology,2;18,,Journal Article
-38285276,2024,"Causal associations between gut microbiota with intervertebral disk degeneration, low back pain, and sciatica: a Mendelian randomization study.","European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",2;4;10,,Journal Article
+38285276,2024,"Causal associations between gut microbiota with intervertebral disk degeneration, low back pain, and sciatica: a Mendelian randomization study.","European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",2;4;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 38283427,2023,"Unraveling the Complex Relationship Between Gastroesophageal Reflux Disease, Lifestyle Factors, and Interstitial Lung Disease: Insights From Two-Sample Mendelian Randomization Analyses.",Cureus,1;2;10;13,,Journal Article
 38283337,2023,Two-sample Mendelian randomization to study the causal association between gut microbiota and atherosclerosis.,Frontiers in immunology,1;2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 38279876,2024,Anxiety disorder and cardiovascular disease: a two-sample Mendelian randomization study.,ESC heart failure,1;2;4;10,,Journal Article
@@ -2377,7 +2454,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38212471,2024,Association between tea consumption and risk of kidney stones: results from dose-response meta-analysis of prospective studies and Mendelian randomization analysis.,International urology and nephrology,2;10,,Journal Article;Meta-Analysis
 38211754,2024,"Exploring the causal relationships and mediating factors between depression, anxiety, panic, and atrial fibrillation: A multivariable Mendelian randomization study.",Journal of affective disorders,1;2;4;10;13,,"Journal Article;Research Support, Non-U.S. Gov't"
 38211690,2024,Unraveling the link between plasma caffeine concentrations and inflammatory bowel disease risk through Mendelian randomization.,The American journal of clinical nutrition,2;9;10,,Journal Article
-38211557,2024,Therapeutic Targets for Diabetic Kidney Disease: Proteome-Wide Mendelian Randomization and Colocalization Analyses.,Diabetes,1;2;10,,Journal Article
+38211557,2024,Therapeutic Targets for Diabetic Kidney Disease: Proteome-Wide Mendelian Randomization and Colocalization Analyses.,Diabetes,1;2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
 38205343,2023,Integration of Biomarker Polygenic Risk Score Improves Prediction of Coronary Heart Disease.,JACC. Basic to translational science,1;2,,Journal Article
 38198782,2024,The Association of Glaucoma with Ischemic Stroke and Functional Outcome after Ischemic Stroke from the Perspective of Causality.,"Cerebrovascular diseases (Basel, Switzerland)",1;2;14;18,14.2-stroke-cerebro,Journal Article;Meta-Analysis
 38198148,2024,Genetic support of the causal association between gut microbiota and peripheral artery disease: a bidirectional Mendelian randomization study.,Aging,2;10,,"Journal Article;Research Support, Non-U.S. Gov't"
