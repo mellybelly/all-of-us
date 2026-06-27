@@ -7,7 +7,9 @@ data-derived and verifiable; framing is descriptive, not editorial.
 ## Parts
 
 1. **Capability & data-asset gaps vs comparator platforms** (AnVIL, BioData
-   Catalyst, N3C, Kids First, UKB-RAP/DNAnexus, Terra) — *planned*.
+   Catalyst, N3C, Kids First, UKB-RAP/DNAnexus, Terra) — *in progress*. First
+   evidence in [`baa_llm_egress_evidence.md`](baa_llm_egress_evidence.md)
+   (LLM tooling, data-egress models, BAA mechanics, comparator table).
 2. **Trending methods not yet adopted** — DONE. See
    [`part2_trending_methods.md`](part2_trending_methods.md).
 3. **Tools/artifacts the RW should build** — *planned* (synthesis of Parts 1 & 2).

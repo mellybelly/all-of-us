@@ -131,4 +131,8 @@ the public feed, so this bounds collaboration from team/workspace metadata only.
   chosen to be discriminating.
 - **Grant growth multipliers** are partly inflated by RePORTER vocabulary onsets;
   trend judgments lean on preprint (author-text) signals.
-- Workspace corpus is the 2025-10-24 snapshot (per the landscape README).
+- Workspace corpus is the 2025-10-24 snapshot (per the landscape README) — this
+  **predates RW 2.0's AI tooling** (Claude Code/Gemini CLI, beta Jan 2026). The
+  ~0% in-workspace LLM use is therefore a pre-RW-2.0 measurement; re-measure
+  after RW 2.0 GA. See `baa_llm_egress_evidence.md` for the current tooling and
+  the BAA/egress mechanics behind the gap.
