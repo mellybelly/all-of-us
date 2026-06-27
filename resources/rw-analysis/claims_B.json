@@ -1,0 +1,348 @@
+[
+  {
+    "platform": "TERRA",
+    "dimension": "data_assets",
+    "claim": "AnVIL (the NHGRI lab-space built on Terra) provides access to major NHGRI datasets including CCDG, CMG, and eMERGE.",
+    "url": "https://anvilproject.org/overview",
+    "quote": "AnVIL provides access to key NHGRI datasets, such as the CCDG (Centers for Common Disease Genomics), CMG (Centers for Mendelian Genomics), eMERGE (Electronic Medical Records and Genomics), as well as other relevant datasets.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "data_assets",
+    "claim": "AnVIL hosts data from more than 280,000 human genomes across many cohorts and consortia.",
+    "url": "https://anvilproject.org/overview/why-anvil",
+    "quote": "The AnVIL hosts data from >280,000 human genomes from >240 different cohorts spanning multiple consortia",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "data_assets",
+    "claim": "AnVIL securely stores both open- and controlled-access cloud-hosted datasets.",
+    "url": "https://anvilproject.org/overview/why-anvil",
+    "quote": "AnVIL securely stores diverse, open and controlled access, cloud-hosted datasets",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "compute_gpu",
+    "claim": "Terra Jupyter notebook cloud environments can be created with GPUs attached by checking an option in the configuration panel.",
+    "url": "https://terra.bio/speed-up-your-machine-learning-work-with-gpus/",
+    "quote": "To create a Notebook cloud environment with GPU(s) attached, simply check the 'Enable GPUs' option in the environment configuration panel.",
+    "date": "2021-08-04"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "compute_gpu",
+    "claim": "Terra rolled out GPU support specifically for interactive Jupyter Notebook computations.",
+    "url": "https://terra.bio/speed-up-your-machine-learning-work-with-gpus/",
+    "quote": "Many of you have told us that you also need to be able to run GPU-enabled computations interactively, so we're really excited to roll out GPU support for Jupyter Notebooks.",
+    "date": "2021-08-04"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "compute_gpu",
+    "claim": "NVIDIA Clara Parabricks GPU-accelerated secondary analysis was made available as six new Terra workflows.",
+    "url": "https://nvidianews.nvidia.com/news/the-broad-institute-and-nvidia-bring-nvidia-clara-to-terra-cloud-platform-serving-25-000-researchers-advancing-biomedical-discovery",
+    "quote": "Parabricks, a GPU-accelerated software suite for secondary analysis of sequencing data, is now available in six new Terra workflows.",
+    "date": "2022-09-20"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "ai_llm_tooling",
+    "claim": "From within a Terra workspace on Azure, researchers can connect to Azure OpenAI Service for generative AI.",
+    "url": "https://www.broadinstitute.org/news/terra-azure-release",
+    "quote": "Researchers can seamlessly use the Azure ecosystem from within their Terra Workspace environment, such as connecting to Azure OpenAI Service and Azure Health Services.",
+    "date": "2024-01-24"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "notebooks",
+    "claim": "AnVIL/Terra supports interactive analysis with Jupyter, RStudio/Bioconductor, and Galaxy.",
+    "url": "https://anvilproject.org/overview/why-anvil",
+    "quote": "Interactive sessions are available with Jupyter, RStudio/Bioconductor, and Galaxy",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "notebooks",
+    "claim": "AnVIL offers multiple analysis entry points including WDL batch workflows and Jupyter/RStudio notebook environments.",
+    "url": "https://anvilproject.org/overview",
+    "quote": "AnVIL provides multiple entry points for data access and analysis, including execution of batch workflows written in WDL, notebook environments including Jupyter and RStudio, Bioconductor packages for building analysis on top of AnVIL services, and will offer Galaxy instances for interactive analysis.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "egress_security",
+    "claim": "AnVIL's compute-to-data model eliminates data movement and enables active threat detection and monitoring.",
+    "url": "https://anvilproject.org/overview",
+    "quote": "By providing a unified environment for data management and compute, AnVIL eliminates the need for data movement, allows for active threat detection and monitoring, and provides elastic, shared computing resources that can be acquired by researchers as needed.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "egress_security",
+    "claim": "AnVIL/Terra brings computing to the data rather than moving data to the compute environment.",
+    "url": "https://anvilproject.org/overview/why-anvil",
+    "quote": "AnVIL brings a computing environment to the data rather than moving the data from storage to the computing environment",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "egress_security",
+    "claim": "Terra's Azure offering holds a FedRAMP Moderate Impact authorization.",
+    "url": "https://www.broadinstitute.org/news/terra-azure-release",
+    "quote": "Terra's support for Azure is authorized as a FedRAMP Moderate Impact system with an Agency Authorization.",
+    "date": "2024-01-24"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "collaboration_reuse",
+    "claim": "AnVIL/Terra runs and scales analysis workflows via Dockstore and Terra, supporting workflow sharing/reuse.",
+    "url": "https://anvilproject.org/learn",
+    "quote": "Run and scale analysis workflows with Dockstore and Terra",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "collaboration_reuse",
+    "claim": "Dockstore (the workflow registry used by Terra/AnVIL) is an app store for sharing scientific tools and workflows.",
+    "url": "https://raw.githubusercontent.com/dockstore/dockstore/develop/README.md",
+    "quote": "Dockstore provides a place for users to share tools and workflows encapsulated in Docker and described with the Common Workflow Language (CWL), WDL (Workflow Description Language), Nextflow, or Galaxy.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "cost_model",
+    "claim": "AnVIL/Terra lets users test analyses on smaller datasets or light environments without incurring much cost.",
+    "url": "https://anvilproject.org/overview/why-anvil",
+    "quote": "analyses or workflows can be tested with smaller scale test datasets or light environments without incurring much cost or spending a lot of time to configure environments.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "TERRA",
+    "dimension": "standards_interop",
+    "claim": "Dockstore, the workflow registry integrated with Terra/AnVIL, supports GA4GH-aligned workflow languages CWL, WDL, Nextflow and Galaxy.",
+    "url": "https://docs.dockstore.org/en/develop/dockstore-introduction.html",
+    "quote": "Dockstore supports the languages commonly used by GA4GH's Cloud Work Stream members and APIs: Common Workflow Language (CWL), Workflow Description Language (WDL), Nextflow (NFL), and Galaxy.",
+    "date": "accessed 2026-06-27"
+  },
+
+  {
+    "platform": "BDC",
+    "dimension": "data_assets",
+    "claim": "BioData Catalyst is a cloud-based platform providing secure workspaces to share, store, cross-link, and analyze large research datasets.",
+    "url": "https://www.nhlbi.nih.gov/science/biodata-catalyst",
+    "quote": "It is a cloud-based platform for tools, applications, and workflows, and it provides secure workspaces to share, store, cross-link, and analyze large sets of data generated from biomedical and behavioral research, while also ensuring patient privacy.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "data_assets",
+    "claim": "NHLBI's TOPMed program is among the first datasets available in BioData Catalyst.",
+    "url": "https://www.nhlbi.nih.gov/science/biodata-catalyst",
+    "quote": "enhancing access to NHLBI data, like NHLBI's Trans-Omics for Precision Medicine (TOPMed) Program, which is among the first available datasets in BioData Catalyst.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "data_assets",
+    "claim": "BDC provides access to tools for analyzing phenotypic, genomic, other omics, and imaging data types.",
+    "url": "https://www.nhlbi.nih.gov/science/biodata-catalyst",
+    "quote": "The platform will also provide access to tools that can be used to analyze various data types, including phenotypic, genomic, other omics, and imaging data.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "notebooks",
+    "claim": "BDC's Seven Bridges Data Studio provides interactive analysis in JupyterLab, RStudio and SAS Studio.",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/about-data-cruncher",
+    "quote": "Seven Bridges Data Studio is an interactive analysis tool on BioData Catalyst powered by Seven Bridges for data exploration and visualization using familiar environments like JupyterLab, RStudio and SAS Studio.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "notebooks",
+    "claim": "Data Studio offers a set of predefined libraries curated by Seven Bridges bioinformaticians available at analysis start.",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/about-libraries-in-a-data-cruncher-analysis",
+    "quote": "Data Studio offers a set of predefined libraries curated by Seven Bridges bioinformaticians, which are automatically available every time an analysis is started.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "compute_gpu",
+    "claim": "BDC/Seven Bridges Data Studio includes a machine-learning environment setup optimized for execution on GPU instances.",
+    "url": "https://docs.cavatica.org/docs/about-libraries-in-a-data-cruncher-analysis",
+    "quote": "This environment setup is optimized for machine learning and execution on GPU instances.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "collaboration_reuse",
+    "claim": "BDC offers a repository of publicly available apps (tools and workflows) for many types of data analysis.",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/use-public-apps",
+    "quote": "BioData Catalyst powered by Seven Bridges offers a repository of publicly available apps suitable for many different types of data analysis.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "collaboration_reuse",
+    "claim": "Public apps copied to a BDC project can be fully modified with the tool and workflow editors.",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/use-public-apps",
+    "quote": "After you copy them to your project, these apps can be fully modified using the tool editor and the workflow editor.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "egress_security",
+    "claim": "BDC users incur costs when transferring data out of cloud storage, e.g., downloading files from the Platform (egress).",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/about-pricing",
+    "quote": "Data transfer costs: These costs are generated due to transferring data out from the cloud storage",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "cost_model",
+    "claim": "On BDC/Seven Bridges, compute costs depend on the underlying cloud infrastructure provider.",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/compute-costs",
+    "quote": "Compute costs depend on the cloud infrastructure provider.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "cost_model",
+    "claim": "BDC/Seven Bridges is a cloud-based environment whose compute, storage and transfer costs are billed monthly.",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/about-pricing",
+    "quote": "BioData Catalyst powered by Seven Bridges is a cloud-based environment that uses underlying cloud infrastructure to execute analyses, store and transfer data.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "standards_interop",
+    "claim": "BDC is a GA4GH Driver Project that uses the Data Repository Service (DRS) standard.",
+    "url": "https://www.ga4gh.org/driver_project/nhlbi-biodata-catalyst-bdc/",
+    "quote": "BDC is a cloud-based ecosystem providing tools, applications, and workflows in secure workspaces that increases access to U.S. National Heart, Lung, and Blood Institute (NHLBI) funded datasets and innovative data analysis capabilities.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "BDC",
+    "dimension": "standards_interop",
+    "claim": "BDC supports importing DRS files, with imported files remaining physically hosted on the source platform.",
+    "url": "https://sb-biodatacatalyst.readme.io/docs/import-a-drs-file",
+    "quote": "BioData Catalyst Powered by Seven Bridges allows you to import DRS files from either open external sources",
+    "date": "accessed 2026-06-27"
+  },
+
+  {
+    "platform": "KF",
+    "dimension": "data_assets",
+    "claim": "Kids First is a large-scale data resource for childhood cancer and structural birth defects research.",
+    "url": "https://docs.cavatica.org/docs/kids-first-program-overview",
+    "quote": "The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to develop a large-scale data resource to help researchers uncover new insights into the biology of childhood cancer and structural birth defects.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "data_assets",
+    "claim": "CAVATICA is a storage, sharing, and analysis platform built for large volumes of pediatric tumor genomics data.",
+    "url": "https://docs.cavatica.org/docs",
+    "quote": "CAVATICA is a storage, sharing, and analysis platform designed to handle large volumes of pediatric tumor genomics data.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "data_assets",
+    "claim": "Kids First studies can be accessed and loaded for analysis through CAVATICA's Data Browser.",
+    "url": "https://docs.cavatica.org/docs/access-data-from-the-data-browser",
+    "quote": "Once you've selected your desired files, click either +Copy files to project",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "notebooks",
+    "claim": "CAVATICA's Data Studio provides interactive analysis using JupyterLab and RStudio with Python or R.",
+    "url": "https://docs.cavatica.org/docs/about-data-cruncher",
+    "quote": "Seven Bridges Data Studio is an interactive analysis tool on CAVATICA for data exploration and visualization using familiar environments like JupyterLab and RStudio.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "notebooks",
+    "claim": "CAVATICA Data Studio brings the analytical tool to the data, supporting Python or R directly on the platform.",
+    "url": "https://docs.cavatica.org/docs/about-data-cruncher",
+    "quote": "When you need to run a few very simple shell commands to explore data or perform a more complex analysis using Python or R, Data Studio will enable you to do it directly on CAVATICA",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "compute_gpu",
+    "claim": "CAVATICA Data Studio includes a machine-learning environment setup optimized for execution on GPU instances.",
+    "url": "https://docs.cavatica.org/docs/about-libraries-in-a-data-cruncher-analysis",
+    "quote": "This environment setup is optimized for machine learning and execution on GPU instances.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "collaboration_reuse",
+    "claim": "CAVATICA offers a repository of publicly available apps (workflows and tools) plus Interactive Web Apps (R Shiny).",
+    "url": "https://docs.cavatica.org/docs/public-apps",
+    "quote": "CAVATICA offers a repository of publicly available apps (workflows and tools) as well as Interactive Web Apps (R Shiny apps) which are suitable for many different types of data analysis.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "collaboration_reuse",
+    "claim": "Researchers can publish their own tools or workflows to the CAVATICA Public Apps gallery for reuse.",
+    "url": "https://docs.cavatica.org/docs/publish-your-app",
+    "quote": "Publish your new tool or workflow to the Public Apps gallery by publishing the project containing it.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "collaboration_reuse",
+    "claim": "CAVATICA enables sharing data, tools, and results with collaborators and the broader research community.",
+    "url": "https://kidsfirstdrc.org/support/analyze-data/",
+    "quote": "Useful data products, tools, and results can also be quickly disseminated and shared with the broader research community",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "egress_security",
+    "claim": "CAVATICA projects can be created with a download restriction so members cannot download any files.",
+    "url": "https://docs.cavatica.org/docs/define-download-restriction",
+    "quote": "CAVATICA allows you to set a download restriction for all files in your project. As a result, project members will not be allowed to download any of the files.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "egress_security",
+    "claim": "A CAVATICA download restriction is set at project creation and cannot be reverted.",
+    "url": "https://docs.cavatica.org/docs/define-download-restriction",
+    "quote": "The restriction is set during the procedure of creating a project and cannot be reverted.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "cost_model",
+    "claim": "On CAVATICA, charging starts once a compute instance is allocated for an interactive analysis.",
+    "url": "https://docs.cavatica.org/docs/data-cruncher-analysis-charging",
+    "quote": "Charging starts once there is an instance allocated for your analysis.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "cost_model",
+    "claim": "CAVATICA charges storage for both project and workspace files on a per GB-month basis.",
+    "url": "https://docs.cavatica.org/docs/data-cruncher-analysis-charging",
+    "quote": "Storage is charged for both project and workspace files, per GB-month.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "KF",
+    "dimension": "standards_interop",
+    "claim": "CAVATICA supports importing files via the GA4GH DRS standard, with files remaining hosted on the source platform.",
+    "url": "https://docs.cavatica.org/docs/import-from-a-drs-server",
+    "quote": "Please note that the actual files physically remain hosted on the source platform and are only linked to CAVATICA.",
+    "date": "accessed 2026-06-27"
+  }
+]

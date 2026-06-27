@@ -1,0 +1,338 @@
+[
+  {
+    "platform": "AOU",
+    "dimension": "data_assets",
+    "claim": "All of Us data includes electronic health records, surveys, and physical measurements from consented participants.",
+    "url": "https://www.researchallofus.org/data-tools/workbench/",
+    "quote": "data from electronic health records (EHRs), surveys, and physical measurements",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "data_assets",
+    "claim": "All of Us generates genomic data via short-read WGS, long-read WGS, and genome-wide genotyping.",
+    "url": "https://www.researchallofus.org/data-tools/data-sources/",
+    "quote": "short-read whole genome sequencing, long-read whole genome sequencing, and genome-wide genotyping to call single nucleotide polymorphism, insertion, and deletion variants (SNPs and Indels) and structural variants",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "data_assets",
+    "claim": "All of Us participants can contribute wearable device data such as Fitbit (heart rate, activity, sleep).",
+    "url": "https://www.researchallofus.org/data-tools/data-sources/",
+    "quote": "such as Fitbit devices, which track biometric data, including heart rate, physical activity, and sleep",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "data_assets",
+    "claim": "The Controlled Tier dataset adds genomic data including short-read WGS, long-read WGS, structural variants, and genotyping arrays.",
+    "url": "https://www.researchallofus.org/data-tools/data-access/",
+    "quote": "genomic data in the form of short-read whole genome sequences (WGS), long-read WGS, structural variants, and genotyping arrays",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "notebooks",
+    "claim": "The Researcher Workbench provides integrated Jupyter Notebook, RStudio, and SAS Studio analysis tools.",
+    "url": "https://www.researchallofus.org/data-tools/workbench/",
+    "quote": "integrated cloud-based analysis tools, including Jupyter Notebook, RStudio, and SAS Studio",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "notebooks",
+    "claim": "Researchers can use R, Python, or SAS to query and analyze All of Us datasets.",
+    "url": "https://www.researchallofus.org/data-tools/workbench/",
+    "quote": "Researchers with R, Python, or SAS experience can perform queries and analyses within the",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "cost_model",
+    "claim": "Each registered Researcher Workbench user receives $300 in initial cloud credits.",
+    "url": "https://www.researchallofus.org/data-tools/workbench/",
+    "quote": "provides $300 in initial credits for each registered Researcher Workbench user",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "standards_interop",
+    "claim": "All of Us curation uses OMOP to standardize data.",
+    "url": "https://www.researchallofus.org/data-tools/workbench/",
+    "quote": "Our data curation process uses OMOP to standardize data to ensure high-quality data for research",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "standards_interop",
+    "claim": "All of Us uses the OMOP Common Data Model to standardize all EHR data.",
+    "url": "https://www.researchallofus.org/data-tools/data-sources/",
+    "quote": "We use the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM) to standardize all EHR data",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "egress_security",
+    "claim": "All of Us implements security controls at the FISMA Moderate baseline derived from NIST 800-53.",
+    "url": "https://www.researchallofus.org/privacy/",
+    "quote": "We have implemented security controls at the FISMA Moderate baseline, leveraged from NIST 800-53, to build a robust security framework",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "egress_security",
+    "claim": "Data available to researchers has direct identifiers removed and is modified to minimize re-identification risk.",
+    "url": "https://www.researchallofus.org/data-tools/workbench/",
+    "quote": "had direct identifiers removed and has been further modified to minimize re-identification risks",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "egress_security",
+    "claim": "Authorized users receive a 'data passport' required to access registered and controlled tiers and create workspaces.",
+    "url": "https://www.researchallofus.org/data-tools/data-access/",
+    "quote": "The data passport is required for gaining access to the registered and controlled data tiers",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "collaboration_reuse",
+    "claim": "All of Us workspaces are collaborative and can be shared among registered researchers on a project team.",
+    "url": "https://www.researchallofus.org/data-tools/workbench/",
+    "quote": "Workspaces are collaborative and can be shared among other registered researchers within a project team",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "AOU",
+    "dimension": "data_assets",
+    "claim": "The interactive Data Browser exposes aggregate data across EHR, genomic sequencing, surveys, physical measurements, and Fitbit.",
+    "url": "https://www.researchallofus.org/data-tools/data-snapshots/",
+    "quote": "aggregate-level data derived from electronic health records, genomic sequencing, survey responses, physical measurements, and Fitbit activity",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "standards_interop",
+    "claim": "N3C harmonizes clinical data into the OMOP Common Data Model (v5.3).",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/data-overview",
+    "quote": "N3C harmonizes clinical data into the OMOP Common Data Model",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "standards_interop",
+    "claim": "N3C harmonizes EHR data to OMOP 5.3.",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/faqs",
+    "quote": "N3C utilizes harmonized EHR data to OMOP 5.3. For a detailed list of available data elements, please see OMOP CDM v5.3",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "data_assets",
+    "claim": "N3C collects EHR-derived demographics, lab results, procedures, medications, conditions, and physical measurements.",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/data-overview",
+    "quote": "demographics, lab test results, procedures, medications, medical conditions, physical measurements and more",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "egress_security",
+    "claim": "Data stay within the N3C Enclave with no download or capture of raw data.",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/data-overview",
+    "quote": "Data stay within the N3C Enclave: No download or capture of raw data",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "egress_security",
+    "claim": "The N3C Palantir Foundry platform runs in AWS and is FedRAMP authorized at Moderate impact level.",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/faqs",
+    "quote": "The Palantir Foundry platform in use resides in Amazon Web Services and is Federal Risk and Authorization Management Program authorized at a Moderate impact level",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "egress_security",
+    "claim": "Approved N3C users analyze data only within the platform; no EHR data may be downloaded.",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/faqs",
+    "quote": "Approved users can analyze data only within the platform. No data from the EHRs may be downloaded",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "egress_security",
+    "claim": "All N3C data is encrypted both in transit and at rest, without exception.",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/faqs",
+    "quote": "All data is encrypted both in transit and at rest, without exception",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "notebooks",
+    "claim": "N3C Code Workbooks support Python, R, SQL, PySpark, and SparkR.",
+    "url": "https://rwdcollaborative.github.io/guide-to-n3c-v1/chapters/tools.html",
+    "quote": "Supports Python, R, SQL, PySpark, and SparkR",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "collaboration_reuse",
+    "claim": "N3C Code Workbooks allow exporting code to GitHub.",
+    "url": "https://rwdcollaborative.github.io/guide-to-n3c-v1/chapters/tools.html",
+    "quote": "Exporting code to GitHub",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "collaboration_reuse",
+    "claim": "N3C tooling facilitates a collaborative environment producing artifacts interoperable across Enclave applications.",
+    "url": "https://rwdcollaborative.github.io/guide-to-n3c-v1/chapters/tools.html",
+    "quote": "facilitate a collaborative environment in which you can quickly iterate over logic to produce artifacts interoperable with the suite of Enclave applications",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "collaboration_reuse",
+    "claim": "Foundry's Notepad in N3C supports secure team dissemination of results within the Enclave.",
+    "url": "https://rwdcollaborative.github.io/guide-to-n3c-v1/chapters/tools.html",
+    "quote": "Foundry's Notepad for reporting results for secure team dissemination within the Enclave environment",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "collaboration_reuse",
+    "claim": "N3C code branching facilitates collaboration and reproducibility.",
+    "url": "https://rwdcollaborative.github.io/guide-to-n3c-v1/chapters/tools.html",
+    "quote": "branching facilitates collaboration and reproducibility",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "N3C",
+    "dimension": "data_assets",
+    "claim": "More than 90 institutions worked together to build N3C as a national real-world data resource.",
+    "url": "https://ncats.nih.gov/research/research-activities/n3c/overview",
+    "quote": "More than 90 institutions worked together to build N3C",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "data_assets",
+    "claim": "On the UKB-RAP, bulk data-fields are dispensed to projects as files.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/getting-started/data-structure",
+    "quote": "Bulk data-fields are dispensed as files.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "data_assets",
+    "claim": "UKB-RAP tabular data-fields and linked health data are placed into a Spark SQL database and dataset.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/getting-started/data-structure",
+    "quote": "Tabular data-fields and linked health data are placed into a Spark SQL database and an associated dataset.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "standards_interop",
+    "claim": "The UK Biobank Research Analysis Platform is built on the DNAnexus Platform.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/getting-started/key-concepts",
+    "quote": "The UK Biobank Research Analysis Platform is built on the DNAnexus Platform, and using the two is largely the same experience.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "collaboration_reuse",
+    "claim": "Users can collaborate on the DNAnexus Platform by giving project access to other users.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/getting-started/key-concepts",
+    "quote": "You can collaborate on the DNAnexus Platform by giving project access to other users.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "collaboration_reuse",
+    "claim": "Users can build and deploy custom workflows for processing and analyzing data on the platform.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/getting-started/key-concepts",
+    "quote": "Learn to build and deploy custom workflows for processing and analyzing data.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "notebooks",
+    "claim": "The platform provides a JupyterLab Spark Cluster app with a fully managed Spark cluster.",
+    "url": "https://documentation.dnanexus.com/user/jupyter-notebooks",
+    "quote": "you can use a fully managed Spark cluster",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "compute_gpu",
+    "claim": "AWS, Azure, and OCI GPU instance types are available for use on the DNAnexus Platform.",
+    "url": "https://documentation.dnanexus.com/developer/api/running-analyses/instance-types",
+    "quote": "AWS, Azure, and OCI GPU instance types are available for use on the Platform.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "compute_gpu",
+    "claim": "The CUDA version on a GPU instance depends on the selected NVIDIA driver version.",
+    "url": "https://documentation.dnanexus.com/developer/api/running-analyses/instance-types",
+    "quote": "The CUDA version available on your GPU instance depends on which NVIDIA driver version you select",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "cost_model",
+    "claim": "Research Analysis Platform users are billed according to usage and incur costs for compute resources.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/administrator/billing-and-costs",
+    "quote": "Users of the Research Analysis Platform are billed according to usage.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "cost_model",
+    "claim": "Every billing account has a spending limit on unpaid charges before access is restricted.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/administrator/billing-and-costs",
+    "quote": "Every billing account has a spending limit - a limit on unpaid charges that can be incurred, before access is limited to key features.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "cost_model",
+    "claim": "DNAnexus users can set up a personal billing account to pay for analyses, storage, and egress.",
+    "url": "https://documentation.dnanexus.com/admin/billing-and-account-management",
+    "quote": "Users can set up a personal billing account to pay for any charges they incur when running analyses, storing data on the DNAnexus Platform, or egressing data from the Platform.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "egress_security",
+    "claim": "Org admins can set separate monthly project spending limits for compute and egress to control costs.",
+    "url": "https://documentation.dnanexus.com/admin/billing-and-account-management",
+    "quote": "The Monthly Project Spending Limit for Computing and Egress feature allows setting separate project-level monthly spending limits",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "collaboration_reuse",
+    "claim": "Users can access platform features via the dx command-line client, part of the DNAnexus SDK.",
+    "url": "https://dnanexus.gitbook.io/uk-biobank-rap/getting-started/key-concepts",
+    "quote": "using `dx` command-line client",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "collaboration_reuse",
+    "claim": "On the DNAnexus Platform a project is a means of enabling users to collaborate with shared access to data and tools.",
+    "url": "https://documentation.dnanexus.com/getting-started/key-concepts/projects",
+    "quote": "a project is primarily a means of enabling users to collaborate, by providing them with shared access to specific data and tools.",
+    "date": "accessed 2026-06-27"
+  },
+  {
+    "platform": "UKBRAP",
+    "dimension": "egress_security",
+    "claim": "Project admins with ADMINISTER access can restrict members' ability to view, copy, delete, and download data.",
+    "url": "https://documentation.dnanexus.com/getting-started/key-concepts/projects",
+    "quote": "can restrict the ability of project members to view, copy, delete, and download project data.",
+    "date": "accessed 2026-06-27"
+  }
+]
