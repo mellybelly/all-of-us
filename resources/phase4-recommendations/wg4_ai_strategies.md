@@ -22,6 +22,18 @@ scope**: single-cell / spatial / protein-structure foundation models are
 exploding too, but sit *outside AoU's data model* — AoU should evaluate genomic
 and EHR foundation models, not chase those.
 
+**Researcher Workbench comparator analysis (`../rw-analysis/`, 87/87 citations
+source-verified).** Benchmarked vs N3C, Terra/AnVIL, BioData Catalyst, UKB-RAP,
+and Kids First: AoU leads on data assets and GPU/AI compute but has three
+remediable platform gaps — no shared tool/workflow reuse registry (every
+comparator has one), **no governed in-environment LLM (only bring-your-own-key
+Claude Code/Gemini CLI)**, and no portable-workflow/GA4GH interoperability. The
+key BAA point for this WG: an in-environment LLM is *not* blocked by a missing
+BAA — Google Cloud's BAA already covers Vertex AI/Gemini, so an in-VPC model
+keeps data in-boundary; the gap is that AoU hasn't provisioned a governed
+in-VPC model. Evidence + mechanics in `../rw-analysis/baa_llm_egress_evidence.md`;
+recommended builds in `../rw-analysis/part3_recommended_tools.md`.
+
 ---
 
 ## Candidate recommendations evaluated

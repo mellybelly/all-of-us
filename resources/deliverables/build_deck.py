@@ -135,7 +135,7 @@ def add_header(slide, title, subtitle=None):
     add_rect(slide, Inches(0.5), Inches(1.10), Inches(12.3), Pt(0.75),
              fill=RULE, line=None)
 
-def add_footer(slide, slide_num, total=20):
+def add_footer(slide, slide_num, total=21):
     add_textbox(slide, Inches(0.5), Inches(7.10), Inches(8), Inches(0.3),
                 "All of Us Scientific Roadmap Refresh  •  WG-1 Draft  •  Smoller & Haendel  •  2026-06-02",
                 size=8.5, color=GRAY, italic=True, font=BODY_FONT)
@@ -1024,7 +1024,69 @@ Rec 3 (3.50): evaluate, don't build. The field is moving so fast that any premat
 HORIZON-SCAN BACKING (slide 12): the external scan ranks LLMs/agentic AI as the #2 actionable white-space gap (published LLM-in-medicine work up 47× 2021→2025; AoU at 0.2%) and genomic foundation models #1 — strengthening Rec 1 (co-scientist) and Rec 3 (FM evaluation). It also bounds scope: single-cell/spatial/protein-structure foundation models are real but outside AoU's data model — AoU should evaluate genomic + EHR FMs, not chase those.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 17 — WG-5 Communications Top-3
+# SLIDE 17 — Researcher Workbench: capability gaps & build priorities
+# ---------------------------------------------------------------------------
+s = prs.slides.add_slide(BLANK)
+add_header(s, "Researcher Workbench: capability gaps vs comparators, and what to build",
+           "Benchmarked vs N3C, Terra/AnVIL, BioData Catalyst, UKB-RAP, Kids First. AoU leads on data & GPU; gaps are in reuse, governed AI, and portability. 87/87 citations source-verified.")
+
+# Two columns: verified gaps (left) and build priorities (right)
+add_textbox(s, Inches(0.55), Inches(1.30), Inches(6.0), Inches(0.35),
+            "Verified gaps (where every comparator exceeds AoU)",
+            size=13, bold=True, color=NAVY, font=HEAD_FONT)
+gaps = [
+    ("No shared tool/workflow reuse registry",
+     "AoU documents workspace sharing only; N3C, Terra (Dockstore), BDC & Kids First all publish reusable apps/workflows. Corroborated: 86% of AoU workspaces are solo, ~20% are tutorial clones."),
+    ("No governed in-environment LLM",
+     "Only bring-your-own-key Claude Code/Gemini CLI — can't touch participant data. LLM/RAG/agentic use is ~0% in workspaces."),
+    ("No portable-workflow / GA4GH interop",
+     "Comparators package analyses (CWL/WDL/Nextflow) and exchange via GA4GH DRS; AoU standardizes data (OMOP) but not analyses."),
+]
+y = Inches(1.70)
+for title, body in gaps:
+    add_rect(s, Inches(0.55), y, Inches(6.0), Inches(1.45), fill=LIGHT, line=GRAY)
+    add_textbox(s, Inches(0.7), y + Inches(0.08), Inches(5.7), Inches(0.35),
+                title, size=11.5, bold=True, color=DARK, font=HEAD_FONT)
+    add_textbox(s, Inches(0.7), y + Inches(0.45), Inches(5.7), Inches(0.95),
+                body, size=10, color=DARK, font=BODY_FONT, line_spacing=1.12)
+    y = y + Inches(1.58)
+
+add_textbox(s, Inches(6.85), Inches(1.30), Inches(6.0), Inches(0.35),
+            "Build priorities (“Now” tier)", size=13, bold=True, color=AMBER, font=HEAD_FONT)
+builds = [
+    ("1. Governed in-VPC AI co-scientist",
+     "Vertex/Gemini (or Claude-on-Vertex) under the existing Google Cloud BAA + RAG over the data dictionary. Legal blocker is governance, not the BAA. Powers WG-4 Rec 1."),
+    ("2. Reusable tool/workflow registry + apps gallery",
+     "Dockstore-style registry + “publish your analysis” gallery + featured workspaces, to convert clones into shared, reusable artifacts."),
+    ("3. Multimodal integration templates",
+     "Templates + feature store joining WGS + EHR + surveys + wearables — AoU is the only platform co-locating these; fastest-rising method, ~1.6% adoption."),
+]
+y = Inches(1.70)
+for title, body in builds:
+    add_rect(s, Inches(6.85), y, Inches(6.0), Inches(1.45), fill=SOFT_AMBER, line=AMBER)
+    add_textbox(s, Inches(7.0), y + Inches(0.08), Inches(5.7), Inches(0.35),
+                title, size=11.5, bold=True, color=AMBER, font=HEAD_FONT)
+    add_textbox(s, Inches(7.0), y + Inches(0.45), Inches(5.7), Inches(0.95),
+                body, size=10, color=DARK, font=BODY_FONT, line_spacing=1.12)
+    y = y + Inches(1.58)
+
+add_textbox(s, Inches(0.55), Inches(6.62), Inches(12.25), Inches(0.45),
+            "AoU leads on data assets (linked WGS+EHR+surveys+wearables) and GPU/AI compute (H100/H200/B200+NeMo) — the deficiencies are in turning that into shared, AI-enabled, reusable science. Operationalizes the proposed 9th focus area + Workbench AI co-scientist.",
+            size=10.5, color=NAVY, italic=True, font=BODY_FONT, line_spacing=1.15)
+
+add_footer(s, 17)
+set_notes(s, """Source: rw-analysis/ (part1_capability_gaps.md, part2_trending_methods.md, part3_recommended_tools.md, baa_llm_egress_evidence.md).
+
+METHOD + CITATION INTEGRITY: AoU RW benchmarked across 8 dimensions vs N3C, Terra/AnVIL, BioData Catalyst, UKB-RAP, Kids First. Every claim carries a URL + verbatim quote that was re-fetched and confirmed on-page; 87/87 citations verified (audit trail in citations_verified.csv). Unverifiable claims were dropped.
+
+GAPS (verified): (1) reuse registry — AoU has workspace sharing only; Dockstore (Terra/AnVIL), BDC public apps, Cavatica publish-your-own, N3C branching/GitHub export all exceed it; corroborated by Part 2 workspace data (85.8% solo, 3.7% multi-institution, ~20% duplicate-title clones). (2) governed LLM — RW 2.0 ships Claude Code + Gemini CLI but BYO-key, so not usable on participant data; LLM/RAG/agentic ~0% in workspaces. (3) portability — no CWL/WDL/DRS analysis packaging.
+
+KEY BAA POINT: the constraint on an in-environment LLM is NOT a missing BAA — Google Cloud's BAA already covers Vertex AI/Gemini, so an in-VPC model keeps data in-boundary. The gap is that AoU hasn't provisioned a governed in-VPC model; the BYO-key CLIs run under the user's own terms. See baa_llm_egress_evidence.md.
+
+AoU STRENGTHS (so the gaps are credible): data assets and GPU/AI compute are best-in-set; notebooks, OMOP, closed-tier security at parity. The deficiencies are platform-capability, not data.""")
+
+# ---------------------------------------------------------------------------
+# SLIDE 18 — WG-5 Communications Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-5 Scientific Communications: turn the corpus evidence into legible products",
@@ -1058,7 +1120,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "The distinctive-evidence narrative (Rec 2) is the political-defense story under which every other WG's recommendations should be read.",
             size=11.5, color=NAVY, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 17)
+add_footer(s, 18)
 set_notes(s, """Source: phase4-recommendations/wg5_communications.md.
 
 Rec 1 (3.57): Impact Report v1 within 12 months. WG-2 defines metrics; WG-5 produces the report. NIH precedent: BD2K, BRAIN Initiative, Cancer Moonshot all publish annual impact products.
@@ -1068,7 +1130,7 @@ Rec 2 (3.60): the four-strength narrative is the MOST EVIDENCE-DRIVEN recommenda
 Rec 3 (3.60): the 21 per-IC briefs in aou-ic-alignment/per_ic_briefs/ are mostly drafted. Productize them rather than rebuilding.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 18 — Cross-WG interlocks
+# SLIDE 19 — Cross-WG interlocks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Five cross-WG dependencies the Sci Com should coordinate",
@@ -1106,7 +1168,7 @@ for i, (code, headline, detail) in enumerate(deps):
     add_textbox(s, Inches(1.85), y + Inches(0.42), Inches(10.95), Inches(0.6),
                 detail, size=11.5, color=DARK, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 18)
+add_footer(s, 19)
 set_notes(s, """Source: phase4-recommendations/cross_cutting_synthesis.md §1.
 
 The five interlocks should be in the Sci Com's awareness because they determine whether the WGs ship semi-aligned outputs that compete or genuinely-aligned outputs that compound.
@@ -1114,7 +1176,7 @@ The five interlocks should be in the Sci Com's awareness because they determine 
 CC-5 (Aging/ADRD) is a flag because no Top-3 currently owns it. AoU is at 6.0% post-2023 (≈peer median, index 0.84×) and growing (+4.7), but still trailing UKB's +6.9 surge in the lecanemab/donanemab era. Structural advantage (EHR + UBR diversity); the gap is narrowing rather than flat, so this is now a weaker-evidence flag than in the prior draft. NIA engagement workstream is the natural answer; outside any current Top-3.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 19 — Caveats
+# SLIDE 20 — Caveats
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Caveats — three things the Sci Com should know before acting",
@@ -1151,7 +1213,7 @@ for i, (num, head, body) in enumerate(caveats):
     add_textbox(s, Inches(1.6), y + Inches(0.45), Inches(11.2), Inches(1.30),
                 body, size=11.5, color=DARK, font=BODY_FONT, line_spacing=1.30)
 
-add_footer(s, 19)
+add_footer(s, 20)
 set_notes(s, """Source: aou-research-landscape/README.md; peer-biobanks/emerging_themes.md §caveats; phase4-recommendations/README.md.
 
 The dermatology caveat is NON-NEGOTIABLE to include — if Sci Com or external audiences see 'dermatology peer-index 6.9×' without context, they may push to elevate dermatology, which would mislead the Roadmap. Phase 1 README flagged the 1-2-prolific-groups origin; Phase 3b temporal trends show declining share.
@@ -1161,11 +1223,11 @@ The peer-biobank fallback caveat protects against over-reading single-peer trend
 The pre-2023 baseline caveat is why we don't use AoU-internal pre/post trends as the headline growth metric — we use the peer-comparative gap analysis instead.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 20 — Next steps / asks
+# SLIDE 21 — Next steps / asks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "What we ask the Science Committee to decide",
-           "Four concrete decisions today; one calendar commitment for the cross-WG hierarchy.")
+           "Five concrete decisions today; one calendar commitment for the cross-WG hierarchy.")
 
 asks = [
     ("ENDORSE",
@@ -1184,24 +1246,28 @@ asks = [
      "time at the next Science Committee for the structural-framework vote (FA9 + FA8 rename + FA reframes)",
      "These three structural decisions are the WG-1 deliverable; they should be settled before the other four WGs' Top-3 are finalized.",
      NAVY),
+    ("COMMISSION",
+     "the Researcher Workbench build priorities: a governed in-VPC AI co-scientist, a reusable-apps/workflow registry, and multimodal-integration templates",
+     "Evidence-verified gaps vs N3C, Terra, BDC, UKB-RAP & Kids First (slide 17). The in-VPC LLM is legal under the existing Google Cloud BAA. Operationalizes FA9 + the AI co-scientist.",
+     NAVY),
 ]
 
-y0 = Inches(1.40)
-ask_h = Inches(1.20)
+y0 = Inches(1.25)
+ask_h = Inches(1.00)
 for i, (action, headline, detail, color) in enumerate(asks):
     y = y0 + ask_h * i
     # left action chip
-    add_rect(s, Inches(0.55), y, Inches(2.1), Inches(1.05), fill=color, line=None)
-    add_textbox(s, Inches(0.55), y + Inches(0.25), Inches(2.1), Inches(0.55),
-                action, size=18, bold=True, color=WHITE, font=HEAD_FONT,
+    add_rect(s, Inches(0.55), y, Inches(2.1), Inches(0.90), fill=color, line=None)
+    add_textbox(s, Inches(0.55), y + Inches(0.20), Inches(2.1), Inches(0.50),
+                action, size=16, bold=True, color=WHITE, font=HEAD_FONT,
                 align=PP_ALIGN.CENTER)
     # headline + detail
-    add_textbox(s, Inches(2.85), y + Inches(0.05), Inches(9.95), Inches(0.5),
-                headline, size=14, bold=True, color=NAVY, font=HEAD_FONT,
-                line_spacing=1.12)
-    add_textbox(s, Inches(2.85), y + Inches(0.55), Inches(9.95), Inches(0.55),
-                detail, size=11.5, color=DARK, font=BODY_FONT, italic=True,
-                line_spacing=1.25)
+    add_textbox(s, Inches(2.85), y + Inches(0.02), Inches(9.95), Inches(0.5),
+                headline, size=13, bold=True, color=NAVY, font=HEAD_FONT,
+                line_spacing=1.08)
+    add_textbox(s, Inches(2.85), y + Inches(0.48), Inches(9.95), Inches(0.5),
+                detail, size=10.5, color=DARK, font=BODY_FONT, italic=True,
+                line_spacing=1.15)
 
 # Closing line
 add_rect(s, Inches(0.55), Inches(6.30), Inches(12.25), Inches(0.65),
@@ -1211,7 +1277,7 @@ add_textbox(s, Inches(0.75), Inches(6.36), Inches(11.85), Inches(0.55),
             size=12.5, bold=True, color=WHITE, font=HEAD_FONT, italic=True,
             align=PP_ALIGN.CENTER)
 
-add_footer(s, 20)
+add_footer(s, 21)
 set_notes(s, """The four explicit asks the Sci Com should take action on:
 
 (1) ENDORSE the 9th focus area — frame-defining; can only be done by this WG.
