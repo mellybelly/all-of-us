@@ -135,7 +135,7 @@ def add_header(slide, title, subtitle=None):
     add_rect(slide, Inches(0.5), Inches(1.10), Inches(12.3), Pt(0.75),
              fill=RULE, line=None)
 
-def add_footer(slide, slide_num, total=19):
+def add_footer(slide, slide_num, total=20):
     add_textbox(slide, Inches(0.5), Inches(7.10), Inches(8), Inches(0.3),
                 "All of Us Scientific Roadmap Refresh  •  WG-1 Draft  •  Smoller & Haendel  •  2026-06-02",
                 size=8.5, color=GRAY, italic=True, font=BODY_FONT)
@@ -263,7 +263,7 @@ Co-leads Smoller and Haendel will jointly present. Plan: ~12 minutes of evidence
 
 Audience: Science Committee, AoU program leadership (Schully, Roden, Lin), NIH program staff observers, and the other four 2026 WG leads who will fit their recommendations into whatever framework this WG endorses.
 
-Companion artifact: AoU_Roadmap_Refresh_Executive_Summary.pdf (one-page Sci Com pre-read).""")
+Companion artifact: AoU_Roadmap_Refresh_Executive_Summary.pdf (Sci Com pre-read).""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 2 — Charge
@@ -310,7 +310,7 @@ steps = [
     ("1", "Inventory", "the AoU corpus — 1,428 substantive publications + 12,899 substantive workspace projects, theme-tagged against a locked 19-theme taxonomy."),
     ("2", "Map", "AoU themes onto 29 NIH strategic plans (NIH-Wide + 21 ICs + cross-cutting). Extracted 166 priority statements; built a corpus × IC alignment matrix."),
     ("3", "Compare", "AoU corpus against 4 peer biobanks (UK Biobank, FinnGen, MVP, China Kadoorie) using a same-tagger keyword approach — calibrates AoU's distinctive contributions and gaps."),
-    ("4", "Identify", "structural framework gaps, emerging research themes, and demand-supply mismatches across the 8 focus areas."),
+    ("4", "Identify", "structural framework gaps and demand-supply mismatches — plus an open-discovery horizon scan of 294k preprints + 423k NIH grants to surface emerging white-space AoU hasn't yet claimed (slide 12)."),
     ("5", "Score", "candidate recommendations against the 8-criterion Sci Com rubric (the format Smoller established in November 2024) and rank the Top-3 per WG."),
 ]
 
@@ -771,7 +771,69 @@ Over-indexed (right chart): ELSI 26.3× peer median, SDOH 5.1×, PGx 4.6×, meth
 Caveats: PubMed-name-search has known undercount (especially MVP); pre-2023 baseline is small (157 AoU pubs); use STATIC SHARE INDEX, not trend differentials. Dermatology 6.9× over-index is an artifact (1-2 prolific groups).""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 12 — WG-1 (OURS) Top-3
+# SLIDE 12 — Horizon scan: emerging white-space
+# ---------------------------------------------------------------------------
+s = prs.slides.add_slide(BLANK)
+add_header(s, "Horizon scan: emerging science AoU has not yet claimed",
+           "Open-discovery scan of 294k preprints + 423k NIH grants (2021-26): trends accelerating fastest that are near-absent in AoU — filtered to what AoU's data can support.")
+
+rows = [
+    ("Genomic foundation models",
+     "DNA language models; ~11k pubs in 2025 (4× since 2021)",
+     "0.1%", "HIGH",
+     "Build/benchmark ancestry-fair genomic FMs on AoU's diverse WGS + EHR — a substrate no peer matches"),
+    ("LLMs + agentic AI on EHR",
+     "LLM-in-medicine pubs up 47× (2021→2025); agentic AI 19×",
+     "0.2%", "HIGH",
+     "Workbench AI co-scientist + RAG over AoU data/dictionary (directly powers WG-4 Rec)"),
+    ("MASLD / MASH (steatotic liver)",
+     "2023 NAFLD→MASLD renaming now standard; ~19k pubs/2025",
+     "0.7%", "HIGH",
+     "Adopt MASLD as a curated EHR+labs phenotype — low effort, high credibility"),
+    ("Aging epidemiology (not bench senescence)",
+     "Aging-biology surge; ~51k pubs/2025",
+     "~0%", "MED",
+     "EHR + biomarker studies of aging; the cellular-senescence biology is out of scope"),
+    ("Digital health / wearables AI",
+     "mHealth interventions rising; AoU already has Fitbit data",
+     "0.7%", "MED",
+     "Wearable-derived phenotypes + multimodal EHR+wearable models"),
+]
+t = add_table(s, Inches(0.55), Inches(1.55), Inches(12.25), Inches(3.95),
+              header=["Emerging trend", "Field signal", "AoU now", "AoU fit",
+                      "What AoU should do"],
+              rows=rows, header_font_size=12, body_font_size=10.5,
+              col_widths=[0.18, 0.26, 0.07, 0.07, 0.42],
+              first_col_bold=True, last_col_emph=True, last_col_color=NAVY)
+t.rows[0].height = Inches(0.40)
+for ri in range(1, len(rows) + 1):
+    t.rows[ri].height = Inches(0.68)
+
+# Boundary callout: real frontiers outside AoU's data model
+add_rect(s, Inches(0.55), Inches(5.75), Inches(12.25), Inches(0.78),
+         fill=LIGHT, line=GRAY)
+add_textbox(s, Inches(0.72), Inches(5.82), Inches(11.9), Inches(0.35),
+            "Watch, don't build — real frontiers OUTSIDE AoU's data model:",
+            size=11.5, bold=True, color=NAVY, font=HEAD_FONT)
+add_textbox(s, Inches(0.72), Inches(6.12), Inches(11.9), Inches(0.4),
+            "Single-cell & spatial tissue omics · AI protein structure (AlphaFold3/Boltz) · iPSC models · gene-editing wet-lab. Exploding in the literature, but AoU collects none of the underlying assays — partner, don't chase.",
+            size=10.5, color=DARK, font=BODY_FONT, italic=True, line_spacing=1.18)
+
+add_textbox(s, Inches(0.55), Inches(6.62), Inches(12.25), Inches(0.4),
+            "The top two gaps ARE the proposed 9th focus area (Data, AI & Methods) and the Workbench AI co-scientist — external evidence those recommendations point at the field's leading edge.",
+            size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
+
+add_footer(s, 12)
+set_notes(s, """Source: emerging-trends/emerging_trends_report.md (full method + tiers).
+
+METHOD: open-discovery horizon scan. Pulled 293,979 bioRxiv+medRxiv preprints and 422,565 NIH RePORTER grants (2021-2026). Computed term-acceleration (recent vs prior doc-share), induced ~24 emerging topics via LLM clustering (not the locked 19-theme taxonomy), gap-checked each vs AoU (1,428) + the 4 peer biobanks + published-literature trajectory, then overlaid AoU data-asset feasibility.
+
+WHY THIS MATTERS: preprints/grants lead published work by 1-2 years, so this is the leading edge. AoU is <0.3% on essentially every fast-rising AI/ML topic. The Tier-1 table is filtered to what AoU CAN do; Tier-2 (single-cell/spatial/protein-structure) is flagged as outside AoU's data model on purpose.
+
+CAVEAT: some grant growth multipliers are inflated by RePORTER controlled-vocabulary onsets (e.g. 'anti-viral agents' prior=0); the AI findings rest on named tools in author-written preprint text (AlphaFold3, GPT-4o/5, DeepSeek, Boltz-2), which are trustworthy. Keyword coverage is substring-based, so AoU % are directional — but order-of-magnitude gaps (0.x% vs a 47× field) are robust.""")
+
+# ---------------------------------------------------------------------------
+# SLIDE 13 — WG-1 (OURS) Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-1 Top-3: the framework changes only this WG can make",
@@ -818,17 +880,17 @@ add_textbox(s, Inches(0.75), Inches(6.55), Inches(11.85), Inches(0.5),
             "Aging/ADRD, microbiome, reproducibility framework, subcontinental ancestry — surfaced in cross-cutting synthesis as Tier-2 or other-WG.",
             size=11, color=DARK, font=BODY_FONT, italic=True, line_spacing=1.20)
 
-add_footer(s, 12)
+add_footer(s, 13)
 set_notes(s, """Source: phase4-recommendations/wg1_roadmap_refresh.md (Top-3 with full rubric tables).
 
-Rec 1 (3.71 mean): 'Add a Data, AI & Methods focus area.' 18% corpus orphan; HA4 33 AI pubs; NLM-G1 explicit alignment. Risk: Sci Com may prefer reorganization to addition; defend with the empirical orphan count.
+Rec 1 (3.71 mean): 'Add a Data, AI & Methods focus area.' 18% corpus orphan; HA4 33 AI pubs; NLM-G1 explicit alignment. EXTERNAL EVIDENCE (slide 12 horizon scan): the two fastest-rising, AoU-feasible white-space gaps in the entire biomedical literature — genomic foundation models and LLMs/agentic AI — are precisely this focus area's content, and AoU is <0.3% present in both. The field has already moved here; the framework hasn't. Risk: Sci Com may prefer reorganization to addition; defend with the empirical orphan count + the horizon scan.
 
 Rec 2 (3.38 mean): 'Rename FA8 + multi-omics roadmap.' Largest peer-comparative growth differential. The rename without the data is a hollow gesture; the data without the rename buries the work — recommendation explicitly pairs them.
 
 Rec 3 (3.00 mean): three small structural fixes bundled. FA4 toward ROR implementation (well-evidenced; theme 17 ELSI −12.3); FA2 → 'Maternal Health' (judgment about naming accuracy; politically sensitive — frame as accuracy not deprioritization); FA6 environmental linkage (largest demand-supply gap; engineering not data acquisition).""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 13 — WG-2 Translational Top-3
+# SLIDE 14 — WG-2 Translational Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-2 Translational: define what counts as translational impact",
@@ -862,7 +924,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "WG-2 also-considered (deprioritized): NCATS-Translator data linkage; partner-cohort replication pipeline; RWE for breakthrough therapeutics (folded into Rec 2 as use case).",
             size=11, color=DARK, italic=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 13)
+add_footer(s, 14)
 set_notes(s, """Source: phase4-recommendations/wg2_translational.md.
 
 Rec 1 (3.50): TSBM = Translational Science Benefits Model (Luke et al., Eval Program Plan 2018). Citation/altmetric/RePORTER/NCT APIs all exist; curation and editorial work is new.
@@ -872,7 +934,7 @@ Rec 2 (3.38): the named portfolio is the canonical translational-WG deliverable.
 Rec 3 (3.75 — highest WG-2 score): the bias framework is the keystone of the cross-WG hierarchy (WG-2 normative → WG-3 imaging → WG-4 AI). Sets the AoU bias-reporting standard.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 14 — WG-3 Imaging Top-3
+# SLIDE 15 — WG-3 Imaging Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-3 Imaging: starting from infrastructure, not utilization",
@@ -906,7 +968,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "Reality check: AoU corpus has 8 imaging pubs (HA3, ~0.6%), almost all using EXTERNAL imaging linked to AoU phenotypes. WG-3 starts from infrastructure.",
             size=11, color=AMBER, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 14)
+add_footer(s, 15)
 set_notes(s, """Source: phase4-recommendations/wg3_imaging.md.
 
 Rec 2 (3.88 — highest WG-3 score): DICOM + FHIR + phecode crosswalk is the highest-leverage standards decision because it anchors imaging to existing AoU analytic infrastructure rather than fragmenting the user base.
@@ -916,7 +978,7 @@ Cost reality: imaging is the single most expensive recommendation across all 5 W
 Also-considered: AI-radiomics pilot funding (hand to WG-4); UKB/NIH-IDC partnership (flag as cross-cohort validation pathway under Rec 1 Tier 1).""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 15 — WG-4 AI Top-3
+# SLIDE 16 — WG-4 AI Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-4 AI Strategies: researchers are already using AI — define what AoU provides",
@@ -950,17 +1012,19 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "Rec 1 (3.88) is the HIGHEST RUBRIC MEAN across all 5 WGs. Direct researcher impact + standardizes use of validated phenotypes + simplifies analysis.",
             size=11.5, color=AMBER, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 15)
+add_footer(s, 16)
 set_notes(s, """Source: phase4-recommendations/wg4_ai_strategies.md.
 
 Rec 1 (3.88): highest rubric mean in the entire set. The AI co-scientist is the single most-leveraged researcher-facing investment. Defends against 'hallucinations' risk via explicit-provenance design (every cohort/code block links back to source vocabulary entry). 'Build vs buy' answer: build AoU-specific scaffolding on existing foundation model, not the model itself.
 
 Rec 2 (3.50): inherits normative frame from WG-2's bias-in-translation framework. AI-specific failure modes (fairness-through-unawareness, label noise, miscalibration across subgroups, distribution shift) need AI-WG technical expertise.
 
-Rec 3 (3.50): evaluate, don't build. The field is moving so fast that any premature build will be obsolete on delivery. 2027 decision-deadline.""")
+Rec 3 (3.50): evaluate, don't build. The field is moving so fast that any premature build will be obsolete on delivery. 2027 decision-deadline.
+
+HORIZON-SCAN BACKING (slide 12): the external scan ranks LLMs/agentic AI as the #2 actionable white-space gap (published LLM-in-medicine work up 47× 2021→2025; AoU at 0.2%) and genomic foundation models #1 — strengthening Rec 1 (co-scientist) and Rec 3 (FM evaluation). It also bounds scope: single-cell/spatial/protein-structure foundation models are real but outside AoU's data model — AoU should evaluate genomic + EHR FMs, not chase those.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 16 — WG-5 Communications Top-3
+# SLIDE 17 — WG-5 Communications Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-5 Scientific Communications: turn the corpus evidence into legible products",
@@ -994,7 +1058,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "The distinctive-evidence narrative (Rec 2) is the political-defense story under which every other WG's recommendations should be read.",
             size=11.5, color=NAVY, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 16)
+add_footer(s, 17)
 set_notes(s, """Source: phase4-recommendations/wg5_communications.md.
 
 Rec 1 (3.57): Impact Report v1 within 12 months. WG-2 defines metrics; WG-5 produces the report. NIH precedent: BD2K, BRAIN Initiative, Cancer Moonshot all publish annual impact products.
@@ -1004,7 +1068,7 @@ Rec 2 (3.60): the four-strength narrative is the MOST EVIDENCE-DRIVEN recommenda
 Rec 3 (3.60): the 21 per-IC briefs in aou-ic-alignment/per_ic_briefs/ are mostly drafted. Productize them rather than rebuilding.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 17 — Cross-WG interlocks
+# SLIDE 18 — Cross-WG interlocks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Five cross-WG dependencies the Sci Com should coordinate",
@@ -1042,7 +1106,7 @@ for i, (code, headline, detail) in enumerate(deps):
     add_textbox(s, Inches(1.85), y + Inches(0.42), Inches(10.95), Inches(0.6),
                 detail, size=11.5, color=DARK, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 17)
+add_footer(s, 18)
 set_notes(s, """Source: phase4-recommendations/cross_cutting_synthesis.md §1.
 
 The five interlocks should be in the Sci Com's awareness because they determine whether the WGs ship semi-aligned outputs that compete or genuinely-aligned outputs that compound.
@@ -1050,7 +1114,7 @@ The five interlocks should be in the Sci Com's awareness because they determine 
 CC-5 (Aging/ADRD) is a flag because no Top-3 currently owns it. AoU is at 6.0% post-2023 (≈peer median, index 0.84×) and growing (+4.7), but still trailing UKB's +6.9 surge in the lecanemab/donanemab era. Structural advantage (EHR + UBR diversity); the gap is narrowing rather than flat, so this is now a weaker-evidence flag than in the prior draft. NIA engagement workstream is the natural answer; outside any current Top-3.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 18 — Caveats
+# SLIDE 19 — Caveats
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Caveats — three things the Sci Com should know before acting",
@@ -1087,7 +1151,7 @@ for i, (num, head, body) in enumerate(caveats):
     add_textbox(s, Inches(1.6), y + Inches(0.45), Inches(11.2), Inches(1.30),
                 body, size=11.5, color=DARK, font=BODY_FONT, line_spacing=1.30)
 
-add_footer(s, 18)
+add_footer(s, 19)
 set_notes(s, """Source: aou-research-landscape/README.md; peer-biobanks/emerging_themes.md §caveats; phase4-recommendations/README.md.
 
 The dermatology caveat is NON-NEGOTIABLE to include — if Sci Com or external audiences see 'dermatology peer-index 6.9×' without context, they may push to elevate dermatology, which would mislead the Roadmap. Phase 1 README flagged the 1-2-prolific-groups origin; Phase 3b temporal trends show declining share.
@@ -1097,7 +1161,7 @@ The peer-biobank fallback caveat protects against over-reading single-peer trend
 The pre-2023 baseline caveat is why we don't use AoU-internal pre/post trends as the headline growth metric — we use the peer-comparative gap analysis instead.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 19 — Next steps / asks
+# SLIDE 20 — Next steps / asks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "What we ask the Science Committee to decide",
@@ -1147,7 +1211,7 @@ add_textbox(s, Inches(0.75), Inches(6.36), Inches(11.85), Inches(0.55),
             size=12.5, bold=True, color=WHITE, font=HEAD_FONT, italic=True,
             align=PP_ALIGN.CENTER)
 
-add_footer(s, 19)
+add_footer(s, 20)
 set_notes(s, """The four explicit asks the Sci Com should take action on:
 
 (1) ENDORSE the 9th focus area — frame-defining; can only be done by this WG.

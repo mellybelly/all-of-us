@@ -7,10 +7,20 @@
 what to build, what to integrate, what governance.
 
 **Reality check (from the evidence):** HA4 (AI / foundation models / LLMs)
-already has **31 pubs (28 post-2023)** in the AoU corpus — researchers are
+already has **33 pubs (30 post-2023)** in the AoU corpus — researchers are
 *already* using AI on AoU data. The 2026 AI WG's question is not whether
 researchers want AI; it's what AoU should provide, build, govern, or
 integrate.
+
+**External horizon scan (`../emerging-trends/emerging_trends_report.md`).** An
+open-discovery scan of 294k preprints + 423k NIH grants (2021-2026) ranks
+**genomic foundation models (#1)** and **LLMs / agentic AI (#2)** as the
+fastest-rising AoU-feasible white-space gaps in biomedicine (LLM-in-medicine
+publications up **47× 2021→2025**; AoU <0.3% present). This directly backs
+Rec 1 (co-scientist) and Rec 3 (foundation-model evaluation). It also **bounds
+scope**: single-cell / spatial / protein-structure foundation models are
+exploding too, but sit *outside AoU's data model* — AoU should evaluate genomic
+and EHR foundation models, not chase those.
 
 ---
 
@@ -49,12 +59,12 @@ Reduces the days-to-first-result barrier that the AoU researcher base
 consistently identifies as a friction point.
 
 **Supporting evidence.**
-- HA4 31 pubs, 28 post-2023, includes foundation-model phenome-wide
+- HA4 33 pubs, 30 post-2023, includes foundation-model phenome-wide
   prediction (PMID:39794311), DL time-to-event for depression and asthma
   (PMID:40417537), PAL-AI oocyte-maturation model (PMID:40750633) — the
   user base is *already* doing this kind of work and would benefit
   enormously from a Workbench-native tool.
-- Theme 3 (methods / AI / phenotyping non-genomic): 251 pubs / 2,389
+- Theme 3 (methods / AI / phenotyping non-genomic): 262 pubs / 2,388
   projects — AoU peer-index 3.0× peer median (`aou_vs_peers_index.csv`).
   The largest distinctive-strength area outside ELSI and SDOH.
 - NLM-G1-O2 (informatics R&D: curation at scale, analytics, visualization,
@@ -104,14 +114,14 @@ template (parallel to WG-3's imaging bias report card); (d) IRB/ELSI
 integration for participant-facing AI applications.
 
 **Supporting evidence.**
-- 31 AI pubs already exist with no AoU-specific governance — the
+- 33 AI pubs already exist with no AoU-specific governance — the
   governance gap is operational *now*, not theoretical.
 - NHGRI BP4 (move beyond race-based descriptors) directly motivates an
   AI-specific bias framework.
 - NIMHD G4 (methods/metrics for HD research) + G7 (analysis of HD
   populations in big data) — AI tools that under-perform on UBR
   subgroups violate AoU's foundational mandate.
-- HA6 (G×E×SDOH integrated, 10 pubs) — exactly the modeling territory
+- HA6 (G×E×SDOH integrated, 11 pubs) — exactly the modeling territory
   where bias propagates fastest.
 - FA7 (Health Equity) is load-bearing (51% of post-2023 corpus touches
   FA7); without an AI-bias framework, FA7 is at risk of corrosion via
@@ -154,7 +164,7 @@ recommendation by end of 2027**. Provides Sci Com with an explicit
 decision-point rather than a permanent open question.
 
 **Supporting evidence.**
-- HA4 31 pubs include foundation-model-style phenome-wide disease-onset
+- HA4 33 pubs include foundation-model-style phenome-wide disease-onset
   prediction (PMID:39794311) — researchers are already inferring with
   foundation models against AoU data, but without a benchmark.
 - The 2026 omics releases (multi-omics from Refresh Rec 2) will multiply

@@ -52,8 +52,8 @@ make them), then **near-term feasibility × evidence weight**.
 ### 1. Add a 9th focus area: "Data, AI & Methods"
 
 **Description.** Elevate methods/infrastructure/AI from the current orphan
-status to a first-class focus area. Absorb theme 3 (251 pubs / 2,389 projects),
-AI/foundation models (HA4: 31 pubs, 28 post-2023), wearables (HA2: 70 pubs,
+status to a first-class focus area. Absorb theme 3 (262 pubs / 2,388 projects),
+AI/foundation models (HA4: 33 pubs, 30 post-2023), wearables (HA2: 75 pubs,
 already mature but currently invisible), and imaging-methods (HA3 will live
 here too once imaging data flows). This is the single change *only* WG-1
 can make and that the 2026 Imaging WG, AI WG, and Communications WG all
@@ -63,11 +63,11 @@ depend on for their work to have a coherent home.
 - Theme 3 is the *single largest orphan* in the crosswalk: ~18% of pubs / ~19%
   of projects with no home in the 8-area framework (`crosswalk_19_to_8.md`
   §4.1).
-- HA4 (AI/foundation models) found 31 pubs (28 post-2023); examples
+- HA4 (AI/foundation models) found 33 pubs (30 post-2023); examples
   PMID:39794311 (foundation-model phenome-wide onset prediction),
   PMID:40417537 (DL time-to-event for depression/asthma), PMID:40750633
   ("PAL-AI" model for oocyte maturation).
-- HA2 (wearables) found 70 pubs (62 post-2023), trend flat — already mature
+- HA2 (wearables) found 75 pubs (67 post-2023), trend flat — already mature
   but the only place to "park" them today is theme 7 (orphan) or stretch-fit
   into FA5. Slide 7 explicitly calls out "remote monitoring & digital health
   assessments."
@@ -75,6 +75,14 @@ depend on for their work to have a coherent home.
   223; FA-aligned theme 3 contributes 114.6 fractional pubs.
 - AoU peer-index for theme 3 is 3.0× peer median — a *distinctive AoU
   contribution* that the 8-area framework hides.
+- **External horizon scan (`../emerging-trends/emerging_trends_report.md`).** An
+  open-discovery scan of 294k preprints + 423k NIH grants (2021-2026) ranks the
+  two fastest-rising *AoU-feasible* white-space gaps in all of biomedicine as
+  **genomic foundation models** and **LLMs/agentic AI** — exactly this focus
+  area's content, with AoU <0.3% present in either. This is independent,
+  field-level evidence that the framework is lagging where science is moving;
+  it converts the orphan argument from "internal bookkeeping" to "AoU is absent
+  from the literature's leading edge."
 
 **Why this WG.** Framework changes are the unique province of the Roadmap
 Refresh WG. Both the AI WG (WG-4) and Imaging WG (WG-3) need a coherent
