@@ -15,7 +15,10 @@ data-derived and verifiable; framing is descriptive, not editorial.
    [`citations_verified.csv`](citations_verified.csv) (`verify_citations.py`).
 2. **Trending methods not yet adopted** — DONE. See
    [`part2_trending_methods.md`](part2_trending_methods.md).
-3. **Tools/artifacts the RW should build** — *planned* (synthesis of Parts 1 & 2).
+3. **Tools/artifacts the RW should build** — DONE. See
+   [`part3_recommended_tools.md`](part3_recommended_tools.md) (prioritized
+   artifacts, each grounded in a Part 2 trend + verified Part 1 comparator
+   precedent + an AoU asset).
 
 ## Part 2 pipeline
 
