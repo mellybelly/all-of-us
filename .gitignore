@@ -18,3 +18,7 @@ resources/aou-research-landscape/fulltext_augmented.jsonl
 # Emerging-trends raw pulls (~2.2 GB preprint+grant JSONL) — regenerable via
 # fetch_preprints.py / fetch_grants.py. Derived outputs ARE tracked.
 resources/emerging-trends/raw/
+
+# RW-analysis internal-only notes (never publish — pointed interpretation).
+resources/rw-analysis/_local_notes.md
+resources/rw-analysis/_local_*

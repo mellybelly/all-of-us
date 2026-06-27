@@ -1,0 +1,274 @@
+{
+  "methods": [
+    {
+      "id": "large-language-models",
+      "label": "Large Language Models (general-purpose LLMs)",
+      "description": "Use of general-purpose large language models (GPT-4o/5, Claude, Gemini, DeepSeek, Llama) for clinical text extraction, summarization, classification, and bioinformatics tasks. Among the fastest-growing terms in the preprint corpus.",
+      "keywords": ["large language model", "llm", "gpt-4", "gpt-5", "gpt-4o", "chatgpt", "claude", "gemini", "deepseek", "llama", "language model", "natural language processing"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: rich free-text EHR notes + survey text; LLM APIs/local models runnable in Workbench Jupyter, though PHI egress rules constrain external API calls.",
+      "peak_growth": 386.0
+    },
+    {
+      "id": "agentic-ai",
+      "label": "Agentic AI / autonomous LLM agents",
+      "description": "Multi-step autonomous AI agents that plan, call tools, and reason over data and notebooks (e.g., single-cell analysis agents, RNA-seq pipelines). Frontier and explosively growing.",
+      "keywords": ["agentic", "ai agent", "autonomous agent", "llm agent", "tool-using agent", "multi-agent", "agentic reasoning", "agentic workflow"],
+      "maturity": "frontier",
+      "rw_feasibility": "med",
+      "rw_feasibility_reason": "med: agents can orchestrate BigQuery/Jupyter analyses, but tool-calling frameworks and external model access are constrained inside the secured environment.",
+      "peak_growth": 100.8
+    },
+    {
+      "id": "retrieval-augmented-generation",
+      "label": "Retrieval-Augmented Generation (RAG)",
+      "description": "Grounding LLM outputs in retrieved documents/knowledge bases to reduce hallucination, for literature assistants, knowledge query, and evidence-grounded reasoning.",
+      "keywords": ["retrieval-augmented generation", "retrieval-augmented", "rag pipeline", "retrieval augmented", "knowledge retrieval", "vector database", "embedding retrieval", "grounded generation"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: data dictionaries, OMOP vocab, and protocol docs make strong retrieval corpora; runnable with local embeddings in-environment.",
+      "peak_growth": 27.0
+    },
+    {
+      "id": "chain-of-thought-reasoning",
+      "label": "Chain-of-thought / reasoning prompting",
+      "description": "Eliciting step-by-step reasoning from LLMs (chain-of-thought, reasoning models) for clinical Q&A, diagnostic reasoning, and structured extraction.",
+      "keywords": ["chain-of-thought", "chain of thought", "reasoning model", "step-by-step reasoning", "prompt engineering", "in-context learning", "few-shot prompting"],
+      "maturity": "frontier",
+      "rw_feasibility": "med",
+      "rw_feasibility_reason": "med: applicable to EHR-note reasoning, but depends on access to reasoning-capable models within the Workbench compute boundary.",
+      "peak_growth": 40.6
+    },
+    {
+      "id": "foundation-models",
+      "label": "Foundation models (general / pretrained)",
+      "description": "Large pretrained, transferable models adapted across tasks via fine-tuning. Broad term spanning modalities; a dominant emerging frame in the literature.",
+      "keywords": ["foundation model", "pretrained model", "pre-trained", "self-supervised", "self supervised learning", "transfer learning", "fine-tuning", "pretraining", "transferable representation"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: EHR/OMOP sequences and genotypes support pretraining/fine-tuning; Hail/Spark + GPU notebooks available.",
+      "peak_growth": 359.0
+    },
+    {
+      "id": "genomic-foundation-models",
+      "label": "Genomic / DNA foundation models",
+      "description": "Foundation models pretrained on DNA/RNA sequence (DNA language models, long-range genomic prediction) for variant effect, regulatory, and function prediction.",
+      "keywords": ["genomic foundation", "dna foundation model", "genomic language model", "dna language model", "sequence-to-function", "variant effect prediction", "nucleotide transformer", "long-range genomic"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: AoU has population-scale WGS; sequence models can score variants for downstream PRS/association work.",
+      "peak_growth": 359.0
+    },
+    {
+      "id": "single-cell-foundation-models",
+      "label": "Single-cell / cell foundation models",
+      "description": "Foundation models for single-cell and spatial transcriptomics (cell-type annotation, perturbation, embeddings). Computational analysis methods even where the assay itself is out of scope.",
+      "keywords": ["single-cell foundation", "cell foundation model", "scgpt", "single-cell embedding", "cell type annotation", "geneformer", "cellular embedding"],
+      "maturity": "rising",
+      "rw_feasibility": "low",
+      "rw_feasibility_reason": "low: AoU does not generate single-cell/spatial assays; relevant only if linking external reference atlases.",
+      "peak_growth": 28.5
+    },
+    {
+      "id": "protein-language-models",
+      "label": "Protein language models",
+      "description": "Sequence-based protein representation models (ESM-2, protein LMs) for variant/function prediction and interpretability.",
+      "keywords": ["protein language model", "esm-2", "esm2", "protein embedding", "protein representation", "amino acid sequence model", "variant pathogenicity"],
+      "maturity": "rising",
+      "rw_feasibility": "low",
+      "rw_feasibility_reason": "low: AoU produces no protein sequence/structure data; only indirect use scoring coding variants from WGS.",
+      "peak_growth": 10.0
+    },
+    {
+      "id": "transformer-architectures",
+      "label": "Transformer & deep-learning architectures",
+      "description": "Transformer/attention-based and other modern deep-learning architectures applied to biomedical sequence, tabular, and image data.",
+      "keywords": ["transformer-based", "transformer architecture", "attention mechanism", "multi-head attention", "deep learning architecture", "neural architecture", "encoder-decoder"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: GPU notebooks support transformers on EHR sequences, genomics, and wearable time series.",
+      "peak_growth": 4.1
+    },
+    {
+      "id": "graph-neural-networks",
+      "label": "Graph neural networks & network analysis",
+      "description": "Graph-based learning and network/diffusion methods over biological graphs (gene regulatory networks, knowledge graphs, patient similarity graphs).",
+      "keywords": ["graph neural network", "graph diffusion", "knowledge graph", "gene regulatory network", "network analysis", "graph learning", "node embedding", "graph attention"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "med",
+      "rw_feasibility_reason": "med: OMOP concept graphs and phenotype networks are buildable; less natural for AoU's tabular/genomic core but feasible.",
+      "peak_growth": 4.5
+    },
+    {
+      "id": "generative-models",
+      "label": "Generative AI / generative models",
+      "description": "Generative modeling (GANs, diffusion, generative deep models) for data harmonization, augmentation, and simulation-conditioned prediction.",
+      "keywords": ["generative model", "generative adversarial", "diffusion model", "generative ai", "data augmentation", "image harmonization", "simulation-conditioned", "generative learning"],
+      "maturity": "rising",
+      "rw_feasibility": "med",
+      "rw_feasibility_reason": "med: useful for harmonizing multi-site EHR and augmenting rare phenotypes; AoU lacks imaging but has tabular/genomic targets.",
+      "peak_growth": 2.1
+    },
+    {
+      "id": "synthetic-data",
+      "label": "Synthetic data generation",
+      "description": "Generating synthetic patient/clinical records to enable sharing, augmentation, and method development while preserving privacy.",
+      "keywords": ["synthetic data", "synthetic patient", "synthetic ehr", "synthetic cohort", "data synthesis", "synthetic control", "generative synthetic"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: large real EHR/OMOP cohorts make AoU an ideal source for training/validating synthetic-data generators.",
+      "peak_growth": 2.1
+    },
+    {
+      "id": "multimodal-modeling",
+      "label": "Multimodal modeling / data integration",
+      "description": "Jointly modeling multiple data modalities (genomics + EHR + imaging + wearables + text) in unified or fusion architectures.",
+      "keywords": ["multimodal", "multi-modal", "multimodal modeling", "data integration", "modality fusion", "cross-modal", "joint modeling", "multi-omics integration"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: AoU uniquely co-locates WGS, EHR/OMOP, surveys, physical measures, and Fitbit for one cohort.",
+      "peak_growth": 846.0
+    },
+    {
+      "id": "interpretable-explainable-ml",
+      "label": "Interpretable / explainable ML",
+      "description": "Methods for model interpretability and explanation (SHAP, attention attribution, mechanistic interpretability) to make predictions clinically actionable.",
+      "keywords": ["interpretable", "interpretability", "explainable ai", "explainable machine learning", "shap", "feature attribution", "mechanistic interpretability", "saliency"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: directly applicable to any clinical-risk model built on EHR/genomic features in the Workbench.",
+      "peak_growth": 4.6
+    },
+    {
+      "id": "zero-shot-transfer-learning",
+      "label": "Zero-shot / transfer learning",
+      "description": "Applying pretrained models to new tasks/populations without task-specific labels (zero-shot annotation, transfer across cohorts).",
+      "keywords": ["zero-shot", "zero shot", "few-shot", "transfer learning", "domain adaptation", "cross-cohort transfer", "out-of-distribution"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: zero-shot/transfer is valuable for AoU's diverse, underrepresented populations where labels are scarce.",
+      "peak_growth": 5.7
+    },
+    {
+      "id": "embeddings-representation-learning",
+      "label": "Embeddings & representation learning",
+      "description": "Learning dense vector representations of genes, concepts, patients, or sequences for downstream prediction and similarity.",
+      "keywords": ["embedding", "representation learning", "latent space", "vector representation", "patient embedding", "concept embedding", "dimension reduction", "dimensionality reduction"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: concept2vec/patient embeddings over OMOP and genotype representations are readily built.",
+      "peak_growth": 1998.3
+    },
+    {
+      "id": "polygenic-risk-scores",
+      "label": "Polygenic risk scores / PRS methods",
+      "description": "Construction and evaluation of polygenic risk scores, including cross-ancestry and portability methods.",
+      "keywords": ["polygenic risk score", "polygenic score", "prs", "genetic risk score", "cross-ancestry", "ancestry portability", "pgs", "risk stratification genetic"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: WGS + EHR outcomes + diverse ancestry make AoU a premier PRS portability resource.",
+      "peak_growth": 2.1
+    },
+    {
+      "id": "mendelian-randomization",
+      "label": "Mendelian randomization",
+      "description": "Using genetic variants as instrumental variables to infer causal effects of exposures on outcomes.",
+      "keywords": ["mendelian randomization", "instrumental variable", "genetic instrument", "two-sample mr", "causal genetic effect", "mr analysis"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: genome-wide genotypes + phenome-wide EHR outcomes support individual-level MR.",
+      "peak_growth": 2.1
+    },
+    {
+      "id": "phewas",
+      "label": "Phenome-wide association (PheWAS) methods",
+      "description": "Scanning a genetic variant or score against the full phenome of EHR-derived phenotypes.",
+      "keywords": ["phewas", "phenome-wide association", "phenome-wide", "phecode", "phenotype risk score", "phenome scan", "lab-wide association"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: OMOP/EHR + genotypes are exactly the inputs PheWAS needs.",
+      "peak_growth": 2.1
+    },
+    {
+      "id": "causal-inference",
+      "label": "Causal inference methods",
+      "description": "Structural causal models, causal discovery, and causal ML (including SHAP-based causal subgroup methods) for observational data.",
+      "keywords": ["causal inference", "causal model", "structural causal", "causal discovery", "causal effect", "propensity score", "confounding adjustment", "do-calculus", "counterfactual"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: large observational EHR cohorts are the core use case for causal inference.",
+      "peak_growth": 47.0
+    },
+    {
+      "id": "target-trial-emulation",
+      "label": "Target trial emulation",
+      "description": "Designing observational analyses to emulate a hypothetical randomized trial, reducing common biases in EHR-based comparative effectiveness.",
+      "keywords": ["target trial emulation", "trial emulation", "emulated trial", "comparative effectiveness", "active comparator", "new-user design", "clone-censor-weight"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: longitudinal EHR with medications/outcomes is the canonical substrate for trial emulation.",
+      "peak_growth": 1.7
+    },
+    {
+      "id": "survival-time-to-event-ml",
+      "label": "Time-to-event / survival ML",
+      "description": "Machine-learning survival models (deep survival, competing risks) for time-to-event outcomes from longitudinal records.",
+      "keywords": ["time-to-event", "survival analysis", "survival model", "cox model", "deep survival", "competing risks", "hazard model", "censoring"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: longitudinal EHR with dates/outcomes supports rich survival modeling.",
+      "peak_growth": 1.7
+    },
+    {
+      "id": "federated-privacy-preserving-learning",
+      "label": "Federated / privacy-preserving learning",
+      "description": "Training models across sites without sharing raw data, plus differential privacy and other privacy-preserving techniques.",
+      "keywords": ["federated learning", "privacy-preserving", "differential privacy", "secure aggregation", "decentralized learning", "privacy preserving", "split learning"],
+      "maturity": "rising",
+      "rw_feasibility": "med",
+      "rw_feasibility_reason": "med: AoU is a centralized enclave, but federated methods are relevant for linking AoU with external networks (e.g., N3C/AoU).",
+      "peak_growth": 3.1
+    },
+    {
+      "id": "digital-wearable-biomarkers",
+      "label": "Digital / wearable biomarkers",
+      "description": "Deriving surrogate and digital biomarkers from wearable/sensor time series (actigraphy, heart rate, sleep) and linking to health outcomes.",
+      "keywords": ["digital biomarker", "wearable", "actigraphy", "fitbit", "accelerometer", "sensor data", "physiological digital twin", "mhealth", "real-world sensor", "movement profile"],
+      "maturity": "rising",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: AoU has Fitbit minute-level data linkable to EHR and genomics.",
+      "peak_growth": 53.4
+    },
+    {
+      "id": "digital-twins",
+      "label": "Digital twins / in-silico modeling",
+      "description": "Patient-level digital-twin and simulation models that integrate physiological signals to predict individual trajectories.",
+      "keywords": ["digital twin", "in silico model", "physiological model", "patient simulation", "virtual patient", "mechanistic simulation"],
+      "maturity": "frontier",
+      "rw_feasibility": "med",
+      "rw_feasibility_reason": "med: feasible for wearable+EHR physiological twins, but mechanistic twins need data AoU may not fully capture.",
+      "peak_growth": 1.9
+    },
+    {
+      "id": "benchmarking-evaluation",
+      "label": "Benchmarking & model evaluation",
+      "description": "Rigorous benchmarking, calibration, and evaluation frameworks for ML/AI methods, including well-calibrated metrics and bias/hallucination assessment.",
+      "keywords": ["benchmarking", "model calibration", "evaluation framework", "well-calibrated", "macro-f1", "uninformative baseline", "bias evaluation", "hallucination assessment"],
+      "maturity": "established-but-underused",
+      "rw_feasibility": "high",
+      "rw_feasibility_reason": "high: AoU's diverse cohort is ideal for fairness/calibration benchmarking of clinical models.",
+      "peak_growth": 4.7
+    },
+    {
+      "id": "spatial-singlecell-analysis-methods",
+      "label": "Single-cell / spatial analysis methods (computational)",
+      "description": "Computational analysis methods originating in single-cell/spatial omics (NMF programs, trajectory inference, niche identification) that may transfer to other high-dimensional AoU data.",
+      "keywords": ["non-negative matrix factorization", "trajectory inference", "pseudotime", "niche identification", "spatial domain", "transcriptional program", "latent factor"],
+      "maturity": "rising",
+      "rw_feasibility": "low",
+      "rw_feasibility_reason": "low: AoU lacks the single-cell/spatial assays these methods target; only the dimensionality-reduction techniques transfer.",
+      "peak_growth": 2.5
+    }
+  ]
+}

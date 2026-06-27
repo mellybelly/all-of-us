@@ -1,0 +1,8 @@
+metric,count,denominator,pct
+total_workspaces,21242,21242,100.0
+solo_workspaces (1 owner),18217,21242,85.8
+multi_owner_workspaces (>=2),3025,21242,14.2
+team_>=5_owners,250,21242,1.2
+multi_institution_workspaces,791,21242,3.7
+duplicate_title_workspaces (case-folded),4144,21242,19.5
+titles_starting_'duplicate of',4649,21242,21.9
