@@ -1,0 +1,25 @@
+rank,id,label,corpus,evidence,peak_growth,aou_hits,aou_pct,peer_pct,ukb_pct,pub_2021,pub_2025,pub_growth_x,whitespace_score
+1,single-cell-multiomics,Single-cell & single-nucleus multi-omics,both,strong,5828.4,0,0.0,0.09,0.08,2759,6595,2.4,3.762
+2,aging-senescence-longevity,"Aging biology, senescence & longevity",grant,strong,5608.9,0,0.0,1.27,1.44,42071,51239,1.2,3.701
+3,genomic-foundation-models,Genomic / DNA sequence foundation models,both,strong,944.8,2,0.14,0.21,0.24,2857,11365,4.0,2.965
+4,llms-in-biomedicine,LLMs / foundation chat models in biomedicine,preprint,strong,386.0,3,0.21,0.12,0.12,580,27126,46.8,2.578
+5,protein-structure-prediction,AI protein structure & binding prediction (AlphaFold3 / Boltz),preprint,strong,338.7,1,0.07,0.69,0.27,5254,17387,3.3,2.511
+6,community-engaged-research,Community-engaged & participatory research,grant,moderate,11902.7,13,0.91,0.03,0.04,5553,12824,2.3,2.422
+7,emerging-arboviruses-flaviviruses,Emerging arbo/flaviviruses & antiviral targets,both,moderate,4171.3,0,0.0,0.09,0.11,41070,37006,0.9,2.17
+8,agentic-ai,Agentic AI & autonomous reasoning systems,preprint,strong,100.8,4,0.28,0.04,0.04,954,17972,18.8,1.997
+9,ipsc-derived-models,iPSC-derived & induced cell models,grant,strong,99.0,3,0.21,0.07,0.07,10150,11044,1.1,1.99
+10,gene-editing-therapy,Gene editing & gene-targeted therapy,grant,moderate,1586.8,4,0.28,0.21,0.22,9186,16293,1.8,1.911
+11,neurodegeneration-proteinopathy,Neurodegeneration & proteinopathies,grant,moderate,1175.3,19,1.33,2.1,2.51,36363,44432,1.2,1.779
+12,spatial-transcriptomics,Spatial transcriptomics & in situ profiling,both,strong,56.6,2,0.14,0.2,0.15,69205,83245,1.2,1.747
+13,h5n1-avian-influenza,H5N1 highly pathogenic avian influenza,preprint,strong,41.4,0,0.0,0.0,0.0,7001,8423,1.2,1.617
+14,protein-language-models,Protein language models & ML protein design,preprint,strong,40.6,0,0.0,0.0,0.0,820,2824,3.4,1.609
+15,masld-steatotic-liver,MASLD/MASH steatotic liver disease (renaming),preprint,strong,18.1,10,0.7,2.39,2.54,11737,18902,1.6,1.219
+16,antimicrobial-amr,"Antimicrobials, AMR & antimicrobial peptides",grant,weak,3853.0,1,0.07,0.01,0.02,34372,44638,1.3,1.075
+17,health-disparities-women-minority,Health disparities: women & minority populations,grant,weak,3781.7,50,3.49,0.22,0.22,2794,3120,1.1,1.034
+18,spatial-singlecell-analysis-methods,Spatial/single-cell computational analysis methods,grant,weak,1998.3,12,0.84,0.48,0.51,71782,107731,1.5,0.977
+19,mhealth-digital-interventions,mHealth & digital health interventions,grant,weak,1855.7,10,0.7,0.03,0.04,7991,22333,2.8,0.973
+20,rag-knowledge-assistants,Retrieval-augmented generation & knowledge assistants,preprint,moderate,41.4,0,0.0,0.31,0.24,22,1330,60.5,0.967
+21,disability-functional-impairment,Disability & functional impairment outcomes,grant,weak,1537.4,5,0.35,0.16,0.19,11523,21673,1.9,0.951
+22,explainable-zeroshot-ml,Interpretable / zero-shot / generative ML methods,both,moderate,47.0,68,4.75,5.5,6.73,28598,159891,5.6,0.903
+23,single-cell-foundation-models,Single-cell & spatial foundation models,preprint,moderate,22.9,0,0.0,0.0,0.0,12,72,6.0,0.816
+24,older-adults-aging-population,Older adults & late-life health,grant,weak,505.9,25,1.75,3.62,4.43,12580,17814,1.4,0.768

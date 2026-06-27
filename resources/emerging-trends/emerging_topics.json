@@ -1,0 +1,252 @@
+{
+  "topics": [
+    {
+      "id": "protein-structure-prediction",
+      "label": "AI protein structure & binding prediction (AlphaFold3 / Boltz)",
+      "description": "Next-generation structure and binding-affinity prediction tools, led by AlphaFold3 and Boltz-2, are being applied to antibody/immune-receptor modeling, protein-ligand potency, and structure-based drug discovery.",
+      "keywords": ["alphafold3", "alphafold", "boltz-2", "boltz", "binding affinity prediction", "structure-based drug", "protein-ligand", "structural modeling", "haddock3", "docking"],
+      "primary_corpus": "preprint",
+      "peak_growth": 338.7,
+      "evidence_strength": "strong",
+      "artifact_risk": "Low. AlphaFold3 (226x, n=263) and Boltz-2 (339x, n=50) are named real tools released 2024-2025; growth reflects a genuine method wave, not indexing."
+    },
+    {
+      "id": "llms-in-biomedicine",
+      "label": "LLMs / foundation chat models in biomedicine",
+      "description": "General-purpose large language models (GPT-4o/5, Claude, Gemini, DeepSeek, Sonnet) are being evaluated and deployed for clinical Q&A, literature mining, information extraction, and protein/genomics reasoning.",
+      "keywords": ["large language model", "llms", "gpt-4o", "gpt-5", "deepseek", "gemini", "claude", "chatgpt", "llm-based", "llm-generated", "language model"],
+      "primary_corpus": "preprint",
+      "peak_growth": 386.0,
+      "evidence_strength": "strong",
+      "artifact_risk": "Low. Multiple independent named-model terms (gpt-4o 61x, gpt-5 352x, sonnet 386x, deepseek 318x, claude 27x) corroborate a real, fast LLM adoption wave in author text."
+    },
+    {
+      "id": "agentic-ai",
+      "label": "Agentic AI & autonomous reasoning systems",
+      "description": "Agent-based AI workflows that chain LLM reasoning, tools, and planning for tasks like single-cell analysis, RNA-seq pipelines, and target ranking.",
+      "keywords": ["agentic", "ai agent", "llm-guided", "autonomous reasoning", "agentic ai", "ai-driven", "ai-assisted"],
+      "primary_corpus": "preprint",
+      "peak_growth": 100.8,
+      "evidence_strength": "strong",
+      "artifact_risk": "Low. 'agentic' (101x, n=117) and 'ai-driven' (8.9x, n=390) are real author coinages with concrete exemplars."
+    },
+    {
+      "id": "rag-knowledge-assistants",
+      "label": "Retrieval-augmented generation & knowledge assistants",
+      "description": "RAG architectures and natural-language/MCP query interfaces that ground LLM outputs in curated biomedical knowledge bases and ontologies.",
+      "keywords": ["retrieval-augmented generation", "retrieval-augmented", "knowledge assistant", "natural-language query", "context-engineered", "mcp"],
+      "primary_corpus": "preprint",
+      "peak_growth": 41.4,
+      "evidence_strength": "moderate",
+      "artifact_risk": "Low but small-n. RAG terms (27x, n=86) and natural-language MCP interfaces (41x, n=48) are real but emerging; modest document counts."
+    },
+    {
+      "id": "genomic-foundation-models",
+      "label": "Genomic / DNA sequence foundation models",
+      "description": "Self-supervised, pretrained foundation models over genomic and metagenomic sequence (DNA language models, long-range genomic transformers) for annotation and trait prediction.",
+      "keywords": ["genomic foundation model", "foundation model", "dna language model", "self supervised", "self-supervised learning", "pretrained", "pre-trained", "transformer-based", "genome-level foundational"],
+      "primary_corpus": "both",
+      "peak_growth": 944.8,
+      "evidence_strength": "strong",
+      "artifact_risk": "Moderate. Preprint 'genomic foundation' (359x, n=53) and 'foundation' (n=4039) are solid; grant 'self supervised learning' (945x) plausibly a real method surge but inflated by RePORTER vocabulary onset."
+    },
+    {
+      "id": "single-cell-foundation-models",
+      "label": "Single-cell & spatial foundation models",
+      "description": "Foundation models trained on single-cell and spatial omics to enable zero-shot cell-type annotation, perturbation prediction, and cross-platform embeddings.",
+      "keywords": ["single-cell foundation", "single cell foundation", "cell foundation model", "zero-shot cell-type", "scgpt", "omnicell", "cellular embeddings", "perturbation model"],
+      "primary_corpus": "preprint",
+      "peak_growth": 22.9,
+      "evidence_strength": "moderate",
+      "artifact_risk": "Low. 'single-cell foundation' (23x, n=73) is a real, named emerging subfield with concrete exemplars (batch effects, differentiation)."
+    },
+    {
+      "id": "protein-language-models",
+      "label": "Protein language models & ML protein design",
+      "description": "Protein language models (ESM-2 and successors) and generative/chain-of-thought models for protein embeddings, thermostability, affinity prediction, and de novo design.",
+      "keywords": ["protein language model", "esm-2", "protein embeddings", "proteinreasoner", "protein design", "chain-of-thought", "glycan graph", "pretrained representation"],
+      "primary_corpus": "preprint",
+      "peak_growth": 40.6,
+      "evidence_strength": "strong",
+      "artifact_risk": "Low. esm-2 (10x, n=113), 'protein language' (3.2x, n=605) and chain-of-thought protein reasoning are concrete named methods."
+    },
+    {
+      "id": "explainable-zeroshot-ml",
+      "label": "Interpretable / zero-shot / generative ML methods",
+      "description": "Cross-cutting ML methodology surge: explainable AI (SHAP), zero-shot learning, generative models, embeddings, and multimodal architectures applied across biology.",
+      "keywords": ["shap", "explainable ai", "zero-shot", "interpretability", "generative ai", "multimodal", "embeddings", "deep learning", "biologically grounded", "biologically coherent"],
+      "primary_corpus": "both",
+      "peak_growth": 47.0,
+      "evidence_strength": "moderate",
+      "artifact_risk": "Moderate. Real methods but some terms ('biologically grounded' 47x, 'biologically coherent' 28x) are partly writing-style phrasing; grant 'multimodal modeling' (846x) likely vocabulary-onset inflated."
+    },
+    {
+      "id": "masld-steatotic-liver",
+      "label": "MASLD/MASH steatotic liver disease (renaming)",
+      "description": "The 2023 nomenclature shift from NAFLD/NASH to MASLD/MASH (metabolic dysfunction-associated steatotic liver disease/steatohepatitis), with new therapeutics (resmetirom) and disease-model research.",
+      "keywords": ["masld", "metabolic dysfunction-associated steatotic liver", "steatotic liver disease", "steatohepatitis", "mash", "resmetirom", "hepatic steatosis", "nafld", "nash"],
+      "primary_corpus": "preprint",
+      "peak_growth": 18.1,
+      "evidence_strength": "strong",
+      "artifact_risk": "Low as a real trend, but partly a nomenclature change: the many near-duplicate MASLD substrings (15-18x) reflect one renaming event driving consistent author adoption — genuine and well-corroborated."
+    },
+    {
+      "id": "spatial-transcriptomics",
+      "label": "Spatial transcriptomics & in situ profiling",
+      "description": "Spatially resolved transcriptomics platforms (Xenium, NanoString) and analysis methods mapping gene expression to tissue architecture, including clinical/diagnostic applications.",
+      "keywords": ["spatial transcriptomic", "xenium", "nanostring", "in situ", "spatial omics", "niche identification", "spatial domain", "tissue architecture"],
+      "primary_corpus": "both",
+      "peak_growth": 56.6,
+      "evidence_strength": "strong",
+      "artifact_risk": "Low. Preprint (2.5x, n=1392) plus named platforms Xenium (9.8x) and NanoString corroborate; grant 56.6x partly vocabulary onset but consistent with real platform diffusion."
+    },
+    {
+      "id": "single-cell-multiomics",
+      "label": "Single-cell & single-nucleus multi-omics",
+      "description": "Single-cell/single-nucleus genomics and ATAC-seq, including multimodal epigenomic+transcriptomic profiling, atlases, and single-cell proteomics.",
+      "keywords": ["single cell atac-seq", "single-nucleus", "single-cell genomics", "single cell genomics", "scatac", "single-cell proteomics", "cell atlas", "multimodal single"],
+      "primary_corpus": "both",
+      "peak_growth": 5828.4,
+      "evidence_strength": "strong",
+      "artifact_risk": "Moderate. Real field, but grant 'single cell atac-seq' (5828x, prior_n~0) is largely a RePORTER pref_term vocabulary onset; preprint single-nucleus/single-cell signals are trustworthy."
+    },
+    {
+      "id": "ipsc-derived-models",
+      "label": "iPSC-derived & induced cell models",
+      "description": "Human induced pluripotent stem cell-derived neurons, cardiomyocytes, and directly induced cells used as disease models and for therapeutic differentiation.",
+      "keywords": ["induced pluripotent", "human induced pluripotent", "ipsc-derived", "derived human neuron", "induced neurons", "pluripotent stem cell", "muscle progenitor cell", "spheroids", "organoid"],
+      "primary_corpus": "grant",
+      "peak_growth": 99.0,
+      "evidence_strength": "strong",
+      "artifact_risk": "Moderate. iPSC is an established field; high grant growth (99x for 'human induced pluripotent', n=2644) likely reflects RePORTER term standardization rather than pure novelty, but the underlying research is real."
+    },
+    {
+      "id": "aging-senescence-longevity",
+      "label": "Aging biology, senescence & longevity",
+      "description": "Hallmarks-of-aging research: cellular senescence and SASP, epigenetic aging clocks, lifespan/healthspan extension, proteostasis loss, stem cell exhaustion, and aging reversal.",
+      "keywords": ["senescence", "senescent cell", "secretory phenotype", "hallmarks aging", "epigenetic aging", "accelerated epigenetic", "extend lifespan", "healthspan", "aging biomarker", "proteostasis loss", "stem cell exhaustion", "aging reversal", "longevity"],
+      "primary_corpus": "grant",
+      "peak_growth": 5608.9,
+      "evidence_strength": "strong",
+      "artifact_risk": "Moderate. Aging biology is a genuine, broad surge, but many grant substrings ('extend lifespan' 5609x, 'senescence secretory phenotype' 3650x, 'aging mechanism' 3194x) are inflated RePORTER pref_term onsets; treat the topic as real but the absolute growth numbers as partly artifactual."
+    },
+    {
+      "id": "community-engaged-research",
+      "label": "Community-engaged & participatory research",
+      "description": "Community advisory boards, community-academic partnerships, lived experience, care partners, and culturally appropriate interventions in health research.",
+      "keywords": ["community advisory board", "community advisory", "community partner", "community-academic", "academic partnership", "lived experience", "care partner", "culturally appropriate", "community empowerment", "community collaboration"],
+      "primary_corpus": "grant",
+      "peak_growth": 11902.7,
+      "evidence_strength": "moderate",
+      "artifact_risk": "High on numbers. 'community advisory board' (11903x, n=2169) and most community terms are near-certainly RePORTER pref_term vocabulary onsets (prior_n~0). The topic is a real funder priority, but growth multipliers are artifacts; treat as moderate."
+    },
+    {
+      "id": "health-disparities-women-minority",
+      "label": "Health disparities: women & minority populations",
+      "description": "Research on disproportionate disease burden in women and in American Indian/Alaska Native and other underserved populations, plus language access (Spanish/English).",
+      "keywords": ["disproportionately impacts women", "white women", "women mortality", "women prevalence", "american indian population", "alaska native population", "native american population", "indian community", "spanish english", "health disparit"],
+      "primary_corpus": "grant",
+      "peak_growth": 3781.7,
+      "evidence_strength": "weak",
+      "artifact_risk": "High. Most terms (prior_n~0, e.g. 'disproportionately impacts women' 2574x, 'white women' 3749x, 'alaska native population' 1691x) are RePORTER pref_term vocabulary onsets and/or writing boilerplate, not measurable research trends."
+    },
+    {
+      "id": "disability-functional-impairment",
+      "label": "Disability & functional impairment outcomes",
+      "description": "Grant emphasis on functional/physical impairment, long-term and lifelong disability, mobility decline, symptom burden, and debilitating chronic conditions.",
+      "keywords": ["functional impairment", "physical impairment", "lifelong disability", "long-term disability", "chronic disability", "disabling condition", "mobility decline", "symptom burden", "communication difficulty", "burden chronic illness"],
+      "primary_corpus": "grant",
+      "peak_growth": 1537.4,
+      "evidence_strength": "weak",
+      "artifact_risk": "High. Nearly all are RePORTER pref_term onsets (prior_n~0) with absurd multipliers; reflects funder vocabulary/priority language rather than a discrete research method trend."
+    },
+    {
+      "id": "older-adults-aging-population",
+      "label": "Older adults & late-life health",
+      "description": "Population-health focus on older adults, late/later life, age-related disease, dementia burden, and aging-related healthcare burden.",
+      "keywords": ["older adult", "late life", "later life", "age-related disease", "aging disease", "dementia burden", "healthcare burden", "late-life"],
+      "primary_corpus": "grant",
+      "peak_growth": 505.9,
+      "evidence_strength": "weak",
+      "artifact_risk": "High. 'older adult' (191x), 'aging process' (506x), 'age-related disease' (197x) are RePORTER vocabulary-onset terms; a real demographic priority but not a measurable acceleration."
+    },
+    {
+      "id": "gene-editing-therapy",
+      "label": "Gene editing & gene-targeted therapy",
+      "description": "Gene-editing technologies (CRISPR-era), gene-targeted/gene-modified therapies, T-cell receptor therapy, and viral-vector (adenovirus-mediated) delivery.",
+      "keywords": ["gene editing technology", "gene-editing", "gene-targeted therapy", "gene-targeted", "gene modified", "t-cell receptor therapy", "adenovirus mediated", "mediated delivery", "prime editing", "crispr"],
+      "primary_corpus": "grant",
+      "peak_growth": 1586.8,
+      "evidence_strength": "moderate",
+      "artifact_risk": "High on numbers. Underlying field is real and active, but grant substrings ('gene-targeted therapy' 1581x, prior_n~0) are RePORTER vocabulary onsets; preprint 'prime editing' exemplars support genuine activity."
+    },
+    {
+      "id": "h5n1-avian-influenza",
+      "label": "H5N1 highly pathogenic avian influenza",
+      "description": "Resurgent HPAI H5N1 outbreak research, including spillover to dairy cattle, the wild-waterfowl/poultry interface, and zoonotic transmission risk.",
+      "keywords": ["h5n1", "highly pathogenic avian influenza", "hpai", "avian influenza", "bovine", "spillover"],
+      "primary_corpus": "preprint",
+      "peak_growth": 41.4,
+      "evidence_strength": "strong",
+      "artifact_risk": "Low. 'influenza hpai h5n1' (41x, n=48) is a real, datable 2024-25 outbreak surge with concrete exemplars (bovine semen, waterfowl-poultry interface)."
+    },
+    {
+      "id": "emerging-arboviruses-flaviviruses",
+      "label": "Emerging arbo/flaviviruses & antiviral targets",
+      "description": "Orthoflavivirus and alphavirus biology (Oropouche, dengue, restriction factors) and broad-spectrum antiviral development against emerging/drug-resistant viral variants.",
+      "keywords": ["orthoflavivirus", "alpha virus", "alphavirus", "oropouche", "flavivirus", "antiviral", "anti-viral therapy", "broad-spectrum antiviral", "restriction factor"],
+      "primary_corpus": "both",
+      "peak_growth": 4171.3,
+      "evidence_strength": "moderate",
+      "artifact_risk": "Mixed. Preprint 'orthoflavivirus' (318x, n=47) is a genuine taxonomy-driven trend; grant 'anti-viral agents' (7343x), 'anti-viral response' (4171x), 'alpha virus' (1093x) are RePORTER pref_term onsets — treat grant numbers as artifacts."
+    },
+    {
+      "id": "antimicrobial-amr",
+      "label": "Antimicrobials, AMR & antimicrobial peptides",
+      "description": "Antimicrobial, antifungal, and antimalarial agents; antimicrobial peptides; and broad-spectrum antimicrobial-resistance prediction and discovery.",
+      "keywords": ["anti-microbial peptide", "antimicrobial peptide", "anti-fungal", "antifungal", "anti-malarials", "antimicrobial resistance", "anti-microbial drug", "broad-spectrum antimicrobial"],
+      "primary_corpus": "grant",
+      "peak_growth": 3853.0,
+      "evidence_strength": "weak",
+      "artifact_risk": "High. Grant 'anti-fungal agents' (3853x), 'anti-malarials' (2745x), 'anti-microbial peptide' (2399x) are almost certainly RePORTER drug-class pref_term vocabulary onsets (prior_n~0), flagged in the task as not real trends."
+    },
+    {
+      "id": "neurodegeneration-proteinopathy",
+      "label": "Neurodegeneration & proteinopathies",
+      "description": "TDP-43 proteinopathy and related neurodegenerative disease mechanisms (ALS/FTD, Alzheimer's tau/amyloid) studied in human neuron and organoid models.",
+      "keywords": ["tdp43 proteinopathy", "tdp-43", "proteinopathy", "fmr1 gene", "amyloid", "tau pathology", "als/ftd", "neurodegener"],
+      "primary_corpus": "grant",
+      "peak_growth": 1175.3,
+      "evidence_strength": "moderate",
+      "artifact_risk": "Mixed. 'tdp43 proteinopathy' (1175x) and 'fmr1 gene' (1126x) are RePORTER vocabulary onsets, but the underlying neurodegeneration research is genuine and corroborated by preprint exemplars (TDP-43, tau)."
+    },
+    {
+      "id": "spatial-singlecell-analysis-methods",
+      "label": "Spatial/single-cell computational analysis methods",
+      "description": "Computational toolkits for omics: dimension reduction, lineage tracing, droplet digital methods, and quality-control/benchmarking pipelines for single-cell and spatial data.",
+      "keywords": ["dimension reduction", "lineage tracing", "droplet digital", "high-resolution", "benchmarking", "quality control metrics", "single-cell rna-seq", "ddpcr"],
+      "primary_corpus": "grant",
+      "peak_growth": 1998.3,
+      "evidence_strength": "weak",
+      "artifact_risk": "High on grant side. 'dimension reduction' (1998x), 'droplet digital' (890x), 'lineage tracing' (72x) read as RePORTER vocabulary onsets; methods are real but growth is largely indexing-driven."
+    },
+    {
+      "id": "mhealth-digital-interventions",
+      "label": "mHealth & digital health interventions",
+      "description": "Mobile-health and technology-based interventions, including culturally appropriate digital interventions for underserved populations.",
+      "keywords": ["mhealth interventions", "mhealth", "technology intervention", "digital health", "digital twin", "culturally appropriate intervention"],
+      "primary_corpus": "grant",
+      "peak_growth": 1855.7,
+      "evidence_strength": "weak",
+      "artifact_risk": "High. 'culturally appropriate intervention' (1856x) and 'mhealth interventions' (53x) are likely RePORTER vocabulary onsets; real funder interest but not a measurable preprint method trend."
+    }
+  ],
+  "excluded": [
+    {"cluster": "Writing-style boilerplate adverbs/adjectives: preserving, incompletely, spanning, traditional, limited, often, crucial, despite, whereas, primarily, markedly, pronounced, notable, essential, conventional, demonstrated, thereby, rather, increasingly recognized, jointly shape, often fail capture", "reason": "Generic English connective/intensifier words with huge n and low growth (1.2-3x); pure prose style, not research topics, and would massively false-match."},
+    {"cluster": "Generic method-paper vocabulary: validation, benchmarking, workflow(s), datasets, metrics, reproducible, scalability, interpretable, actionable, standardized, modular, integration, profiling, transcriptomic (bare)", "reason": "Ubiquitous methods-section words; too generic to discriminate a topic and overlap many real clusters; kept only as keywords inside specific topics where appropriate."},
+    {"cluster": "RePORTER drug-class pref_term onsets: anti-viral agents (7343x), anti-fungal agents (3853x), anti-depressive agents (3837x), anti-hypertensive agents (2503x), anti-epileptic agents (1104x), anti-diabetic drugs (1291x), fda-approved drug, regulatory approval, formulation optimization", "reason": "prior_n~0 with absurd growth — classic RePORTER controlled-vocabulary additions, explicitly flagged in the task as vocabulary changes rather than real trends."},
+    {"cluster": "Fragmented multi-gram RePORTER substrings: 'targets release nuclease', 'cleavage targets release', 'release nuclease', 'targets release' (all 5356x, n=976); 'structural mutation', 'congenital heart abnormality', 'heart abnormality'", "reason": "Overlapping n-gram fragments of the same indexed phrase with identical counts/growth; indexing artifacts, not coherent topics."},
+    {"cluster": "Date/year string artifacts: '2023-2024', 'acute covid-19', 'virus testing'", "reason": "Time-window strings and residual COVID-era phrasing that spike from temporal indexing rather than a forward-looking research trend."},
+    {"cluster": "Bare single-word grant tokens: span, life span, lines, board, partners, older, younger, lived, extend, hallmarks, dedications, acceleration, upregulation, interferon-", "reason": "Truncated/ambiguous single tokens (often substrings of real topics like aging or community); too generic to stand alone and high false-match risk; folded into parent topics as keywords where meaningful."}
+  ]
+}

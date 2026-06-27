@@ -14,3 +14,7 @@ resources/aou-research-landscape/raw/fulltext/
 resources/aou-research-landscape/raw/abstracts/
 # Regenerable from the raw cache via `fetch_fulltext.py --no-net` (15 MB).
 resources/aou-research-landscape/fulltext_augmented.jsonl
+
+# Emerging-trends raw pulls (~2.2 GB preprint+grant JSONL) — regenerable via
+# fetch_preprints.py / fetch_grants.py. Derived outputs ARE tracked.
+resources/emerging-trends/raw/
