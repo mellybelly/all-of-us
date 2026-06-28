@@ -261,7 +261,7 @@ set_notes(s, """Title slide for the 30-minute WG-1 presentation to the AoU Scien
 
 Co-leads Smoller and Haendel will jointly present. Plan: ~12 minutes of evidence and findings, ~12 minutes of recommendations, ~6 minutes of Q&A and decision-asks.
 
-Audience: Science Committee, AoU program leadership (Schully, Roden, Lin), NIH program staff observers, and the other four 2026 WG leads who will fit their recommendations into whatever framework this WG endorses.
+Audience: Science Committee, AoU program leadership (Schully, Roden, Lin), NIH program staff observers, and the other four 2026 need-area groups whose recommendations align with the refreshed framework.
 
 Companion artifact: AoU_Roadmap_Refresh_Executive_Summary.pdf (Sci Com pre-read).""")
 
@@ -284,7 +284,7 @@ add_bullets(s, Inches(0.6), Inches(1.4), Inches(12.1), Inches(5.5), [
     ("What exposures and outcomes should we capture, and how do we demonstrate impact? ",
      "— scope, instruments, and translational-impact measurement."),
     ("Are the 8 priority focus areas still right? ",
-     "— structural review of the framework. ONLY this WG can change it."),
+     "— structural review of the framework, the foundation the other 2026 need areas build on."),
 ], size=17, line_spacing=1.30, paragraph_space=8)
 
 add_rect(s, Inches(0.6), Inches(6.30), Inches(12.1), Inches(0.65), fill=LIGHT, line=NAVY)
@@ -475,11 +475,11 @@ Theme 6 (SDOH) at 33.3% is the largest single theme — defines AoU as a cohort.
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "The 8 focus areas mostly hold — but three structural gaps need fixing",
-           "Q6 answer: yes at the top level, with three named exceptions only WG-1 can address.")
+           "Q6 answer: yes at the top level, with three named exceptions to address in the Roadmap framework.")
 
 # Three problem cards
 gap_y = Inches(1.4)
-card_w = Inches(4.07); card_h = Inches(4.3); gap_x = Inches(0.12)
+card_w = Inches(4.07); card_h = Inches(3.85); gap_x = Inches(0.12)
 sx = Inches(0.55)
 
 cards = [
@@ -488,11 +488,11 @@ cards = [
      "Includes the AI/foundation-model surge (HA4: 33 pubs, 30 post-2023), workbench tooling, EHR phenotyping, federated learning.",
      "Sub-signal: AoU peer-index 3.0× — distinctive AoU strength currently invisible in the framework."),
     ("ORPHAN", "Wearables / remote monitoring",
-     "75 pubs (5.4% share) — slide-7 priority that has nowhere to live in the 8 areas.",
+     "75 pubs (5.4% share) — a 2023 Roadmap priority that has nowhere to live in the 8 areas.",
      "Trend is flat (+0.2) — wearables have already MATURED, not emerging. Important reframe.",
      "Stretch-fit into FA5 (Behavioral) misses sleep, HRV, circadian, multimodal EHR+wearable AI work."),
     ("INVISIBLE", "Multi-omics inside \"Genetics & Biology\"",
-     "Multi-omics is a slide-7 2023+ priority that is buried inside FA8.",
+     "Multi-omics is a 2023 Roadmap priority that is buried inside FA8.",
      "HA1: 24 pubs (23 post-2023), mostly external proteomics linked to AoU genotypes.",
      "Largest peer-comparative growth differential: UKB 12.2% post-2023 vs AoU 1.8%. 2026 omics releases need a NAMED home."),
 ]
@@ -510,27 +510,32 @@ for i, (badge, title, l1, l2, l3) in enumerate(cards):
                 card_w - Inches(0.2), card_h - Inches(1.5),
                 [l1, l2, l3], size=11.5, line_spacing=1.25, paragraph_space=5)
 
+# Reference: the current 8 focus areas
+add_textbox(s, Inches(0.55), Inches(5.42), Inches(12.25), Inches(0.42),
+            "For reference — the current 8 focus areas:  (1) Prevalent Common & Rare Conditions · (2) Maternal & Child Health · (3) Healthy Aging & Resilience · (4) Return of Results on Individual & Population Health · (5) Lifestyle, Substance & Behavioral Health · (6) Environment · (7) Health Equity · (8) Genetics & Biology",
+            size=9, color=GRAY, italic=True, font=BODY_FONT, line_spacing=1.12)
+
 # Recommendation strip
 add_rect(s, Inches(0.55), Inches(5.9), Inches(12.25), Inches(0.95), fill=SOFT_AMBER, line=AMBER, line_w=1.2)
 add_textbox(s, Inches(0.75), Inches(5.95), Inches(11.85), Inches(0.4),
-            "WG-1 recommendation (Rec 1): add a 9th focus area — \"Data, AI & Methods\"",
+            "Recommendation 1: add a 9th focus area — \"Data, AI & Methods\"",
             size=14, bold=True, color=AMBER, font=HEAD_FONT)
 add_textbox(s, Inches(0.75), Inches(6.30), Inches(11.85), Inches(0.55),
-            "Absorbs theme 3 (the 18% orphan), wearables, AI/foundation models, and imaging-as-data once it flows. Without it, WG-3 (Imaging) and WG-4 (AI) recommendations have no coherent home in the Roadmap.",
+            "Consolidates theme 3 (the 18% with no home), wearables, AI/foundation models, and imaging-as-data once it flows. Without it, the Imaging and AI need areas have no coherent home in the Roadmap.",
             size=11.5, color=DARK, font=BODY_FONT, italic=True, line_spacing=1.25)
 
 add_footer(s, 6)
 set_notes(s, """Source: aou-roadmap-refresh/crosswalk_19_to_8.md §4
 
-The crosswalk's Q6 answer in one paragraph: the 8 areas hold for disease anchoring (FA1 74%, FA8 54%, FA7 50%) but three structural problems exist — (a) theme 3 methods/AI orphan, (b) wearables orphan despite being a slide-7 priority, (c) multi-omics + imaging + AI buried in FA8 / theme 3.
+The crosswalk's Q6 answer in one paragraph: the 8 areas hold for disease anchoring (FA1 74%, FA8 54%, FA7 50%) but three structural problems exist — (a) theme 3 methods/AI orphan, (b) wearables with no home despite being a 2023 Roadmap priority, (c) multi-omics + imaging + AI buried in FA8 / theme 3.
 
-The 9th focus area is the single most important recommendation in the entire WG package — it's the one change ONLY this WG can make, and three downstream WGs (Imaging, AI, Communications) depend on it.""")
+The 9th focus area is the single most important recommendation — the structural change the Imaging, AI, and Communications need areas all build on.""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 7 — Q1: What's changed since 2023 — already realized
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
-add_header(s, "Four slide-7 priorities are already realized in the corpus",
+add_header(s, "Four 2023 Roadmap priorities are already realized in the corpus",
            "Q1 (what's changed since 2023): the AoU researcher base is delivering on these without further investment.")
 
 realized = [
@@ -579,7 +584,7 @@ Wearables specifically: the trend score is +0.2 — flat in relative terms. Wear
 # SLIDE 8 — Q1: aspirational, pending upstream investment
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
-add_header(s, "Four slide-7 priorities are aspirational — pending upstream investment",
+add_header(s, "Four 2023 Roadmap priorities are aspirational — pending upstream investment",
            "Q1 (continued): these need data-supply or sample-collection decisions, not researcher engagement.")
 
 aspirational = [
@@ -836,35 +841,31 @@ CAVEAT: some grant growth multipliers are inflated by RePORTER controlled-vocabu
 # SLIDE 13 — WG-1 (OURS) Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
-add_header(s, "WG-1 Top-3: the framework changes only this WG can make",
-           "Rubric scores in parentheses. Each row includes the concrete decision we ask the Sci Com to make.")
+add_header(s, "Scientific Roadmap: the structural framework recommendations",
+           "Priority scores in parentheses. Recommendations for the Committee's consideration; the related need areas overlap and coordinate.")
 
 # Table format for WG-1 with extra detail
 rows = [
     ("1",
      "Add a 9th focus area: \"Data, AI & Methods\"",
-     "Absorbs theme 3 (18% orphan), wearables (HA2 75 pubs), AI/foundation models (HA4 33 pubs), and imaging-as-data once it flows.",
-     "3.71",
-     "ENDORSE the framework addition"),
+     "Consolidates theme 3 (18% of output with no home), wearables (75 pubs), AI/foundation models (33 pubs), and imaging-as-data once it flows.",
+     "3.71"),
     ("2",
-     "Rename FA8 → \"Genetics, Multi-omics & Biology\" + commit to proteomics roadmap",
+     "Rename FA8 → \"Genetics, Multi-omics & Biology\" + a proteomics-release roadmap",
      "Signal that 2026 omics releases (Olink / SomaScan) have a home. UKB 12.2% post-2023 / AoU 1.8% — largest growth differential.",
-     "3.38",
-     "ENDORSE rename + AUTHORIZE release roadmap"),
+     "3.38"),
     ("3",
-     "Bundle FA reframes: FA4 toward ROR implementation; FA2 → \"Maternal Health\"; FA6 environmental-exposure linkage commitment",
+     "Bundle focus-area reframes: FA4 toward ROR implementation; FA2 → \"Maternal Health\"; FA6 environmental-exposure linkage",
      "FA4 trend −9.6 (ELSI work maturing out, ROR implementation continues); FA2 has no Child content; FA6 is the largest demand-supply gap.",
-     "3.00",
-     "DISCUSS + vote on the three sub-items"),
+     "3.00"),
 ]
 
 t = add_table(s, Inches(0.55), Inches(1.35), Inches(12.25), Inches(4.7),
-              header=["#", "Recommendation", "Evidence",
-                      "Rubric", "Action requested"],
+              header=["#", "Recommendation", "Evidence", "Score"],
               rows=rows,
               header_font_size=12, body_font_size=11,
-              col_widths=[0.04, 0.30, 0.39, 0.09, 0.18],
-              last_col_emph=True, last_col_color=AMBER)
+              col_widths=[0.05, 0.42, 0.43, 0.10],
+              last_col_emph=True, last_col_color=ACCENT)
 # Row heights
 t.rows[0].height = Inches(0.42)
 for ri in range(1, 4):
@@ -874,7 +875,7 @@ for ri in range(1, 4):
 add_rect(s, Inches(0.55), Inches(6.20), Inches(12.25), Inches(0.85),
          fill=SOFT_AMBER, line=AMBER)
 add_textbox(s, Inches(0.75), Inches(6.28), Inches(11.85), Inches(0.4),
-            "Why these and not more?  The Sci Com rubric format limits us to three. Each here is structural; each is uniquely WG-1.",
+            "Why these?  They are the structural framework changes — the prerequisite the other recognized need areas build on.",
             size=11.5, bold=True, color=AMBER, font=HEAD_FONT)
 add_textbox(s, Inches(0.75), Inches(6.55), Inches(11.85), Inches(0.5),
             "Aging/ADRD, microbiome, reproducibility framework, subcontinental ancestry — surfaced in cross-cutting synthesis as Tier-2 or other-WG.",
@@ -929,7 +930,7 @@ set_notes(s, """Source: phase4-recommendations/wg2_translational.md.
 
 Rec 1 (3.50): TSBM = Translational Science Benefits Model (Luke et al., Eval Program Plan 2018). Citation/altmetric/RePORTER/NCT APIs all exist; curation and editorial work is new.
 
-Rec 2 (3.38): the named portfolio is the canonical translational-WG deliverable. PGx is the highest peer-index AoU-distinctive use case (4.6×); cardiometabolic+SDOH is the largest combined volume (382 disease pubs + 458 SDOH).
+Rec 2 (3.38): the named portfolio is the canonical translational need-area set. PGx is the highest peer-index AoU-distinctive use case (4.6×); cardiometabolic+SDOH is the largest combined volume (382 disease pubs + 458 SDOH).
 
 Rec 3 (3.75 — highest WG-2 score): the bias framework is the keystone of the cross-WG hierarchy (WG-2 normative → WG-3 imaging → WG-4 AI). Sets the AoU bias-reporting standard.""")
 
@@ -1179,7 +1180,7 @@ CC-5 (Aging/ADRD) is a flag because no Top-3 currently owns it. AoU is at 6.0% p
 # SLIDE 20 — Caveats
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
-add_header(s, "Caveats — three things the Sci Com should know before acting",
+add_header(s, "Caveats — three things to keep in mind when reading these findings",
            "Each caveat is a reason to be careful, not a reason to discount the analysis.")
 
 caveats = [
@@ -1226,29 +1227,29 @@ The pre-2023 baseline caveat is why we don't use AoU-internal pre/post trends as
 # SLIDE 21 — Next steps / asks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
-add_header(s, "What we ask the Science Committee to decide",
-           "Five concrete decisions today; one calendar commitment for the cross-WG hierarchy.")
+add_header(s, "Priority recommendations, for the Committee's consideration",
+           "Grouped by recognized need area; the areas overlap and are meant to be coordinated, not actioned by any single group.")
 
 asks = [
-    ("ENDORSE",
-     "the addition of a 9th focus area: \"Data, AI & Methods\"",
-     "Frame-defining for WG-3 (Imaging) and WG-4 (AI). Without it, downstream WG work is permanently orphaned.",
+    ("ROADMAP",
+     "A 9th focus area: \"Data, AI & Methods\"",
+     "Frame-defining for the Imaging and AI need areas; gives the field's fastest-rising work a coherent home in the framework.",
      ACCENT),
-    ("ENDORSE",
-     "the FA8 rename to \"Genetics, Multi-omics & Biology\" + commission the proteomics-release roadmap",
-     "Signals to the field that the 2026 omics releases have a home. Pair the rename with the data investment.",
+    ("ROADMAP",
+     "Rename FA8 to \"Genetics, Multi-omics & Biology\" + a proteomics-release roadmap",
+     "Signals that the 2026 omics releases have a home. Pair the rename with the data investment.",
      ACCENT),
-    ("COMMISSION",
-     "the cross-WG bias-in-translation framework hierarchy (WG-2 normative → WG-3 imaging → WG-4 AI)",
-     "Single AoU bias-reporting standard rather than three semi-aligned frameworks. WG-2 (Sanchez & Cohn) convenes.",
+    ("CROSS-CUT",
+     "A single shared bias-in-translation standard (normative + imaging + AI)",
+     "One All of Us bias-reporting standard rather than three semi-aligned ones — coordinated across the Translational, Imaging, and AI need areas.",
      NAVY),
-    ("ALLOCATE",
-     "time at the next Science Committee for the structural-framework vote (FA9 + FA8 rename + FA reframes)",
-     "These three structural decisions are the WG-1 deliverable; they should be settled before the other four WGs' Top-3 are finalized.",
+    ("SEQUENCE",
+     "Settle the structural framework first",
+     "The framework changes are the foundation; aligning the other need areas to them works best once the framework is set.",
      NAVY),
-    ("COMMISSION",
-     "the Researcher Workbench build priorities: a governed in-VPC AI co-scientist, a reusable-apps/workflow registry, and multimodal-integration templates",
-     "Evidence-verified gaps vs N3C, Terra, BDC, UKB-RAP & Kids First (slide 17). The in-VPC LLM is legal under the existing Google Cloud BAA. Operationalizes FA9 + the AI co-scientist.",
+    ("WORKBENCH",
+     "Researcher Workbench build priorities: a governed in-VPC AI assistant, a reusable-tools registry, and multimodal templates",
+     "Evidence-verified gaps vs N3C, Terra, BDC, UKB-RAP & Kids First (slide 17). The in-VPC LLM is permissible under the existing Google Cloud BAA.",
      NAVY),
 ]
 
@@ -1278,16 +1279,15 @@ add_textbox(s, Inches(0.75), Inches(6.36), Inches(11.85), Inches(0.55),
             align=PP_ALIGN.CENTER)
 
 add_footer(s, 21)
-set_notes(s, """The four explicit asks the Sci Com should take action on:
+set_notes(s, """Summary of the priority recommendations (not decisions assigned to any group — the working groups are recognized need areas whose topics overlap and coordinate):
 
-(1) ENDORSE the 9th focus area — frame-defining; can only be done by this WG.
-(2) ENDORSE the FA8 rename + commission the proteomics roadmap — pair the structural signal with the data investment.
-(3) COMMISSION the cross-WG bias framework hierarchy — WG-2 (Sanchez & Cohn) convenes WG-3 + WG-4.
-(4) ALLOCATE time at the next Sci Com for the structural-framework vote — sequence WG-1 decisions BEFORE the other four WGs' Top-3 are finalized.
+(1) A 9th focus area, Data, AI & Methods — frame-defining; gives the fastest-rising work a home.
+(2) Rename FA8 + a proteomics-release roadmap — pair the structural signal with the data investment.
+(3) A single shared bias-in-translation standard — coordinated across the Translational, Imaging, and AI need areas rather than three semi-aligned ones.
+(4) Sequencing: the structural framework is the foundation the other need areas align to.
+(5) Researcher Workbench build priorities — governed in-VPC AI assistant, reusable-tools registry, multimodal templates.
 
-Smaller asks tucked in: surface Aging/ADRD as a Tier-2 priority for WG-5 patient-facing story.
-
-If Sci Com only takes one action: endorse the 9th focus area. It's the structural prerequisite for everything else.""")
+If one recommendation rises above the rest: the 9th focus area — it is the structural prerequisite for everything else.""")
 
 # ---------------------------------------------------------------------------
 # Save

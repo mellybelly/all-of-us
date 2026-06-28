@@ -1,14 +1,18 @@
 # WG-4: AI Strategies
 
+> This is a **topic / need area**, not a decision body. Its topic overlaps
+> with the other need areas and should be coordinated across them. The WG
+> label is used here as a topic reference.
+
 ## Lead(s) and scope
 
-**Lead:** Sastry.
-**Scope (per 2026 WG deck):** define researcher-facing AI applications —
+**Lead (chair):** Sastry.
+**Scope (per 2026 WG deck):** researcher-facing AI applications —
 what to build, what to integrate, what governance.
 
 **Reality check (from the evidence):** HA4 (AI / foundation models / LLMs)
 already has **33 pubs (30 post-2023)** in the AoU corpus — researchers are
-*already* using AI on AoU data. The 2026 AI WG's question is not whether
+*already* using AI on AoU data. The AI need area's question is not whether
 researchers want AI; it's what AoU should provide, build, govern, or
 integrate.
 
@@ -87,10 +91,10 @@ consistently identifies as a friction point.
 - Smoller's NLP/CLAMP (3.40) priority is the upstream foundation; AI
   co-scientist sits on top.
 
-**Why this WG.** AI WG owns researcher-facing AI; this is the
-quintessential WG-4 deliverable. Tight cross-references with WG-3
-(imaging integration via the same agent surface) and WG-5
-(communications — researcher experience is a comms story).
+**Need area.** Researcher-facing AI falls under the AI need area; this is the
+quintessential recommendation for it. Coordinate with the imaging need area
+(WG-3, imaging integration via the same agent surface) and the communications
+need area (WG-5 — researcher experience is a comms story).
 
 **Rubric scores.**
 
@@ -139,10 +143,11 @@ integration for participant-facing AI applications.
   FA7); without an AI-bias framework, FA7 is at risk of corrosion via
   un-audited AI deployments.
 
-**Why this WG.** AI-specific bias failure modes (fairness-through-
+**Need area.** AI-specific bias failure modes (fairness-through-
 unawareness, label noise differentially distributed by group, miscalibration
-across subgroups, distribution shift) require AI-WG technical expertise.
-Inherits the normative frame from WG-2.
+across subgroups, distribution shift) sit in the AI need area, where that
+technical context lives. Inherits the normative frame from the translational
+need area (WG-2); coordinate the two.
 
 **Rubric scores.**
 
@@ -168,12 +173,12 @@ review).
 
 ### 3. AoU-tuned foundation model evaluation (build-or-buy decision framework)
 
-**Description.** Rather than recommending AoU build a foundation model
-de novo, recommend the WG-4 lead a structured **evaluation** of existing
-EHR foundation models (Med-PaLM family, NHS Foundation, EHR-FM, etc.)
-against AoU-defined benchmarks — and **make a build-or-buy-or-integrate
-recommendation by end of 2027**. Provides Sci Com with an explicit
-decision-point rather than a permanent open question.
+**Description.** Rather than building a foundation model de novo, the
+recommendation is a structured **evaluation** of existing EHR foundation
+models (Med-PaLM family, NHS Foundation, EHR-FM, etc.) against AoU-defined
+benchmarks, leading to a **build-or-buy-or-integrate recommendation by end of
+2027**. This provides an explicit decision-point rather than a permanent open
+question.
 
 **Supporting evidence.**
 - HA4 33 pubs include foundation-model-style phenome-wide disease-onset
@@ -188,9 +193,9 @@ decision-point rather than a permanent open question.
   premature build commitment will be obsolete on delivery — evaluation
   with a decision-deadline is the correct posture.
 
-**Why this WG.** Only WG-4 has the technical context to specify benchmarks
-and run an apples-to-apples evaluation. The decision lands with Sci Com /
-program leadership, but the work is WG-4's.
+**Need area.** The AI need area is where the technical context to specify
+benchmarks and run an apples-to-apples evaluation lives. Any decision rests
+with program leadership; the evaluation work falls under this need area.
 
 **Rubric scores.**
 

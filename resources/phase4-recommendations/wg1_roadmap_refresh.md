@@ -1,16 +1,26 @@
 # WG-1: Scientific Roadmap Refresh
 
+> This is a **topic / need area**, not a decision body. Its topic overlaps
+> with the other need areas and should be coordinated across them. The WG
+> label is used here as a topic reference.
+
 ## Lead(s) and scope
 
-**Co-leads:** Jordan Smoller and Melissa Haendel.
+**Co-leads (chairs):** Jordan Smoller and Melissa Haendel.
 **Scope (per 2026 WG deck):** update the Scientific Roadmap reflecting
 advances since 2023; re-examine the 8 focus-area framework; identify what's
-changed in the science, the cohort, and the field; recommend structural
+changed in the science, the cohort, and the field; surface structural
 changes to the framework as well as content-level priorities.
 
-This WG owns framework-level changes (focus-area structure, renames, additions)
-that no other WG can make — recommendations here should preferentially include
-at least one of those.
+The program's current eight priority focus areas are: (1) Prevalent Common &
+Rare Conditions; (2) Maternal & Child Health; (3) Healthy Aging & Resilience
+Across the Lifespan; (4) Return of Results on Individual & Population Health;
+(5) Lifestyle, Substance, & Behavioral Health; (6) Environment; (7) Health
+Equity; (8) Genetics & Biology.
+
+This is the **framework / focus-area need area** — recommendations about
+focus-area structure, renames, and additions fall here, and should be
+coordinated with the need areas they touch.
 
 ---
 
@@ -42,8 +52,8 @@ temporal_trends §4–§7, emerging_themes §1–§5):
    one of the six brainstorm questions; ties to NLM Goal 4 (sustainable
    infrastructure) and NIMHD G4 (methods/metrics).
 
-The ranking that follows prioritizes **framework changes** (only this WG can
-make them), then **near-term feasibility × evidence weight**.
+The ranking that follows prioritizes **framework changes** (the core of this
+need area), then **near-term feasibility × evidence weight**.
 
 ---
 
@@ -55,9 +65,9 @@ make them), then **near-term feasibility × evidence weight**.
 status to a first-class focus area. Absorb theme 3 (262 pubs / 2,388 projects),
 AI/foundation models (HA4: 33 pubs, 30 post-2023), wearables (HA2: 75 pubs,
 already mature but currently invisible), and imaging-methods (HA3 will live
-here too once imaging data flows). This is the single change *only* WG-1
-can make and that the 2026 Imaging WG, AI WG, and Communications WG all
-depend on for their work to have a coherent home.
+here too once imaging data flows). This is a framework-level change in this
+need area, and the imaging, AI, and communications need areas all depend on
+it for their work to have a coherent home.
 
 **Supporting evidence.**
 - Theme 3 is the *single largest orphan* in the crosswalk: ~18% of pubs / ~19%
@@ -84,10 +94,10 @@ depend on for their work to have a coherent home.
   it converts the orphan argument from "internal bookkeeping" to "AoU is absent
   from the literature's leading edge."
 
-**Why this WG.** Framework changes are the unique province of the Roadmap
-Refresh WG. Both the AI WG (WG-4) and Imaging WG (WG-3) need a coherent
-focus-area home for their recommendations to fit the larger Roadmap; if this
-WG doesn't add the area, their work will be perpetually orphaned.
+**Need area.** This falls under the Roadmap Refresh (framework) need area.
+Both the AI need area (WG-4) and the imaging need area (WG-3) need a coherent
+focus-area home for their recommendations to fit the larger Roadmap; without
+the area, their work remains orphaned. Coordinate across these need areas.
 
 **Rubric scores.**
 
@@ -103,11 +113,11 @@ WG doesn't add the area, their work will be perpetually orphaned.
 | Helps with data quality | 3 | Indirect: elevating methods/QC as a first-class area legitimizes ongoing data-quality investment. |
 | **Mean (applicable only)** | **3.71** | Excluding "Simplifies analysis" as N/A. |
 
-**Risks / pushback expected.** Sci Com may resist *adding* a focus area
-(prefer reorganizing existing ones); some members may argue methods/AI are
-inherent to every FA and don't need their own. Counter: the 18% corpus
-orphan is the empirical answer; the AI WG and Imaging WG existing as
-distinct 2026 WGs is the structural answer.
+**Risks / pushback expected.** Some may prefer reorganizing existing focus
+areas over *adding* one; some may argue methods/AI are inherent to every FA
+and don't need their own. Counter: the 18% corpus orphan is the empirical
+answer; AI and imaging existing as distinct 2026 need areas is the structural
+answer.
 
 ---
 
@@ -137,9 +147,10 @@ the rename buries the work inside "genetics."
 - Crosswalk §4.3 documents the rationale: theme 2's definition is
   genomics-centric and FA8's name signals genetics-only.
 
-**Why this WG.** Renaming a focus area is structural; the proteomics-release
-roadmap can be jointly held with the DRC/program leadership but the Refresh
-is where the strategic priority is articulated.
+**Need area.** Renaming a focus area is a framework matter in this need area;
+the proteomics-release roadmap is shared with the DRC/program leadership, and
+the Refresh is where the strategic priority is articulated. Coordinate with
+the genetics/multi-omics need area.
 
 **Rubric scores.**
 
@@ -165,8 +176,8 @@ recommendation should explicitly pair the two.
 
 ### 3. Reframe FA4 toward implementation; reconsider FA2 naming; add an environmental-exposure linkage commitment under FA6
 
-**Description.** Three smaller framework-level corrections, packaged so the
-Sci Com can vote on them as one structural-cleanup recommendation: (a)
+**Description.** Three smaller framework-level corrections, packaged as one
+structural-cleanup recommendation: (a)
 re-scope FA4 "Return of Results" from *ELSI research* (which is maturing
 out — theme 17 trend −12.3) to *ROR implementation* (PGx workflows, ACMG
 delivery, pharmacy integration); (b) rename FA2 "Maternal & Child Health"
@@ -192,9 +203,9 @@ in the entire IC alignment matrix.
 - NCCIH O3 (Whole Person Health, environmental domain) + NHLBI crosscutting
   Lifestyle theme also depend on FA6 substance.
 
-**Why this WG.** All three are framework-level changes only WG-1 can make.
-Bundling protects WG-1's overall recommendation budget — three small structural
-fixes consume one of the three top-recommendation slots.
+**Need area.** All three are framework-level changes in the Roadmap Refresh
+need area. Bundling protects the overall recommendation budget — three small
+structural fixes consume one of the three top-recommendation slots.
 
 **Rubric scores.**
 

@@ -1,53 +1,59 @@
-# Cross-cutting synthesis — WGs 1–5
+# Cross-cutting synthesis — need areas 1–5
 
-**Purpose.** Identify the recommendations that span multiple WGs, the
-coordination points the WG leads should resolve before final Sci Com
+> The five Working Groups are **topic / need areas** the program already
+> recognized as priorities — not decision or governance bodies. Their topics
+> overlap and the central task here is **coordination** across them. WG labels
+> are used as topic references; "Lead:" lines note chairs.
+
+**Purpose.** Identify the recommendations that span multiple need areas, the
+coordination points the need-area leads should resolve before final Sci Com
 presentation, and the defensive narrative the Sci Com presentation should
 land on.
 
 ---
 
-## 1. Multi-WG recommendations (coordinate, don't duplicate)
+## 1. Multi-need-area recommendations (coordinate, don't duplicate)
 
-### CC-1. The "Data, AI & Methods" 9th focus area (WG-1 → WG-3, WG-4)
+### CC-1. The "Data, AI & Methods" 9th focus area (Refresh ↔ imaging, AI)
 
-WG-1's framework change is the *enabling structural decision* for WG-3 and
-WG-4. Without it, both Imaging and AI work is permanently orphaned in the
-focus-area framework. Coordination point: WG-1 chairs WG-3 + WG-4 should
-confirm the new FA name covers what they need (DICOM/FHIR standards under
-"Methods"; AI co-scientist under "AI"; imaging-radiomics under
-"Imaging-as-data-subarea").
+The Refresh framework change is the *enabling structural piece* for the
+imaging and AI need areas. Without it, both imaging and AI work is
+permanently orphaned in the focus-area framework. Coordination point: confirm
+across the Refresh, imaging, and AI need areas that the new FA name covers
+what each needs (DICOM/FHIR standards under "Methods"; AI co-scientist under
+"AI"; imaging-radiomics under "Imaging-as-data-subarea").
 
-### CC-2. Bias-in-translation framework (WG-2 → WG-3, WG-4)
+### CC-2. Bias-in-translation framework (translational ↔ imaging, AI)
 
-WG-2's normative framework sits over WG-3's imaging-bias audit and WG-4's
-AI-bias audit. The three WGs should align on the **single AoU
-bias-reporting standard** rather than producing three semi-aligned
-frameworks. The Sci Com presentation should show this as a stacked /
-inherited hierarchy.
+The translational need area's normative framework sits over the imaging-bias
+audit and the AI-bias audit. The three need areas should align on the
+**single AoU bias-reporting standard** rather than producing three
+semi-aligned frameworks. The Sci Com presentation should show this as a
+stacked / inherited hierarchy.
 
-### CC-3. Translational-impact metrics → Impact Report (WG-2 → WG-5)
+### CC-3. Translational-impact metrics → Impact Report (translational ↔ communications)
 
-WG-2 defines the metrics; WG-5 produces the annual Report. Coordinate on
-metric provenance and reporting cadence so the Report v1 ships within 12
-months. Risk if uncoordinated: WG-2 specifies metrics that WG-5 can't
-operationally capture.
+The translational need area frames the metrics; the communications need area
+covers the annual Report. Coordinate on metric provenance and reporting
+cadence so the Report v1 ships within 12 months. Risk if uncoordinated:
+metrics are specified that can't be operationally captured for the Report.
 
-### CC-4. The distinctive-evidence narrative (WG-5 ↔ WG-1)
+### CC-4. The distinctive-evidence narrative (communications ↔ Refresh)
 
-WG-5's peer-index narrative (ELSI 21.2×, SDOH 5.1×, PGx 4.6×, methods 3.0×)
-is the *Refresh's external face*. WG-1 owns the framework changes that the
-narrative depends on (focus-area structure, multi-omics signal). The
-narrative cannot land cleanly without the framework being settled.
+The communications peer-index narrative (ELSI 21.2×, SDOH 5.1×, PGx 4.6×,
+methods 3.0×) is the *Refresh's external face*. The framework changes the
+narrative depends on (focus-area structure, multi-omics signal) fall under
+the Refresh need area. The narrative cannot land cleanly without the
+framework being settled, so coordinate the two.
 
-### CC-5. Aging/ADRD engagement (no WG owns it cleanly)
+### CC-5. Aging/ADRD engagement (no need area covers it cleanly)
 
 AoU is flat at 4.2% post-2023 in aging/ADRD while UKB/MVP/CKB all surge in
 the lecanemab/donanemab era (`emerging_themes.md` §5). This is a real
 peer-comparative gap but doesn't fit cleanly in any one Top-3. The Refresh
-WG should consider naming it as a Tier-2 priority (below the Top-3 but on
-the radar); the Communications WG should consider it as a story for the
-patient-facing dissemination product. **Flag for WG leads.**
+need area could name it as a Tier-2 priority (below the Top-3 but on the
+radar); the communications need area could carry it as a story for the
+patient-facing dissemination product. **Flag for the need-area leads.**
 
 ---
 
@@ -71,11 +77,12 @@ infrastructure (3× peers) into its design. Every other cohort scaled up
 genomics; AoU scaled up everything *around* genomics that genomics actually
 needs to work in practice."*
 
-This narrative is the **defensive frame** under which every WG's
-recommendations should be read. The framework changes WG-1 proposes
-(9th FA, multi-omics rename, FA2/FA4 reframes) **protect** these strengths;
-the metrics and bias frameworks WG-2/WG-3/WG-4 propose **measure** them; the
-products WG-5 proposes **communicate** them.
+This narrative is the **defensive frame** under which every need area's
+recommendations should be read. The framework changes in the Refresh need
+area (9th FA, multi-omics rename, FA2/FA4 reframes) **protect** these
+strengths; the metrics and bias frameworks in the translational, imaging, and
+AI need areas **measure** them; the products in the communications need area
+**communicate** them.
 
 ### Honest gaps to name explicitly
 
@@ -113,16 +120,16 @@ showing the program knows the difference between strength and gap.
 For Sci Com clarity, here is the read of slide 7's eight priorities the
 WG leads should align on:
 
-| Slide 7 priority | Evidence read | WG ownership |
+| Slide 7 priority | Evidence read | Need area |
 |---|---|---|
-| AI / LLM / foundation models | Already realized — HA4 31 pubs, 28 post-2023 | WG-4 lead; WG-1 enables via 9th FA |
-| Breakthrough therapeutics (GLP-1, SGLT2, AD mAbs, CRISPR) | Already realized — HA8 16 pubs | WG-2 (use case) |
-| Wearables / remote monitoring | Already realized but **trend-flat** — HA2 70 pubs, ±0.0; **recognition gap, not growth gap** | WG-1 frames via 9th FA |
-| Multi-omics beyond genomics | **Aspirational, pending investment** — HA1 24 pubs, 23 post-2023 | WG-1 leads via FA8 rename + release roadmap |
-| Imaging / radiomics | **Aspirational, pending investment** — HA3 8 pubs *thin* | WG-3 leads (infrastructure-from-scratch) |
-| G×E×SDOH integrated holistic risk models | **Emerging, AoU positioned to lead** — HA6 10 pubs, 0 pre-2023 | WG-1 surface as latent strength; WG-2 use case |
-| Nutrition / microbiome / chronic disease | **Structurally under-supported** — HA7 11 pubs; no stool biospecimen | Flag as a known gap (cross-cutting); no WG can resolve in current cycle |
-| Environmental health | **Largest gap with named IC demand** — HA5 12 pubs; NIEHS 6 priorities | WG-1 framework commitment via FA6 |
+| AI / LLM / foundation models | Already realized — HA4 31 pubs, 28 post-2023 | AI need area; Refresh via 9th FA |
+| Breakthrough therapeutics (GLP-1, SGLT2, AD mAbs, CRISPR) | Already realized — HA8 16 pubs | Translational need area (use case) |
+| Wearables / remote monitoring | Already realized but **trend-flat** — HA2 70 pubs, ±0.0; **recognition gap, not growth gap** | Refresh need area via 9th FA |
+| Multi-omics beyond genomics | **Aspirational, pending investment** — HA1 24 pubs, 23 post-2023 | Refresh need area via FA8 rename + release roadmap |
+| Imaging / radiomics | **Aspirational, pending investment** — HA3 8 pubs *thin* | Imaging need area (infrastructure-from-scratch) |
+| G×E×SDOH integrated holistic risk models | **Emerging, AoU positioned to lead** — HA6 10 pubs, 0 pre-2023 | Refresh need area as latent strength; translational use case |
+| Nutrition / microbiome / chronic disease | **Structurally under-supported** — HA7 11 pubs; no stool biospecimen | Flag as a known gap (cross-cutting); not resolvable in current cycle |
+| Environmental health | **Largest gap with named IC demand** — HA5 12 pubs; NIEHS 6 priorities | Refresh need area, framework commitment via FA6 |
 
 **The clean split:** four priorities are *already realized* (AI,
 breakthrough therapeutics, wearables-as-mature, G×E×SDOH integrated); four
@@ -134,25 +141,26 @@ honors the corpus evidence.
 
 ---
 
-## 4. Coordination calendar for WG leads (suggested)
+## 4. Coordination calendar for need-area leads (suggested)
 
-1. **Pre-Sci Com circulation:** WG-1 + WG-5 align on framework + narrative
-   wording (CC-4) before either presents. The Refresh framework changes
-   must precede the Communications narrative.
-2. **Joint WG-2 / WG-3 / WG-4 standards session:** align on the
-   bias-in-translation hierarchy (CC-2) so the three WGs aren't producing
-   three different audit templates.
-3. **WG-2 / WG-5 metrics handshake:** confirm WG-2's metric definitions
-   are operationally captureable for WG-5's Impact Report v1 (CC-3).
-4. **WG-1 / WG-3 / WG-4 framework confirmation:** confirm 9th-FA name and
-   scope before WG-3 and WG-4 finalize their recommendations.
+1. **Pre-Sci Com circulation:** the Refresh and communications need areas
+   align on framework + narrative wording (CC-4) before either presents. The
+   Refresh framework changes should precede the communications narrative.
+2. **Joint translational / imaging / AI standards session:** align on the
+   bias-in-translation hierarchy (CC-2) so the three need areas aren't
+   producing three different audit templates.
+3. **Translational / communications metrics handshake:** confirm the
+   translational metric definitions are operationally captureable for the
+   communications Impact Report v1 (CC-3).
+4. **Refresh / imaging / AI framework confirmation:** confirm 9th-FA name and
+   scope before the imaging and AI recommendations are finalized.
 
 ---
 
 ## 5. Places the evidence is thin (judgment > evidence flag)
 
-For the WG-1 lead to know which Top-3 elements are most "judgment" vs most
-"evidence":
+For the Refresh need-area lead to know which Top-3 elements are most
+"judgment" vs most "evidence":
 
 - **WG-1 Rec 1 (9th focus area).** Strong evidence (18% orphan, +
   AI/wearables peers).
@@ -175,18 +183,18 @@ For the WG-1 lead to know which Top-3 elements are most "judgment" vs most
 - **WG-5 Rec 2 (distinctive-evidence narrative).** *Most evidence-driven
   of any recommendation* — peer-index numbers are precise.
 - **Aging/ADRD (CC-5).** Real evidence (peer surge while AoU flat) but no
-  WG owns it cleanly; flag-only.
+  need area covers it cleanly; flag-only.
 
 ---
 
-## 6. One-line recommendation summary for the WG leads' joint planning
+## 6. One-line recommendation summary for the need-area leads' joint planning
 
-If Sci Com only attends to *three* recommendations across the five WGs,
-they should be:
+If Sci Com only attends to *three* recommendations across the five need
+areas, they should be:
 
 1. **WG-1 Rec 1 — Add a "Data, AI & Methods" 9th focus area.** Mean 3.71.
-   Frame-defining; no other WG can do this.
+   Frame-defining; a framework change in the Refresh need area.
 2. **WG-4 Rec 1 — AoU Workbench AI co-scientist.** Mean 3.88. Highest-
    rubric-mean researcher-impact recommendation in the entire set.
 3. **WG-5 Rec 2 — Plain-language distinctive-evidence narrative.** Mean
-   3.60. The political-defense story that funds all the rest.
+   3.60. The political-defense story that underpins all the rest.

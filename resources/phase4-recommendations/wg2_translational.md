@@ -1,15 +1,20 @@
 # WG-2: Translational Science Research Agenda
 
+> This is a **topic / need area**, not a decision body. Its topic overlaps
+> with the other need areas and should be coordinated across them. The WG
+> label is used here as a topic reference.
+
 ## Lead(s) and scope
 
-**Co-leads:** Sanchez & Cohn.
+**Co-leads (chairs):** Sanchez & Cohn.
 **Scope (per 2026 WG deck):** define the discovery-to-impact translational
 pathway for AoU science — what counts as translational impact, what
 priority use cases the program should drive toward, and how to measure
 translational outcomes.
 
-This WG bridges WG-1 (Refresh content) with WG-5 (Communications / impact
-measurement). Their recommendations need to interlock with both.
+This need area bridges the Refresh content (WG-1) with the communications /
+impact-measurement need area (WG-5). Recommendations here need to be
+coordinated with both.
 
 ---
 
@@ -68,9 +73,10 @@ impact-tracking deliverables.
   improved methods/metrics in disparities-relevant research — AoU
   translational metrics inherit this.
 
-**Why this WG.** WG-2 owns the translational frame. WG-5 owns dissemination
-mechanics. The metric *definition* is upstream of dissemination and is
-WG-2's natural deliverable; the *operationalization* is shared with WG-5.
+**Need area.** This falls under the translational need area; dissemination
+mechanics sit in the communications need area (WG-5). The metric *definition*
+is upstream of dissemination and belongs to the translational need area; the
+*operationalization* is coordinated with WG-5.
 
 **Rubric scores.**
 
@@ -120,9 +126,10 @@ risk-stratification with SDOH (382 pubs / 3,292 projects, NIDDK + NHLBI);
 - HA8 breakthrough-therapeutics is the clearest "translation in progress"
   signal in the corpus (15 of 16 pubs post-2023).
 
-**Why this WG.** Selecting a small portfolio with reportable outcomes is the
-canonical translational-WG deliverable; WG-2 owns use-case prioritization
-while WG-1 owns the framework that contains them.
+**Need area.** Selecting a small portfolio with reportable outcomes is the
+canonical translational deliverable; use-case prioritization falls under the
+translational need area, while the framework that contains them sits in the
+Refresh need area. Coordinate the two.
 
 **Rubric scores.**
 
@@ -174,9 +181,10 @@ AoU as the citable diversity reference in FDA/CMS submissions.
   rule-making (21st Century Cures, Diversity Plans Guidance) create a
   regulatory window for an AoU-anchored bias framework.
 
-**Why this WG.** Translational outputs are where bias becomes operational
-harm; WG-2 is the natural home. WG-4 (AI Strategies) will pick up the
-technical implementation, but the *normative framework* lives in WG-2.
+**Need area.** Translational outputs are where bias becomes operational
+harm; this falls under the translational need area. The AI need area (WG-4)
+covers the technical implementation, and the *normative framework* sits in
+the translational need area. Coordinate across the two.
 
 **Rubric scores.**
 

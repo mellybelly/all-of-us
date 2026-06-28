@@ -1,16 +1,20 @@
 # WG-3: Imaging Integration
 
+> This is a **topic / need area**, not a decision body. Its topic overlaps
+> with the other need areas and should be coordinated across them. The WG
+> label is used here as a topic reference.
+
 ## Lead(s) and scope
 
-**Co-leads:** Burnside & Giannini.
-**Scope (per 2026 WG deck):** integrate imaging into AoU — define which
-imaging modalities, on what timeline, with what governance, and how
-researchers will access them.
+**Co-leads (chairs):** Burnside & Giannini.
+**Scope (per 2026 WG deck):** integrate imaging into AoU — which imaging
+modalities, on what timeline, with what governance, and how researchers will
+access them.
 
 **Reality check (from the evidence):** AoU has **8 imaging pubs in the
 corpus** (HA3, ~0.6% — *thin-coverage flag*), and almost all 8 use
 *external* imaging (UKB MRI fat measures, etc.) linked to AoU phenotypes,
-not AoU-originated imaging. The 2026 Imaging WG is starting *from
+not AoU-originated imaging. The imaging need area is starting *from
 infrastructure*, not from a research-utilization base — recommendations
 should reflect that.
 
@@ -27,8 +31,8 @@ should reflect that.
    priority, link radiomics-derived features to existing AoU phecode
    phenotypes so the imaging release immediately interoperates with the
    established analytic infrastructure.
-4. **An AI-radiomics pilot funding mechanism** that explicitly invites
-   AI WG cross-pollination.
+4. **An AI-radiomics pilot mechanism** that explicitly invites cross-
+   pollination with the AI need area.
 5. **A pre-release imaging-data quality and bias framework** building on
    the WG-2 bias-in-translation framework.
 6. **Partnership with UKB/NIH-Imaging Data Commons** for cross-cohort
@@ -70,10 +74,10 @@ research-question target.
   imaging volume reflects a *one-time endowment* — other peer cohorts sit
   at 1–2%. AoU's target is not "match UKB" but "stop being below 1%."
 
-**Why this WG.** The Imaging WG is the only group with the convening
-authority to bridge the data-release decision with the research-demand
-prioritization. WG-1 will reference whatever this WG decides in the
-Refresh's FA4 / new-9th-area framing.
+**Need area.** This recommendation falls under the imaging need area, which
+brings together the data-release question with research-demand
+prioritization. It should be coordinated with the Refresh need area's FA4 /
+new-9th-area framing.
 
 **Rubric scores.**
 
@@ -121,10 +125,9 @@ infrastructure rather than competing with it.
 - Radiomics-to-phecode crosswalk uses existing PyRadiomics / MONAI
   feature definitions; the crosswalk itself is the new work.
 
-**Why this WG.** Imaging-specific standards decisions belong to Imaging WG;
-the phecode crosswalk is an Imaging-side responsibility because Imaging is
-the new modality joining the existing phecode infrastructure, not the
-other way around.
+**Need area.** Imaging-specific standards fall under the imaging need area;
+the phecode crosswalk sits here too because imaging is the new modality
+joining the existing phecode infrastructure, not the other way around.
 
 **Rubric scores.**
 
@@ -143,8 +146,8 @@ other way around.
 **Risks / pushback expected.** Sci Com may ask "why a *radiomics-to-phecode*
 crosswalk rather than a separate imaging-only analytic layer?" — answer:
 phecodes are the established analytic vocabulary the AoU researcher base
-already uses; new vocabulary fragments the user base. Imaging-AI WG (WG-4)
-should be invited to co-sign.
+already uses; new vocabulary fragments the user base. Coordinate with the AI
+need area (WG-4).
 
 ---
 
@@ -169,9 +172,10 @@ radiomics features) so derivative products inherit the audit.
 - NEI G4 (vision-health equity) explicitly calls for disparities-anchored
   ophthalmologic data.
 
-**Why this WG.** Imaging governance is unique to imaging modalities (DICOM
-provenance, segmentation derivative tracking, MR sequence parameters) —
-WG-3 is the only group with the technical context.
+**Need area.** Imaging governance is specific to imaging modalities (DICOM
+provenance, segmentation derivative tracking, MR sequence parameters), so
+this recommendation falls under the imaging need area, where that technical
+context lives.
 
 **Rubric scores.**
 
@@ -197,9 +201,9 @@ audit as a release-gate, not a release-blocker.
 
 ## Also-considered (deprioritized with reasoning)
 
-- **AI-radiomics pilot funding mechanism (candidate 4).** Belongs in WG-4
-  (AI Strategies) — WG-3 should hand it across with the standards
-  foundation in Recommendation 2 as the joint platform.
+- **AI-radiomics pilot mechanism (candidate 4).** Falls under the AI
+  need area (WG-4); coordinate it with the standards foundation in
+  Recommendation 2 as the joint platform.
 - **UKB / NIH Imaging Data Commons partnership (candidate 6).** Strong
   idea but politically delicate (foreign-use framing guidance — UKB is a
   US-funded-resource-adopted-globally case for AoU; reciprocal data

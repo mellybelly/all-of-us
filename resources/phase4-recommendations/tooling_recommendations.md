@@ -1,6 +1,10 @@
 # Tooling & database-integration recommendations
 
-**Cross-WG (WG-2 Translational × WG-4 AI) deliverable.**
+> These recommendations span the translational and AI **need areas**, which
+> are topic areas, not decision bodies. Their topics overlap and should be
+> coordinated. The WG labels are used here as topic references.
+
+**Cross-need-area (WG-2 Translational × WG-4 AI) deliverable.**
 Added per the June 3, 2026 WG meeting — Melissa: *"Consider making some tooling
 recommendations"*; Jordan's database-integration / agentic-follow-up thread;
 and the carried-over reproducibility "computable-phenotype gallery" idea. See
@@ -86,9 +90,10 @@ makes the gallery a first-class Workbench object with usage telemetry.
 - NLM G1-O2 (curation at scale, NLP) is the most-aligned IC ask
   (`../aou-ic-alignment/gap_analysis.md`).
 
-**Why this WG.** Tooling/infrastructure with a reproducibility mandate; bridges
-WG-2 (translational reuse) and WG-4 (the AI co-scientist consumes the gallery as
-its grounding vocabulary).
+**Need area.** Tooling/infrastructure with a reproducibility mandate; bridges
+the translational need area (WG-2, translational reuse) and the AI need area
+(WG-4, where the AI co-scientist consumes the gallery as its grounding
+vocabulary). Coordinate the two.
 
 **Rubric scores.**
 
@@ -137,9 +142,9 @@ integrate the highest-quality biomedical databases" point.
   integration as a near-term transformative opportunity
   (`../strategic-plans/nasem/README.md`).
 
-**Why this WG.** Database integration + agentic-tool surface is tooling, not
-clinical translation; the *outputs* (repurposing hypotheses, variant calls) hand
-off to WG-2.
+**Need area.** Database integration + agentic-tool surface is tooling, not
+clinical translation; the *outputs* (repurposing hypotheses, variant calls)
+are coordinated with the translational need area (WG-2).
 
 **Rubric scores.**
 
@@ -182,8 +187,8 @@ researchers (and Recs 1–2) can plan around.
   (`../strategic-plans/nasem/README.md`) provides the external governance
   template; pairs with WG-4's AI-governance rec (`wg4_ai_strategies.md` Rec 2).
 
-**Why this WG.** It is the enabling substrate for all tooling recs and the
-operational home for the workbench-security question.
+**Need area.** It is the enabling substrate for all tooling recs and the
+home for the workbench-security question across these need areas.
 
 **Rubric scores.**
 

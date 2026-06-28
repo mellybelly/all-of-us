@@ -1,16 +1,21 @@
 # WG-5: Scientific Communications
 
+> This is a **topic / need area**, not a decision body. Its topic overlaps
+> with the other need areas and should be coordinated across them. The WG
+> label is used here as a topic reference.
+
 ## Lead(s) and scope
 
-**Lead:** Korf.
+**Lead (chair):** Korf.
 **Scope (per 2026 WG deck):** dissemination of AoU science + measurable
 impact tracking; Sci Com ambassador toolkit (per slide 12); audience-defined
 communications products.
 
-This WG converts WG-1's framework, WG-2's translational metrics, and the
-distinctive evidence the corpus shows into externally-legible products and
-narratives. It is the WG most directly responsible for the Sci Com's own
-visibility and credibility.
+This need area converts the Refresh framework (WG-1), the translational
+metrics (WG-2), and the distinctive evidence the corpus shows into
+externally-legible products and narratives. It is the need area most directly
+tied to the Sci Com's own visibility and credibility. Coordinate across the
+need areas it draws on.
 
 ---
 
@@ -60,8 +65,8 @@ participant communities.
 - Precedent: NIH BD2K, the BRAIN Initiative, Cancer Moonshot all publish
   annual progress / impact products.
 
-**Why this WG.** Impact aggregation and external reporting is the
-canonical communications-WG deliverable.
+**Need area.** Impact aggregation and external reporting falls under the
+communications need area.
 
 **Rubric scores.**
 
@@ -112,9 +117,9 @@ the IC-program-officer briefings.
   CCT4 (Collaborative Science) provide the long-term narrative through-
   line — AoU is delivering on its founding promise.
 
-**Why this WG.** Narrative work is canonical communications WG. The
-quantified peer-index evidence is the work the Refresh corpus analysis
-produced; turning numbers into narrative is the WG-5 deliverable.
+**Need area.** Narrative work falls under the communications need area. The
+quantified peer-index evidence comes from the Refresh corpus analysis;
+turning numbers into narrative sits in this need area.
 
 **Rubric scores.**
 
@@ -167,8 +172,8 @@ year's Impact Report. Bundle with the Sci Com ambassador toolkit
 - Cross-cutting NIH Theme 4 (Collaborative Science) reinforces the
   multi-audience approach.
 
-**Why this WG.** Dissemination products and the ambassador toolkit are
-explicit slide-12 charges to WG-5.
+**Need area.** Dissemination products and the ambassador toolkit fall under
+the communications need area (explicit slide-12 topics).
 
 **Rubric scores.**
 

@@ -1,6 +1,12 @@
-# Phase 4 — Top-3 recommendations per 2026 AoU Science Committee Working Group
+# Phase 4 — Top-3 recommendations per 2026 AoU Science Committee need area
 
-**Draft inputs for the Scientific Roadmap Refresh WG co-lead (Haendel).**
+The 2026 Working Groups (WGs) are **topic / need areas** the program has
+already recognized as priorities — not decision or governance bodies. Their
+topics overlap and should be **coordinated** across need areas. The WG labels
+below are used as topic references, and "Lead:" lines note the chairs for each
+topic.
+
+**Draft inputs for the Scientific Roadmap Refresh co-lead (Haendel).**
 Generated 2026-06-02 from the evidence base in this repository:
 
 - `aou-ic-alignment/gap_analysis.md` + `per_ic_briefs/`
@@ -13,11 +19,12 @@ Generated 2026-06-02 from the evidence base in this repository:
 
 ## Method
 
-For each WG, this folder contains a markdown file enumerating 5–8 candidate
-recommendations pulled from the evidence base, the top-3 ranked
-recommendations scored against the 8-criterion Sci Com rubric (1=low, 4=high;
-N/A excluded from the mean), and an "also-considered" list with one-line
-deprioritization reasoning.
+For each need area, this folder contains a markdown file enumerating 5–8
+candidate recommendations pulled from the evidence base, the top-3 ranked
+recommendations scored against the Committee's 8-criterion prioritization
+rubric (1=low, 4=high; N/A excluded from the mean), and an "also-considered"
+list with one-line deprioritization reasoning. The scores are a
+prioritization aid, not an action taken on any recommendation.
 
 The rubric is the format Jordan Smoller established in the November 5, 2024
 Pre-Processed Data subgroup deck. Worked-example scores landed mean 1.40–4.00;
@@ -39,9 +46,10 @@ rather than forced.
 
 ## How to use
 
-This is the **draft** to inform the WG lead's editorial judgment. Show your
-work back to the WG; expect the rubric scores per cell to spark disagreement
-and that is the point. Top-3 limits are hard (per the Sci Com format).
+This is the **draft** to inform the need-area lead's editorial judgment. Show
+your work back across the need areas; expect the rubric scores per cell to
+spark disagreement and that is the point. Top-3 limits are hard (per the Sci
+Com format).
 
 ## Caveats inherited from the evidence base
 
