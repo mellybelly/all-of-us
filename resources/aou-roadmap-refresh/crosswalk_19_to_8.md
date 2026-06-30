@@ -1,7 +1,9 @@
 # Crosswalk: 19-theme taxonomy → 8 AoU Scientific Roadmap focus areas
 
+> **Updated 2026-06-26** for the refreshed corpus (1,432 pubs; 1,428 substantive). Figures reconciled to the regenerated CSVs in this directory.
+
 **Phase 3a deliverable, AoU Scientific Roadmap Refresh evidence base.**
-Inputs: 1,374 substantive publications and 12,899 substantive project workspaces
+Inputs: 1,428 substantive publications and 12,899 substantive project workspaces
 tagged with the locked 19-theme taxonomy (`../aou-research-landscape/taxonomy.md`).
 Reference for the 8 focus areas: `AOU Scientific Roadmap.pptx` and slide 7 of
 `2026 Science Committee Working Groups.pptx`.
@@ -72,7 +74,7 @@ Machine-readable version: `theme_to_focus_area.csv`.
 
 ## 3. Reverse view: corpus shares per focus area (bottom-up)
 
-Publications (n = 1,374 substantive):
+Publications (n = 1,428 substantive):
 
 | FA | Focus area | n pubs | Share | Top contributing themes (pub count) |
 |---|---|---:|---:|---|
@@ -138,10 +140,10 @@ Three groups of work in our corpus do not have a clean home in the current
 "reflections since 2023" list, and the Refresh needs to decide whether to
 elevate, rename, or absorb them.
 
-### 4.1 Theme 3 — Methods, infrastructure, AI/ML & phenotyping (251 pubs, 2,389 projects; ~18% of pubs)
+### 4.1 Theme 3 — Methods, infrastructure, AI/ML & phenotyping (262 pubs, 2,388 projects; ~18% of pubs)
 
 **Where it currently lives.** Nowhere cleanly. 70% of theme-3 pubs co-tag
-with a disease theme (176 of 251 pubs, 1,786 of 2,389 projects) — so they
+with a disease theme (~70% of pubs, ~75% of projects) — so they
 get pulled into FA1, FA8, etc. via the disease tag — but the *methods*
 contribution itself is invisible in an 8-area view. The remaining 30% (75
 pubs, 603 projects) are "pure methods" — AoU workbench R packages,
@@ -156,7 +158,7 @@ explicitly non-genomic phenotyping and EHR). Subsuming them under FA1 is
 incorrect (it's not disease-anchored). Subsuming them under FA4 "Return of
 Results" is incorrect for most of the theme.
 
-**Corpus volume.** 251 publications (18% of substantive pubs). 2,389
+**Corpus volume.** 262 publications (18% of substantive pubs). 2,388
 projects (19% of substantive projects). This is the *single largest orphan*.
 Subtheme 3.2 ("ML / AI for disease prediction & risk stratification") and
 3.4 ("AoU platform tooling") map directly to slide-7 priorities AI/LLMs and
@@ -186,7 +188,7 @@ in FA5 would also encode an outdated framing that wearables are about
 behavior modification rather than physiologic measurement at scale.
 
 **Corpus volume.** 73 pubs (5%). 923 projects (7%). Independent HA2
-(wearables) detector finds 70 pubs, 62 post-2023 — large absolute volume
+(wearables) detector finds 75 pubs, 67 post-2023 — large absolute volume
 but trend-flat (~0.0 share change), suggesting wearables have *already*
 matured to a steady-state of attention. They are not a "rising" hot area;
 they are a *current* hot area with a permanent place in the corpus.
@@ -271,7 +273,7 @@ finding the WG should surface.
   as a whole. Reducing FA7 to a single column would lose this.
 - **FA6 "Environment" is thin (0.5% pubs, 0.6% projects).** Theme 19
   exists, but the corpus is small. The independent HA5 (environmental
-  health) detector finds 12 pubs — slightly above our theme-19 count
+  health) detector finds 13 pubs — slightly above our theme-19 count
   because the detector catches "environmental exposure" framing in
   cardiometabolic/respiratory pubs that aren't theme-19-tagged. Environmental
   health is a slide-7 priority and is structurally under-represented in the
@@ -313,7 +315,7 @@ Health") since "Child" content is structurally absent from an adult cohort.
 |---|---|
 | `theme_to_focus_area.csv` | 19-theme → 8-focus-area assignment with notes and orphan flag |
 | `focus_area_summary.csv` | Per-focus-area corpus shares, contributing themes, theme breakdown |
-| `publications_tagged_with_focus.csv` | All 1,374 substantive pubs with `focus_areas` column added |
+| `publications_tagged_with_focus.csv` | All 1,428 substantive pubs with `focus_areas` column added |
 | `projects_tagged_with_focus.csv` | All 12,899 substantive projects with `focus_areas` column added |
 | `crosswalk_19_to_8.md` | (this file) |
 

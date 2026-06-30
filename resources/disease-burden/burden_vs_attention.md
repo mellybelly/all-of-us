@@ -1,5 +1,7 @@
 # Disease burden vs. AoU research attention
 
+> **Note (2026-06-26):** AoU theme shares updated to the refreshed 1,432-pub corpus; disease-burden (GBD) figures are external and unchanged.
+
 **Disease-burden evidence layer, AoU Scientific Roadmap Refresh.**
 Added per the June 3, 2026 WG request (JMV: *"consider including disease
 burden"*; Melissa: *"will add along with PubMed trends"* — see
@@ -88,7 +90,7 @@ corpus and the clearest single thing the Refresh can name.
 
 ### 3.3 The inverse gap: low-burden, over-indexed
 
-**Dermatology** is 14.3% of the AoU pub corpus — the third-largest theme —
+**Dermatology** is 13.9% of the AoU pub corpus — the third-largest theme —
 despite skin disease carrying **low DALY/mortality burden**. The roadmap-refresh
 evidence base already flags this as a **1–2-prolific-group artifact**
 (`../phase4-recommendations/README.md`); the burden lens independently confirms
@@ -97,7 +99,7 @@ guidance holds — **do not elevate dermatology** despite its corpus share.
 
 ### 3.4 Well-aligned themes (the cohort's burden-justified core)
 
-Cardiometabolic disease (27.8%, IHD = #1 US DALYs) and cancer (12.8%, neoplasms
+Cardiometabolic disease (28.4%, IHD = #1 US DALYs) and cancer (12.8%, neoplasms
 top DALYs) are both high-burden and high-attention — these are the
 burden-justified core of the corpus and need no Refresh intervention beyond
 continued support.

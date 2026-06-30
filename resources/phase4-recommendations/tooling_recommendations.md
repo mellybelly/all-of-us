@@ -84,7 +84,7 @@ makes the gallery a first-class Workbench object with usage telemetry.
   (3.80) and phecodes (3.80) work (`README.md` caveats) — this is the
   *distribution and governance layer* on top of that.
 - Theme 3 (methods/infrastructure/phenotyping) is the single largest orphan —
-  251 pubs / 2,389 projects — and a phenotype gallery is the canonical theme-3
+  262 pubs / 2,388 projects — and a phenotype gallery is the canonical theme-3
   artifact that an 8-area view currently makes invisible
   (`../aou-roadmap-refresh/crosswalk_19_to_8.md`).
 - NLM G1-O2 (curation at scale, NLP) is the most-aligned IC ask

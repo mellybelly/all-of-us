@@ -1,5 +1,7 @@
 # All of Us Research Landscape — Unified Theme Taxonomy (Locked)
 
+> **Historical record** (original 2026-06-02 pull). Corpus later refreshed to 1,432 pubs — see README and fulltext_augmentation.md; the locked taxonomy itself is unchanged.
+
 This is the locked topical taxonomy spanning the 1,378 publications and 12,899
 filtered project workspaces in the AoU research corpus. It was developed by
 sampling ~200 records (stratified across pubs/projects, years, and access

@@ -1,5 +1,7 @@
 # All of Us Research Landscape — Unified Theme Taxonomy (Phase 2c Draft)
 
+> **Historical record** (original 2026-06-02 draft). Superseded by the locked taxonomy; corpus later refreshed to 1,432 pubs (see README).
+
 This is a draft topical taxonomy spanning the 1,378 publications and 12,899
 filtered project workspaces in the AoU research corpus. It was developed by
 sampling ~200 records (stratified across pubs/projects, years, and access

@@ -1,5 +1,7 @@
 # AoU × NIH-IC Alignment Matrix (Phase 3c)
 
+> **Note (2026-06-26):** Reflects the original 2026-06-02 IC-attribution run. Corpus since refreshed to 1,432 pubs; the 54 new pubs added no resolvable grants, so IC attributions are unchanged. Counts below are the original-run basis.
+
 This folder contains the centerpiece alignment analysis for the 2026 AoU
 Scientific Roadmap Refresh WG and the four other 2026 Science Committee
 working groups (Translational, Imaging, AI, Communications).

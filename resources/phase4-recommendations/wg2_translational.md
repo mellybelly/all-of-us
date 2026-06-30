@@ -109,7 +109,7 @@ projects, NHGRI BP6/BP7, NCATS G3); **(b)** multi-ancestry PRS clinical
 pilots (theme 2 surge +17.0, NHGRI BP9); **(c)** PGx implementation
 (theme 16, AoU peer-index 4.6× over peer median); **(d)** cardiometabolic
 risk-stratification with SDOH (382 pubs / 3,292 projects, NIDDK + NHLBI);
-**(e)** RWE for breakthrough therapeutics (HA8 16 pubs).
+**(e)** RWE for breakthrough therapeutics (HA8 20 pubs).
 
 **Supporting evidence.**
 - Rare disease: 54 pubs / 433 projects; NHGRI BP6/BP7 and NCATS-G3 both
@@ -118,13 +118,13 @@ risk-stratification with SDOH (382 pubs / 3,292 projects, NIDDK + NHLBI);
 - PRS: theme 2 (+17.0 trend) is the single biggest gainer in the corpus;
   NHGRI Bold Prediction #9 directly maps. Subcontinental ancestry work
   (PMID:40480197) puts AoU ahead of generic multi-ancestry framing.
-- PGx: AoU 2.3% share vs peer median 0.5% (4.6× over) — a *distinctive
+- PGx: AoU 2.4% share vs peer median 0.5% (4.6× over) — a *distinctive
   AoU strength* that under-published given the cohort's structural fit.
   NIGMS-G4 (PGRN priority); NCATS Translator data consumer.
 - Cardiometabolic + SDOH: 382 disease pubs and 458 SDOH pubs combine — the
   CKM-syndrome integration NHLBI and NIDDK both want.
 - HA8 breakthrough-therapeutics is the clearest "translation in progress"
-  signal in the corpus (15 of 16 pubs post-2023).
+  signal in the corpus (19 of 20 pubs post-2023).
 
 **Need area.** Selecting a small portfolio with reportable outcomes is the
 canonical translational deliverable; use-case prioritization falls under the
@@ -165,9 +165,9 @@ before submitting for regulatory or clinical-system adoption; (c) establish
 AoU as the citable diversity reference in FDA/CMS submissions.
 
 **Supporting evidence.**
-- Theme 6 (SDOH/disparities): 458 pubs / 3,070 projects — 33.3% of corpus
+- Theme 6 (SDOH/disparities): 470 pubs / 3,070 projects — 32.9% of corpus
   (peer median 6.5%; 5.1× over-index — `aou_vs_peers_index.csv`).
-- ELSI theme 17 peer-index 21.2× — AoU's distinctive contribution is
+- ELSI theme 17 peer-index 26.3× — AoU's distinctive contribution is
   *built on* an engagement and equity infrastructure peers don't have.
 - NHGRI Bold Prediction #4 (move beyond race-based descriptors) explicitly
   asks for the methodology AoU is uniquely positioned to deliver.
@@ -204,7 +204,7 @@ the translational need area. Coordinate across the two.
 framework?" — answer: both, but the *normative* claim is research (AoU
 defines the benchmark). Some Sci Com members may worry about over-reach
 into FDA/CMS territory; defend by framing AoU as the *reference cohort* not
-the *regulator*. The 21.2× ELSI over-index is the political-defense argument.
+the *regulator*. The 26.3× ELSI over-index is the political-defense argument.
 
 ---
 

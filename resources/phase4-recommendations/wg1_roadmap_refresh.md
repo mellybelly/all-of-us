@@ -31,19 +31,19 @@ temporal_trends §4–§7, emerging_themes §1–§5):
 
 1. **Add a 9th focus area: "Data, AI & Methods"** (or similar) to absorb the
    theme-3 orphan (18% of pubs, 19% of projects) plus AI/foundation-models
-   (HA4, 31 pubs) plus wearables (HA2, 70 pubs, mature/flat).
+   (HA4, 33 pubs) plus wearables (HA2, 75 pubs, mature/flat).
 2. **Rename FA8 to "Genetics, Multi-omics & Biology"** to send a forward
    signal as the 2026 omics releases approach (HA1: 24 pubs today, peer
    median ~10% vs AoU 1.7%).
 3. **Stand up a proteomics-data-release roadmap** (Olink/SomaScan-scale) as
-   the largest peer-cohort growth differential (UKB 12.8% post-2023, AoU 1.9%).
+   the largest peer-cohort growth differential (UKB 12.2% post-2023, AoU 1.8%).
 4. **Rename FA2 "Maternal & Child Health" to "Maternal Health"** (or
    "Reproductive & Maternal Health") — "Child" content is structurally absent
    from an adult cohort (37 pubs all maternal-side).
 5. **Investment in environmental-exposure data linkage** (PM2.5, EJI, heat,
    water) — largest single demand-supply gap (NIEHS 6 priorities, AoU 7 pubs).
-6. **Materially elevate Aging/ADRD engagement** — AoU flat at 4.2% post-2023
-   while UKB (+6.0), MVP (+5.7), CKB (+5.4) all surge on lecanemab/donanemab
+6. **Materially elevate Aging/ADRD engagement** — AoU at 6.0% post-2023 (≈peer
+   median, growing +4.7) while UKB (+6.9), MVP (+5.4), CKB (+5.1) grow on lecanemab/donanemab
    biobank work; AoU has structural advantage (EHR + UBR diversity) but
    under-utilization.
 7. **Stool biospecimen / microbiome enablement** (NIDDK gut microbiome
@@ -133,7 +133,7 @@ the rename buries the work inside "genetics."
 **Supporting evidence.**
 - HA1 (multi-omics beyond genomics) is the *largest growth differential vs
   peers* in the entire analysis (`emerging_themes.md` §1). AoU 1.7% overall
-  / 1.9% post-2023; UKB 12.8% post-2023; FinnGen 19.1%; CKB 5.8%.
+  / 1.8% post-2023; UKB 12.2% post-2023; FinnGen 19.3%; CKB 6.2%.
 - HA1: 24 pubs in AoU corpus, 23 of them post-2023, mostly using *external*
   proteomic/metabolomic data linked to AoU genotypes (PMID:41712304 COPD
   proteomics + PRS; PMID:40050615 multi-ancestry fibroid GWAS with
@@ -179,7 +179,7 @@ recommendation should explicitly pair the two.
 **Description.** Three smaller framework-level corrections, packaged as one
 structural-cleanup recommendation: (a)
 re-scope FA4 "Return of Results" from *ELSI research* (which is maturing
-out — theme 17 trend −12.3) to *ROR implementation* (PGx workflows, ACMG
+out — theme 17 trend −12.4) to *ROR implementation* (PGx workflows, ACMG
 delivery, pharmacy integration); (b) rename FA2 "Maternal & Child Health"
 to "Maternal Health" (or "Reproductive & Maternal Health") to acknowledge
 that AoU is an adult cohort and the "Child" content is aspirational; (c)
@@ -188,8 +188,8 @@ add an explicit FA6 commitment to environmental-exposure data linkage
 in the entire IC alignment matrix.
 
 **Supporting evidence.**
-- FA4 trend −9.6 as share of corpus; theme 17 (ELSI) is the largest single
-  theme decline (−12.3) — the program-introduction-and-recruitment-methodology
+- FA4 trend −9.8 as share of corpus; theme 17 (ELSI) is the largest single
+  theme decline (−12.4) — the program-introduction-and-recruitment-methodology
   wave has crested. Substantive PGx and ACMG ROR work continues (theme 10
   rare disease +1.6; theme 16 PGx +0.5) — these are *implementation* work,
   not ELSI research (`temporal_trends.md` §2; crosswalk §5).
@@ -233,8 +233,8 @@ lowest-risk piece.
 
 ## Also-considered (deprioritized with reasoning)
 
-- **Aging/ADRD engagement (candidate 6).** Strong evidence (AoU flat at 4.2%
-  vs UKB +6.0, MVP +5.7, CKB +5.4 post-2023; lecanemab/donanemab era;
+- **Aging/ADRD engagement (candidate 6).** Strong evidence (AoU 6.0% post-2023, ≈peer median, growing +4.7
+  vs UKB +6.9, MVP +5.4, CKB +5.1 post-2023; lecanemab/donanemab era;
   emerging_themes.md §5). Deprioritized to "also-considered" because it's a
   *researcher-outreach / engagement* recommendation, not a framework or
   structural change — better held by WG-5 Communications or a downstream

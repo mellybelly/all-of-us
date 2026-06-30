@@ -856,7 +856,7 @@ rows = [
      "3.38"),
     ("3",
      "Bundle focus-area reframes: FA4 toward ROR implementation; FA2 → \"Maternal Health\"; FA6 environmental-exposure linkage",
-     "FA4 trend −9.6 (ELSI work maturing out, ROR implementation continues); FA2 has no Child content; FA6 is the largest demand-supply gap.",
+     "FA4 trend −9.8 (ELSI work maturing out, ROR implementation continues); FA2 has no Child content; FA6 is the largest demand-supply gap.",
      "3.00"),
 ]
 
@@ -888,7 +888,7 @@ Rec 1 (3.71 mean): 'Add a Data, AI & Methods focus area.' 18% corpus orphan; HA4
 
 Rec 2 (3.38 mean): 'Rename FA8 + multi-omics roadmap.' Largest peer-comparative growth differential. The rename without the data is a hollow gesture; the data without the rename buries the work — recommendation explicitly pairs them.
 
-Rec 3 (3.00 mean): three small structural fixes bundled. FA4 toward ROR implementation (well-evidenced; theme 17 ELSI −12.3); FA2 → 'Maternal Health' (judgment about naming accuracy; politically sensitive — frame as accuracy not deprioritization); FA6 environmental linkage (largest demand-supply gap; engineering not data acquisition).""")
+Rec 3 (3.00 mean): three small structural fixes bundled. FA4 toward ROR implementation (well-evidenced; theme 17 ELSI −12.4); FA2 → 'Maternal Health' (judgment about naming accuracy; politically sensitive — frame as accuracy not deprioritization); FA6 environmental linkage (largest demand-supply gap; engineering not data acquisition).""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 14 — WG-2 Translational Top-3

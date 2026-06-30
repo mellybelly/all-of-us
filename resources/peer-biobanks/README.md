@@ -77,5 +77,5 @@ python3 hot_areas_peers.py
 ```
 
 The AoU corpus is reused as-is from
-`aou-research-landscape/publications_tagged.jsonl` (1,374 substantive
+`aou-research-landscape/publications_tagged.jsonl` (1,428 substantive
 pubs, post-Pass-2-audit). It is NOT re-tagged here.

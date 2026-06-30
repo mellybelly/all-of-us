@@ -54,7 +54,7 @@ Com format).
 ## Caveats inherited from the evidence base
 
 - **Dermatology over-representation is an artifact** (1–2 prolific groups,
-  14.3% of corpus, peer index 7.8×). Do NOT elevate dermatology even though
+  13.9% of corpus, peer index 6.9×). Do NOT elevate dermatology even though
   the share index says to. This is flagged as known noise.
 - **Peer-biobank counts use PubMed-name-search fallback** — use share-index
   (`aou_vs_peers_index.csv`) not trend differentials.

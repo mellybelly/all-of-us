@@ -50,13 +50,13 @@ totals now **do** reflect actual UKB publication volume by year.
   not FinnGen-cohort-led work. This is the same kind of "FinnGen-using"
   population as the AoU "AoU-data-using" population, so it is treated
   as comparable.
-- **MVP**: complete name-search (426 of 427). The VA-maintained
+- **MVP**: complete name-search (438 of 439). The VA-maintained
   publication list almost certainly contains more pubs than name-search
   finds — many MVP-using investigators acknowledge the program in the
   acknowledgments section but do not name-mention in title/abstract.
   MVP corpus is therefore the most undercounted of the four. Signal
   from MVP-only patterns should be treated cautiously.
-- **CKB**: complete name-search (551 of 551). CKB publications are
+- **CKB**: complete name-search (558 of 558). CKB publications are
   largely written by the founding consortium and have strong title/
   abstract name-mention conventions, so coverage is likely close to
   the official list.
@@ -86,7 +86,7 @@ following decisions:
    AoU rule (e.g., "Cohort profile: UK Biobank") are kept in the
    substantive corpus.
 4. **No re-tagging of AoU.** The existing `publications_tagged.jsonl`
-   (1,378 records, 1,374 substantive) is reused as-is. This means the
+   (1,432 records, 1,428 substantive) is reused as-is. This means the
    AoU side benefits from the Phase 2c audit pass and the peer side
    does not — a small bias in favor of slightly-cleaner AoU tagging,
    acceptable since the audit pass primarily affected over-tagging
@@ -169,7 +169,7 @@ outputs unless they are explicitly deleted.
    UKB's official list (`https://www.ukbiobank.ac.uk/enable-your-research/publications`)
    is the gold standard. FinnGen's, MVP's, and CKB's lists likewise.
 2. **MVP coverage is undercounted.** A canonical-list pull would
-   increase MVP n from 426 to probably 1,500+ and stabilize MVP-only
+   increase MVP n from 438 to probably 1,500+ and stabilize MVP-only
    trend signals.
 3. **Statistical significance.** All differentials reported here are
    point estimates; bootstrapped confidence intervals on theme-share

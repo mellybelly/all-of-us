@@ -53,8 +53,8 @@ participant communities.
 **Supporting evidence.**
 - WG-2 Recommendation 1 produces the metric definitions; WG-5 produces
   the reporting product. The two are tightly coupled.
-- HA8 breakthrough therapeutics (16 pubs, 15 post-2023) and HA4 AI/foundation
-  models (31 pubs, 28 post-2023) are exactly the kinds of high-impact
+- HA8 breakthrough therapeutics (20 pubs, 19 post-2023) and HA4 AI/foundation
+  models (33 pubs, 30 post-2023) are exactly the kinds of high-impact
   outputs that *vanish* from program-level conversation without an
   Impact Report aggregating them.
 - The defensive narrative for AoU's funding case rests on quantified
@@ -94,7 +94,7 @@ honest reporting (e.g., named gaps in HA3 imaging, HA5 environment) is
 
 **Description.** Develop a concise, audience-tunable narrative anchored on
 the **three quantified distinctive strengths** the corpus analysis has
-surfaced: (1) **ELSI / participant engagement (21.2× peer median)** — AoU
+surfaced: (1) **ELSI / participant engagement (26.3× peer median)** — AoU
 is the program that figured out how to run participant-as-partner research
 at scale; (2) **SDOH / disparities (5.1× peer median)** — AoU is the only
 cohort that *built diversity into its sampling frame*; (3) **PGx (4.6×
@@ -105,13 +105,13 @@ the **foundation** of the ambassador toolkit, the Impact Report frame, and
 the IC-program-officer briefings.
 
 **Supporting evidence.**
-- `aou_vs_peers_index.csv` (peer index data): ELSI 21.232; Theme 6 SDOH
+- `aou_vs_peers_index.csv` (peer index data): ELSI 26.28; Theme 6 SDOH
   5.141; PGx 4.601; Theme 3 methods/infrastructure 3.018; Theme 9
   autoimmune 2.44; Theme 16 PGx 4.601. Numerical evidence is precise.
-- ELSI: theme 17, AoU 5.0% / peer 0.2%. The number speaks for itself.
-- SDOH: theme 6, AoU 33.3% / peer 6.5%. NIMHD G7 *literally describes* the
+- ELSI: theme 17, AoU 4.9% / peer 0.2%. The number speaks for itself.
+- SDOH: theme 6, AoU 32.9% / peer 6.5%. NIMHD G7 *literally describes* the
   AoU mandate.
-- PGx: theme 16, AoU 2.3% / peer 0.5%. NIGMS-G4 (PGRN) + NCATS Translator.
+- PGx: theme 16, AoU 2.4% / peer 0.5%. NIGMS-G4 (PGRN) + NCATS Translator.
 - Methods: theme 3, AoU 18.3% / peer 6.1%. NLM mission-explicit alignment.
 - The PMI 2015 founding report and NIH-Wide CCT1 (Minority Health) and
   CCT4 (Collaborative Science) provide the long-term narrative through-
@@ -139,7 +139,7 @@ turning numbers into narrative sits in this need area.
 strengths (cardiometabolic, mental health, cancer) — those are all theme-
 trend-positive but **not peer-distinctive** at AoU's current scale (peer
 indexes 0.5–1.4×). Distinctive ≠ growing. The headline rests on the four
-genuine over-indexes. "Dermatology at 7.8×" will come up — the WG must
+genuine over-indexes. "Dermatology at 6.9×" will come up — the WG must
 have the **artifact-flag answer rehearsed** (1–2 prolific groups; declining
 trend; not strategic).
 

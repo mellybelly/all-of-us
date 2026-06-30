@@ -1,5 +1,7 @@
 # Phase 2c — Tagging Audit Report
 
+> **Historical record** — audit of the original 2026-06-02 tagging run (1,378 pubs). Corpus later refreshed to 1,432; see README and fulltext_augmentation.md.
+
 ## Corpus tagged
 
 - **Publications:** 1,378 in `publications_with_ic.jsonl`

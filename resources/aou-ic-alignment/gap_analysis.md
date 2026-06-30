@@ -1,5 +1,7 @@
 # AoU × NIH-IC Alignment — Gap Analysis
 
+> **Note (2026-06-26):** IC attribution reflects the original 2026-06-02 run. The corpus was since refreshed to 1,432 pubs (1,428 substantive); the 54 added pubs carried no resolvable NIH grants, so IC attributions and this alignment are unchanged. Cross-corpus figures (theme shares, dermatology) are updated to the refreshed corpus; IC-count denominators below remain the original-run basis.
+
 **Phase 3c deliverable, AoU Scientific Roadmap Refresh evidence base.**
 Inputs: 1,374 substantive AoU publications + 11,577 substantive workspace
 projects (theme-tagged in Phase 2c); 22 NIH strategic-plan PDFs (in scope:
@@ -51,7 +53,7 @@ Pairs where the IC has explicit strategic-plan priorities for the theme
    matrix cell.
 5. **NHLBI × Respiratory & sleep (Theme 13).** NHLBI is the only IC home
    for OSA/asthma/COPD; AoU has 59 pubs, 405 projects, and HA2 wearables
-   evidence (70 pubs) increasingly enables sleep-disorder phenotyping.
+   evidence (75 pubs) increasingly enables sleep-disorder phenotyping.
 6. **NIDDK × Cardiometabolic (Theme 1).** NIDDK's 2025 plan covers diabetes
    (T1D/T2D/gestational), obesity, CKD, MASLD — all major AoU topic
    clusters. Combined NIDDK priority count: 11. Co-attribution with NHLBI
@@ -79,8 +81,8 @@ Pairs where the IC has explicit strategic-plan priorities for the theme
 ### A4. Equity / SDOH
 
 11. **NIMHD × SDOH/Disparities (Theme 6).** Largest aligned cell in
-    NIMHD's row. 9 priorities + 458 pubs / 3,070 projects in AoU
-    (33.3% of corpus). NIMHD Goal 7 explicitly asks for "analysis of
+    NIMHD's row. 9 priorities + 470 pubs / 3,070 projects in AoU
+    (32.9% of corpus). NIMHD Goal 7 explicitly asks for "analysis of
     populations experiencing health disparities in big data sets,
     clinical research, and future big science initiatives" — that's
     literally the AoU mandate.
@@ -101,7 +103,7 @@ Pairs where the IC has explicit strategic-plan priorities for the theme
 15. **NLM × Methods/Infrastructure (Theme 3).** NLM Goal 1 + the explicit
     NLM-AoU partnership statement ("NLM will engage with the entire NIH
     to determine how to accommodate data generated in ... All of Us").
-    251 AoU methods pubs / 2,389 projects.
+    262 AoU methods pubs / 2,388 projects.
 16. **NCATS × Rare disease (Theme 10).** NCATS plan Goal 3 (rare diseases
     via RDCRN/TRND/repurposing); AoU rare-disease portfolio (54 pubs)
     overlaps. NCATS Translator Program is a downstream Monarch/AoU data
@@ -247,11 +249,11 @@ for Refresh WG recommendations.
 
 Themes with strong corpus activity but minimal IC priority match.
 
-1. **Dermatology (Theme 12).** 197 AoU pubs (14.3% of corpus) is
+1. **Dermatology (Theme 12).** 199 AoU pubs (13.9% of corpus) is
    anomalously large. NIAMS has the IC home but only 2 of its 4 stated
    priorities touch dermatology, and the NCI cross-attribution is for
    skin cancer only. Phase 1 README flagged this is driven by 1–2
-   prolific groups; Phase 3b trend score is −3.9 (declining share).
+   prolific groups; Phase 3b trend score is −4.4 (declining share).
    **Latent because of an artifact: AoU does not have an underlying
    strategic disease-research push behind it.** The Refresh should not
    treat dermatology as a Refresh priority — but should not ignore that

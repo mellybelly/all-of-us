@@ -1,5 +1,7 @@
 # Emerging research themes in peer biobanks — implications for AoU
 
+> **Updated 2026-06-26** — peer corpora are now full PubMed censuses (UKB 11,868; FinnGen 3,152; MVP 438; CKB 558); tables regenerated accordingly.
+
 **Phase 4 input for the 2026 AoU Scientific Roadmap Refresh WG (Smoller & Haendel)**
 
 ## TL;DR
@@ -33,14 +35,14 @@ Phase 3b, so the comparison is apples-to-apples.
 
 | Cohort | Overall share | Pre-2023 share | Post-2023 share | Trend |
 |---|---:|---:|---:|---:|
-| AoU | 1.7% | 0.6% | 1.9% | +0.013 |
-| UKB | 10.0% | 4.7% | 12.8% | +0.081 |
-| FinnGen | 18.0% | 8.4% | 19.1% | +0.117 |
-| MVP | 10.1% | 10.4% | 9.9% | -0.004 |
-| CKB | 4.0% | 1.6% | 5.8% | +0.042 |
+| AoU | 1.7% | 0.6% | 1.8% | +0.012 |
+| UKB | 10.1% | 5.2% | 12.2% | +0.070 |
+| FinnGen | 18.5% | 7.1% | 19.3% | +0.122 |
+| MVP | 10.3% | 10.4% | 10.2% | -0.001 |
+| CKB | 3.9% | 2.2% | 6.2% | +0.040 |
 
 This is the single largest growth differential in the analysis. The
-2018 UKB Olink + 2023 UKB-PPP proteomics releases drove UKB's 12.8%
+2018 UKB Olink + 2023 UKB-PPP proteomics releases drove UKB's 12.2%
 post-2023 share; FinnGen's high share reflects integration with Olink
 and metabolomics platforms. AoU has no proteomics or metabolomics data
 release; this is a data-availability gap, not a researcher-base gap.
@@ -53,10 +55,10 @@ fastest-growing peer-cohort research stream.
 
 | Cohort | Overall share | Trend |
 |---|---:|---:|
-| AoU | 0.6% | +0.007 |
-| UKB | 8.1% | +0.003 |
-| FinnGen | 1.0% | -0.003 |
-| MVP | 1.4% | +0.010 |
+| AoU | 0.6% | +0.006 |
+| UKB | 8.0% | +0.000 |
+| FinnGen | 1.1% | -0.003 |
+| MVP | 1.6% | +0.012 |
 | CKB | 1.6% | +0.001 |
 
 The UKB gap on imaging is structural: UKB released ~100k MRI brain /
@@ -74,10 +76,10 @@ not." Worth a WG discussion.
 | Cohort | Overall share | Pre-2023 share | Post-2023 share | Trend |
 |---|---:|---:|---:|---:|
 | AoU | 0.8% | 0.6% | 0.8% | +0.002 |
-| UKB | 9.8% | 6.5% | 10.4% | +0.040 |
-| FinnGen | 14.0% | 7.6% | 15.1% | +0.075 |
-| MVP | 5.6% | 5.9% | 5.5% | -0.004 |
-| CKB | 11.1% | 11.4% | 10.6% | -0.008 |
+| UKB | 10.0% | 7.1% | 11.3% | +0.042 |
+| FinnGen | 14.1% | 7.1% | 14.6% | +0.075 |
+| MVP | 5.5% | 5.9% | 5.3% | -0.006 |
+| CKB | 11.1% | 11.4% | 10.7% | -0.006 |
 
 A genuinely-emerging-in-the-field signal: UKB and FinnGen both up
 ~50-100% post-2023. AoU's diet-and-nutrition footprint is unusually
@@ -95,10 +97,10 @@ collection; no near-term path on AoU at current scope.
 
 | Cohort | Overall share | Pre-2023 share | Post-2023 share | Trend |
 |---|---:|---:|---:|---:|
-| AoU | 3.9% | 2.5% | 4.1% | +0.016 |
-| UKB | 17.1% | 15.1% | 18.4% | +0.033 |
-| FinnGen | 73.0% | 64.9% | 73.6% | +0.088 |
-| MVP | 12.9% | 9.6% | 14.4% | +0.048 |
+| AoU | 3.8% | 2.5% | 3.9% | +0.014 |
+| UKB | 17.7% | 16.7% | 18.1% | +0.014 |
+| FinnGen | 72.6% | 64.9% | 73.2% | +0.083 |
+| MVP | 13.0% | 9.6% | 14.5% | +0.049 |
 | CKB | (rare-disease keywords sparse, ~3%) | | | |
 
 Across UKB / FinnGen / MVP, rare-disease / Mendelian work is growing
@@ -121,17 +123,17 @@ returned vs. has-not-yet-tried, since the implications differ
 
 | Cohort | Overall share | Pre-2023 share | Post-2023 share | Trend |
 |---|---:|---:|---:|---:|
-| AoU | 4.2% | 4.5% | 4.2% | -0.003 |
-| UKB | 14.9% | 11.1% | 17.1% | +0.060 |
-| FinnGen | 6.7% | 9.3% | 6.5% | -0.028 |
-| MVP | 6.1% | 2.2% | 7.9% | +0.057 |
-| CKB | 6.7% | 4.4% | 9.8% | +0.054 |
+| AoU | 5.5% | 1.3% | 6.0% | +0.047 |
+| UKB | 15.7% | 10.9% | 17.8% | +0.069 |
+| FinnGen | 6.4% | 9.3% | 6.2% | -0.032 |
+| MVP | 5.9% | 2.2% | 7.6% | +0.054 |
+| CKB | 6.6% | 4.4% | 9.5% | +0.051 |
 
 UKB, MVP, and CKB are all post-2023-growing on aging / ADRD; AoU is
-flat. Lecanemab / donanemab approvals (2023-2024) and the
+now growing too (6.0% post-2023, near the peer median) but still trails UKB. Lecanemab / donanemab approvals (2023-2024) and the
 disease-modifying-AD-therapy era have driven enormous renewed
 biobank-scale aging-cohort work, and AoU is structurally well-positioned
-(EHR / consent / diversity) but under-utilized. **Suggestion:** an
+(EHR / consent / diversity) and the gap is now narrowing. **Suggestion:** an
 NIA-anchored aging-cohort engagement workstream (or a Refresh focus
 area dedicated to aging-trajectory analyses) would close a real gap
 given the field's post-2023 shift.
@@ -144,16 +146,16 @@ preserve / reinforce in the forward roadmap.
 
 | Theme | AoU share | Peer median | Index | Notes |
 |---|---:|---:|---:|---|
-| 17 ELSI, participant engagement & recruitment | 5.0% | 0.2% | 21.2× | AoU's unique program-meta + community-engagement work; expected lead |
-| 12 Dermatology | 14.3% | 1.8% | 7.8× | Driven by 1-2 prolific groups (see Phase 1 README); not a strategic priority but a real corpus feature |
-| 6 SDOH / disparities | 33.3% | 6.5% | 5.1× | AoU's UBR-oversampling structurally enables this; defining feature of the cohort |
-| 16 Pharmacogenomics | 2.3% | 0.5% | 4.6× | Modest but meaningfully higher than peers |
-| 3 Methods / infrastructure / phenotyping | 18.3% | 6.1% | 3.0× | Workbench-tooling + phecode-curation pubs; AoU-specific researcher base |
+| 17 ELSI, participant engagement & recruitment | 4.9% | 0.2% | 26.3× | AoU's unique program-meta + community-engagement work; expected lead |
+| 12 Dermatology | 13.9% | 2.0% | 6.9× | Driven by 1-2 prolific groups (see Phase 1 README); not a strategic priority but a real corpus feature |
+| 6 SDOH / disparities | 32.9% | 6.5% | 5.1× | AoU's UBR-oversampling structurally enables this; defining feature of the cohort |
+| 16 Pharmacogenomics | 2.4% | 0.5% | 4.6× | Modest but meaningfully higher than peers |
+| 3 Methods / infrastructure / phenotyping | 18.4% | 6.1% | 3.0× | Workbench-tooling + phecode-curation pubs; AoU-specific researcher base |
 
-SDOH (5×) and ELSI / engagement (21×) are the clearest "AoU's
+SDOH (5×) and ELSI / engagement (26×) are the clearest "AoU's
 distinctive contribution" lines for the Refresh narrative. Dermatology
 is included as a defensive observation rather than a strategic
-priority — the 7.8× over-index is largely two prolific groups (per
+priority — the 6.9× over-index is largely two prolific groups (per
 the AoU landscape README).
 
 ## Caveats the WG should know
