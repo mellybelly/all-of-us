@@ -62,6 +62,15 @@ canonical series and a full-text-augmented series. See
 [`fulltext_augmentation.md`](fulltext_augmentation.md) for the method, the
 OA-coverage-by-year confound, and the abstract-vs-full-text theme deltas.
 
+**Full-refresh check (2026-07-02, pre-handoff):** re-pulled the publications feed
+and re-probed the projects endpoints to finalize the corpus. Publications are
+analytically unchanged — still **1,432 records; 0 added / 0 removed; 0 changed
+titles/abstracts** (only non-analytical fields such as citation counts differ).
+The projects prod endpoint still returns HTTP 500 and no Wayback capture newer
+than 2025-10-24 exists, so the workspace snapshot is unchanged. The corpus is
+**frozen at its freshest available state**; all downstream numbers hold — no
+pipeline re-run was required.
+
 ## Counts
 
 | Dataset | Records |
