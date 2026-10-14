@@ -1,97 +1,101 @@
-# Where All of Us is under-represented vs. peer biobanks/cohorts
+# Where All of Us lags peer biobanks/cohorts — the five areas
 
-> **Created 2026-10-14.** Five research areas where AoU's published output is
-> *under-indexed* relative to the median of four peer cohorts — UK Biobank (UKB),
-> FinnGen, Million Veteran Program (MVP), and China Kadoorie Biobank (CKB). Basis:
-> theme-share of each cohort's substantive publication corpus (AoU 1,653 · UKB
-> 12,986 · FinnGen 3,376 · MVP 501 · CKB 588), tagged against the locked 19-theme
-> taxonomy. Source tables: [`aou_vs_peers_index.csv`](aou_vs_peers_index.csv),
-> [`theme_share_by_biobank.csv`](theme_share_by_biobank.csv).
+> **Created 2026-10-14; realigned to the Science Committee's framing (Roadmap Refresh
+> WG, 2026-10-14).** The committee identified **five areas where All of Us lags peer
+> cohorts despite having comparable data: imaging, multi-omics, aging research, rare
+> disease, and environmental/social data.** This report backs each with the
+> quantitative evidence from our analysis. Peer set: UK Biobank (UKB), FinnGen,
+> Million Veteran Program (MVP), China Kadoorie Biobank (CKB). Two complementary lenses
+> are used: **publication theme-share** (each cohort's own corpus, tagged against the
+> 19-theme taxonomy — `aou_vs_peers_index.csv`) for research-area gaps, and
+> **data-modality availability** (`../deliverables/data_types_inventory.html`) for
+> modality gaps. Corpus sizes: AoU 1,653 · UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588.
 
-## Method & how to read the index
+## How to read it
+Where a gap is a **research area**, we report the **theme-share index** = AoU share ÷
+peer-median share (<1 = AoU under-emphasizes it; <0.5 = materially under). Where a gap
+is a **data modality** (imaging, multi-omics, environmental linkage), publication
+theme-share understates it because the modality isn't a taxonomy theme — there we report
+the **data-availability gap** vs peers. Several gaps have **remedies already in motion**
+(ancillary studies, the 10k multi-omics project, the Nov 2 environmental release).
 
-For each theme, **index = AoU theme-share ÷ peer-median theme-share.** Index < 1
-means the theme is a smaller fraction of AoU's literature than of the typical peer;
-**< 0.5 = materially under-represented** (AoU produces proportionally less than half
-the peer norm). Shares are of each cohort's *own* corpus, so this measures **relative
-emphasis**, not absolute volume, and is independent of AoU's smaller corpus size.
+## The five areas
 
-Crucially, under-indexing is not automatically a *deficiency*: some is **by design**
-(a peer's founder-population or recruitment design inflates its share) and some is a
-**genuine, addressable gap**. Each area below is labeled accordingly.
+### 1. Imaging  *(data-modality gap)*
+- **Evidence:** AoU has ~8 imaging publications total; UKB imaging is ~8.1% of its
+  corpus structurally. UKB's research-purpose imaging reached ~100,000 images by
+  end-2025 and ~1,300 publications — the productivity benchmark.
+- **Why AoU lags:** a **data-supply** problem, compounded by **compute/cost** (large
+  files, cloud-only compute, no institutional-HPC equivalent — WG discussion 2026-10-14)
+  and the low yield of legacy/opportunistic scans (much legacy neuroimaging is unusable).
+- **Remedy in motion / recommended:** research-purpose, QA-harmonized acquisition with
+  partners (**RSNA, MIDRC**), an incidental-findings policy, imaging statistical
+  expertise upfront, and a hybrid/federated compute model for the file/cost burden.
 
-## The five under-represented areas (ranked by severity)
+### 2. Multi-omics  *(data-modality gap)*
+- **Evidence:** plasma proteomics is the largest peer-comparative modality gap — UKB
+  ~13.5% (post-2023, UKB-PPP) vs **AoU 2.1%**; UKB has NMR metabolomics on ~120k;
+  stool→metagenomics AoU ~0.8% vs peer median ~11.1%.
+- **Why AoU lags:** these assays were not generated at scale early; genomics matured
+  first.
+- **Remedy in motion:** the AoU **Multi-Omics Working Group** is now generating
+  **RNA-seq + Olink Explorer HT proteomics + PacBio long-read WGS on ~10,000 diverse
+  participants, scaling toward ~50,000** — on a diversity substrate no peer matches.
+  Supports renaming FA8 to "Genetics, Multi-omics & Biology."
 
-| # | Theme | AoU share | Peer median | Peer max (cohort) | Index | Read |
-| --- | --- | ---: | ---: | ---: | ---: | --- |
-| 1 | **Rare disease & Mendelian genetics** | 3.75% | 15.02% | 72.25% (FinnGen) | **0.25** | Partly by-design, partly gap |
-| 2 | **Environmental health & climate** | 0.60% | 1.72% | 2.89% (UKB) | **0.35** | **Genuine addressable gap** |
-| 3 | **Genomics methods & complex-trait genetics** | 25.77% | 61.68% | 97.13% (FinnGen) | **0.42** | Largely by-design + maturity |
-| 4 | **Neurology (non-ADRD)** | 6.11% | 13.20% | 29.93% (CKB) | **0.46** | Mixed — emerging gap |
-| 5 | **Respiratory & sleep medicine** | 4.17% | 7.85% | 11.39% (CKB) | **0.53** | Modest gap |
+### 3. Aging research  *(research-area gap)*
+- **Evidence:** theme "Aging, frailty & ADRD" — **AoU 5.7% vs peer median 7.1%
+  (index 0.80); UKB 15.9%** is the outlier that AoU trails most.
+- **Why AoU lags:** a younger/earlier cohort and no dedicated aging-imaging/biomarker
+  program at UKB's scale (AoU is 4× under-indexed on aging/ADRD in the data-types view).
+- **Remedy / recommended:** EHR + biomarker + wearable aging phenotypes; the
+  **Exploring the Mind** ancillary (objective cognition) and **Eyes on Health**
+  (eye→neurological disease) create a path; cellular-senescence bench biology stays
+  out of scope.
 
-### 1. Rare disease & Mendelian genetics — index 0.25 (most under-indexed)
-- **AoU 3.75% vs. FinnGen 72.25%, UKB 17.06%, MVP 12.97%, CKB 3.57%.**
-- **Why:** FinnGen is a *founder-population isolate* purpose-built for Mendelian and
-  rare-variant discovery — its share is structurally enormous and not a fair target.
-  But UKB (17%) and MVP (13%) show the realistic ceiling, and AoU sits well below it.
-- **Read — partly by-design, partly gap.** AoU's short+long-read WGS on a diverse
-  cohort is ideally suited to rare-disease discovery, yet its literature barely uses
-  it. This is the clearest *addressable* rare-disease opportunity in the set and
-  aligns with the roadmap's rare-disease focus and long-read assets.
+### 4. Rare disease & Mendelian genetics  *(research-area gap — most under-indexed)*
+- **Evidence:** **AoU 3.75% vs peer median 15.02%, index 0.25** (FinnGen 72.25%,
+  UKB 17.06%, MVP 12.97%). FinnGen's founder-population design inflates its share, but
+  UKB/MVP show the realistic ceiling AoU sits well below.
+- **Why AoU lags:** its diverse long-read WGS substrate is ideal for rare-disease
+  discovery but the literature barely uses it yet.
+- **Remedy in motion:** the **Long Read Analysis (Phase 1 + 2)** program and the
+  committee's **driver-paper model** — explicitly proposed for **rare-disease and
+  intersectional (rare disease + rurality) driver papers** — target this directly. The
+  clearest *addressable* gap in the set.
 
-### 2. Environmental health & climate — index 0.35 (genuine gap)
-- **AoU 0.60% vs. UKB 2.89%, CKB 2.72%, FinnGen 0.71%, MVP 0%.**
-- **Why:** AoU has geocoded addresses and is building environmental linkages, but the
-  published output is near-absent. UKB's environmental/exposure literature shows what
-  a linked cohort can produce.
-- **Read — genuine, addressable gap, and already being closed.** AoU's **Environmental
-  Health & Exposomics** partnered study (NIEHS; 5,500+ samples assayed for exposures ×
-  genomic/behavioral factors) directly targets this gap — 399 workspaces already carry
-  environmental-exposure intent (196 newly visible in the 2026-10-14 pull). The
-  publications will lag the workspaces; the roadmap should credit this trajectory.
+### 5. Environmental / social data  *(data-modality gap — remedy imminent)*
+- **Evidence:** environmental-health theme **AoU 0.60% vs peer median 1.72% (index
+  0.35); UKB 2.89%.** NIEHS strategic priorities vastly outnumber AoU's ~7 substantive
+  environmental publications.
+- **Why AoU lags:** residential history is collected, but the linked environmental/
+  social data layer and releases lagged.
+- **Remedy in motion:** the **November 2, 2026 release** of the environmental dataset
+  (geocoded residential history + linked social/environmental variables) is the major
+  upcoming milestone closing this gap, alongside the **Environmental Health & Exposomics**
+  ancillary study (5,500+ samples; 399 workspaces, 196 newly visible).
 
-### 3. Genomics methods & complex-trait genetics — index 0.42 (largely by-design)
-- **AoU 25.77% vs. FinnGen 97.13%, MVP 72.65%, UKB 50.70%, CKB 13.78%.**
-- **Why:** FinnGen and MVP are, in effect, *GWAS factories* — near their entire output
-  is complex-trait genetics. AoU is deliberately broader (it is the only cohort where
-  SDOH is 33% and methods/phenotyping 19% of output), so a lower genetics *share* is
-  partly a denominator effect, not a deficit in genetics volume.
-- **Read — mostly by-design, with a maturity component.** AoU's genomic data matured
-  later than UKB/FinnGen; GWAS/PheWAS output is rising. Watch the trajectory rather
-  than treat 0.42 as a standing deficiency — but note AoU is still below even UKB's
-  50%, so there is room.
+## Secondary lens — publication-emphasis (theme-share) ranking
+Ranking *solely* by publication theme-share surfaces a partly different set, useful as a
+complementary view: rare disease (0.25), environmental health (0.35), genomics-methods/
+complex-trait genetics (0.42), neurology non-ADRD (0.46), respiratory & sleep (0.53).
+Rare disease and environmental health appear in **both** lenses (strongest signals);
+genomics-methods' low share is largely **by design** (AoU is deliberately broader —
+SDOH 33%, methods 19% of output — so genetics is a smaller fraction, not a deficit in
+volume), and the committee's imaging/multi-omics/aging gaps are **modality/area** gaps
+that theme-share understates. Both lenses agree on the actionable priorities.
 
-### 4. Neurology (non-ADRD) — index 0.46 (emerging gap)
-- **AoU 6.11% vs. CKB 29.93%, MVP 14.57%, UKB 11.84%, FinnGen 9.60%.**
-- **Why:** CKB's stroke-heavy design and MVP's veteran neurology inflate peers. But
-  every peer out-indexes AoU, so the under-emphasis is broad-based, not one-cohort.
-- **Read — mixed/emerging gap.** AoU's EHR + imaging roadmap and the **Exploring the
-  Mind** (cognition/behavior) and **Eyes on Health** (eye→neurological disease)
-  ancillary studies create a path to close it; cognition/mental-health workspaces are
-  already 13% of the registry. Flag as a watch-and-build area.
+## Synthesis — priorities
+- **Remedy already in motion:** environmental/social (Nov 2 release + Exposomics),
+  multi-omics (10k project), rare disease (long-read + driver papers). Credit the
+  trajectory in the roadmap.
+- **Harder / needs investment:** imaging (data-supply + compute/cost — needs partners
+  and a compute model), aging research (needs dedicated phenotyping).
 
-### 5. Respiratory & sleep medicine — index 0.53 (modest gap)
-- **AoU 4.17% vs. CKB 11.39%, FinnGen 9.36%, UKB 6.34%, MVP 3.59%.**
-- **Why:** The nearest-the-threshold area; AoU is comparable to MVP but below UKB/CKB.
-- **Read — modest, lower-priority gap.** Wearable + EHR assets (sleep from Fitbit)
-  make this feasible, but it is the least severe of the five. Opportunistic, not
-  structural.
-
-## Synthesis — which gaps the roadmap should act on
-
-- **Act now (addressable, high-value):** *Environmental health* (already being closed
-  by the Exposomics ancillary study) and *Rare disease & Mendelian genetics* (AoU's
-  diverse long-read WGS is an unmatched substrate the literature isn't yet using).
-- **Watch the trajectory (largely by-design / maturing):** *Genomics methods* and
-  *Neurology* — the share gap partly reflects AoU's deliberate breadth and younger
-  genomic data; both are rising and are supported by ancillary studies.
-- **Opportunistic:** *Respiratory & sleep* — feasible via wearables+EHR, lowest priority.
-
-> **Caveat.** This is a *relative-emphasis* measure on tagged publication corpora;
-> peer shares are inflated by each cohort's recruitment/design (FinnGen rare-disease &
-> genetics; CKB neurology/respiratory; MVP veteran psychiatry/neurology). It does not
-> measure data availability or absolute output, and (like all our publication-based
-> views) it lags released data — the ancillary-study workspace signal is the forward
-> indicator. For AoU's *over*-indexed distinctive strengths (SDOH 5.4×, ELSI 24×,
-> dermatology 6.4×, pharmacogenomics 4.3×) see `comparison.md` / `aou_vs_peers_index.csv`.
+> **Caveats.** Theme-share is relative emphasis on tagged corpora; peer shares are
+> inflated by each cohort's recruitment design (FinnGen rare-disease/genetics; UKB
+> aging/imaging; CKB neurology). Data-modality gaps reflect availability, not demand.
+> All publication-based views lag released data — the ancillary-study/workspace signal
+> and the committee's milestone calendar (Nov 2 environmental release) are the forward
+> indicators. For AoU's *over*-indexed strengths (SDOH 5.4×, ELSI 24×, dermatology
+> 6.4×, PGx 4.3×) see `comparison.md` / `aou_vs_peers_index.csv`.

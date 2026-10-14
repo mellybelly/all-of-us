@@ -55,7 +55,7 @@ refresh of the *All of Us* scientific roadmap"
 ## §6. Recommendations for the refreshed roadmap
 6.1 Add a "Data, AI & Methods" focus area.
 6.2 Multi-omics/proteomics release roadmap; name it in the framework.
-6.3 Governed in-environment AI co-scientist + reusable-tools registry + multimodal templates.
+6.3 Governed in-environment AI co-scientist + reusable-tools registry + multimodal templates — and an **internal All of Us foundation model hosted securely with no data egress**, guided by a program **"super user group"** (2026 committee idea); this unifies the genomic-foundation-model white-space (§4.2) with the governed-in-environment-AI gap (§5.3).
 6.4 Protect distinctive strengths (diversity, SDOH, ELSI); coordinate across recognized need areas.
 6.5 Measurement: track the roadmap with the same corpus methods over time.
 6.6 Adopt the **driver-project / driver-paper model** (from the 2026 committee's Women's Health Driver Project) as a standing mechanism — program biostatistical support producing exemplar analyses — and make **rare-disease and intersectional (equity × rare-disease × geography, e.g. rare disease + rurality) driver papers** an explicit near-term deliverable that attacks the rare-disease peer-gap using AoU's diversity.

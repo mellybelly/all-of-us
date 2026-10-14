@@ -1133,6 +1133,8 @@ GAPS (verified): (1) reuse registry — AoU has workspace sharing only; Dockstor
 
 CONVERGENCE: an unreleased 2026 ACT-IAC/AoU draft white paper ("Advancing AI/ML for the NIH All of Us Research Program") reaches the SAME conclusions from stakeholder interviews — its Focus Area 2 recommends (a) reusable research assets (phenotype/feature libraries, validated notebooks, workflow templates), (b) a governed in-environment AI research assistant with MCP metadata services ("bring the model to the data; assistant gets no broader access than the researcher"), (c) portable workflows + graduated partner-tool certification, and (d) a hybrid/federated compute model (STRIDES/NAIRR). Independent qualitative corroboration of our quantitative gap analysis.
 
+COMMITTEE-ENDORSED (Roadmap Refresh WG, 2026-10-14): a proposed "super user group" (Ginsburg) to guide data strategy and build shared reusable resources — including an INTERNAL All of Us foundation model hosted securely in the cloud with NO data egress. This unifies the two top recommendations (genomic foundation models + governed in-environment AI) into one program-owned build.
+
 KEY BAA POINT: the constraint on an in-environment LLM is NOT a missing BAA — Google Cloud's BAA already covers Vertex AI/Gemini, so an in-VPC model keeps data in-boundary. The gap is that AoU hasn't provisioned a governed in-VPC model; the BYO-key CLIs run under the user's own terms. See baa_llm_egress_evidence.md.
 
 AoU STRENGTHS (so the gaps are credible): data assets and GPU/AI compute are best-in-set; notebooks, OMOP, closed-tier security at parity. The deficiencies are platform-capability, not data.""")

@@ -73,3 +73,31 @@ benchmark.
 Dedicated long-read (PacBio) WGS analysis efforts reinforce AoU's long-read substrate
 for rare/Mendelian and structural-variant discovery — the clearest addressable
 rare-disease opportunity in the peer comparison.
+
+## 7. Roadmap Refresh WG meeting — 2026-10-14  *(new directions)*
+From the Roadmap Refresh working-group meeting (public-safe items; internal specifics
+kept local):
+- **Internal All of Us foundation model (no data egress).** A proposed **"super user
+  group"** (originating with Geoff Ginsburg) would help guide data strategy and build
+  shared, reusable resources — **including an internal AoU foundation model hosted
+  securely in the cloud with no data egress.** This directly matches our two highest
+  recommendations: the genomic foundation-model white-space (horizon scan) and the
+  governed in-environment AI assistant (RW gap / ACT-IAC Focus Area 2). Elevate it in
+  the refresh.
+- **Environmental dataset release — November 2, 2026.** Geocoded residential history
+  with linked social/environmental variables — the concrete milestone closing the
+  environmental/social peer-gap (area #5 in `../peer-biobanks/underrepresented_vs_peers.md`).
+- **Imaging ↔ compute/cost.** Imaging remains the harder gap, tied to compute/cost
+  (large files, cloud-only compute, no institutional-HPC equivalent) — reinforcing the
+  hybrid/federated compute recommendation (ACT-IAC Focus Area 2; RW compute).
+- **IC-alignment gap: NIMH.** NIMH's collaboration is not yet reflected in the IC
+  alignment — note that **Exploring the Mind is NIMH-supported**, so ancillary studies
+  should feed the IC-alignment picture (`../aou-ic-alignment/`).
+- **Manuscript endorsed.** The perspective/retrospective manuscript direction was
+  supported in the WG; see `../manuscript/outline.md`.
+- **Workspace data now refreshed.** The WG noted the analysis "can't pull updated
+  workspace data (API outdated)"; this is now **resolved** — a live 32,922-workspace
+  production pull was completed 2026-10-14 (see `../aou-research-landscape/README.md`).
+  Open follow-up remains with the DRC/Evan to make the endpoint a supported path.
+- **Schedule:** committee presentation moved to **November 17, 2026** (this group
+  presents last); next WG meeting **October 29, 2026, 12:00–1:00 PM**.
