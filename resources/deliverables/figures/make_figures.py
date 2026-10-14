@@ -29,7 +29,7 @@ plt.rcParams.update({
 # Figure 1: Corpus publications by year (temporal slope)
 # ---------------------------------------------------------------------------
 years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
-counts = [4, 4, 3, 12, 13, 10, 32, 79, 157, 341, 519, 253]
+counts = [4, 4, 3, 12, 13, 10, 32, 79, 157, 343, 527, 472]
 fig, ax = plt.subplots(figsize=(8.5, 4.0), dpi=160)
 bars = ax.bar(years, counts, color=ACCENT, edgecolor=NAVY, linewidth=0.5)
 # Color pre-2023 differently
@@ -39,7 +39,7 @@ for b, y in zip(bars, years):
         b.set_edgecolor("#888")
 ax.set_xticks(years)
 ax.set_ylabel("Substantive AoU publications", fontsize=10)
-ax.set_title("AoU corpus growth: 157 pubs pre-2023 vs 1,271 post-2023 (≥8.1× scale-up)",
+ax.set_title("AoU corpus growth: 157 pubs pre-2023 vs 1,496 post-2023 (≥9.5× scale-up)",
              fontsize=11, weight="bold", pad=10, loc="left")
 for b, c in zip(bars, counts):
     ax.text(b.get_x()+b.get_width()/2, b.get_height()+8, str(c),
@@ -60,8 +60,8 @@ plt.close()
 # Source: aou_vs_peers_index.csv + emerging_themes.md
 themes = ["Multi-omics\n(HA1)", "Imaging\n(HA3)", "Microbiome/\nNutrition (HA7)",
           "Rare disease\n(Theme 10)", "Aging/ADRD\n(Theme 11)"]
-aou_share = [1.7, 0.6, 0.8, 3.8, 5.5]
-peer_med  = [10.2, 1.6, 10.6, 15.3, 6.5]  # peer medians from full-census corpora
+aou_share = [2.0, 0.5, 0.9, 3.8, 5.7]
+peer_med  = [11.4, 1.9, 10.5, 15.0, 7.1]  # peer medians from full-census corpora
 
 fig, ax = plt.subplots(figsize=(8.5, 4.2), dpi=160)
 x = list(range(len(themes)))
@@ -93,7 +93,7 @@ plt.close()
 # ---------------------------------------------------------------------------
 themes = ["ELSI /\nengagement", "SDOH /\ndisparities", "Pharmaco-\ngenomics",
           "Methods /\ninfrastructure"]
-indices = [26.3, 5.1, 4.6, 3.0]
+indices = [24.0, 5.4, 4.3, 2.8]
 fig, ax = plt.subplots(figsize=(8.0, 3.8), dpi=160)
 bars = ax.barh(themes, indices, color=ACCENT, edgecolor=NAVY, linewidth=0.5)
 for b, v in zip(bars, indices):

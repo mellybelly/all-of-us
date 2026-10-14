@@ -1,9 +1,11 @@
 # Temporal trends: what has changed since 2023
 
-> **Updated 2026-06-26** for the refreshed corpus (1,432 pubs; 1,428 substantive). Figures reconciled to the regenerated CSVs in this directory.
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
+> **Updated 2026-06-26** for the refreshed corpus (1,657 pubs; 1,653 substantive). Figures reconciled to the regenerated CSVs in this directory.
 
 **Phase 3b deliverable, AoU Scientific Roadmap Refresh evidence base.**
-Inputs: 1,428 substantive publications from the AoU corpus, tagged with the
+Inputs: 1,653 substantive publications from the AoU corpus, tagged with the
 locked 19-theme taxonomy and crosswalked to the 8 Roadmap focus areas
 (`crosswalk_19_to_8.md`). Projects are excluded from temporal analysis
 because workspaces lack reliable creation-year metadata.
@@ -227,7 +229,7 @@ climate/air-quality work is rarer still. Top admin ICs: OD (2), NIEHS
 (2), NHLBI (2) — NIEHS is the only IC where this is *strategic priority*
 co-funding. The structural gap is real: if "environmental impact on
 community health" is a 2023+ priority, the corpus is delivering at
-13 / 1,428 = 0.9%.
+13 / 1,653 = 0.9%.
 Examples: PMID:41579292 (2026, SDOH disadvantage score and liver health);
 PMID:41569831 (2026, perceived neighborhood environment + physical
 activity); PMID:42061729 (2026, walkability and psychological distress).

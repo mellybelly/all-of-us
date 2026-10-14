@@ -62,20 +62,23 @@ canonical series and a full-text-augmented series. See
 [`fulltext_augmentation.md`](fulltext_augmentation.md) for the method, the
 OA-coverage-by-year confound, and the abstract-vs-full-text theme deltas.
 
-**Full-refresh check (2026-07-02, pre-handoff):** re-pulled the publications feed
-and re-probed the projects endpoints to finalize the corpus. Publications are
-analytically unchanged — still **1,432 records; 0 added / 0 removed; 0 changed
-titles/abstracts** (only non-analytical fields such as citation counts differ).
-The projects prod endpoint still returns HTTP 500 and no Wayback capture newer
-than 2025-10-24 exists, so the workspace snapshot is unchanged. The corpus is
-**frozen at its freshest available state**; all downstream numbers hold — no
-pipeline re-run was required.
+**Full-refresh check (2026-07-02):** re-pull confirmed publications then
+analytically unchanged (still 1,432; 0 added/removed); projects endpoint down.
+
+**Refresh (2026-10-14):** re-pulled the publications feed — now serves **1,657
+records (+224 vs 2026-06-26, −1; almost all added pubs are 2026-dated)**. The
+full pipeline (IC attribution, dual-layer tagging, trends, peer comparison, RW
+analysis) and all deliverables were re-run and reconciled. All four peer
+biobanks were re-pulled to fresh full censuses (UKB 12,986; FinnGen 3,376; MVP
+501; CKB 588). The projects prod endpoint still returns HTTP 500 and no Wayback
+capture newer than 2025-10-24 exists, so the **workspace snapshot (21,242 /
+12,899 substantive) is unchanged** — collaboration/adoption stats reflect that date.
 
 ## Counts
 
 | Dataset | Records |
 | --- | ---: |
-| Publications (`publications.csv` / `publications.jsonl`) | **1,432** (was 1,378 on 2026-06-02) |
+| Publications (`publications.csv` / `publications.jsonl`) | **1,657** (1,378 → 1,432 → 1,657; refreshed 2026-10-14) |
 | Projects (`projects.csv` / `projects.jsonl`) | **21,242** |
 
 ## Files

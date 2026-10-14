@@ -1,15 +1,45 @@
 pubmed_id,year,title,journal,themes,subthemes,publication_types
+42865211,2026,Chronic obstructive pulmonary disease increases the risk of cardiovascular disease occurrence in nonsmokers: A nationwide cohort study.,Chinese medical journal,1;13,,Journal Article
+42860408,2026,Atlas of genetic architecture and exploratory temporal interaction networks of plasma protein-based organ and system aging.,Nature communications,2;11,,Journal Article
+42828982,2026,Long-term exposure to fine particulate matter constituents and lung cancer risk in Chinese never-smokers.,Journal of hazardous materials,2;5;19,,Journal Article
+42800676,2026,Risk factors of primary angle-closure glaucoma: An exposome-wide association study in the China Kadoorie Biobank.,"Asia-Pacific journal of ophthalmology (Philadelphia, Pa.)",1;2;3;18,,Journal Article
+42781102,2026,Mortality and recurrent events after first hospitalisation for heart failure and pulmonary heart disease: a community-based prospective study of 0.5 million Chinese adults.,BMJ public health,1;6;13,,Journal Article
+42771993,2026,Cataract GWAS meta-analysis and multi-omics Mendelian randomisation inform disease mechanisms and candidate target prioritisation.,EBioMedicine,1;2;10;11;18,,Journal Article
+42763183,2026,[Association between air pollution exposure and metabolic dysfunction-associated steatotic liver disease in adults in China].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,1;19,,English Abstract;Journal Article
+42754369,2026,Incidence patterns and genetic validation of primary glaucoma subtypes among 1 million adults in China and the UK.,The British journal of ophthalmology,2;18,,Journal Article
+42727143,2026,Associations of long-term exposure to ambient air pollution with fracture risk and bone mineral density: A cohort study of 0.5 million Chinese adults.,Journal of hazardous materials,19,,Journal Article
+42717190,2026,Chronic conditions and aortic disease risk: a prospective cohort study with predictive and etiological analyses.,Nature communications,1;2;13,,Journal Article
+42709430,2026,"Smoking, Exhaled Carbon Monoxide, and Risk of Parkinson Disease.",JAMA neurology,1;4;5;11;14,,Journal Article
+42699646,2026,"Association of Sleep Duration, Metabolic Markers, and Risk of All-Cause and Cause-Specific Mortality in China and the UK.",Global heart,1;7,,Journal Article;Multicenter Study
+42679833,2026,"Exploring China's Clean Air Act and associated cardiovascular disease risk: a prospective, quasi-experimental, and causal inference modelling study.",The Lancet. Planetary health,1;19,,Journal Article
+42665885,2026,"Smoking, Solid Fuel Use for Cooking, and Cancer Mortality: A Prospective Cohort Study in Southwestern China.",International journal of cancer,4;5,,Journal Article
+42621354,2026,Derivation and validation of a pre-bronchodilator FEV1/FVC threshold for point-of-care diagnosis triage of COPD in primary care: a multi-cohort population-based study.,The Lancet regional health. Western Pacific,13,,Journal Article
+42618884,2026,Adiposity and risk of breast cancer in 280 000 Chinese women: a prospective cohort study.,International journal of epidemiology,5,,Journal Article;Observational Study
+42606601,2026,Modifiable risk factors for mortality across life course: a pooled population-based cohort study.,"The journals of gerontology. Series A, Biological sciences and medical sciences",1;11,,Journal Article
+42578953,2026,Concordance of genetic determinants of acute coronary artery disease between European and Chinese populations.,GigaScience,1;14,,Journal Article
+42571983,2026,Validation and Comparison of 10-Year Cardiovascular Risk Prediction Models in Two Chinese Prospective Cohorts: The General Population and Patients With Type 2 Diabetes.,"Diabetes, obesity & metabolism",1;3;14,,Journal Article;Validation Study;Comparative Study
+42526095,2026,"Proteomic organ-specific signatures, ageing traits, disease risks and genetic architecture in an East Asian population.",EBioMedicine,1;2;14,,Journal Article
+42524807,2026,Cross-Ancestry Proteogenomic Analyses Identified New Therapeutic Insights for Ischemic Heart Disease.,Journal of the American College of Cardiology,1;2;11,,Journal Article
+42503949,2026,[Epidemiological characteristics of injury deaths in adults in 10 regions of China].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,,,English Abstract;Journal Article
+42503948,2026,[Descriptive analysis of characteristics of stepping activity in middle-aged and old adults in 10 areas of China].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,,,English Abstract;Journal Article
+42478377,2026,Genetic Associations With Carotid Intima-Media Thickness in the Chinese Population and Shared Genetic Architecture With Cardiometabolic Diseases and Traits.,Circulation. Genomic and precision medicine,1;2;11,,Journal Article
+42469865,2026,Chronic obstructive pulmonary disease and risk of digestive diseases: observational and mendelian randomization analyses in the China Kadoorie Biobank.,Respiratory research,2;10;13,,Journal Article;Observational Study
+42461214,2026,Body Mass Index and Risks of More Than 40 Cause-Specific Mortality in Chinese Women: A Prospective Cohort Study.,"Journal of cachexia, sarcopenia and muscle",1;3,,Journal Article
+42443214,2026,ProLM: a plasma proteomics pretrained model for the general population.,Nature communications,1,,Journal Article
+42424092,2026,New-Onset Type 2 Diabetes Mellitus and Cancer Risk: A Matched Cohort Study in China Kadoorie Biobank.,International journal of cancer,1;2;5,,Journal Article
+42419615,2026,"Long-term exposure to air pollution, proteomic aging clocks, and liver-related outcomes in Chinese adults.",Environmental research,11;19,,Journal Article
+42366014,2026,Breastfeeding and risk of maternal type 2 diabetes: a prospective cohort study of 280 000 women in China.,BMJ open,1;15,,Journal Article
 42344593,2026,Ambient Air Pollution and Hospital Admissions of AECOPD in 10 Regions of China: A Self-Controlled Study Based on a Cohort.,"Environment & health (Washington, D.C.)",13;19,,Journal Article
 42340288,2026,Associations Between PM2.5 Components and Cardiovascular Diseases: A Cohort Study of 0.5 Million Chinese Adults.,Journal of the American College of Cardiology,1;14;19,,Journal Article
 42292198,2026,"Smoking and mortality risk in COPD patients: a prospective cohort study in Sichuan, China.",Frontiers in medicine,1;4;13,,Journal Article
 42280459,2026,Dietary Clusters and Mortality Risk in a Chinese Population: The Role of Type 2 Diabetes and Hypertension.,Nutrients,1,,Journal Article
 42269188,2026,"Associations of sleep duration and insomnia with cardiometabolic disease onset, multimorbidity, and mortality: A prospective study in 461,046 Chinese adults.",Sleep medicine,1;7;13,,Journal Article
-42253047,2026,Early menopause and cardiovascular disease risk: triangulating the evidence with a combined analysis.,Climacteric : the journal of the International Menopause Society,1;2;15,,Journal Article
-42234996,2026,Alcohol Consumption and Age-Specific Risk of Esophageal Cancer: Prospective Cohort Study.,JMIR public health and surveillance,5,,Journal Article
+42253047,2026,Early menopause and cardiovascular disease risk: triangulating the evidence with a combined analysis.,Climacteric : the journal of the International Menopause Society,1;2;15,,Journal Article;Observational Study
+42234996,2026,Alcohol Consumption and Age-Specific Risk of Esophageal Cancer: Prospective Cohort Study.,JMIR public health and surveillance,5,,"Journal Article;Research Support, Non-U.S. Gov't"
 42218728,2026,Liver Aging Index: A Noninvasive Score for Liver Biological Aging and Liver-Related Outcomes in Multicohorts.,Aging cell,1;5;11,,Journal Article
 42185315,2026,Life's essential 8 and longevity: the sustained impact of cardiovascular health on mortality from middle age to centenarians.,npj aging,1;11,,Journal Article
 42152523,2026,Burden and Correlates of Multiple Chronic Infections and Their Associations With Cancer Incidence in Chinese Adults: A Large Case-Cohort Study.,International journal of cancer,5,,Journal Article
-42152146,2026,Genome-wide meta-analysis across East Asian and European populations provides insights into the molecular basis of lung cancer.,Genome medicine,2;5,,Journal Article
+42152146,2026,Genome-wide meta-analysis across East Asian and European populations provides insights into the molecular basis of lung cancer.,Genome medicine,2;5,,"Journal Article;Meta-Analysis;Research Support, Non-U.S. Gov't"
 42144279,2026,Abdominal adiposity and accelerated biological ageing in relation to general and cardiovascular ageing in Chinese adults.,Heart (British Cardiac Society),1;11,,Journal Article
 42144253,2026,Associations of Social Determinants and Lifestyle Factors With Incidence and Dynamic Progression of Type 2 Diabetes in the Chinese Population.,"Diabetes, obesity & metabolism",1,,Journal Article
 42115889,2026,"Frequency of fish/seafood consumption and risk of stroke: a prospective cohort study in Zhejiang, China.",Nutrition & metabolism,1;14,14.2-stroke-cerebro,Journal Article
@@ -22,9 +52,9 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41946746,2026,Synthetic data Using Population Profiles for cardiOvascular Risk facTors (SUPPORT) in mainland China.,Scientific data,1;3,,"Journal Article;Dataset;Research Support, Non-U.S. Gov't"
 41881552,2026,Replacing sedentary behaviour with physical activity and all-cause mortality in older adults: two-cohort study in China and the UK.,Journal of epidemiology and community health,7;11,,Journal Article
 41865480,2026,Short-term effects of temperature on physical activity and sedentary behavior in Chinese adults: An accelerometer-based analysis.,Environment international,7,,Journal Article
-41861976,2026,Associations of lifestyle factors with survival and health statuses in Chinese older adults: a prospective cohort study.,American journal of preventive medicine,1;11;13;14,,Journal Article
+41861976,2026,Associations of Lifestyle Factors With Survival and Health Statuses in Chinese Older Adults: A Prospective Cohort Study.,American journal of preventive medicine,1;11;13;14,,Journal Article
 41857632,2026,Multidimensional health poverty among diabetic adults in China: evidence from the China Kadoorie Biobank.,Archives of public health = Archives belges de sante publique,1;6,,Journal Article
-41851747,2026,Optimizing colorectal cancer screening through polygenic risk score-based risk stratification: evidence from a population-based cohort and screening trial.,Genome medicine,2;5,,Journal Article
+41851747,2026,Optimizing colorectal cancer screening through polygenic risk score-based risk stratification: evidence from a population-based cohort and screening trial.,Genome medicine,2;5,,"Journal Article;Research Support, Non-U.S. Gov't"
 41848860,2026,"Association of physical activity with fracture: a prospective cohort study of 387,307 Chinese participants.",Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA,7,,Journal Article
 41846685,2026,Long-term cardiovascular risk after severe exacerbation of COPD: a population-based cohort study.,ERJ open research,1;13;14,,Journal Article
 41835928,2026,"Diagnostic accuracy, treatment and prognosis of myocardial infarction: an 11-year follow-up of a community-based cohort of 0.5 million Chinese adults.",BMJ public health,1;6;14,,Journal Article
@@ -32,7 +62,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41802284,2026,An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity.,Briefings in bioinformatics,2;6,,Journal Article
 41772493,2026,Association between healthy lifestyle and risk of chronic kidney disease: a prospective cohort study of 0.5 million Chinese adults.,BMC public health,1,,Journal Article
 41761476,2026,Impact of sleep habits on life expectancy free of cardiovascular disease in the Chinese population: a prospective cohort study.,"The journals of gerontology. Series A, Biological sciences and medical sciences",1;14,,Journal Article
-41755627,2026,"Social determinants of health, life expectancy and future health risks among adults with rheumatoid arthritis: two cohort studies in the China and UK.",American journal of epidemiology,1;6;9,,Journal Article
+41755627,2026,"Social determinants of health, life expectancy, and future health risks among adults with rheumatoid arthritis: two cohort studies in China and the UK.",American journal of epidemiology,1;6;9,,"Journal Article;Research Support, Non-U.S. Gov't"
 41724869,2026,Hepatitis B Virus Infection and the Risk of Cardiovascular Disease: Findings From the China Kadoorie Biobank.,Journal of viral hepatitis,1;8;14,,Journal Article
 41628730,2026,Dairy Consumption and Risk of Cardiometabolic Diseases: A Prospective Cohort Study of the China Kadoorie Biobank.,The Journal of nutrition,1;14,,Journal Article
 41586004,2025,Physical activity in relation to risk of chronic obstructive pulmonary disease among Chinese adults: an 11-year prospective study.,Frontiers in sports and active living,7;13,,Journal Article
@@ -46,18 +76,18 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 41341656,2025,Cardiometabolic health and risk of dementia and brain atrophy: a community-based prospective cohort study of 0.5 million adults in China.,The Lancet regional health. Western Pacific,1;11;14,,Journal Article
 41332622,2025,cpiVAE: Robust and Interpretable Cross-Platform Proteomics Imputation.,bioRxiv : the preprint server for biology,2;3,,Journal Article;Preprint
 41301747,2025,Bidirectional Mendelian Randomization Analysis of the Causal Relationship Between Uterine Fibroids and Breast Cancer in East Asian Women.,Biomedicines,2;5;10;15,,Journal Article
-41275148,2025,Development and validation of a simple prediction risk score for predicting risk of gastric cancer in outpatient department.,BMC cancer,2;3;5,,Journal Article
+41275148,2025,Development and validation of a simple prediction risk score for predicting risk of gastric cancer in outpatient department.,BMC cancer,2;3;5,,Journal Article;Multicenter Study;Validation Study
 41272635,2025,The COPD risk associated with adulthood weight change and early adulthood BMI: a prospective cohort study.,BMC public health,1;13,,Journal Article
 41219961,2025,"Expanded mosaic chromosomal alterations, frailty, and risks of all-cause and cause-specific mortality among Chinese and the UK adults: evidence from two prospective cohorts.",BMC medicine,11,,Journal Article
 41212465,2026,Human Health Ecology: A New Scientific Method.,EcoHealth,,,Journal Article;Review
-41204195,2025,Healthy lifestyle reduces frailty-associated overall and site-specific cancer risks: a prospective large cohort study in Chinese adults.,Journal of translational medicine,3;5;11,,Journal Article
+41204195,2025,Healthy lifestyle reduces frailty-associated overall and site-specific cancer risks: a prospective large cohort study in Chinese adults.,Journal of translational medicine,3;5;11,,"Journal Article;Research Support, Non-U.S. Gov't"
 41151388,2025,Association between frailty status and the risk of cardiovascular diseases in Chinese adults: A prospective cohort study.,Public health,1;11;14,,Journal Article
 41120892,2025,Natural selection exerted by historical coronavirus epidemic(s): comparative genetic analysis in China Kadoorie Biobank and UK Biobank.,BMC genomics,2;8,,Journal Article;Comparative Study
 41093635,2026,Long-term prognosis of lean MASLD: evidence from three population-based prospective cohorts.,Gut,1;5,,Journal Article;Multicenter Study
 41079004,2025,Contrasting associations of blood lipids with risk of myocardial infarction in Chinese and European adults.,European heart journal open,1,,Journal Article
 41071435,2025,"Associations of 2923 Olink proteins with demographic, lifestyle, environmental and health characteristics in middle-aged Chinese adults.",European journal of epidemiology,1;11,,Journal Article
 41069018,2025,A phenome-wide spectrum of morbidity and mortality risks related to the number of offspring among 0.5 million Chinese men and women: A prospective cohort study.,Chinese medical journal,2;5,,Journal Article
-41046934,2026,Lifestyle-associated metabolite signatures and the risk of late-onset asthma.,The Journal of allergy and clinical immunology,3;13,,Journal Article
+41046934,2026,Lifestyle-associated metabolite signatures and the risk of late-onset asthma.,The Journal of allergy and clinical immunology,3;13,,"Journal Article;Research Support, Non-U.S. Gov't"
 40987456,2025,Erythrocyte odd-chain fatty acids and the risk of cardiometabolic diseases: a prospective study and updated meta-analysis.,European journal of preventive cardiology,1;14,,Journal Article
 40974041,2025,Negative Life Events and Their Association With Stroke and Total Cerebrovascular Disease Risk: Results From a 10-Year Prospective Cohort Study.,Stress and health : journal of the International Society for the Investigation of Stress,1;14,14.2-stroke-cerebro,Journal Article
 40944258,2025,Alcohol and Tea Consumption in Relation to Liver Cancer Risk by Diabetes Status: A Prospective Cohort Study of 0.5 Million Chinese Adults.,Nutrients,1;5,,Journal Article
@@ -103,13 +133,13 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 40019942,2025,Polygenic risk scores for pan-cancer risk prediction in the Chinese population: A population-based cohort study based on the China Kadoorie Biobank.,PLoS medicine,2;3;5,,Journal Article
 39968650,2026,"Associations of total, domain-specific, and intensity-specific physical activity with all-cause and cause-specific mortality in China: A population-based cohort study.",Chinese medical journal,1;7,,Journal Article
 39947200,2025,Physical Activity and Ischemic Heart Disease Risk: A Prospective Cohort Study Among Chinese Adults.,Journal of physical activity & health,1;7,,Journal Article
-39923994,2025,Lactation duration and the risk of type 2 diabetes mellitus in parous women: A perspective on socioeconomic status disparity.,Journal of advanced research,1;6;15,,Journal Article
+39923994,2025,Lactation duration and the risk of type 2 diabetes mellitus in parous women: A perspective on socioeconomic status disparity.,Journal of advanced research,1;6;15,,"Journal Article;Research Support, Non-U.S. Gov't"
 39910910,2025,"Associations Between Snoring, Body Mass Index and Coronary Artery Diseases: Observational and Mendelian Randomization Study in Asia.","Respirology (Carlton, Vic.)",1;2;10,,"Journal Article;Observational Study;Research Support, Non-U.S. Gov't"
 39845984,2025,Spirometric pattern and cardiovascular risk: a prospective study of 0.3 million Chinese never-smokers.,The Lancet regional health. Western Pacific,1;14,,Journal Article
 39828548,2025,"[Adiposity-related anthropometric parameters, indoles and atherosclerotic cardiovascular disease in Chinese adults: a prospective cohort study].",Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,1,,English Abstract;Journal Article
 39762253,2025,A global analysis of dairy consumption and incident cardiovascular disease.,Nature communications,1;14,,Journal Article;Meta-Analysis
-39740297,2025,Normal-weight obesity subtypes and 10-year risks of major vascular diseases in 0.3 million adults.,"Clinical nutrition (Edinburgh, Scotland)",1;14,,Journal Article
-39737804,2025,Adiposity and risks of gastrointestinal cancers: A 10-year prospective study of 0.5 million Chinese adults.,International journal of cancer,5;12,,Journal Article
+39740297,2025,Normal-weight obesity subtypes and 10-year risks of major vascular diseases in 0.3 million adults.,"Clinical nutrition (Edinburgh, Scotland)",1;14,,"Journal Article;Research Support, Non-U.S. Gov't"
+39737804,2025,Adiposity and risks of gastrointestinal cancers: A 10-year prospective study of 0.5 million Chinese adults.,International journal of cancer,5;12,,"Journal Article;Research Support, Non-U.S. Gov't"
 39736748,2024,Comparison of models to predict incident chronic liver disease: a systematic review and external validation in Chinese adults.,BMC medicine,1;5,,"Systematic Review;Journal Article;Meta-Analysis;Comparative Study;Validation Study;Research Support, Non-U.S. Gov't"
 39674076,2025,"Age at menarche in relation to risk of chronic obstructive pulmonary disease: Results from the China Kadoorie Biobank study of 300,000 Chinese women.",Maturitas,13;15,,Journal Article
 39656835,2025,Phenotypic Versus Genetic Mismatch of BMI and Type 2 Diabetes: Evidence From Two Prospective Cohort Studies.,Diabetes,1;2,,Journal Article
@@ -117,7 +147,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39649266,2024,Income level is associated with differences in primary and secondary stroke prevention in China.,Archives of medical science : AMS,1;6;14,14.2-stroke-cerebro,Journal Article
 39643329,2024,Associations of long-term nitrogen dioxide exposure with a wide spectrum of diseases: a prospective cohort study of 0·5 million Chinese adults.,The Lancet. Public health,1;3;6;13;14,,"Journal Article;Research Support, Non-U.S. Gov't"
 39643204,2025,Aortic Dissection Incidence and Risk Factor Analysis: Findings from the China Kadoorie Biobank.,European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery,1,,Journal Article
-39578996,2025,Associations of Muscle-Related Metrics With Respiratory Disease in Chinese Adults: A Prospective Cohort Study.,"Journal of cachexia, sarcopenia and muscle",,,Journal Article
+39578996,2025,Associations of Muscle-Related Metrics With Respiratory Disease in Chinese Adults: A Prospective Cohort Study.,"Journal of cachexia, sarcopenia and muscle",,,"Journal Article;Research Support, Non-U.S. Gov't"
 39578356,2024,Risk factors for severe COPD exacerbation in Chinese adults.,The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease,4;13,,Journal Article
 39570587,2024,Physical Activity and All-Cause Mortality by Age in 4 Multinational Megacohorts.,JAMA network open,1;7,,Journal Article
 39513287,2024,Preserved vegetable consumption and gastrointestinal tract cancers: A prospective study.,Journal of global health,5,,Journal Article
@@ -127,10 +157,10 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39401857,2024,"Mosaic loss of chromosome Y, tobacco smoking and risk of age-related lung diseases: insights from two prospective cohorts.",The European respiratory journal,4;5;13,,Journal Article
 39385593,2024,Conventional and genetic associations of BMI with major vascular and non-vascular disease incidence and mortality in a relatively lean Chinese population: U-shaped relationship revisited.,International journal of epidemiology,1;2;14,,Journal Article
 39358758,2024,Pregnancy loss and risk of cardiometabolic multimorbidity in Chinese women: the China Kadoorie Biobank study.,BMC public health,1;14;15,,"Journal Article;Research Support, Non-U.S. Gov't"
-39349436,2024,Association of autosomal mosaic chromosomal alterations with risk of bladder cancer in Chinese adults: a prospective cohort study.,Cell death & disease,3;5,,Journal Article
+39349436,2024,Association of autosomal mosaic chromosomal alterations with risk of bladder cancer in Chinese adults: a prospective cohort study.,Cell death & disease,3;5,,"Journal Article;Research Support, Non-U.S. Gov't"
 39322770,2024,Measured and genetically predicted protein levels and cardiovascular diseases in UK Biobank and China Kadoorie Biobank.,Nature cardiovascular research,1;2;14,,Journal Article
 39308399,2024,DNA Methylation Age Mediates Effect of Metabolic Profile on Cardiovascular and General Aging.,Circulation research,1;11,,Journal Article
-39225766,2024,The Role of Active and Passive Smoking in Chronic Obstructive Pulmonary Disease and Systemic Inflammation: A 12-year Prospective Study in China.,Journal of epidemiology and global health,4;13,,Journal Article
+39225766,2024,The Role of Active and Passive Smoking in Chronic Obstructive Pulmonary Disease and Systemic Inflammation: A 12-year Prospective Study in China.,Journal of epidemiology and global health,4;13,,"Journal Article;Research Support, Non-U.S. Gov't"
 39193696,2025,Role of lifestyle factors on the development and long-term prognosis of pneumonia and cardiovascular disease in the Chinese population.,Chinese medical journal,1,,Journal Article
 39142240,2024,Height and cancer risk in East Asians: Evidence from a prospective cohort study and Mendelian randomization analyses.,Cancer epidemiology,2;5;10,,Journal Article;Observational Study
 39085848,2024,Association between socioeconomic status and risk of chronic obstructive pulmonary disease in China: a prospective cohort study.,BMC public health,6;13,,"Journal Article;Research Support, Non-U.S. Gov't"
@@ -142,11 +172,11 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 39004961,2024,[Associations of body mass index and waist circumference with risk of chronic kidney disease in adults in China].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,1;14,,English Abstract;Journal Article
 39002770,2024,"Incidence and mortality rates of 14 site-specific infectious diseases in 10 diverse areas of China: findings from China Kadoorie Biobank, 2006-2018.",International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases,6,,Journal Article
 38987358,2024,Joint impact of polygenic risk score and lifestyles on early- and late-onset cardiovascular diseases.,Nature human behaviour,1;2;14,,Journal Article
-38977296,2024,Socioeconomic disparity in the natural history of cutaneous melanoma: evidence from two large prospective cohorts.,Journal of epidemiology and community health,5;6;12,,Journal Article
+38977296,2024,Socioeconomic disparity in the natural history of cutaneous melanoma: evidence from two large prospective cohorts.,Journal of epidemiology and community health,5;6;12,,"Journal Article;Research Support, Non-U.S. Gov't"
 38889989,2024,[Analysis of highly cited papers in Chinese Journal of Epidemiology from 2020 to 2023].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,1;5;8,,English Abstract;Journal Article
 38889975,2024,[An observational and Mendelian randomization study of the associations of body mass index with plasma amino acids and acylcarnitines in Chinese adults].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,2;10,,English Abstract;Journal Article
 38885669,2024,Early adulthood BMI and cardiovascular disease: a prospective cohort study from the China Kadoorie Biobank.,The Lancet. Public health,1;14,,"Journal Article;Research Support, Non-U.S. Gov't"
-38876387,2024,Development and evaluation of a risk prediction tool for risk-adapted screening of colorectal cancer in China.,Cancer letters,3;5,,Journal Article
+38876387,2024,Development and evaluation of a risk prediction tool for risk-adapted screening of colorectal cancer in China.,Cancer letters,3;5,,"Journal Article;Research Support, Non-U.S. Gov't"
 38809553,2024,Helicobacter pylori Treatment and Gastric Cancer Risk Among Individuals With High Genetic Risk for Gastric Cancer.,JAMA network open,2;5,,"Journal Article;Research Support, Non-U.S. Gov't;Research Support, N.I.H., Extramural"
 38699413,2024,"Temporal change in multimorbidity prevalence, clustering patterns, and the association with mortality: findings from the China Kadoorie Biobank study in Jiangsu Province.",Frontiers in public health,1;3;8;9;13;14,,"Journal Article;Research Support, Non-U.S. Gov't"
 38685601,2024,Association of lifestyle with reduced stroke risk in 41 314 individuals with diabetes: Two prospective cohort studies in China.,"Diabetes, obesity & metabolism",1;7;14,14.2-stroke-cerebro,"Journal Article;Research Support, Non-U.S. Gov't"
@@ -157,7 +187,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38587297,2024,Socioeconomic disparities in the association of age at first live birth with incident stroke among Chinese parous women: A prospective cohort study.,Journal of global health,1;6;14,14.2-stroke-cerebro,Journal Article
 38572088,2024,Correlates and consequences of atrial fibrillation in a prospective study of 25 000 participants in the China Kadoorie Biobank.,European heart journal open,1;14,,Journal Article
 38532314,2024,"Reproductive factors and risk of lung cancer among 300,000 Chinese female never-smokers: evidence from the China Kadoorie Biobank study.",BMC cancer,5,,Journal Article
-38525868,2024,Associations of traditional cardiovascular risk factors with 15-year blood pressure change and trajectories in Chinese adults: a prospective cohort study.,Journal of hypertension,1,,Journal Article
+38525868,2024,Associations of traditional cardiovascular risk factors with 15-year blood pressure change and trajectories in Chinese adults: a prospective cohort study.,Journal of hypertension,1,,"Journal Article;Research Support, Non-U.S. Gov't"
 38514308,2024,[A prospective study on association between sleep duration and the risk of chronic obstructive pulmonary disease in adults in Suzhou].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,1;7;13,,English Abstract;Journal Article
 38514307,2024,[A prospective study of association between physical activity and ischemic stroke in adults].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,1;7;14,14.2-stroke-cerebro,English Abstract;Journal Article
 38461358,2024,A genome-wide association study based on the China Kadoorie Biobank identifies genetic associations between snoring and cardiometabolic traits.,Communications biology,1;2,,"Journal Article;Research Support, Non-U.S. Gov't"
@@ -175,7 +205,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 38198221,2024,PCSK9 genetic variants and risk of vascular and non-vascular diseases in Chinese and UK populations.,European journal of preventive cardiology,1;2;13;14,,Journal Article;Multicenter Study
 40017861,2023,"Menopausal status, age at menopause and risk of all-cause mortality among Chinese women: findings from a 10-year prospective study.",BMJ public health,15,,Journal Article
 38129138,2023,[Comparative study on physical activity and its influencing factors in patients with chronic pulmonary obstructive disease between China and the United Kingdom].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,7;13,,English Abstract;Journal Article
-38108203,2024,"Infectious pathogens and risk of esophageal, gastric and duodenal cancers and ulcers in China: A case-cohort study.",International journal of cancer,5;8,,Journal Article
+38108203,2024,"Infectious pathogens and risk of esophageal, gastric and duodenal cancers and ulcers in China: A case-cohort study.",International journal of cancer,5;8,,"Journal Article;Research Support, Non-U.S. Gov't"
 38001522,2023,"Device-measured movement behaviours in over 20,000 China Kadoorie Biobank participants.",The international journal of behavioral nutrition and physical activity,6;7,,"Journal Article;Research Support, Non-U.S. Gov't"
 38001425,2023,Associations between experience of stressful life events and cancer prevalence in China: results from the China Kadoorie Biobank study.,BMC cancer,5,,Journal Article
 38000378,2023,Alcohol intake and cause-specific mortality: conventional and genetic evidence in a prospective cohort study of 512 000 adults in China.,The Lancet. Public health,1;2;14,,"Journal Article;Research Support, Non-U.S. Gov't"
@@ -184,7 +214,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 37898918,2023,MTHFR and risk of stroke and heart disease in a low-folate population: a prospective study of 156 000 Chinese adults.,International journal of epidemiology,1;14,14.2-stroke-cerebro,"Journal Article;Research Support, Non-U.S. Gov't"
 37870428,2023,A high-resolution haplotype-resolved Reference panel constructed from the China Kadoorie Biobank Study.,Nucleic acids research,2,,"Journal Article;Research Support, Non-U.S. Gov't"
 37869961,2023,Life-course adiposity and severe liver disease: a Mendelian randomization analysis.,"Obesity (Silver Spring, Md.)",1;2;5;10,,"Journal Article;Research Support, Non-U.S. Gov't"
-37852733,2024,Lifetime cumulative effect of reproductive factors on ischaemic heart disease in a prospective cohort.,Heart (British Cardiac Society),1;15,,Journal Article
+37852733,2024,Lifetime cumulative effect of reproductive factors on ischaemic heart disease in a prospective cohort.,Heart (British Cardiac Society),1;15,,"Journal Article;Research Support, Non-U.S. Gov't"
 37744541,2023,Association of Resting Heart Rate with the Risk of Stroke in Men.,Iranian journal of public health,1;14,14.2-stroke-cerebro,Journal Article
 37710209,2023,Sleep duration and risk of stroke and coronary heart disease: a 9-year community-based prospective study of 0.5 million Chinese adults.,BMC neurology,1;7;13;14,14.2-stroke-cerebro,Journal Article
 37682069,2023,Pulse pressure and its association with body composition among Chinese men and women without diagnosed hypertension: the China Kadoorie Biobank.,Journal of hypertension,1,,"Journal Article;Research Support, Non-U.S. Gov't"
@@ -194,7 +224,7 @@ pubmed_id,year,title,journal,themes,subthemes,publication_types
 37640499,2024,Associations of polygenic risk scores with risks of stroke and its subtypes in Chinese.,Stroke and vascular neurology,1;2;14,14.2-stroke-cerebro,"Journal Article;Research Support, Non-U.S. Gov't"
 37601966,2023,Genotyping and population characteristics of the China Kadoorie Biobank.,Cell genomics,2,,Journal Article
 37537725,2023,Association between fresh fruit consumption and the risk of chronic obstructive pulmonary disease-related hospitalization and death in Chinese adults: A prospective cohort study.,Chinese medical journal,13,,Journal Article
-37532222,2024,Association of physical activity with risk of chronic kidney disease in China: A population-based cohort study.,Journal of sport and health science,1;7,,Journal Article
+37532222,2024,Association of physical activity with risk of chronic kidney disease in China: A population-based cohort study.,Journal of sport and health science,1;7,,"Journal Article;Research Support, Non-U.S. Gov't"
 37518346,2023,Red Meat Consumption and Risk of Cardio-Cerebrovascular Disease in Chinese Older Adults.,International heart journal,1;6;11;14,,Journal Article
 37482703,2023,[Tea consumption and cancer: a Mendelian randomization study].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,2;5;10,,English Abstract;Journal Article
 37482702,2023,[Epidemiological distribution characteristics of peripheral blood mosaic chromosomal alteration in adults from 10 regions of China].,Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi,,,English Abstract;Journal Article

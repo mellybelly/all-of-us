@@ -1,20 +1,20 @@
 theme_code,theme_name,aou_share,peer_median_share,aou_vs_peers_index,flag
-1,Cardiometabolic disease,0.2836,0.4304,0.659,
-2,Genomics methods & complex-trait genetics,0.2493,0.6145,0.406,AoU-under (<0.5)
-3,"Methods, infrastructure & phenotyping (non-genomic)",0.1835,0.0614,2.989,AoU-over (>2.0)
-4,"Mental health, behavioral & substance use",0.1884,0.1315,1.433,
-5,Cancer,0.1275,0.1402,0.909,
-6,Social determinants of health & health disparities,0.3291,0.0645,5.106,AoU-over (>2.0)
-7,Wearables & digital health,0.0539,0.0382,1.413,
-8,Infectious disease & immunology,0.0602,0.0436,1.381,
-9,Autoimmune & inflammatory disease,0.0756,0.0364,2.075,AoU-over (>2.0)
-10,Rare disease & Mendelian genetics,0.0378,0.1535,0.246,AoU-under (<0.5)
-11,"Aging, frailty & ADRD",0.0546,0.065,0.84,
-12,Dermatology,0.1394,0.0203,6.864,AoU-over (>2.0)
-13,Respiratory & sleep medicine,0.042,0.0785,0.535,
-14,Neurology (non-ADRD),0.0574,0.1342,0.428,AoU-under (<0.5)
-15,"Pregnancy, maternal & women's health",0.0266,0.0513,0.519,
-16,Pharmacogenomics & drug response,0.0238,0.0052,4.583,AoU-over (>2.0)
-17,"ELSI, participant engagement & recruitment",0.049,0.0019,26.283,AoU-over (>2.0)
-18,"Ophthalmology, ENT & sensory medicine",0.0756,0.049,1.543,
-19,Environmental health & climate,0.0056,0.0137,0.41,AoU-under (<0.5)
+1,Cardiometabolic disease,0.2904,0.4376,0.664,
+2,Genomics methods & complex-trait genetics,0.2577,0.6168,0.418,AoU-under (<0.5)
+3,"Methods, infrastructure & phenotyping (non-genomic)",0.1857,0.0653,2.843,AoU-over (>2.0)
+4,"Mental health, behavioral & substance use",0.1942,0.1322,1.469,
+5,Cancer,0.1289,0.139,0.927,
+6,Social determinants of health & health disparities,0.3261,0.0605,5.389,AoU-over (>2.0)
+7,Wearables & digital health,0.0526,0.0386,1.362,
+8,Infectious disease & immunology,0.0569,0.0434,1.31,
+9,Autoimmune & inflammatory disease,0.0762,0.036,2.115,AoU-over (>2.0)
+10,Rare disease & Mendelian genetics,0.0375,0.1502,0.25,AoU-under (<0.5)
+11,"Aging, frailty & ADRD",0.0569,0.0709,0.802,
+12,Dermatology,0.1283,0.02,6.416,AoU-over (>2.0)
+13,Respiratory & sleep medicine,0.0417,0.0785,0.532,
+14,Neurology (non-ADRD),0.0611,0.132,0.463,AoU-under (<0.5)
+15,"Pregnancy, maternal & women's health",0.029,0.0508,0.572,
+16,Pharmacogenomics & drug response,0.023,0.0053,4.307,AoU-over (>2.0)
+17,"ELSI, participant engagement & recruitment",0.0436,0.0018,24.026,AoU-over (>2.0)
+18,"Ophthalmology, ENT & sensory medicine",0.0732,0.0512,1.431,
+19,Environmental health & climate,0.006,0.0172,0.353,AoU-under (<0.5)

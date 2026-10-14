@@ -711,7 +711,6 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 1498,40042447,2025,Polygenic score integrating neurodegenerative and vascular risk informs dementia risk stratification,0,0,0,0,0,0,0,0
 1500,40036039,2025,Benefits of Patient-Clinician Communication for Timely Health Care Visits in Patients Perceiving Discrimination,0,0,0,0,0,0,0,0
 1505,40057902,2025,Re: Lee et al.: Associations between statin use and glaucoma in the All of Us Research Program (Ophthalmol Glaucoma. 2024;7:563-571),0,0,0,0,0,0,0,0
-1506,40057900,2025,Re: Lee et al.: Associations between statin use and glaucoma in the All of Us Research Program (Ophthalmol Glaucoma. 2024;7:563-571),0,0,0,0,0,0,0,0
 1507,40053216,2025,Sex Differences in Cigarette Smoking Among Hispanic and Non-Hispanic Black All of Us Participants: The Relative Importance of Sociodemographic Characteristics and Social Determinants of Health,0,0,0,0,0,0,0,0
 1508,40052488,2025,A toolkit for academic libraries to create interdisciplinary interest in the All of Us Researcher Workbench across campus communities,0,0,0,0,0,0,0,0
 1509,40050991,2025,Lessons from national biobank projects utilizing whole-genome sequencing for population-scale genomics,0,0,0,0,0,0,0,0
@@ -1063,7 +1062,7 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 2356,41091468,2025,Implications of a New Obesity Definition Among the All of Us Cohort,0,0,0,0,0,0,0,0
 2357,41083945,2025,Disruptions of healthcare visits and viral suppression for people living with HIV during the COVID-19 pandemic in the US,0,0,0,0,0,0,0,0
 2358,41073786,2025,Population-scale gene-based analysis of whole-genome sequencing provides insights into metabolic health,0,0,0,0,0,0,0,0
-2588,41111945,2025,Building analytical capacity for research at Federally Qualified Health Centers through the I(content=['All of Us']) Research Program,0,0,0,0,0,0,0,0
+2588,41111945,2025,Building analytical capacity for research at Federally Qualified Health Centers through the All of Us Research Program,0,0,0,0,0,0,0,0
 2592,41024427,2025,Semiparametric efficient estimation of small genetic effects in large-scale population cohorts,0,0,0,0,0,1,0,0
 2593,41006893,2025,Comparative Analysis of White and African American Groups Reveals Unique Lipid and Inflammatory Features of Diabetes,1,0,0,0,0,0,0,0
 2595,40996158,2025,Using Data from All of Us to Examine Cardiovascular Risk,0,0,0,0,0,0,1,0
@@ -1080,7 +1079,6 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 2621,40019565,2025,Cutaneous T-cell lymphoma epidemiology: perspectives and updated prevalence data,0,0,0,0,0,0,0,0
 2622,39976965,2025,Cancer Risk and Estimated Lithium Exposure in Drinking Groundwater in the US,0,0,0,0,0,0,0,0
 2815,41190717,2025,Is the Association of Cannabis Use and Stroke Frequency-Dependent: A Cross-Sectional Analysis of the NIH All of Us Research Program,0,0,0,0,0,0,0,0
-2816,41176738,2025,Intersection of race and ethnicity with perceptions of health status and literacy in adult patients with spinal deformity: insights from the all of us research program,0,0,0,0,0,0,0,0
 2817,41130899,2025,Patient-Provider Relationships Influence Reception of Postmastectomy Breast Reconstruction: An Analysis of the All of Us Research Program,0,0,0,0,0,0,0,0
 2818,41129161,2025,Biological Sex and Chronic Rhinosinusitis Diagnosis and Biomarkers,0,0,0,0,0,0,0,0
 2819,41121728,2025,Evaluating the association between upstream perceived individual and neighborhood determinants of health and intensity of breast cancer screening,0,0,1,0,0,0,0,0
@@ -1128,17 +1126,15 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 2886,41204713,2025,"Alcohol Use, Cannabis Use, and Discrimination by Sexual Orientation and Gender Identity Within the All of Us Research Program",0,0,0,0,0,0,0,0
 2887,41201377,2025,A Multi-Institutional and Nationwide Analysis of the Social Determinants of Persistent Pain After Surgery,0,0,0,0,0,0,0,0
 2890,41370653,2025,Associations Between Physical Activity and Glaucoma: Analysis of the National Institutes of Health All of Us Research Program,0,1,0,0,0,0,0,0
-2891,41373394,2025,Investigating Asthma Disparities in Hispanic Communities Using Machine Learning Algorithms on the I(content=['All of Us']) Researcher Workbench,0,0,0,0,0,0,0,0
+2891,41373394,2025,Investigating Asthma Disparities in Hispanic Communities Using Machine Learning Algorithms on the All of Us Researcher Workbench,0,0,0,0,0,0,0,0
 2892,41382090,2025,Physical activity phenotypes in endometriosis using unsupervised learning via functional mixture models,0,1,0,0,0,0,0,0
 2893,41390778,2025,Multi-task learning identifies shared genetic risk for late-onset epilepsy and alzheimer's disease,0,0,0,0,0,0,0,0
 2894,41396877,2025,Predicting Incident Type 2 Diabetes Using Wearable Activity and Polygenic Risk: A Survival-Modeling Study in All of Us,0,1,0,0,0,0,0,0
 2895,41396460,2025,"Socioeconomic disparities in patient-reported outcomes, health literacy, and access to care among patients with primary brain tumors: findings from the All of Us Research Program",0,0,0,0,0,0,0,0
 2897,41394310,2025,Association of Accelerometer Measured Physical Activity with Presence of Diabetic Retinopathy,0,1,0,0,0,0,0,0
-2898,41392110,2025,Housing-related stress and substance use in the United States: a cross-sectional analysis of All of Us Research Program data,0,0,0,0,0,0,0,0
 2899,41391338,2025,Racial and ethnic differences in rates of reduction mammoplasty among women with macromastia: An analysis of the All of Us Research Program,0,0,0,0,0,0,0,0
 2900,41404363,2025,Sex differences in pain in 2 large and diverse US databases,0,0,0,0,0,0,0,0
 2902,41403271,2025,Investigating the polygenic relationship between heavy cannabis use and schizophrenia in the All of Us Research Program,0,0,0,0,0,0,0,0
-2903,41402679,2025,National mental health burden in adults with spinal deformity: a propensity-matched analysis using the All of Us Research Program,0,0,0,0,0,0,0,0
 2904,41402223,2025,Pathogenic CFTR variants as cancer risk modifiers: Findings from the all of us cohort,0,0,0,0,0,0,0,0
 2905,41417486,2025,"Gender, Sexual Orientation, and Intersectionality in Oral Health Care",0,0,0,0,0,0,0,0
 2907,41420475,2025,"Relationship between social determinants of health, health-related quality of life, health perceptions, and physical activity during pregnancy",0,1,0,0,0,0,0,0
@@ -1167,12 +1163,10 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3068,41490221,2026,"Technology Access, Digital Literacy, and Enrollment Support Preferences in a Federally Qualified Health Center: Cross-Sectional Study",0,0,0,0,0,0,0,0
 3069,41528460,2026,Measuring the accuracy of electronic health record-based phenotyping in the All of Us Research Program to optimize statistical power for genetic association testing,0,0,0,0,0,0,0,0
 3070,41516962,2025,The Moderating Effect of Social Support on the Association Between Healthcare Discrimination and Quality of Life in Persons with Type 2 Diabetes,0,0,0,0,0,0,0,0
-3071,41518215,2026,"Genetic Risk Scores, Perceived Neighborhood Disorder, and Sleep Duration",0,0,0,0,0,1,0,0
 3072,41527323,2026,Alcohol use-specific treatment initiation among patients undergoing surgical procedures: A retrospective cohort analysis,0,0,0,0,0,0,0,0
 3073,41532026,2025,Association between diabetic retinopathy and neurodegenerative diseases in the All of Us research program,0,0,0,0,0,0,0,0
 3074,41543982,2026,"Inflammatory Bowel Disease is Associated with Pericarditis: A Cross-Sectional Study in an NIH-Sponsored, Nationwide Database",0,0,0,0,0,0,0,0
 3075,41524576,2026,Barrett's esophagus-associated genetic loci in African Americans: a case-control study using the All of Us Research Program,0,0,0,0,0,0,0,0
-3076,41533225,2026,The association between loneliness and quality of life in cancer survivors: All of Us research program,0,0,0,0,0,0,0,0
 3077,41536210,2026,Assessing the generalizability of prevalence estimates from the all of us research program,0,0,0,0,0,0,0,0
 3078,41545798,2026,"Depression, anxiety, and post-traumatic stress disorder in association with cardiovascular disease among patients with systemic lupus erythematosus and rheumatoid arthritis in the All of Us Research Program",0,0,0,0,0,0,0,0
 3079,41547287,2026,"Dysphagia in heart failure: Demographics, nutritional status, and patient-reported outcomes",0,0,0,0,0,0,1,0
@@ -1220,7 +1214,7 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3142,41717497,2026,Association Between Self-Reported Smoking Behaviour and Fuchs Endothelial Corneal Dystrophy: A Cross-Sectional Analysis,0,0,0,0,0,0,0,0
 3148,41726399,2025,Cross Biobank Comparison of Phenomic Profiles,0,0,0,0,0,0,0,0
 3150,41706057,2026,Cardiomyopathy Gene Variants and Polygenic Risk Scores in Atrial Fibrillation: Evidence for an Atrial-First Phenotype,0,0,0,0,0,0,0,0
-3152,41704839,2026,"National Patterns of Biomarker Testing in Colorectal, Lung, and Prostate Cancers: Insights From the NIH I(content=['All of Us']) Research Program",0,0,0,0,0,0,0,0
+3152,41704839,2026,"National Patterns of Biomarker Testing in Colorectal, Lung, and Prostate Cancers: Insights From the NIH All of Us Research Program",0,0,0,0,0,0,0,0
 3154,41712304,2026,Multi-trait polygenic scores for COPD and COPD exacerbations implicate druggable proteins,1,0,0,0,0,0,0,0
 3155,41714741,2026,Host control of persistent Epstein-Barr virus infection,0,0,0,0,0,0,0,0
 3156,41713510,2026,Social Determinants of Health Associated with Orbital and Facial Fractures in the United States using NIH All of Us Research Program,0,0,0,0,0,0,0,0
@@ -1248,7 +1242,7 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3186,41811315,2026,Precision Diagnosis in APOL1 Kidney Disease With the p.N264K M1 Protective Variant,0,0,0,0,0,0,0,0
 3187,41810985,2026,Barriers to Health Care Access and Use among Racial and Ethnic Minorities with Renal Cell Carcinoma,0,0,0,0,0,0,0,0
 3188,41804899,2026,Defining Spiritual Wellbeing in Survivors of Stroke: A Convergent Parallel Mixed Methods Study,0,0,0,0,0,0,0,0
-3189,41810111,2026,Metabolic Risk Factors and Clinical Presentations of Metabolic Dysfunction-associated Steatotic Liver Disease Using Data from the I(content=['All of Us']) Research Program,0,0,0,0,0,0,0,0
+3189,41810111,2026,Metabolic Risk Factors and Clinical Presentations of Metabolic Dysfunction-associated Steatotic Liver Disease Using Data from the All of Us Research Program,0,0,0,0,0,0,0,0
 3190,41822200,2026,Assessing data quality of rheumatoid and psoriatic arthritis patients in the All of Us Research Program,0,0,0,0,0,0,0,0
 3191,41809919,2025,Atopic Comorbidities Associated With Chronic Spontaneous Urticaria: A Case-Control Analysis of the All of Us Research Program,0,0,0,0,0,0,0,0
 3192,41819535,2026,Ozone and risk of chronic obstructive pulmonary disease in the united states: demographic insights from the all of us research program,0,0,0,0,0,0,0,0
@@ -1283,7 +1277,7 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3320,41199076,2025,Influence of genetic polymorphisms on gefitinib pharmacokinetics and adverse drug reactions in non-small cell lung cancer patients,0,0,0,0,0,0,0,0
 3321,41188338,2025,Calibrating genome wide significance by minor allele frequency across three major populations,0,0,0,0,0,0,0,0
 3322,41851740,2026,"Discrimination, social support, and mental health in reproductive-aged women: the All of Us research program",0,0,0,0,0,0,0,0
-3323,41856979,2026,"Leveraging the I(content=['All of Us']) Research Program to Advance Women's Health: Addressing Conditions that Affect Women Differently, Disproportionately, and Uniquely",0,0,0,0,0,0,0,0
+3323,41856979,2026,"Leveraging the All of Us Research Program to Advance Women's Health: Addressing Conditions that Affect Women Differently, Disproportionately, and Uniquely",0,0,0,0,0,0,0,0
 3324,41856922,2026,Characterizing Social Determinants of Health in GI Cancer Surgery: Insights From the All of Us Research Program,0,0,0,0,0,0,0,0
 3328,41936394,2026,Rare Gain-of-Function Variants in IDH1 and IDH2 Confer Increased Risk of Immune-Mediated Rheumatic Diseases,0,0,0,0,0,0,0,0
 3330,41931135,2026,Disparities in multidimensional psychosocial stressors by sexual identity among cancer survivors from the All of Us Research Program,0,0,0,0,0,0,0,0
@@ -1319,7 +1313,6 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3386,41988958,2026,"Health care discrimination and self-reported health in transgender, gender nonconforming, and nonbinary individuals with cancer",0,0,0,0,0,0,0,0
 3388,41980777,2026,Putting polygenic scores in context: How intersectional factors affect relative and absolute genetic risk,0,0,0,0,0,0,0,0
 3391,41979877,2026,Barriers to Health Care and Cancer Screening,0,0,0,0,0,0,0,0
-3392,41967915,2026,GLP1R expression and parkinson's disease and related disorders in GLP-1RA-treated type 2 diabetes,0,0,0,0,0,0,0,1
 3393,41147828,2025,Genetics of Cholesterol and Coronary Disease Risk across Six Global Ancestries,0,0,0,0,0,0,0,0
 3394,42006434,2026,Polygenic risk scores enhance LDL cholesterol-based risk stratification for coronary artery disease,0,0,0,0,0,0,0,0
 3395,42006417,2026,Derivation and validation of a widely accessible cardiovascular risk prediction model and derived heart age for the general UK and US populations,0,0,0,0,0,0,0,0
@@ -1338,16 +1331,22 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3412,42062286,2026,Admixture-informed polygenic risk reporting using the ePRS framework,0,0,0,0,0,0,0,0
 3413,42061729,2026,"Walkable neighborhoods are associated with lower psychological distress through device-measured physical activity: Evidence from the all of us research program, United States",0,0,0,0,1,0,0,0
 3414,42068725,2026,Incidence of substance use disorders and comorbidities in the All of Us Research Program,0,0,0,0,0,0,0,0
+3417,42026014,2026,Whole Genome Sequence Analysis of Weight Loss in 16 972 Participants With COPD Reveals Novel Risk Loci in DRAIC and RFX3,1,0,0,0,0,0,0,0
+3418,42046718,2026,Ambient Temperature and Psoriatic Arthritis Odds Among Patients With Psoriasis: A Cross-sectional Analysis,0,0,0,0,0,0,0,0
+3421,41857510,2026,Prediction and monitoring of accrual and rate of underrepresented biomedical research group using bayesian methods,0,0,0,0,0,0,0,0
 3422,42060871,2026,Evaluating Minority Representation in the All of Us Research Program: Progress and Ongoing Challenges,0,0,0,0,0,0,0,0
 3423,42057909,2026,National Trends in Utilization of Speech-Language Pathology and Otolaryngology Services for Dysphonia,0,0,0,0,0,0,0,0
 3424,42056682,2026,Identification of Alzheimer's disease subtypes and biomarkers from human multi‐omics data using subspace merging algorithm,1,0,0,0,0,0,0,0
-3435,42083104,2026,Periodontal Disease Among People Living With Diabetes: Examining Social Determinants of Health in an All of Us Study Sample,0,0,0,0,0,0,0,0
+3433,42074049,2026,Genome-Wide Association Study of Genetic Variants Associated with Lower Extremity Amputation Risk in Peripheral Artery Disease,0,0,0,0,0,0,0,0
+3437,42081737,2026,Characterizing Physical Activity Trajectories Preceding Incident Major Depressive Disorder Diagnosis With Consumer Wearable Devices in the All of Us Research Program: Retrospective Nested Case-Control Study,0,1,0,0,0,0,0,0
+3438,42081475,2026,Dynamically predicting renal failure after development of diabetes across biobanks,0,0,0,0,0,0,0,0
 3440,42089531,2026,Association of Perioperative Steps and Heart Rate Variability from Wearable Devices with Surgical Outcomes,0,1,0,0,0,0,0,0
 3441,42086912,2026,Multi-scale data improves performance of machine learning model for long COVID identification,0,0,0,0,0,0,0,0
 3442,42086565,2026,Multi-trait polygenic risk scores improve genomic prediction of atrial fibrillation across diverse ancestries,0,0,0,0,0,0,0,0
 3447,42101253,2026,Barriers to Care Among Elderly Patients Diagnosed With Degenerative Conditions of the Lumbar Spine,0,0,0,0,0,0,0,0
 3448,42100464,2026,Evidence of variations in genetic prevalence for loss-of-function I(content=['PKP2']) variants between individuals with European and African ancestry,0,0,0,0,0,0,0,0
 3449,42103273,2026,Onset of Depression Among Gastrointestinal Cancer Survivors: An 'All of Us' Research Program Study,0,0,0,0,0,0,0,0
+3451,42112242,2026,Psychiatric Comorbidities in Pseudofolliculitis Barbae: A Cross-Sectional Study of the All of Us Database,0,0,0,0,0,0,0,0
 3452,42109864,2026,Unmet health care needs in immune thrombotic thrombocytopenic purpura survivors,0,0,0,0,0,0,0,0
 3453,42109163,2026,Uncovering Coenzyme Q10-Related Genetic Determinants of Statin-Associated Muscle Symptoms: Evidence from the UK Biobank and the All of Us Research Program,1,0,0,0,0,1,0,0
 3454,42117589,2026,GLP-1 receptor agonist use and liver-related outcomes in MASLD and type 2 diabetes in the All of Us Research Program,0,0,0,0,0,0,0,1
@@ -1373,7 +1372,7 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3487,42156780,2026,Gene-gene interactions between a LMNA variant and common polymorphisms drive early-onset atrial fibrillation,0,0,0,0,0,0,0,0
 3490,41917126,2026,Development and evaluation of cardiovascular disease risk prediction models for patients with type 2 diabetes,0,0,0,0,0,0,0,0
 3491,42170533,2026,Metabolic syndrome severity is related to perceived discrimination and stress in the all of us cohort,0,0,0,0,0,0,0,0
-3492,42170804,2027,Development of polyphenotypic scores to prioritize detection of G6PD rs1050828 carriers in African and African American populations,0,0,0,0,0,0,0,0
+3492,42170804,2026,Development of polyphenotypic scores to prioritize detection of G6PD rs1050828 carriers in African and African American populations,0,0,0,0,0,0,0,0
 3493,42168119,2026,Clinical Implications of the Duffy-Null Genotype in Patients on Azathioprine or Methotrexate in the All of Us Cohort,0,0,0,0,0,0,0,0
 3494,42183299,2026,Associations between neighborhood disorder and mental health service utilization in the All of Us study,0,0,0,0,0,0,0,0
 3498,42174909,2026,Designing a Multimodal Data Structure for Cognitive Decline Using All of Us Resources and Gemini Flash Thinking,0,0,0,0,0,0,0,0
@@ -1391,7 +1390,6 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3520,42216960,2026,Gene burden meta-analysis of 748 879 individuals identifies LGI1-ADAM23 protein complex association with epilepsy,0,0,0,0,0,0,0,0
 3523,42221534,2026,The Whole Person Health Index: A Self-Reported Tool to Assess Whole Person Health,0,0,0,0,0,0,0,0
 3525,42231823,2026,Adaptive transfer learning for time-to-event modeling with applications in disease risk assessment,0,0,0,0,0,0,0,0
-3527,42246337,2026,"Cardiometabolic comorbidities associated with androgenetic alopecia: Findings from a sex-stratified, propensity-matched national cohort",0,0,0,0,0,0,0,0
 3528,42236576,2026,MetaSTAARlite: an all-in-one tool for biobank-scale whole-genome sequencing meta-analysis,0,0,0,0,0,0,0,0
 3533,42015188,2026,Identification of novel reproducible combinatorial genetic risk factors for myalgic encephalomyelitis in the DecodeME patient cohort and commonalities with long COVID,0,0,0,0,0,0,0,0
 3534,42243838,2026,TASC: a time-aware sequence clustering framework with uncertainty quantification for electronic health record trajectories,0,0,0,0,0,0,0,0
@@ -1417,7 +1415,6 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3563,41580836,2026,A deep ensemble encoder network method for improved polygenic risk score prediction,0,0,0,1,0,0,0,0
 3564,42292079,2026,Deterministic Overlapping Multimorbidity Phenotypes for Leakage-Safe EHR Modeling of Incident Cognitive Impairment in All of Us,0,0,0,0,0,0,0,0
 3565,42291053,2026,Association between cardio-kidney-metabolic syndrome and early or very early onset atrial fibrillation,0,0,0,0,0,0,0,0
-3566,41548154,2026,"Health Literacy by Hispanic Ethnicity and its Association with Healthcare Experiences, Self-rated Health, and Quality of Life",0,0,0,0,0,0,0,0
 3567,42289619,2026,"Interpretable Machine Learning in Heavy Metal-Associated Cardiovascular and Metabolic Disease: A Review of Current Methodologies, Toxicological Insights, and Clinical Implications",0,0,0,1,0,0,0,0
 3568,42302012,2026,Long COVID risk by pre-infection symptoms and functional status: A retrospective cohort study of data from the All of Us Research Program,0,0,0,0,0,0,0,0
 3569,42312239,2026,Head and Neck Manifestations in Sarcoidosis: An All of Us Research Program Matched Case‐Control Study,0,0,0,0,0,0,0,0
@@ -1427,3 +1424,231 @@ record_id,pubmed_id,year,title,HA1,HA2,HA3,HA4,HA5,HA6,HA7,HA8
 3576,42298300,2026,Privacy-enhancing sequential learning under heterogeneous selection bias in multi-site electronic health records data,0,0,0,0,0,0,0,0
 3577,42141198,2026,Population-scale genomic medicine with the Hong Kong Genome Project,0,0,0,0,0,0,0,0
 3579,42308439,2026,Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation,0,0,0,0,0,0,0,1
+3581,42334204,2026,A comparison of Fast Healthcare Interoperability Resources and Observational Medical Mutcomes Partnership electronic health record data within the All of Us Research Program,0,0,0,0,0,0,0,0
+3582,42332142,2026,Biological aging and generational shifts in early-onset cancer risk,1,0,0,0,0,0,0,0
+3583,42330952,2026,Integrating social determinants of health and genetic risk in disease risk models,0,0,0,0,0,0,0,0
+3584,42348262,2026,Can the All of Us sample be reweighted to mirror a nationally representative sample? A comparison of mortality predictors,0,0,0,0,0,0,0,0
+3585,42348210,2026,Sex-Based Disparities in Health Care Access and Utilization Among Patients With Atrial Fibrillation,0,0,0,0,0,0,0,0
+3586,42344960,2026,Psychiatric Outcomes after GLP-1 Receptor Agonists versus Metformin in Hidradenitis Suppurativa,0,0,0,0,0,0,0,1
+3587,42364979,2026,Development and validation of a multiancestry and multitrait polygenic risk score for lung cancer,0,0,0,0,0,0,0,0
+3591,42337515,2026,Associations between discrimination and mental healthcare utilization among racial and ethnic minority cancer survivors in the All of Us Research Program,0,0,0,0,0,0,0,0
+3595,41993943,2026,Diagnosis of immunobullous diseases in underrepresented groups: an all of us database study,0,0,0,0,0,0,0,0
+3598,42377309,2026,Association Between Demyelinating Disease and Dry Eye Syndrome: A Matched Case-Control Study,0,0,0,0,0,0,0,0
+3599,42376469,2026,Everyday and healthcare discrimination and polysubstance use among U.S. adults,0,0,0,0,0,0,0,0
+3601,,2025,AOUSDOHtools: An R Package for Social Determinants of Health Survey data in the All of Us Research Program,0,0,0,0,0,0,0,0
+3604,42391057,2026,Sociodemographic trends in prostate cancer: Insights from the all of Us research program,0,0,0,0,0,0,0,0
+3605,42390441,2026,Cerebrovascular risk with calcitonin gene-related peptide monoclonal antibodies versus onabotulinumtoxinA in patients with migraine: A real-world pharmacoepidemiologic study in the National Institutes of Health All of Us Research Program,0,0,0,0,0,0,0,0
+3608,42395089,2026,"Body mass index, waist-to-height ratio, and the risks of early-onset heart failure in adults age under 45",0,0,0,0,0,0,0,0
+3609,42394043,2026,Estimating Mosaic Loss of the Y Chromosome in Male Bladder Cancer Participants Using 'All of Us' Data,0,0,0,0,0,0,0,0
+3610,42394004,2026,ICD-10 and SNOMED CT Representations of Cognitive Decline in All of Us,0,0,0,0,0,0,0,0
+3611,42392034,2026,A transparent and generalizable deep-learning framework for genomic ancestry prediction,0,0,0,1,0,0,1,0
+3613,42400801,2026,Discovery of a Polymorphic Gene Fusion via Bottom-Up Chimeric RNA Prediction: Case Study,0,0,0,0,0,0,0,0
+3614,42401309,2026,Sociodemographic Determinants of Food Insecurity and Its Association with BMI in Individuals with Spinal Cord Injury: A Cross-Sectional Analysis from the All of Us Research Program,0,0,0,0,0,0,0,0
+3616,42391344,2026,Misaligned Expectations: Motivations of Medically Underserved People to Enroll in the All of Us Research Program,0,0,0,0,0,0,0,0
+3617,42395085,2026,Intake of B vitamins and their circulating levels in relation to incident stroke in women and men: Findings from two national prospective cohorts in the United States,0,0,0,0,0,0,1,0
+3621,42391302,2026,The Impact of Patient-Provider Relationships on Prostate Cancer Screening: A Cross-Sectional Analysis of the All of Us Research Program,0,0,0,0,0,0,0,0
+3623,42383063,2026,"Hypertension among Middle Eastern and North African adults residing in the United States: addressing equity in health research representation using the All of Us Research Program, 2000–2024",0,0,0,0,0,0,0,0
+3624,42381368,2026,Characterizing endometriosis and adenomyosis symptom clusters and their impact on quality of life in the All of Us Research Program,0,0,0,0,0,0,0,0
+3625,42383963,2026,Glycated hemoglobin levels in participants with diabetes and oral disease enrolled in the All of Us Research Program,0,0,0,0,0,0,0,0
+3627,42403874,2026,Racial Differences in Psychosocial Outcomes Among Prostate Cancer Survivors: Insights From the All of Us Research Program,0,0,0,0,0,0,0,0
+3628,42411868,2026,Genomic Copy Number Variants Associated With Strabismus and Amblyopia in the All of Us Research Program,0,0,0,0,0,0,0,0
+3631,41402679,2025,National mental health burden in adults with spinal deformity: a propensity-matched analysis using the All of Us Research Program,0,0,0,0,0,0,0,0
+3632,41392110,2025,Housing-related stress and substance use in the United States: a cross-sectional analysis of All of Us Research Program data,0,0,0,0,0,0,0,0
+3633,,2025,Multiple conditions associated with keloids in All of Us database by performing a case control study with all conditions,0,0,0,0,0,0,0,0
+3634,,2025,Psychosocial impact of melasma: Asian Americans and people with pre-existing anxiety disorders are disproportionately affected,0,0,0,0,0,0,0,0
+3636,,2025,Perceived Healthcare Discrimination and Barriers to Care for Older Adults Living with Traumatic Brain Injury,0,0,0,0,0,0,0,0
+3638,41518215,2026,"Genetic risk scores, perceived neighborhood disorder, and sleep duration",0,0,0,0,0,0,0,0
+3639,41548154,2026,"Health Literacy by Hispanic Ethnicity and its Association with Healthcare Experiences, Self-rated Health, and Quality of Life",0,0,0,0,0,0,0,0
+3640,41533225,2026,The association between loneliness and quality of life in cancer survivors: All of Us research program,0,0,0,0,0,0,0,0
+3641,41611518,2026,MITF (p.E318K) and renal cell carcinoma: current evidence does not support an effect,0,0,0,0,0,0,0,0
+3642,41176738,2026,Intersection of race and ethnicity with perceptions of health status and literacy in adult patients with spinal deformity: insights from the all of us research program,0,0,0,0,0,0,0,0
+3643,,2025,Residuals and Overdispersion in Generalized Linear Models,0,0,0,0,0,0,0,0
+3644,,2025,Association of prurigo nodularis with risk of melanoma and nonmelanoma skin cancer: a case-control study using the all of US research database,0,0,0,0,0,0,0,0
+3645,,2025,"Weekly Journal Scan: Machine learning, polygenic risk, and the next frontier in coronary artery disease prediction and prevention",0,0,0,0,0,0,0,0
+3646,42246337,2026,"Cardiometabolic comorbidities associated with androgenetic alopecia: Findings from a sex-stratified, propensity-matched national cohort",0,0,0,0,0,0,0,0
+3650,,2026,Uterine leiomyomas in adult female patients with atopic dermatitis: a cross-sectional study in the NIH All of Us research program,0,0,0,0,0,0,0,0
+3651,,2026,Comorbidities and autoimmune disease associations in patients with leukocytoclastic vasculitis: a cross-sectional study of the all of Us database,0,0,0,0,0,0,0,0
+3654,,2026,"Leveraging the   All of Us   Research Program to Advance Women’s Health: Addressing Conditions that Affect Women Differently, Disproportionately, and Uniquely",0,0,0,0,0,0,0,0
+3657,41847932,2026,"Association of Clonal Hematopoiesis With Incident, Late‐Onset, Seropositive Rheumatoid Arthritis",0,0,0,0,0,0,0,0
+3659,,2026,Multidisciplinary Viewpoints on Pain Disparities: An Exemplar of the ASPMN Position Statement with Findings from the All of Us Dataset,0,0,0,0,0,0,0,0
+3660,41894445,2026,Prospect of Improving Clinical Decisions Informed by Genetic Variations in the Population,0,0,0,0,0,0,0,0
+3678,41922866,2026,Heterogeneity of leukocyte telomere length and its associations with phenotypes and genotypes,0,0,0,0,0,0,0,0
+3680,,2026,"Health literacy, healthcare access, and self-perception of health among intracranial tumor patients: an analysis of the National Institute of Health (NIH) “All of Us” research program",0,0,0,0,0,0,0,0
+3681,41981146,2026,Smartwatches capture early functional decline in heart failure,0,0,0,0,0,0,0,0
+3683,41967915,2026,GLP1R   expression and parkinson’s disease and related disorders in GLP-1RA-treated type 2 diabetes,0,0,0,0,0,0,0,1
+3699,,2026,Global Trends in Biomonitoring Data Management and Service Platforms and Implications for South Korea,0,1,0,0,0,0,0,0
+3703,,2026,"Psychosocial factors and patient–provider interactions associated with procedural migraine care: A cohort of 23,163 patients from the NIH All of Us Research Program",0,0,0,0,0,0,0,0
+3704,,2026,Assessing cutaneous malignancy risk in hidradenitis suppurativa: A case-control analysis from the All of us research program,0,0,0,0,0,0,0,0
+3706,,2026,Structural patterns of intersectional stigma among sexual and gender minorities: A psychometric network analysis of the All of Us cohort,0,0,0,0,0,0,0,0
+3709,,2026,Cumulative Risk Profiles and Comorbidity Burden Among Men with Oropharyngeal Cancer: A Cohort Analysis from the All of Us Research Program,0,0,0,0,0,0,0,0
+3710,,2026,Association between phosphodiesterase type 5 inhibitor use and fracture risk in older men,0,0,0,0,0,0,0,0
+3711,42117589,2026,Glucagon-Like Peptide-1 Receptor Agonist Use and Liver-Related Outcomes in Metabolic Dysfunction-Associated Steatotic Liver Disease and Type 2 Diabetes in the All of Us Research Program,0,0,0,0,0,0,0,1
+3712,42083104,2026,Periodontal Disease Among People Living With Diabetes: Examining Social Determinants of Health in an   All of Us   Study Sample,0,0,0,0,0,0,0,0
+3727,,2026,Exploring Disparities in Post-Fracture Osteoporosis Pharmacotherapy Initiation: A Retrospective Cohort Study Utilizing the All of Us Research Database,0,0,0,0,0,0,0,0
+3763,42592480,2026,"Women's experience with gender‐based discrimination, social support, and health outcomes: A subgroup analysis of the   All of Us   Research Program study",0,0,0,0,0,0,0,0
+3765,,2026,Harness All of Us for Equitable Disease Risk Prediction: A Tutorial with Case Study on Genetic Prediction Score for Rheumatoid Arthritis,0,1,0,0,0,0,0,0
+3775,42534548,2026,The   All of Us   Evenings with Genetics Research Program,0,0,0,0,0,0,0,0
+3778,42418390,2026,Heterogeneous associations of socioeconomic status with metabolic disease in racial and ethnic subgroups in the United States: A cross-sectional cohort study in NHANES and All Of Us,0,0,0,0,0,0,0,0
+3779,42418093,2026,Comparative analysis of fatigue and mental health in sexual and gender minority cancer survivors,0,0,0,0,0,0,0,0
+3780,42424368,2026,A practical inflammatory blood-cell marker for cardiovascular risk stratification in psoriasis: Development of the Platelet-Leukocyte Adjusted Cardiovascular (PLAC) score,0,0,0,0,0,0,0,0
+3781,42422963,2026,Polygenic Prediction of Nongoal Response to Statin Therapy,0,0,0,0,0,0,0,0
+3782,42421789,2026,Computational phenotyping of sexually transmitted infections with the All of Us Research Program from 2010 to 2023,0,0,0,0,0,0,0,0
+3783,42437576,2026,Multi-ancestral genome-wide association study of chronic pain reveals widespread genetic correlations with mental and physical health traits,0,0,0,0,0,0,0,0
+3784,42435290,2026,"No association between alcohol consumption and hip osteoarthritis: a diverse national analysis of 87,585 adults from the 'All of Us' research program",0,0,0,0,0,0,0,0
+3789,42423024,2026,Association of GLP‐1 Receptor Agonist Prescriptions and Alcohol Consumption in the National Institutes of Health's All of Us Cohort,0,1,0,0,0,0,0,0
+3791,42446281,2026,Detecting Friedewald-Substituted 'Direct' LDL Cholesterol in a National Multi-Site Electronic Health Record Cohort: Prevalence and Benchmarking Impact,0,0,0,0,0,0,0,0
+3792,42443585,2026,Genetic architecture of lung cancer revealed by common and rare variant analyses across population-scale biobanks,1,0,0,0,0,0,0,0
+3794,42439302,2026,Opioid Use Disorder and Treatment Uptake among Patients with Rheumatic Conditions in the All of Us Research Program: A Descriptive Analysis,0,0,0,0,0,0,0,0
+3795,42453316,2026,"Fostering collaboration through learning communities: a case report on engaging with All of Us data among library professionals, faculty, and students",0,0,0,0,0,0,0,0
+3796,42453314,2026,Advancing data-driven health research from the All of Us data training and engagement program,0,0,0,0,0,0,0,0
+3797,42448078,2026,Ophthalmic Disease Burden in Adults with Autism Spectrum Disorder,0,0,0,0,0,0,0,0
+3798,42447869,2026,Additive value of polygenic risk and family history for coronary heart disease risk stratification in two diverse US cohorts,0,0,0,0,0,0,0,0
+3800,42462195,2026,Strengths and Limitations of All of Us Data Use for Public Health Research,0,0,0,0,0,0,0,0
+3804,42464254,2026,Healthcare-related social determinants of health are associated with pain severity among adults with comorbid heart failure and chronic pain,0,0,0,0,0,0,0,0
+3806,42468154,2026,Associations Between Metabolic Syndrome Severity and Future Coronary Heart Disease: The All of Us Cohort,0,0,0,0,0,0,0,0
+3807,42477634,2026,Early identification of cirrhosis risk in type 2 diabetes using the Fibrosis-4 index: evidence from a large U.S. cohort,0,0,0,0,0,0,0,0
+3808,42477629,2026,"Investigation of the impact of social, behavioral, and pre-existing clinical risk factors on preeclampsia",0,0,0,0,0,0,0,0
+3809,42457967,2026,A Bayesian framework for longitudinal EHR and genetic discovery,0,0,0,1,0,0,0,0
+3810,42457150,2026,Association between attention deficit hyperactivity disorder and keratoconus,0,0,0,0,0,0,0,0
+3814,42518911,2026,Real-World Comparative Weight Loss of GLP-1 Receptor Agonists in the All of Us Research Program: A Retrospective Cohort Study,0,0,0,0,0,0,0,1
+3815,,2026,The All of Us Pregnancy Cohort,0,1,0,0,0,0,0,0
+3816,,2026,Associations Between GLP‐1 Receptor Agonists and Alopecia: A Multi‐Centre Retrospective Analysis and Public Interest Trends,0,0,0,0,0,0,0,1
+3817,42484970,2026,Healthcare experiences and the cycle of genomic healthcare disparities: A cross-sectional study utilizing the 'All of Us' research program,0,0,0,0,0,0,0,0
+3818,,2026,"Sequencing in over 120,000 cases unveils the rare coding variant architecture of atrial fibrillation",0,0,0,0,0,0,0,0
+3819,42480826,2026,Non-infectious Uveitis is Associated With Increased Psychiatric Comorbidities: An All of Us research program Analysis,0,0,0,0,0,0,0,0
+3820,42485569,2026,Pharmacogenetic mechanism of cilostazol-induced headaches: Splicing-mediated loss of ABCC5 gene function,0,0,0,0,0,0,0,0
+3821,42488892,2026,Predictors of Postoperative Physical Therapy Utilization After Common Orthopaedic Procedures,0,0,0,0,0,0,0,0
+3822,42488171,2026,From clinics to discoveries: harnessing national EHR interoperability for research,0,0,0,0,0,0,0,0
+3823,42486408,2026,"Impact of modifiable risk factors, including diabetes, and diabetes-related complications, on dementia risk in older U.S. adults: mutually adjusted estimates from a population-based cohort",0,0,0,0,0,0,0,0
+3824,42496026,2026,"Large-scale Whole-Exome Sequencing Defines the Protein-Coding Architecture of Retinal Structure, Visual Function, and Major Blinding Diseases",0,0,0,0,0,0,0,0
+3826,42502904,2026,Accelerometry-Derived Activity and Sleep Patterns in the NIH All of Us Cohort: Insights and Predictive Potential for Inflammatory Arthritis,0,1,0,0,0,0,0,0
+3827,42512164,2026,Utilizing the All of Us Dataset to Assess the Socioeconomic and Health Impacts of COVID-19 on Hispanics in the United States,0,0,0,0,0,0,0,0
+3828,42504007,2026,Long-Term Physical Activity Patterns and Incident Kidney Stone Risk: A Wearable-Based Survival Analysis in U.S. Cohort,0,1,0,0,0,0,0,0
+3829,42512145,2026,Demographic and Socioeconomic Factors Associated with Fitbit Ownership in the NIH All of Us Cohort,0,1,0,0,0,0,0,0
+3831,42508771,2026,Genome-Wide and Rare Variant Association Studies of Amblyopia in Admixed American and African Ancestry Groups,0,0,0,0,0,0,0,0
+3833,42508691,2026,Multi-ancestry genome-wide association with fine-mapping identifies novel loci for pigment dispersion syndrome and pigmentary glaucoma,1,0,0,0,0,0,0,0
+3837,42527268,2026,Impact of PREVENT-ASCVD vs pooled cohort equations on statin eligibility across demographic groups: Insights from the NIH All of Us Research Program,0,0,0,0,0,0,0,0
+3838,42530347,2026,Imminent opioid overdose risk prediction using classical and machine learning survival models following first recorded opioid-related diagnosis: a prospective cohort study from the All of Us research program,0,0,0,0,0,0,0,0
+3840,42532455,2026,Ischemic Stroke Following Transient Ischemic Attack: Sociodemographic and Clinical Risk Factors in a National Cohort,0,0,0,0,0,0,0,0
+3843,42529241,2026,Machine learning algorithms for predicting glycemic control and weight loss outcomes in GLP-1 receptor agonist users,0,0,0,1,0,0,0,1
+3844,42539263,2026,Menstrual Disorder Frequency Across Ibuprofen and Oral Contraceptive Treatment Modalities in Reproductive-Age Women: A Population-Based Analysis Using the NIH All of Us Research Program,0,0,0,0,0,0,0,0
+3848,42561380,2026,Mental Health Conditions Associated With Nasolacrimal Duct Obstruction in the NIH All of Us Research Program,0,0,0,0,0,0,0,0
+3849,42554165,2026,Development of SCOPE: Social and Clinical Opioid Use Disorder Predisposition Evaluation,0,0,0,0,0,0,0,0
+3850,42565722,2026,Estimating the Causal Effect of Alcohol Consumption on Military-Relevant Mental Health Conditions: A Mendelian Randomization Study Using the All of Us Research Program,0,0,0,0,0,0,0,0
+3852,42565152,2026,A phenome-wide association study of rurality in the All of Us Research Program,0,0,0,0,0,0,0,0
+3853,42563258,2026,"Safety and Efficacy of GLP-1 Receptor Agonists in Adults With Epilepsy, Obesity, and Type 2 Diabetes",0,0,0,0,0,0,0,1
+3854,42568450,2026,Practical considerations for social determinant-based disease prediction in the All of Us research program,0,0,0,0,0,0,0,0
+3856,42574250,2026,CoCoRV-nf: a powerful and cost-effective tool for rare variant analysis leveraging external biobank sequence data identified new candidate predisposition genes in amyotrophic lateral sclerosis and neuroblastoma,0,0,0,0,0,0,0,0
+3857,42584889,2026,Genetic Ancestry and Colorectal Cancer in the All of Us Dataset,0,0,0,0,0,0,0,0
+3858,42583901,2026,Health-Related Social Needs and Health Care Access and Use by Payer Type,0,0,0,0,0,0,0,0
+3859,42573964,2026,E-cigarette use and Barrett's esophagus: evaluating a new risk in the era of vaping,0,0,0,0,0,0,0,0
+3860,42583460,2026,"Associations between Primary Hyperhidrosis and Psychiatric Conditions: A Matched Case-Control Study of 8,508 Patients",0,0,0,0,0,0,0,0
+3861,42287584,2026,"Association between electronic cigarette use and prediabetes, diabetes, and insulin resistance: a systematic review and meta-analysis",0,0,0,0,0,0,0,0
+3863,42579686,2026,Social determinants of nonmedical sedative and opioid use among U.S. Latinos,0,0,0,0,0,0,0,0
+3864,42595125,2026,Polygenic prediction of actinic keratosis identifies transplant recipients at risk of extreme lesion burden,0,0,0,0,0,0,0,0
+3865,42578165,2026,Retinal Artery Occlusion and Incident Dementia in the All of Us Research Program: Detection Bias Calibration with Prespecified Negative-Control Outcomes,0,0,0,0,0,0,0,0
+3866,42574953,2026,Trends and Patterns of Postoperative Opioid Exposure Among Surgical Patients After the 2016 Center for Disease Control Guideline for Prescribing Opioids,0,0,0,0,0,0,0,0
+3867,42594401,2026,Association Between Hidradenitis Suppurativa and Polycystic Ovary Syndrome,0,0,0,0,0,0,0,0
+3869,42585990,2026,Machine learning for population-level risk prediction of future cholangiocarcinoma,1,0,0,0,0,0,0,0
+3870,42581712,2026,Association Between Melanoma and Hematologic Malignancies: Evidence From the NIH Precision Medicine Initiative,0,0,0,0,0,0,0,0
+3871,42616641,2026,Protocol for leveraging local ancestry and cross-ancestry genetic architecture to improve polygenic prediction in admixed populations,0,0,0,0,0,0,0,0
+3872,42613167,2026,Assessing physical activity and sleep patterns in glaucoma using wearable devices,0,1,0,0,0,0,0,0
+3875,42622815,2026,Weight discrimination and metabolic syndrome: Examining discrimination attributions and frequency across settings,0,0,0,0,0,0,0,0
+3876,42594091,2026,Genome-wide machine learning analysis of anosmia and ageusia with COVID-19,0,0,0,0,0,0,0,0
+3878,42606190,2026,Genome-Wide Association Study of Corneal Dystrophy Uncovers Novel Risk Loci and Enables Improved Polygenic Prediction of Fuchs Endothelial Corneal Dystrophy,0,0,0,0,0,0,0,0
+3879,42620341,2026,A Whole-Genome Sequence Genome-Wide Association Study in All of Us Identifies a Novel Glaucoma Risk Locus in African Individuals,0,0,0,0,0,0,0,0
+3882,42619260,2026,The pleiotropic landscape of rare variant associations with multiple cancers in large biobanks,0,0,0,0,0,0,0,0
+3883,42604989,2026,Joint associations of recovery capital and polygenic risk with electronic health record observed remission and relapse in substance use disorder: Longitudinal evidence from the All of Us research program,0,0,0,0,0,0,0,0
+3884,42463052,2026,Public cohort analysis identifies thyroglobulin variants as hypothyroidism risk factors,1,0,0,0,0,0,0,0
+3885,42610385,2026,Traditional Risk Factors Are Not Associated with the Rise of Early-Onset Colorectal Cancer: An All of Us Study,0,0,0,0,0,0,0,0
+3886,42626852,2026,Development of a simple clinical score to prioritize detection of severe alpha-1 antitrypsin deficiency with PiZZ genotype,0,0,0,0,0,0,0,0
+3887,42607584,2026,Healthcare utilization among adults with co-occurring substance use and mental health disorders (2019-2023): A study based on All of Us program,0,0,0,0,0,0,0,0
+3888,42632520,2026,Gene-Environment Interaction Between Heavy Alcohol Use and PNPLA3 rs738409 in Incident Cirrhosis: Evidence From a Diverse U.S. Cohort,0,0,0,0,0,1,0,0
+3889,42629415,2026,Transition from preclinical obesity to clinical obesity among US adults: incidences and risk factors,0,0,0,0,0,0,0,0
+3902,42635773,2026,"Racial and ethnic disparities in perceived health and barriers to care among adults with hip osteoarthritis: a national analysis of 16,000   patients from the all of us program",0,0,0,0,0,0,0,0
+3905,42663354,2026,Genetically Mediated Differences in LDL Cholesterol and Risk of Venous Thromboembolism,0,0,0,0,0,0,0,0
+3906,42642362,2026,Transcript-aware rare genetic variant association analyses of cardiopulmonary traits in participants from the All of Us Research Program,0,0,0,0,0,0,0,0
+3907,42658064,2026,The Joint Effects of Life's Essential 8 and Genetics on Mild Cognitive Impairment and Dementia Risk in People With Diabetes: Findings From the UK Biobank and All of Us,0,0,1,0,0,0,1,0
+3910,42654321,2026,Independent Associations of Food Insecurity and Neighborhood Deprivation: Independent Associations with Incident Metabolic Dysfunction-Associated Steatotic Liver Disease in a Diverse U.S. Cohort,0,0,0,0,0,0,0,0
+3912,42648507,2026,"Polysubstance Use and Risk of Infectious Diseases: Evidence from a National Cohort, 2018-2023",0,0,0,0,0,0,0,0
+3913,42659936,2026,Electronic cigarette use and risk of incident rheumatoid arthritis and systemic lupus erythematosus in the all of us research program,0,0,0,0,0,0,0,0
+3914,42665654,2026,Cross-biobank comparison of ASCVD heritability and genetic correlation,0,0,0,0,0,0,0,0
+3915,42668814,2026,Tocilizumab Therapy and Incident Depression in Rheumatoid Arthritis: A Retrospective Cohort Study of the All of Us Research Program,0,0,0,0,0,0,0,0
+3916,42690387,2026,Healthcare Access and Utilization in a National Sample of Cancer Survivors With a History of Military Service,0,0,0,0,0,0,0,0
+3917,42667987,2026,"Multi-ancestry sequencing analysis in 293,141 participants identifies predisposition DNA repair genes associated with HCC risk",0,0,0,0,0,0,0,0
+3918,42688969,2026,Cross-sectional analysis of neighbourhood profiles and mental health conditions in the USA: insights from the All of Us Research Program,0,0,0,0,0,0,0,0
+3920,42669899,2026,Social Determinants of Health and Polygenic Susceptibility in Nonsyndromic Ascending Aortic Aneurysm,0,0,0,0,0,1,0,0
+3921,42696290,2026,Mental Health Utilization Gap by Insurance Type Among US Adults With Chronic Pain,0,0,0,0,0,0,0,0
+3922,42699748,2026,Lupus Nephritis Susceptibility Loci in the All of Us Research Cohort,0,0,0,0,0,0,0,0
+3924,42692015,2026,Phenome- and laboratory-wide meta-analyses of sickle cell trait reveal multi-system disease associations,0,0,0,0,0,0,0,0
+3926,42698209,2026,Inherited Predisposition to Increased Systemic Inflammation Predicts a Broad Class of Disease Phenotypes,0,0,0,0,0,0,0,0
+3927,42700830,2026,Cumulative Atopic Disease Burden and Keratoconus: Cross-Sectional and Longitudinal Associations in the All of Us Research Program,0,0,0,0,0,0,0,0
+3928,42720147,2026,Racial and Ethnic Differences in Psychiatric Outcomes Among Atopic Dermatitis Patients: An NIH All of Us Database Analysis,0,0,0,0,0,0,0,0
+3929,42704318,2026,Linkage between HLA-B8 and HLA-DQ2.5 contributes to ancestry-dependent risk for celiac disease,0,0,0,0,0,0,0,0
+3930,42718738,2026,Resilience and social support as correlates of dementia risk: insights from a biopsychosocial analysis of the All of Us dataset,0,0,0,0,0,0,0,0
+3931,42709938,2026,Examining Electronic Health Records to Investigate Sex Differences in Oral Diseases and Conditions,0,0,0,0,0,0,0,0
+3932,42706308,2026,Multiancestry genome-wide association and multiomics analyses elucidate spatiocellular features of multiple sclerosis genetics,1,0,0,0,0,0,0,0
+3933,42709559,2026,Menopause in the All of Us Research Program: a descriptive summary of electronic health record and survey response across sociodemographic characteristics,0,0,0,0,0,0,0,0
+3934,42707876,2026,Hearing loss and loneliness in the development of impaired cognition and dementia in the US All of Us cohort: prospective analyses using electronic health records,0,0,0,0,0,0,0,0
+3935,42712374,2026,Robust replication of associations across patient-mediated and provider-sourced EHR data in the All of Us research program,0,0,0,0,0,0,0,0
+3936,42710816,2026,Racial and Ethnic Disparities in Retinal Care Access and Experience,0,0,0,0,0,0,0,0
+3937,42724980,2026,Metabolic Dysfunction-Associated Steatotic Liver Disease Is Associated With Adverse Social Factors: An Analysis Using I(content=['All of']) I(content=['Us']),0,0,0,0,0,0,0,0
+3939,42716946,2026,Large-scale admixture mapping in the All of Us Research Program improves the characterization of cross-population phenotypic differences,0,0,0,0,0,0,0,0
+3940,42727524,2026,Leveraging electronic health records for subtype-dependent directionality in depression and gastrointestinal disease: a retrospective cohort study,0,0,0,0,0,0,0,0
+3942,42732406,2026,"Social determinants of health, clinical outcomes, and healthcare resource utilization in participants with and without narcolepsy in the All of Us research program",0,0,0,0,0,0,0,0
+3943,42736379,2026,All of Us diversity and scale yield context-dependent improvements in polygenic prediction,0,0,0,0,0,0,0,0
+3944,42730922,2026,Social determinants of health and risk of dementia in people with and without type 2 diabetes - findings from two large national-scale cohorts,0,0,0,0,0,0,0,0
+3945,42736360,2026,SPLENDID incorporates continuous genetic ancestry in biobank-scale data to improve polygenic risk prediction across diverse populations,0,0,0,0,0,0,0,0
+3950,42736290,2026,Determinants of functional burden pleiotropy and gene dosage responses across human traits,0,0,0,0,0,0,0,0
+3952,42747853,2026,Age at Diagnosis and Clinical and Genetic Profiles Among Adults With Attention-Deficit/Hyperactivity Disorder,0,0,0,0,0,0,0,0
+3953,42747718,2026,Differences in Healthcare and Everyday Discrimination among Racial and Ethnic Minority Cancer Survivors in the all of the US Research Program,0,0,0,0,0,0,0,0
+3954,42745562,2026,Aging-Related Diseases in the U.S. Population: A Data-Driven Approach Using All of Us Electronic Health Record Data,0,0,0,0,0,0,0,0
+3955,42744782,2026,Clinical and self-reported hearing measures and dementia risk,0,0,0,0,0,0,0,0
+3973,41839571,2026,Epigenetic repression of the serotonergic neuron phenotype following adolescent binge drinking is restored through inhibition of proinflammatory signaling by exercise and glycyrrhizic acid,0,0,0,0,0,0,0,0
+3976,42744391,2026,Associations Between Mental Health Diagnoses and Recurrent Acute Care Use Among Individuals with Systemic Lupus Erythematosus in the All of Us,0,0,0,0,0,0,0,0
+3978,42753319,2026,Predicting risk of ischemic stroke: A transformer model using genomic data,0,0,0,1,0,0,0,0
+3979,42748878,2026,Disparities in Poly-Tobacco Use Among United States Adults in the All of Us Research Program,0,0,0,0,0,0,0,0
+3980,42664960,2026,A Distinct Effector B Cell Population Drives Autoantibody Production in SARS-CoV-2 Infection,0,0,0,0,0,0,0,0
+3989,42271062,2026,Mutation-dependent responses to sleep and exercise in clonal haematopoiesis,0,0,0,0,0,0,0,0
+3998,41903539,2026,Advancing Precision Health Discovery in a Genetically Diverse HealthSystem,0,0,0,0,0,0,0,1
+4006,41844147,2026,"Metabolic Polygenic Risk Scores for Prediction of Obesity, Type 2 Diabetes, and Related Morbidities",0,0,0,0,0,0,0,1
+4011,41390056,2026,High-Penetrance Rare Variants Underlying Familial Lung Cancer Risk: Insights From Genetic Epidemiology of Lung Cancer Consortium,0,0,0,0,0,0,0,0
+4014,42232656,2026,"Extreme Temperatures, Physical Activity, and Adaptation",0,1,0,0,1,0,0,0
+4017,40195560,2026,Common-variant and rare-variant genetic architecture of heart failure across the allele-frequency spectrum,0,0,0,0,0,0,0,0
+4026,40929648,2026,Morning Larks and Night Owls: Considering Chronotype in Evaluation of Patients with Pulmonary Hypertension,0,0,0,0,0,0,0,0
+4037,41293088,2025,On the Connections Among Three Transfer Learning Paradigms,0,0,0,0,0,0,0,0
+4038,40543502,2025,Scalable generation and functional classification of genetic variants in inborn errors of immunity to accelerate clinical diagnosis and treatment,0,0,0,0,0,0,0,0
+4041,42760334,2026,Prevalence and penetrance of heritable retinoblastoma in two adult population cohorts: implications for genomic newborn screening,0,0,0,0,0,0,0,0
+4042,42754771,2026,Inaccessible mental health care is a risk factor for risky drinking behaviors among cancer survivors: an All of Us survey-based cohort study,0,0,0,0,0,0,0,0
+4044,42773785,2026,Thyroid Autoimmunity and Reproductive Outcomes: Antibody-Specific Associations in a National Cohort from the All of Us Research Program,0,0,0,0,0,0,0,0
+4045,42642929,2026,Considering social risk alongside genetic risk for bipolar disorder in the All of Us Research Program,0,0,0,0,0,0,0,0
+4046,42772348,2026,The Role of Angiopoietin-Like Proteins 3 and 4 and Their Target Lipases in CKD: A Drug-Target Mendelian Randomization Study,1,0,0,0,0,0,0,0
+4048,42771993,2026,Cataract GWAS meta-analysis and multi-omics Mendelian randomisation inform disease mechanisms and candidate target prioritisation,1,0,0,0,0,0,0,0
+4049,42771925,2026,The intersectional psychoneuroendocrinology framework: Social and geographic patterning of systemic inflammation in the All of Us Research Program,0,0,0,0,0,0,0,0
+4053,42764449,2026,Genetic evidence suggests a protective role of immunoglobulin M in Alzheimer's disease,0,0,0,0,0,0,0,0
+4054,42764447,2026,Clinical modifiers of the association between type 1 diabetes and dementia incidence,0,0,0,0,0,0,0,0
+4062,42778576,2026,Longitudinal digital phenotyping of activity rhythms and biological aging using commercial wearables,0,1,0,0,0,0,0,0
+4063,42777584,2026,Impact of Downregulated Inflammation via the IL6R Asp358Ala Variant on Atrial Fibrillation Recurrence Following Ablation,0,0,0,0,0,0,0,0
+4065,42781277,2026,"Memantine, acetylcholinesterase inhibitors, and quality‐of‐care outcomes among patients with cognitive impairment: an emulated trial design",0,0,0,0,0,0,0,0
+4069,42692004,2026,Androgens mediate sexual dimorphism in Pilarowski-Bjornsson Syndrome,0,0,0,0,0,0,0,0
+4070,42787420,2026,Evaluation of functional annotation-informed and ancestry-specific polygenic risk scores for ischemic stroke,0,0,0,0,0,0,0,0
+4071,42796948,2026,Geographic and Environmental Differences in Associations Between Food Insecurity and Nutritional and Inflammatory Biomarkers Among Pregnant Participants in the All of Us Research Program,0,0,0,0,0,0,0,0
+4074,42791225,2026,Equation Disagreement as a Zero-Cost Uncertainty Signal for LDL-C Classification: An Interpretable Regime-Aware Calibration Model Rescues Misclassification at Treatment Thresholds,0,0,0,0,0,0,0,0
+4075,42790378,2026,Genotype-by-regional ancestry proxy interactions at 8q24 reveal association heterogeneity in prostate cancer risk,0,0,0,0,0,0,0,0
+4076,41588240,2026,Genomic risk model to implement precision prostate cancer screening in clinical care: the ProGRESS Study,0,0,0,0,0,0,0,0
+4108,42801432,2026,"Changing Patterns of Assortative Mating for Educational, Substance Use, and Anthropometric Traits",0,0,0,0,0,0,0,0
+4109,42801382,2026,Clinical Outcomes During Concurrent Dupilumab and Advanced Immune-Modifying Therapy: A Real-World Cohort Study,0,0,0,0,0,0,0,0
+4110,42801847,2026,Depression and anxiety diagnosis and treatment rates among subgroups of people with epilepsy,0,0,0,0,0,0,0,0
+4111,42809652,2026,Ancestry-Based Disparities in Cardiovascular Outcomes and Polygenic Risk Among Adults with Congenital Heart Disease in the All of Us Research Program,0,0,0,0,0,0,0,0
+4112,42805950,2026,Deviations from genetic additivity driven by rare variants at biobank scale,0,0,0,0,0,0,0,0
+4113,42807176,2026,Racial and ethnic disparities in disease-modifying therapy use among adults with multiple sclerosis: a real-world analysis of the All of Us Research Program,0,0,0,0,0,0,0,0
+4115,42805460,2026,Gene-Specific Analysis of Clonal Hematopoiesis Identifies the Association between ASXL1 and Lung Cancer Risk,0,0,0,0,1,0,0,0
+4116,42808923,2026,"Gastrointestinal adverse effects of GLP‐1 receptor agonists and dual GIP/GLP‐1 receptor agonists: A narrative expert review of approved therapies, oral formulations, and pipeline agents",0,0,0,0,0,0,1,1
+4125,42814459,2026,Financial Toxicity Among Disaggregated Asian American Cancer Survivors,0,0,0,0,0,0,0,0
+4126,42813508,2026,CYP2D6 Metabolizer Phenotype and New Persistent Opioid Use After Spine Surgery,0,0,0,0,0,0,0,0
+4128,42821354,2026,Association of medical discrimination and hypertension in adults in the All of Us Research Program,0,0,0,0,0,0,0,0
+4132,42811018,2026,A pre-train and fine-tune framework for adaptive boosting of pre-trained polygenic risk scores,0,0,0,0,0,0,0,0
+4135,42810873,2026,LDL-C equation disagreement as a threshold-integrity flag for orthogonal lipid confirmation,0,0,0,0,0,0,0,0
+4136,42810620,2026,Comparative Weight-Loss Outcomes Following Initiation of GLP-1 Receptor Agonists versus SGLT2 Inhibitors: A Real-World Active Comparator Study,0,0,0,0,0,0,0,1
+4138,42820099,2026,Association of social determinants of health with opioid misuse among individuals with common psychiatric conditions,0,0,0,0,0,0,0,0
+4139,42822437,2026,MMACHC burden variants are associated with higher circulating vitamin B12 in the All of Us cohort,0,0,0,0,0,0,0,0

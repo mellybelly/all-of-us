@@ -1,5 +1,7 @@
 # Tooling & database-integration recommendations
 
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
 > These recommendations span the translational and AI **need areas**, which
 > are topic areas, not decision bodies. Their topics overlap and should be
 > coordinated. The WG labels are used here as topic references.

@@ -1,5 +1,7 @@
 # WG-5: Scientific Communications
 
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
 > This is a **topic / need area**, not a decision body. Its topic overlaps
 > with the other need areas and should be coordinated across them. The WG
 > label is used here as a topic reference.

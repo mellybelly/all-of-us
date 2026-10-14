@@ -1,9 +1,11 @@
 # Crosswalk: 19-theme taxonomy → 8 AoU Scientific Roadmap focus areas
 
-> **Updated 2026-06-26** for the refreshed corpus (1,432 pubs; 1,428 substantive). Figures reconciled to the regenerated CSVs in this directory.
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
+> **Updated 2026-06-26** for the refreshed corpus (1,657 pubs; 1,653 substantive). Figures reconciled to the regenerated CSVs in this directory.
 
 **Phase 3a deliverable, AoU Scientific Roadmap Refresh evidence base.**
-Inputs: 1,428 substantive publications and 12,899 substantive project workspaces
+Inputs: 1,653 substantive publications and 12,899 substantive project workspaces
 tagged with the locked 19-theme taxonomy (`../aou-research-landscape/taxonomy.md`).
 Reference for the 8 focus areas: `AOU Scientific Roadmap.pptx` and slide 7 of
 `2026 Science Committee Working Groups.pptx`.
@@ -74,7 +76,7 @@ Machine-readable version: `theme_to_focus_area.csv`.
 
 ## 3. Reverse view: corpus shares per focus area (bottom-up)
 
-Publications (n = 1,428 substantive):
+Publications (n = 1,653 substantive):
 
 | FA | Focus area | n pubs | Share | Top contributing themes (pub count) |
 |---|---|---:|---:|---|
@@ -315,7 +317,7 @@ Health") since "Child" content is structurally absent from an adult cohort.
 |---|---|
 | `theme_to_focus_area.csv` | 19-theme → 8-focus-area assignment with notes and orphan flag |
 | `focus_area_summary.csv` | Per-focus-area corpus shares, contributing themes, theme breakdown |
-| `publications_tagged_with_focus.csv` | All 1,428 substantive pubs with `focus_areas` column added |
+| `publications_tagged_with_focus.csv` | All 1,653 substantive pubs with `focus_areas` column added |
 | `projects_tagged_with_focus.csv` | All 12,899 substantive projects with `focus_areas` column added |
 | `crosswalk_19_to_8.md` | (this file) |
 

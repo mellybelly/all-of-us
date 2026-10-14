@@ -1,5 +1,7 @@
 # Emerging biomedical trends & AoU white-space (2026-06-26)
 
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
 **Question.** What is *accelerating* in the broad biomedical literature that
 **All of Us (and peer biobanks) have not yet picked up** — and which of those
 gaps could AoU actually act on?
@@ -38,7 +40,7 @@ flagged.
 | Discovery corpora | bioRxiv+medRxiv preprints **293,979** (2021-26) + NIH RePORTER grants **422,565** (FY21-26). Preprints/grants *lead* published work by 1-2 yrs. |
 | Detection | Pure-Python term-emergence: year×n-gram doc-frequency, acceleration = recent (2024-26) vs prior (2021-23) share, recency- and size-weighted. |
 | Topic induction | Open-discovery LLM clustering of the top ~600 accelerating terms → 24 coherent topics (+6 artifact clusters excluded). |
-| Gap-check | Keyword match each topic vs AoU (1,428) + peers (UKB/FinnGen/MVP/CKB); Europe PMC published trajectory (2021→2025). |
+| Gap-check | Keyword match each topic vs AoU (1,653) + peers (UKB/FinnGen/MVP/CKB); Europe PMC published trajectory (2021→2025). |
 | Feasibility overlay | Each topic rated against AoU's data assets (WGS, EHR, surveys, wearables, Workbench — **not** tissue assays/protein structures/imaging). |
 
 Scripts: `fetch_preprints.py`, `fetch_grants.py`, `compute_emergence.py`,

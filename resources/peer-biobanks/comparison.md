@@ -1,5 +1,7 @@
 # Peer-biobank publication comparison — full methodological writeup
 
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
 This document covers the technical workflow, corpus characteristics, and
 caveats behind `emerging_themes.md`. The four peer biobanks compared
 against AoU are UK Biobank, FinnGen, Million Veteran Program (MVP), and
@@ -9,9 +11,9 @@ China Kadoorie Biobank (CKB).
 
 | Cohort | Substantive pubs | Pre-2023 | Post-2023 | Year range | Source |
 |---|---:|---:|---:|---|---|
-| AoU | 1,428 | 157 | 1,271 | 2015-2027 | `aou-research-landscape/publications_tagged.jsonl` (full corpus, retagged 2026-06-26) |
-| UK Biobank | 11,868 | 3,700 | 8,168 | 2007-2026 | PubMed `"UK Biobank"[Title/Abstract]` — **full census** (year-windowed; ~11,882 universe) |
-| FinnGen | 3,152 | 225 | 2,927 | 2020-2026 | PubMed `"FinnGen"[Title/Abstract]` — full census |
+| AoU | 1,653 | 157 | 1,271 | 2015-2027 | `aou-research-landscape/publications_tagged.jsonl` (full corpus, retagged 2026-06-26) |
+| UK Biobank | 12,986 | 3,700 | 8,168 | 2007-2026 | PubMed `"UK Biobank"[Title/Abstract]` — **full census** (year-windowed; ~11,882 universe) |
+| FinnGen | 3,376 | 225 | 2,927 | 2020-2026 | PubMed `"FinnGen"[Title/Abstract]` — full census |
 | MVP | 438 | 135 | 303 | 2012-2026 | PubMed `"Million Veteran Program"[Title/Abstract] OR "Million Veterans Program"[Title/Abstract]` — full census |
 | CKB | 558 | 316 | 242 | 2011-2026 | PubMed `"China Kadoorie Biobank"[Title/Abstract]` — full census |
 
@@ -19,7 +21,7 @@ China Kadoorie Biobank (CKB).
 > censuses**, not samples. UKB previously used a 5,831-pub year-stratified
 > *sample*; it is now the full ~11.9k. A single all-years UKB query truncates at
 > NCBI's ~9,999-per-WebEnv esearch limit, so UKB is pulled in year windows and
-> unioned (11,868 of the ~11,882 universe; the ~14 gap is pre-2007 pubs outside
+> unioned (12,986 of the ~11,882 universe; the ~14 gap is pre-2007 pubs outside
 > the windows).
 
 All four peer corpora were acquired via PubMed E-utilities
@@ -33,30 +35,30 @@ A single all-years UKB esearch truncates at NCBI's ~9,999-per-WebEnv
 idlist limit (retstart pagination does not retrieve beyond it). We
 therefore run seven **uncapped** date-windowed esearches (2007:2018,
 2019:2020, 2021, 2022, 2023, 2024, 2025:2026) — each window is well under
-the cap — and union the PMIDs, yielding **11,868 unique pubs** (the
+the cap — and union the PMIDs, yielding **12,986 unique pubs** (the
 complete corpus; ~14 short of the 11,882 universe due to pre-2007 pubs
 outside the windows). Unlike the earlier 5,831-pub sample, the windowed
 totals now **do** reflect actual UKB publication volume by year.
 
 ### Coverage caveats by biobank
 
-- **UKB**: **full census** — 11,868 of the ~11,882 PubMed name-search
+- **UKB**: **full census** — 12,986 of the ~11,882 PubMed name-search
   universe (99.9%). (Note: "~12,000" elsewhere refers to this *publication
   universe*, not a count of fetches.) Earlier runs used a 5,831-pub
   year-stratified *sample*; the corpus is now complete.
-- **FinnGen**: complete (3,152 of 3,152 PubMed returns). However,
+- **FinnGen**: complete (3,376 of 3,376 PubMed returns). However,
   FinnGen *summary statistics* are widely used by external GWAS authors
   who cite "FinnGen" in the methods section; many of those pubs are
   not FinnGen-cohort-led work. This is the same kind of "FinnGen-using"
   population as the AoU "AoU-data-using" population, so it is treated
   as comparable.
-- **MVP**: complete name-search (438 of 439). The VA-maintained
+- **MVP**: complete name-search (501 of 502). The VA-maintained
   publication list almost certainly contains more pubs than name-search
   finds — many MVP-using investigators acknowledge the program in the
   acknowledgments section but do not name-mention in title/abstract.
   MVP corpus is therefore the most undercounted of the four. Signal
   from MVP-only patterns should be treated cautiously.
-- **CKB**: complete name-search (558 of 558). CKB publications are
+- **CKB**: complete name-search (588 of 588). CKB publications are
   largely written by the founding consortium and have strong title/
   abstract name-mention conventions, so coverage is likely close to
   the official list.
@@ -86,7 +88,7 @@ following decisions:
    AoU rule (e.g., "Cohort profile: UK Biobank") are kept in the
    substantive corpus.
 4. **No re-tagging of AoU.** The existing `publications_tagged.jsonl`
-   (1,432 records, 1,428 substantive) is reused as-is. This means the
+   (1,657 records, 1,653 substantive) is reused as-is. This means the
    AoU side benefits from the Phase 2c audit pass and the peer side
    does not — a small bias in favor of slightly-cleaner AoU tagging,
    acceptable since the audit pass primarily affected over-tagging

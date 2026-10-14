@@ -1,14 +1,16 @@
 # Emerging research themes in peer biobanks — implications for AoU
 
-> **Updated 2026-06-26** — peer corpora are now full PubMed censuses (UKB 11,868; FinnGen 3,152; MVP 438; CKB 558); tables regenerated accordingly.
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
+> **Updated 2026-06-26** — peer corpora are now full PubMed censuses (UKB 12,986; FinnGen 3,376; MVP 501; CKB 588); tables regenerated accordingly.
 
 **Phase 4 input for the 2026 AoU Scientific Roadmap Refresh WG (Smoller & Haendel)**
 
 ## TL;DR
 
-Comparing All of Us's 1,428-pub substantive corpus against UK Biobank
-(11,868 pubs, full name-search census), FinnGen (3,152), Million Veteran
-Program (438), and China Kadoorie Biobank (558)
+Comparing All of Us's 1,653-pub substantive corpus against UK Biobank
+(12,986 pubs, full name-search census), FinnGen (3,376), Million Veteran
+Program (501), and China Kadoorie Biobank (588)
 surfaces a consistent signal: **AoU is materially under-indexed on
 multi-omics-beyond-genomics, imaging-anchored analyses, nutrition /
 microbiome, and rare-disease / Mendelian genetics.** These four areas
@@ -170,7 +172,7 @@ the AoU landscape README).
    absolute counts should not be treated as authoritative.
 2. **UKB is a full census pulled via year windows** (uncapped) to work
    around NCBI's ~9,999-per-WebEnv esearch limit on a single all-years
-   query. The 11,868 UKB pubs are the complete name-search corpus (~14
+   query. The 12,986 UKB pubs are the complete name-search corpus (~14
    short of the ~11,882 universe, pre-2007 pubs outside the windows), so
    the UKB year distribution now reflects actual publication volume.
 3. **MVP's 426-pub corpus is small.** PubMed name-search for MVP is

@@ -3,7 +3,7 @@
 End-to-end methods for the evidence base behind the Roadmap Refresh deliverables
 (executive summary, slide deck, data-types list). Written for human editors and
 for defensibility: every headline number traces to a script and a data file in
-this repository. Corpus frozen for handoff on **2026-07-02** (see §2).
+this repository. Corpus refreshed for handoff on **2026-10-14** (see §2).
 
 ---
 
@@ -30,9 +30,10 @@ NIH-strategic-plan alignment (`aou-ic-alignment/`) and disease-burden context
 
 **Publications.** Pulled from the AoU WordPress cache of the PMI Ops
 publications feed (`researchallofus.org/wp-json/rh-data-caching/publications-report`).
-The feed is reconciled against PubMed/iCite. **1,432 records** (originally 1,378
-on 2026-06-02; refreshed +54 on 2026-06-26). Field coverage: title 100%, year
-100%, journal 98%, PMID 97%, DOI 91%, abstract 85%, PMC id 69%.
+The feed is reconciled against PubMed/iCite. **1,657 records** (1,378 on
+2026-06-02 → 1,432 on 2026-06-26 → 1,657 on 2026-10-14, almost all added pubs
+being 2026-dated). Field coverage: title 100%, year 100%, journal 98%, PMID 97%,
+DOI 91%, abstract 85%, PMC id 69%.
 
 **Workspaces / projects.** The production project-directory endpoint returns
 HTTP 500 (upstream RDR API down). We use the most recent Wayback Machine capture
@@ -40,9 +41,10 @@ HTTP 500 (upstream RDR API down). We use the most recent Wayback Machine capture
 Educational-tagged, training-role, stub, and duplicate-title workspaces) yields
 **12,899 substantive workspaces**.
 
-**Freeze (2026-07-02).** Re-pull confirmed publications analytically unchanged
-(0 records added/removed, 0 changed titles/abstracts) and no projects endpoint or
-newer archive available. The corpus is frozen at its freshest available state.
+**Refresh (2026-10-14).** Re-pull added **+224 publications** (1,432→1,657,
+overwhelmingly 2026-dated) and refreshed all four peer censuses; the full pipeline
+and every deliverable were re-run and reconciled. The projects endpoint still
+returns HTTP 500 with no newer archive, so the workspace snapshot is unchanged.
 
 **Known data limitations.** (a) Workspace snapshot is ~8 months old; a live
 prod pull should replace it when the endpoint recovers. (b) Grant/funding info is
@@ -51,7 +53,7 @@ feeds. (d) Abstract coverage 85% (title-only tagging for the rest — see §2b).
 
 ### 2b. Full-text augmentation
 For richer tagging input, `fetch_fulltext.py` pulls Europe PMC JATS full text for
-records with a PMC id (**612 articles**, body text only — references,
+records with a PMC id (**728 articles**, body text only — references,
 acknowledgments, tables stripped to avoid keyword pollution) and back-fills
 missing abstracts (10 fillable; the rest are genuinely abstract-less editorials).
 Details + the OA-coverage-by-year confound in
@@ -82,7 +84,7 @@ excludes non-substantive records. Mean themes/pub: 2.06 (abstract) vs 3.39
 
 `ic_attribute.py` parses NIH grant IDs from publication grant strings and
 resolves them to administering + co-funding ICs via the NIH RePORTER API
-(cached in `raw/reporter/`). **422/1,432 pubs (30%)** carry ≥1 IC attribution
+(cached in `raw/reporter/`). **422/1,657 pubs (25%)** carry ≥1 IC attribution
 (grant strings are only ~32% populated). Top admin ICs: OD, TR, HL, HG, CA.
 OD dominance is structural (AoU is OD-funded).
 
@@ -102,8 +104,8 @@ field." Outputs are the CSVs in `aou-roadmap-refresh/`; narrative in
 ## 6. Peer-biobank comparison (full census)
 
 Four peers pulled from PubMed by name-search (`acquire.py`,
-`acquire_ukb_stratified.py`): **UK Biobank 11,868, FinnGen 3,152, MVP 438, CKB
-558** — complete censuses (UKB is year-windowed to beat NCBI's ~9,999-per-query
+`acquire_ukb_stratified.py`): **UK Biobank 12,986, FinnGen 3,376, MVP 501, CKB
+588** — complete censuses (UKB is year-windowed to beat NCBI's ~9,999-per-query
 esearch cap). Peers tagged with the *same* tagger (`tag_peers.py`) for
 apples-to-apples theme shares; `compare.py` computes the AoU-vs-peer index.
 **Caveats:** name-search over/under-includes; peers are not audited (≈5–10% lower
@@ -123,7 +125,7 @@ Open-discovery scan for trends rising in the field but absent in AoU:
   `compute_emergence.py`.
 - **Topic induction:** open-discovery LLM clustering of the top accelerating
   terms → 24 topics (not the locked taxonomy), artifacts excluded.
-- **Gap-check:** each topic matched vs AoU (1,428) + the 4 peers + published-
+- **Gap-check:** each topic matched vs AoU (1,653) + the 4 peers + published-
   literature trajectory (`gap_check.py`); then an **AoU-feasibility overlay**
   (data assets) separates actionable white space from out-of-model frontiers.
 - **Caveat:** NIH RePORTER `pref_terms` vocabulary changes inflate some grant

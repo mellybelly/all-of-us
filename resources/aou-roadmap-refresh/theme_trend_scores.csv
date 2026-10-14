@@ -1,20 +1,20 @@
 theme_code,theme_name,pre_2023,post_2023,share_pre,share_post,trend_score,ratio_post_pre
-1,Cardiometabolic disease,30,375,0.1911,0.295,0.104,12.5
-2,Genomics methods & complex-trait genetics,16,340,0.1019,0.2675,0.1656,21.25
-3,"Methods, infrastructure & phenotyping (non-genomic)",23,239,0.1465,0.188,0.0415,10.391
-4,"Mental health, behavioral & substance use",15,254,0.0955,0.1998,0.1043,16.933
-5,Cancer,7,175,0.0446,0.1377,0.0931,25.0
-6,Social determinants of health & health disparities,48,422,0.3057,0.332,0.0263,8.792
-7,Wearables & digital health,7,70,0.0446,0.0551,0.0105,10.0
-8,Infectious disease & immunology,12,74,0.0764,0.0582,-0.0182,6.167
-9,Autoimmune & inflammatory disease,3,105,0.0191,0.0826,0.0635,35.0
-10,Rare disease & Mendelian genetics,4,50,0.0255,0.0393,0.0139,12.5
-11,"Aging, frailty & ADRD",2,76,0.0127,0.0598,0.0471,38.0
-12,Dermatology,28,171,0.1783,0.1345,-0.0438,6.107
-13,Respiratory & sleep medicine,1,59,0.0064,0.0464,0.0401,59.0
-14,Neurology (non-ADRD),2,80,0.0127,0.0629,0.0502,40.0
-15,"Pregnancy, maternal & women's health",1,37,0.0064,0.0291,0.0227,37.0
-16,Pharmacogenomics & drug response,3,31,0.0191,0.0244,0.0053,10.333
-17,"ELSI, participant engagement & recruitment",25,45,0.1592,0.0354,-0.1238,1.8
-18,"Ophthalmology, ENT & sensory medicine",10,98,0.0637,0.0771,0.0134,9.8
-19,Environmental health & climate,0,8,0.0,0.0063,0.0063,inf
+1,Cardiometabolic disease,30,450,0.1911,0.3008,0.1097,15.0
+2,Genomics methods & complex-trait genetics,16,410,0.1019,0.2741,0.1722,25.625
+3,"Methods, infrastructure & phenotyping (non-genomic)",23,284,0.1465,0.1898,0.0433,12.348
+4,"Mental health, behavioral & substance use",15,306,0.0955,0.2045,0.109,20.4
+5,Cancer,7,206,0.0446,0.1377,0.0931,29.429
+6,Social determinants of health & health disparities,48,491,0.3057,0.3282,0.0225,10.229
+7,Wearables & digital health,7,80,0.0446,0.0535,0.0089,11.429
+8,Infectious disease & immunology,12,82,0.0764,0.0548,-0.0216,6.833
+9,Autoimmune & inflammatory disease,3,123,0.0191,0.0822,0.0631,41.0
+10,Rare disease & Mendelian genetics,4,58,0.0255,0.0388,0.0133,14.5
+11,"Aging, frailty & ADRD",2,92,0.0127,0.0615,0.0488,46.0
+12,Dermatology,28,184,0.1783,0.123,-0.0553,6.571
+13,Respiratory & sleep medicine,1,68,0.0064,0.0455,0.0391,68.0
+14,Neurology (non-ADRD),2,99,0.0127,0.0662,0.0534,49.5
+15,"Pregnancy, maternal & women's health",1,47,0.0064,0.0314,0.025,47.0
+16,Pharmacogenomics & drug response,3,35,0.0191,0.0234,0.0043,11.667
+17,"ELSI, participant engagement & recruitment",25,47,0.1592,0.0314,-0.1278,1.88
+18,"Ophthalmology, ENT & sensory medicine",10,111,0.0637,0.0742,0.0105,11.1
+19,Environmental health & climate,0,10,0.0,0.0067,0.0067,inf

@@ -1,5 +1,7 @@
 # Researcher Workbench analysis — Part 2: trending methods not yet adopted
 
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
 **Question.** Which analytical methods/tools are *accelerating in the broad
 literature* but *under-used in AoU* — in publications and, more tellingly, in the
 researcher **workspaces** — and which of those are **feasible** on the Workbench?
@@ -9,7 +11,7 @@ researcher **workspaces** — and which of those are **feasible** on the Workben
 | Input | Source |
 | --- | --- |
 | External method trend | Term-acceleration from 293,979 preprints + 422,565 NIH grants (2021-26), distilled to **27 analytical-method topics** (LLM induction, methods-only) — `methods_topics.json`. |
-| AoU publications | 1,432 pubs (title+abstract) — adoption in the *literature* AoU produces. |
+| AoU publications | 1,657 pubs (title+abstract) — adoption in the *literature* AoU produces. |
 | AoU workspaces | **12,899 substantive** workspaces (tutorials/duplicates removed), matching the `approaches`/`questions`/`findings` text — adoption in *what researchers actually do on the RW*. |
 | Feasibility | Each method rated against RW assets: WGS/genotyping, EHR/OMOP, surveys, physical measures, Fitbit wearables; cloud Jupyter/RStudio + BigQuery + Hail/Spark. |
 

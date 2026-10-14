@@ -1,5 +1,7 @@
 # RW Analysis — Part 1: capability & data-asset gaps vs comparator platforms
 
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
 Systematic comparison of the All of Us Researcher Workbench (RW) against five
 comparator biomedical analysis platforms, to identify **remediable
 deficiencies**. Scope deliberately extends beyond biobanks to general-purpose

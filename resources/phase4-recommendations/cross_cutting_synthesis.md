@@ -1,5 +1,7 @@
 # Cross-cutting synthesis — need areas 1–5
 
+> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+
 > The five Working Groups are **topic / need areas** the program already
 > recognized as priorities — not decision or governance bodies. Their topics
 > overlap and the central task here is **coordination** across them. WG labels
