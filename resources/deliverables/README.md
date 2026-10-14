@@ -58,7 +58,7 @@ The recommendations trace to these analysis modules (see `methods_documentation.
 
 ## Status snapshot
 
-- Corpus: **1,432 publications**, **12,899 substantive workspaces** (frozen 2026-07-02).
-- Peers: full PubMed censuses (UKB 11,868 · FinnGen 3,152 · MVP 438 · CKB 558).
+- Corpus: **1,657 publications**, **20,165 substantive workspaces** (live 32,922-workspace pull, 2026-10-14).
+- Peers: full PubMed censuses (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588).
 - All figures reconciled across deck, exec summary, data-types, methods doc, and
   the supporting narratives.

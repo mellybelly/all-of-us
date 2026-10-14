@@ -2,7 +2,7 @@
 
 Reads:
   - publications_tagged.csv  (1378 pubs, themes + admin_ics + cofunding_ics)
-  - projects_tagged.csv      (12,899 projects, themes only — no IC info)
+  - projects_tagged.csv      (20,165 projects, themes only — no IC info)
   - ic_priorities.csv        (curated priorities + aou_theme_tags)
   - theme_to_ic_mapping.csv  (documented OD re-attribution rules)
 

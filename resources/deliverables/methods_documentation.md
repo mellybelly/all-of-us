@@ -35,19 +35,28 @@ The feed is reconciled against PubMed/iCite. **1,657 records** (1,378 on
 being 2026-dated). Field coverage: title 100%, year 100%, journal 98%, PMID 97%,
 DOI 91%, abstract 85%, PMC id 69%.
 
-**Workspaces / projects.** The production project-directory endpoint returns
-HTTP 500 (upstream RDR API down). We use the most recent Wayback Machine capture
-(**2025-10-24**, 21,242 records). A substantive-research filter (drop
+**Workspaces / projects.** Pulled **live from the AoU production project-directory
+endpoint** (`researchallofus.org/wp-json/rh-data-caching/projects?cb=<hash>`) on
+**2026-10-14**: **32,922 records**. The endpoint returns HTTP 500 on naive requests
+but 200 when called the way the website does — with the live `cb` cache-buster, a
+browser User-Agent, and `Accept-Encoding: gzip` against the warm cache (the live
+`cb` hash was captured via the in-app browser). A substantive-research filter (drop
 Educational-tagged, training-role, stub, and duplicate-title workspaces) yields
-**12,899 substantive workspaces**.
+**20,165 substantive workspaces**. This supersedes the earlier 2025-10-24 Wayback
+snapshot (21,242 records / 12,899 substantive) and is real growth, not a re-tag.
 
 **Refresh (2026-10-14).** Re-pull added **+224 publications** (1,432→1,657,
-overwhelmingly 2026-dated) and refreshed all four peer censuses; the full pipeline
-and every deliverable were re-run and reconciled. The projects endpoint still
-returns HTTP 500 with no newer archive, so the workspace snapshot is unchanged.
+overwhelmingly 2026-dated), recovered the **live workspace census** (21,242→32,922;
+12,899→20,165 substantive), refreshed all four peer censuses, and re-pulled the
+horizon-scan corpora (322,138 preprints + 460,285 grants, 2021-26). The full
+pipeline and every deliverable were re-run and reconciled. Ancillary (partnered)
+studies — Exploring the Mind, Eyes on Health, Nutrition for Precision Health,
+Environmental Health & Exposomics — were added from the official NIH partnered-
+studies page (goals) plus their workspace footprint (see
+`aou-roadmap-refresh/ancillary_studies.md`).
 
-**Known data limitations.** (a) Workspace snapshot is ~8 months old; a live
-prod pull should replace it when the endpoint recovers. (b) Grant/funding info is
+**Known data limitations.** (a) Workspace census is a 2026-10-14 live pull.
+(b) Grant/funding info is
 free-text and only ~34% populated. (c) No publication↔workspace linkage in the
 feeds. (d) Abstract coverage 85% (title-only tagging for the rest — see §2b).
 
@@ -118,8 +127,8 @@ trend differentials. Full writeup in `peer-biobanks/comparison.md`.
 
 Open-discovery scan for trends rising in the field but absent in AoU:
 
-- **Discovery corpora** (leading edge, lead published work 1–2 yrs): **293,979
-  bioRxiv+medRxiv preprints** + **422,565 NIH RePORTER grants** (2021–2026),
+- **Discovery corpora** (leading edge, lead published work 1–2 yrs): **322,138
+  bioRxiv+medRxiv preprints** + **460,285 NIH RePORTER grants** (2021–2026),
   pulled in full (`fetch_preprints.py`, `fetch_grants.py`).
 - **Detection:** pure-Python term-acceleration (recent vs prior doc-share),
   `compute_emergence.py`.

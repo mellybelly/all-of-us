@@ -2,7 +2,7 @@
 
 > **Historical record** (original 2026-06-02 draft). Superseded by the locked taxonomy; corpus later refreshed to 1,432 pubs (see README).
 
-This is a draft topical taxonomy spanning the 1,378 publications and 12,899
+This is a draft topical taxonomy spanning the 1,378 publications and 20,165
 filtered project workspaces in the AoU research corpus. It was developed by
 sampling ~200 records (stratified across pubs/projects, years, and access
 tiers), drafting an initial taxonomy, then validating against an independent

@@ -70,16 +70,23 @@ records (+224 vs 2026-06-26, −1; almost all added pubs are 2026-dated)**. The
 full pipeline (IC attribution, dual-layer tagging, trends, peer comparison, RW
 analysis) and all deliverables were re-run and reconciled. All four peer
 biobanks were re-pulled to fresh full censuses (UKB 12,986; FinnGen 3,376; MVP
-501; CKB 588). The projects prod endpoint still returns HTTP 500 and no Wayback
-capture newer than 2025-10-24 exists, so the **workspace snapshot (21,242 /
-12,899 substantive) is unchanged** — collaboration/adoption stats reflect that date.
+501; CKB 588).
+
+**Workspaces re-pulled (2026-10-14).** The production project-directory feed was
+recovered by calling it the way the website does — `rh-data-caching/projects?cb=<hash>`
+with a browser-like request (the plain/uncached path still 500s). It now serves
+the real registry: **32,922 workspaces (up from the 21,242 Oct-2025 Wayback
+snapshot)**, of which **20,165 are substantive** (up from 12,899) after the
+filter. Raw: `raw/projects_api_2026-10-14.json`. The full project pipeline
+(filter, tagging, crosswalk, trends, RW analysis) was re-run on this snapshot.
+(The `stable.` mirror remains staging-only — ~302 test records — and was not used.)
 
 ## Counts
 
 | Dataset | Records |
 | --- | ---: |
 | Publications (`publications.csv` / `publications.jsonl`) | **1,657** (1,378 → 1,432 → 1,657; refreshed 2026-10-14) |
-| Projects (`projects.csv` / `projects.jsonl`) | **21,242** |
+| Projects (`projects.csv` / `projects.jsonl`) | **32,922** (live production pull 2026-10-14; was 21,242 Wayback) |
 
 ## Files
 
@@ -249,10 +256,10 @@ or two prolific dermatology research groups using AoU.
 
 | Field | Coverage |
 | --- | ---: |
-| `title` | 21,242 / 21,242 (100%) |
+| `title` | 32,922 / 32,922 (100%) |
 | `workspaceId` + `snapshotId` | 100% |
-| `questions` (scientific question) | 21,241 / 21,242 |
-| `approaches` (methods) | 21,238 / 21,242 |
+| `questions` (scientific question) | 31,447 / 32,922 (95.5%) |
+| `approaches` (methods) | 31,443 / 32,922 (95.5%) |
 | `findings` (anticipated / actual findings) | 21,239 / 21,242 |
 | `purposes` (free-text + controlled tags) | 21,242 / 21,242 |
 | `accessTier` (Registered / Controlled) | 21,242 / 21,242 |
@@ -477,11 +484,11 @@ yet applied — that is Phase 2c, gated on user review of the taxonomy.**
 
 | Step | N | Δ |
 | --- | ---: | ---: |
-| Input total | 21,242 | — |
-| After dropping `Educational`-tagged | 14,895 | −6,347 |
-| After dropping training-role workspaces (kept 9,437 substantive-trainee, dropped 305) | 14,590 | −305 |
-| After dropping stubs (all of question/approach/findings < 30 chars) | 14,570 | −20 |
-| After dropping case-folded duplicate titles | **12,899** | −1,671 |
+| Input total | 32,922 | — |
+| After dropping `Educational`-tagged | 24,573 | −8,349 |
+| After dropping training-role workspaces (kept 14,911 substantive-trainee, dropped 1,334) | 23,239 | −1,334 |
+| After dropping stubs (all of question/approach/findings < 30 chars) | 22,722 | −517 |
+| After dropping case-folded duplicate titles | **20,165** | −2,557 |
 
 Filter rule lives in `filter.py`; outputs are `projects_filtered.jsonl` and
 `projects_filtered.csv`. The trainee-role drop is permissive — workspaces

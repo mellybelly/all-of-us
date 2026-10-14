@@ -19,6 +19,10 @@ resources/aou-research-landscape/fulltext_augmented.jsonl
 # fetch_preprints.py / fetch_grants.py. Derived outputs ARE tracked.
 resources/emerging-trends/raw/
 
+# Unreleased / confidential source documents (e.g. draft NIH-AoU AI/ML white
+# paper). Kept locally to inform deliverables; NOT for the public repo.
+resources/source-docs/
+
 # RW-analysis internal-only notes (never publish — pointed interpretation).
 resources/rw-analysis/_local_notes.md
 resources/rw-analysis/_local_*

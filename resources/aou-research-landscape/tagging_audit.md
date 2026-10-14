@@ -7,7 +7,7 @@
 - **Publications:** 1,378 in `publications_with_ic.jsonl`
   - 4 flagged as `AoU-program-meta-audit` (META)
   - 1,374 in the substantive corpus
-- **Projects:** 12,899 in `projects_filtered.jsonl` (all in substantive
+- **Projects:** 20,165 in `projects_filtered.jsonl` (all in substantive
   corpus; META detection does not apply to project workspaces because the
   workspace title text is not program-descriptive in the same way pub
   titles are).
@@ -87,7 +87,7 @@ Three classes of adjustments:
 
 |                          | Publications | Projects |
 |--------------------------|------------:|---------:|
-| Records                  | 1,374       | 12,899   |
+| Records                  | 1,374       | 20,165   |
 | Zero-tag rate            | 5.2%        | 10.2%    |
 | ">5-tag" rate            | 0.2%        | 0.2%     |
 | Mean themes per record   | 2.07        | 1.79     |

@@ -13,8 +13,8 @@ the up-front feasibility study and design decisions.
 
 | Step | Script | Output |
 | --- | --- | --- |
-| 1. Pull preprints | `fetch_preprints.py` | `raw/preprints_*.jsonl` (bioRxiv+medRxiv 2021-26, 293,979 docs) |
-| 2. Pull grants | `fetch_grants.py` | `raw/grants_*.jsonl` (NIH RePORTER FY21-26, 422,565 records, IC-partitioned) |
+| 1. Pull preprints | `fetch_preprints.py` | `raw/preprints_*.jsonl` (bioRxiv+medRxiv 2021-26, 322,138 docs) |
+| 2. Pull grants | `fetch_grants.py` | `raw/grants_*.jsonl` (NIH RePORTER FY21-26, 460,285 records, IC-partitioned) |
 | 3. Term-emergence | `compute_emergence.py` | `emerging_preprints.csv`, `emerging_grants.csv`, `emerging_candidates.json` |
 | 4. Topic induction | (LLM agent over `topic_induction_digest.txt`) | `emerging_topics.json` (24 topics + excluded artifacts) |
 | 5. Gap-check + rank | `gap_check.py` | `emerging_whitespace.{csv,json}` |

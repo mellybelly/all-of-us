@@ -37,7 +37,7 @@ flagged.
 
 | Stage | What |
 | --- | --- |
-| Discovery corpora | bioRxiv+medRxiv preprints **293,979** (2021-26) + NIH RePORTER grants **422,565** (FY21-26). Preprints/grants *lead* published work by 1-2 yrs. |
+| Discovery corpora | bioRxiv+medRxiv preprints **322,138** (2021-26) + NIH RePORTER grants **460,285** (FY21-26). Preprints/grants *lead* published work by 1-2 yrs. |
 | Detection | Pure-Python term-emergence: year×n-gram doc-frequency, acceleration = recent (2024-26) vs prior (2021-23) share, recency- and size-weighted. |
 | Topic induction | Open-discovery LLM clustering of the top ~600 accelerating terms → 24 coherent topics (+6 artifact clusters excluded). |
 | Gap-check | Keyword match each topic vs AoU (1,653) + peers (UKB/FinnGen/MVP/CKB); Europe PMC published trajectory (2021→2025). |

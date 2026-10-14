@@ -5,7 +5,7 @@
 > **Updated 2026-06-26** for the refreshed corpus (1,657 pubs; 1,653 substantive). Figures reconciled to the regenerated CSVs in this directory.
 
 **Phase 3a deliverable, AoU Scientific Roadmap Refresh evidence base.**
-Inputs: 1,653 substantive publications and 12,899 substantive project workspaces
+Inputs: 1,653 substantive publications and 20,165 substantive project workspaces
 tagged with the locked 19-theme taxonomy (`../aou-research-landscape/taxonomy.md`).
 Reference for the 8 focus areas: `AOU Scientific Roadmap.pptx` and slide 7 of
 `2026 Science Committee Working Groups.pptx`.
@@ -89,7 +89,7 @@ Publications (n = 1,653 substantive):
 | FA2 | Maternal & Child Health | 37 | 2.7% | 15 (37) |
 | FA6 | Environment | 7 | 0.5% | 19 (7) |
 
-Projects (n = 12,899 substantive):
+Projects (n = 20,165 substantive):
 
 | FA | Focus area | n projects | Share | Top contributing themes (project count) |
 |---|---|---:|---:|---|
@@ -114,7 +114,7 @@ Findings_Scientific Roadmap Planning.pptx`) reported, on a 2,981-workspace
 2023 snapshot: Health Equity ~2,000; Genetics & Biology ~1,900; Common+Rare
 Conditions ~1,300–1,956.
 
-Our corpus is ~4.3× larger (12,899 projects). Scaled proportions:
+Our corpus is ~6.8× larger (20,165 projects, 2026-10-14 live pull). Scaled proportions:
 
 | FA | DRC 2023 share (approx) | Our bottom-up share | Ratio |
 |---|---:|---:|---:|
@@ -318,7 +318,7 @@ Health") since "Child" content is structurally absent from an adult cohort.
 | `theme_to_focus_area.csv` | 19-theme → 8-focus-area assignment with notes and orphan flag |
 | `focus_area_summary.csv` | Per-focus-area corpus shares, contributing themes, theme breakdown |
 | `publications_tagged_with_focus.csv` | All 1,653 substantive pubs with `focus_areas` column added |
-| `projects_tagged_with_focus.csv` | All 12,899 substantive projects with `focus_areas` column added |
+| `projects_tagged_with_focus.csv` | All 20,165 substantive projects with `focus_areas` column added |
 | `crosswalk_19_to_8.md` | (this file) |
 
 Companion Phase 3b outputs in `temporal_trends.md`.

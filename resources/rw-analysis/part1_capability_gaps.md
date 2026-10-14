@@ -70,7 +70,8 @@ documents only basic workspace sharing.
 - **N3C** adds branching, GitHub export, and cross-app interoperable artifacts
   ([rwdcollaborative.github.io](https://rwdcollaborative.github.io/guide-to-n3c-v1/chapters/tools.html)).
 - **Why remediable / impact:** this is corroborated by Part 2's workspace data
-  (86% solo workspaces, ~20% are tutorial *clones*, no reuse economy). A
+  (88% solo workspaces, ~18% are tutorial *clones*, no reuse economy) on the
+  refreshed 32,922-workspace census. A
   Dockstore integration or a published-reusable-app gallery + concept-set/
   knowledge store (à la N3C) is a known, off-the-shelf pattern AoU could adopt.
 
@@ -96,6 +97,20 @@ documents only basic workspace sharing.
 - **AoU** standardizes *data* (OMOP) but documents no portable-workflow or
   GA4GH-interchange capability — analyses are not packaged to move or be reused
   across teams/platforms. Reinforces Gap 1.
+
+## Convergent external evidence
+
+An unreleased 2026 ACT-IAC/AoU draft white paper (*Advancing AI/ML for the NIH All of
+Us Research Program*, Health Community of Interest) — developed from stakeholder
+interviews with AoU leadership, the DRC, Verily, Vanderbilt, and UNC CLAD — independently
+names the same three gaps as remediable priorities. Its Focus Area 2 proposes (1) a
+**reusable-research-asset registry** with graduated **Bronze/Silver/Gold** partner-tool
+certification (Gap 1); (2) a **governed in-environment AI research assistant** plus
+**agent-ready MCP metadata services**, explicitly noting AoU runs on Google Cloud whose
+BAA already covers Vertex/Gemini (Gap 2); and (3) **portable workflows** and GA4GH-style
+interoperability (Gap 3). That a qualitative, interview-driven effort reaches the same
+conclusions as this citation-verified capability inventory is strong triangulation.
+*(Paraphrased; the draft is confidential and not committed to this repo.)*
 
 ## Caveats
 

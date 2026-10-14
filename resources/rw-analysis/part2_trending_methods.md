@@ -1,6 +1,6 @@
 # Researcher Workbench analysis — Part 2: trending methods not yet adopted
 
-> **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
+> **Refreshed 2026-10-14** to corpus **1,657** publications, a **live 32,922-workspace production pull** (20,165 substantive), and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; the collaboration table below is exact on the new census, while some per-method adoption percentages in the Tier tables may still reflect the prior (2026-07) workspace run.
 
 **Question.** Which analytical methods/tools are *accelerating in the broad
 literature* but *under-used in AoU* — in publications and, more tellingly, in the
@@ -10,9 +10,9 @@ researcher **workspaces** — and which of those are **feasible** on the Workben
 
 | Input | Source |
 | --- | --- |
-| External method trend | Term-acceleration from 293,979 preprints + 422,565 NIH grants (2021-26), distilled to **27 analytical-method topics** (LLM induction, methods-only) — `methods_topics.json`. |
+| External method trend | Term-acceleration from 322,138 preprints + 460,285 NIH grants (2021-26), distilled to **27 analytical-method topics** (LLM induction, methods-only) — `methods_topics.json`. |
 | AoU publications | 1,657 pubs (title+abstract) — adoption in the *literature* AoU produces. |
-| AoU workspaces | **12,899 substantive** workspaces (tutorials/duplicates removed), matching the `approaches`/`questions`/`findings` text — adoption in *what researchers actually do on the RW*. |
+| AoU workspaces | **20,165 substantive** workspaces (tutorials/duplicates removed) from a **live 32,922-workspace production pull (2026-10-14)**, matching the `approaches`/`questions`/`findings` text — adoption in *what researchers actually do on the RW*. |
 | Feasibility | Each method rated against RW assets: WGS/genotyping, EHR/OMOP, surveys, physical measures, Fitbit wearables; cloud Jupyter/RStudio + BigQuery + Hail/Spark. |
 
 Opportunity = external-trend × maturity × feasibility × (1 − workspace adoption).
@@ -92,23 +92,41 @@ Computed directly from the public workspace feed (`collaboration_evidence.csv`):
 
 | Signal | Value |
 | --- | ---: |
-| Workspaces total | 21,242 |
-| **Solo** (single owner) | **18,217 (85.8%)** |
-| Multi-owner (≥2) | 3,025 (14.2%) |
-| Teams of ≥5 | 250 (1.2%) |
-| **Multi-institution** | **791 (3.7%)** |
-| Mean owners / workspace | **1.24** |
-| Duplicate-title workspaces (case-folded) | 4,144 (19.5%) |
-| Titles beginning "Duplicate of …" | 4,649 (21.9%) |
+| Workspaces total | 32,922 |
+| **Solo** (single owner) | **28,865 (87.7%)** |
+| Multi-owner (≥2) | 4,057 (12.3%) |
+| Teams of ≥5 | 278 (0.8%) |
+| **Multi-institution** | **1,069 (3.2%)** |
+| Mean owners / workspace | **1.2** |
+| Duplicate-title workspaces (case-folded) | 6,082 (18.5%) |
+| Titles beginning "Duplicate of …" | 5,108 (15.5%) |
 
 **Descriptive read:** the dominant workspace pattern is a single researcher
-working alone (86%), cross-institution teams are rare (3.7%), and roughly a fifth
+working alone (88%), cross-institution teams are rare (3.2%), and roughly a sixth
 of all workspaces are duplicates — predominantly clones of tutorial/workshop
 content ("Duplicate of How to work with All of Us genomic data", etc.). The
 public directory exposes no signal of shared/forked analytical artifacts being
 reused *across* teams; the observable reuse pattern is **copy-a-tutorial**, not
 **build-on-each-other**. (Limitation: notebook/code-level reuse is not exposed in
 the public feed, so this bounds collaboration from team/workspace metadata only.)
+
+## Convergent external evidence (unreleased 2026 ACT-IAC/AoU AI/ML white paper)
+
+An independent, stakeholder-interview–based draft white paper — *Advancing AI/ML
+for the NIH All of Us Research Program* (ACT-IAC Health Community of Interest, 2026,
+unreleased) — reaches the **same conclusions** as this quantitative gap analysis, which
+is notable because its method (interviews/working sessions) is wholly different from
+ours (corpus term-acceleration). Its Focus Area 2 recommends precisely the Tier-1/Tier-2
+enablers above: a **governed in-environment AI research assistant** that converts intent
+to draft cohorts/SQL/notebooks and gets *no broader data access than the researcher*;
+**agent-ready metadata services** (an MCP server over AoU data dictionaries/OMOP concepts);
+**reusable research assets** (phenotype/feature libraries, validated GWAS/PheWAS/survival/
+multimodal notebooks, workflow templates); explicit **cross-domain/multimodal enablement**;
+and a **hybrid/federated compute model** (STRIDES, NAIRR). The report's own read — "the
+central challenge is not a shortage of AI ideas" but the services/governance to deliver
+them — mirrors our finding that AoU's deficiency is not data or compute but the platform
+capabilities that turn them into shared, AI-enabled science. *(Paraphrased, not quoted;
+the draft is confidential and not committed to this repo.)*
 
 ## How this feeds the rest of the RW analysis
 
