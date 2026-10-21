@@ -86,7 +86,7 @@ filter. Raw: `raw/projects_api_2026-10-14.json`. The full project pipeline
 | Dataset | Records |
 | --- | ---: |
 | Publications (`publications.csv` / `publications.jsonl`) | **1,657** (1,378 → 1,432 → 1,657; refreshed 2026-10-14) |
-| Projects (`projects.csv` / `projects.jsonl`) | **32,922** (live production pull 2026-10-14; was 21,242 Wayback) |
+| Projects (`projects.csv` / `projects.jsonl`) | **32,922** (live production pull 2026-10-14; **re-verified unchanged 2026-10-21**; was 21,242 Wayback) |
 
 ## Files
 

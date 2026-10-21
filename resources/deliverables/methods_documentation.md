@@ -44,6 +44,10 @@ browser User-Agent, and `Accept-Encoding: gzip` against the warm cache (the live
 Educational-tagged, training-role, stub, and duplicate-title workspaces) yields
 **20,165 substantive workspaces**. This supersedes the earlier 2025-10-24 Wayback
 snapshot (21,242 records / 12,899 substantive) and is real growth, not a re-tag.
+**Re-pulled 2026-10-21: byte-for-byte identical** (same 32,922 workspace IDs and
+content; publications feed also unchanged at 1,657) — the figures below are current
+as of 2026-10-21. The production endpoint is now consistently healthy (any `cb`
+value returns 200), so `extract.py --refetch` can refresh it directly going forward.
 
 **Refresh (2026-10-14).** Re-pull added **+224 publications** (1,432→1,657,
 overwhelmingly 2026-dated), recovered the **live workspace census** (21,242→32,922;
