@@ -151,8 +151,9 @@ the draft is confidential and not committed to this repo.)*
   chosen to be discriminating.
 - **Grant growth multipliers** are partly inflated by RePORTER vocabulary onsets;
   trend judgments lean on preprint (author-text) signals.
-- Workspace corpus is the 2025-10-24 snapshot (per the landscape README) — this
-  **predates RW 2.0's AI tooling** (Claude Code/Gemini CLI, beta Jan 2026). The
-  ~0% in-workspace LLM use is therefore a pre-RW-2.0 measurement; re-measure
-  after RW 2.0 GA. See `baa_llm_egress_evidence.md` for the current tooling and
-  the BAA/egress mechanics behind the gap.
+- Workspace census is the **2026-10-14 live production pull** (re-verified
+  unchanged 2026-10-21) — which **postdates RW 2.0's AI tooling** (Claude
+  Code/Gemini CLI, beta Jan 2026). The very low in-workspace LLM/agentic use is
+  therefore a *current* measurement, not a pre-tooling artifact, which strengthens
+  the governed-in-environment-AI gap; re-measure after RW 2.0 GA to confirm. See
+  `baa_llm_egress_evidence.md` for the current tooling and the BAA/egress mechanics.

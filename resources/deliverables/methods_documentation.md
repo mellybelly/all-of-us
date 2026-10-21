@@ -197,8 +197,8 @@ and regenerable from the scripts.
 
 ## 10. Consolidated caveats
 
-1. **Workspace snapshot is 2025-10-24** (prod endpoint down); collaboration/
-   adoption stats reflect that date.
+1. **Workspace census is the 2026-10-14 live production pull** (re-verified
+   unchanged 2026-10-21); collaboration/adoption stats reflect that census.
 2. **Keyword tagging** (not per-record ML): directional, order-of-magnitude
    robust; PRS (10% of workspaces) / PheWAS validate that it tracks real use.
 3. **Peer corpora unaudited** — use share index, not trend differentials.
