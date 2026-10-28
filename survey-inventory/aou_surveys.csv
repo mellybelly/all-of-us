@@ -1,0 +1,14 @@
+survey,form_names,versions,n_questions,n_registered_tier_rules,n_controlled_tier_rules
+The Basics,the_basics,,79,65,55
+Lifestyle,lifestyle,,37,6,1
+Overall Health,overall_health,,40,17,4
+Family Health History,family_health_history,,116,14,12
+Personal Medical History,personal_medical_history,,480,15,15
+Personal and Family Health History,personal_and_family_health_history,,704,99,99
+Health Care Access and Utilization,healthcare_access_and_utilization,,58,1,1
+Social Determinants of Health,social_determinants_of_health_english,,82,1,1
+COVID-19 Participant Experience (COPE),december_covid19_participant_experience_cope_surve; february_covid19_participant_experience_cope_surve; july_covid19_participant_experience_cope_survey; november_covid19_participant_experience_cope_surve; june_covid19_participant_experience_cope_survey; covid19_participant_experience_cope_survey,December; February; July; November; June; May,240,56,15
+Minute Survey on COVID-19 Vaccines,summer_minute_survey_on_covid19_vaccines; fall_minute_survey_on_covid19_vaccines; winter_minute_survey_on_covid19_vaccines; new_year_survey_on_covid19_vaccines,Summer; Fall; Winter; New Year,141,69,52
+Life Functioning,life_functioning_survey,,6,0,0
+Emotional Health History and Well-Being,emotional_health_history_and_wellbeing,,103,6,0
+Behavioral Health and Personality,behavioral_health_and_personality,,60,0,0

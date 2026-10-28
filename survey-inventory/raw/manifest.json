@@ -1,0 +1,30 @@
+{
+  "retrieved": "2026-10-28",
+  "files": {
+    "aou_survey_codebook.xlsx": {
+      "url": "https://docs.google.com/spreadsheets/d/1pODkE2bFN-kmVtYp89rtrJg7oXck4Fsex58237x47mA/export?format=xlsx",
+      "bytes": 1010326,
+      "content_disposition": "attachment; filename=\"AllofUsSurveyDataCodebooks.xlsx\"; filename*=UTF-8''All%20of%20Us%20Survey%20Data%20Codebooks.xlsx"
+    },
+    "echo_measures_master_list.xlsx": {
+      "url": "https://echoportal.org/ResourceLibrary/Resources/DownloadResource/9629",
+      "bytes": 181595,
+      "content_disposition": "attachment; filename=\"ECP v3.2 - Measures Master List_20250813_v10.2.xlsx\""
+    },
+    "echo_codebook_public_use.xlsx": {
+      "url": "https://echoportal.org/ResourceLibrary/Resources/DownloadResource/9636",
+      "bytes": 6304874,
+      "content_disposition": "attachment; filename=ECHO-Codebook_20250901.xlsx"
+    },
+    "echo_release_notes.pdf": {
+      "url": "https://echoportal.org/ResourceLibrary/Resources/DownloadResource/9634",
+      "bytes": 356974,
+      "content_disposition": "attachment; filename=ReleaseNotes_DL202509.pdf"
+    },
+    "echo_ecp_protocol_v3.2.pdf": {
+      "url": "https://echoportal.org/ResourceLibrary/Resources/DownloadResource/9610",
+      "bytes": 3534042,
+      "content_disposition": "attachment; filename=\"ECHO Cohort Data and Biospecimen Collection Protocol (ECP) Version 3.2_04 DEC 2024.pdf\""
+    }
+  }
+}
