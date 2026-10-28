@@ -137,14 +137,159 @@ def build_aou():
         surveys.append([title, "; ".join(forms), "; ".join(versions),
                         n_questions, rt_rules, ct_rules])
 
+    db_surveys, db_questions = add_databrowser(surveys, variables)
+    add_item_sources(variables)
+
     write_csv("aou_surveys.csv",
               ["survey", "form_names", "versions", "n_questions",
-               "n_registered_tier_rules", "n_controlled_tier_rules"], surveys)
+               "n_registered_tier_rules", "n_controlled_tier_rules",
+               "survey_concept_id", "databrowser_name",
+               "databrowser_participants", "n_questions_matched_databrowser"],
+              surveys)
     write_csv("aou_variables.csv",
               ["survey", "version", "form_name", "section_header",
                "item_concept", "field_type", "question_text", "answer_options",
                "validation", "branching_logic", "registered_tier_rule",
-               "controlled_tier_rule"], variables)
+               "controlled_tier_rule", "question_concept_id",
+               "databrowser_match", "n_participants_databrowser",
+               "answer_concepts_databrowser", "source_refs", "source_instruments"],
+              variables)
+
+
+# ------------------------------------------- AoU enrichment (Data Browser, PDFs)
+
+# Codebook survey -> Data Browser module. The legacy PMH/FHH items are reported
+# under the combined PFHH module.
+DATABROWSER_MODULE = {
+    "Social Determinants of Health": "Social Factors of Health",
+    "Personal Medical History": "Personal and Family Health History",
+    "Family Health History": "Personal and Family Health History",
+}
+
+SURVEY_EXPLORER_PDF = {
+    "The Basics": "The_Basics_LF.pdf",
+    "Life Functioning": "The_Basics_LF.pdf",
+    "Lifestyle": "Survey_Lifestyle_Eng_Src.pdf",
+    "Overall Health": "Survey_OverallHealth_Eng_Src.pdf",
+    "Personal and Family Health History": "Survey_PaFHH_Eng_Src.pdf",
+    "Health Care Access and Utilization": "Survey_HealthCare_Eng_Src.pdf",
+    "Social Determinants of Health": "Survey_SDOH_Eng_Src.pdf",
+    "Emotional Health History and Well-Being": "Survey_EHWB_Eng_Src.pdf",
+    "Behavioral Health and Personality": "Survey_BHP_Eng_Src.pdf",
+}
+
+
+def norm_text(text):
+    text = re.sub(r"^.*?(selected|entered|is selected),? then( select)?:\s*", "",
+                  text, flags=re.I)
+    return re.sub(r"[^a-z0-9 ]+", "", text.lower().replace("’", "'")).strip()
+
+
+def best_match(text, candidates, threshold, tail=40, tail_threshold=0.8):
+    """Index of the candidate text most similar to `text` (difflib), or None.
+
+    Templated questions ("About how old were you when ... had <condition>?")
+    share long prefixes, so the last `tail` characters, where the distinguishing
+    words usually sit, must also be similar.
+    """
+    import difflib
+    best, best_score = None, threshold
+    for i, cand in enumerate(candidates):
+        sm = difflib.SequenceMatcher(None, text, cand, autojunk=False)
+        if sm.real_quick_ratio() < best_score or sm.quick_ratio() < best_score:
+            continue
+        score = sm.ratio()
+        if score <= best_score:
+            continue
+        if difflib.SequenceMatcher(None, text[-tail:], cand[-tail:]).ratio() < tail_threshold:
+            continue
+        best, best_score = i, score
+    return best
+
+
+def add_databrowser(surveys, variables):
+    """Append OMOP concept IDs and counts from raw/databrowser_questions.json."""
+    import json
+    path = RAW / "databrowser_questions.json"
+    data = json.loads(path.read_text()) if path.exists() else {"surveys": []}
+    by_module = {s["name"]: s for s in data["surveys"]}
+    by_code = {}
+    for s in data["surveys"]:
+        for q in s["questions"]:
+            by_code.setdefault(q["concept_code"].lower(), q)
+
+    matched = collections.Counter()
+    for v in variables:
+        survey, concept, text = v[0], v[4], v[6]
+        q, how = by_code.get(concept.lower()), "concept_code"
+        module = by_module.get(DATABROWSER_MODULE.get(survey, survey))
+        if q is None and module is None and survey == "Life Functioning":
+            module = by_module.get("The Basics")  # same disability items (LOINC-coded)
+        if q is None and module and text:
+            # Some items (e.g. disability) are LOINC-coded in the Data Browser.
+            cands = module["questions"]
+            i = best_match(norm_text(text), [norm_text(c["question"]) for c in cands], 0.9)
+            q, how = (cands[i], "question_text") if i is not None else (None, "")
+        if q is None:
+            v.extend(["", "", "", ""])
+            continue
+        matched[survey] += 1
+        v.extend([q["question_concept_id"], how, q["n_participants"] or "",
+                  " | ".join(f"{a['answer_concept_id']}, {a['answer']}"
+                             for a in q["answers"])])
+
+    for s in surveys:
+        module = by_module.get(DATABROWSER_MODULE.get(s[0], s[0]))
+        s.extend([module["survey_concept_id"], module["name"],
+                  module["participant_count"]] if module else ["", "", ""])
+        s.append(matched[s[0]])
+    return data.get("surveys"), by_code
+
+
+def add_item_sources(variables):
+    """Append source footnotes parsed from the Survey Explorer PDFs, and write
+    aou_survey_sources.csv (the per-survey bibliographies)."""
+    import shutil
+    import sys
+    sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+    from survey_sources import parse_pdf
+
+    if not shutil.which("pdftotext"):
+        print("WARNING: pdftotext not found; skipping Survey Explorer sources")
+        for v in variables:
+            v.extend(["", ""])
+        return
+
+    parsed, bib_rows = {}, []
+    for survey, fname in SURVEY_EXPLORER_PDF.items():
+        if fname in parsed:
+            continue
+        blocks, items = parse_pdf(RAW / "survey_explorer" / fname)
+        parsed[fname] = (blocks, items)
+        for block, entries in blocks.items():
+            label = "Life Functioning" if fname == "The_Basics_LF.pdf" and block == 1 else survey
+            for num, e in sorted(entries.items()):
+                bib_rows.append([label, fname, num, e["citation"], e["year"],
+                                 e["description"]])
+    write_csv("aou_survey_sources.csv",
+              ["survey", "survey_explorer_pdf", "source_number", "citation",
+               "year_of_original_source", "description"], bib_rows)
+
+    for survey, fname in SURVEY_EXPLORER_PDF.items():
+        blocks, items = parsed[fname]
+        rows = [v for v in variables if v[0] == survey]
+        if not rows:
+            continue
+        texts = [norm_text(v[6]) for v in rows]
+        for text, refs, citations in items:
+            i = best_match(norm_text(text), texts, 0.85)
+            if i is None or len(rows[i]) > 16:
+                continue
+            short = [re.split(r"[.:]\s", c, maxsplit=1)[0][:80] for c in citations]
+            rows[i].extend([", ".join(map(str, refs)), " | ".join(short)])
+    for v in variables:
+        if len(v) == 16:
+            v.extend(["", ""])
 
 
 # --------------------------------------------------------------------- ECHO

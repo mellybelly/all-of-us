@@ -40,6 +40,22 @@ SOURCES = {
     "echo_ecp_protocol_v3.2.pdf": ECHO_DL.format(9610),
 }
 
+# AoU Research Hub Survey Explorer (https://www.researchallofus.org/data-tools/survey-explorer/):
+# English survey PDFs annotated with the original source of each item and a
+# numbered "Sources" bibliography.
+SURVEY_EXPLORER = "https://www.researchallofus.org/wp-content/themes/research-hub-wordpress-theme/media/"
+for _name, _path in {
+    "The Basics": "2024/The_Basics_LF.pdf",
+    "Lifestyle": "surveys/Survey_Lifestyle_Eng_Src.pdf",
+    "Overall Health": "surveys/Survey_OverallHealth_Eng_Src.pdf",
+    "Personal and Family Health History": "surveys/Survey_PaFHH_Eng_Src.pdf",
+    "Health Care Access and Utilization": "surveys/Survey_HealthCare_Eng_Src.pdf",
+    "Social Determinants of Health": "surveys/Survey_SDOH_Eng_Src.pdf",
+    "Emotional Health History and Well-Being": "surveys/Survey_EHWB_Eng_Src.pdf",
+    "Behavioral Health and Personality": "surveys/Survey_BHP_Eng_Src.pdf",
+}.items():
+    SOURCES[f"survey_explorer/{_path.rsplit('/', 1)[1]}"] = SURVEY_EXPLORER + _path
+
 
 def fetch(url, dest):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -53,7 +69,7 @@ def fetch(url, dest):
 
 
 def main():
-    RAW.mkdir(parents=True, exist_ok=True)
+    (RAW / "survey_explorer").mkdir(parents=True, exist_ok=True)
     manifest = {"retrieved": datetime.date.today().isoformat(), "files": {}}
     for name, url in SOURCES.items():
         disposition, size = fetch(url, RAW / name)
