@@ -20,7 +20,9 @@ co-analysis depends on mapping equivalent variables. See the
 | ECHO source | ECHO Cohort Protocol (ECP) v3.2: Measures Master List + public-use codebook (Cycle 2 release, which also carries Cycle 1 tables) |
 | AoU release / tier | Latest CDR, **Controlled Tier**. The AoU Survey Codebook covers every survey fielded in both the Registered and Controlled Tier CDRs and records the per-item privacy rules for each tier |
 | Granularity | Question level **plus** answer options |
-| Goal | Cross-cohort harmonization map (AoU ↔ ECHO) |
+| Goal | Prioritize which AoU surveys should be harmonized with which ECHO measures (not the harmonization itself) |
+| Respondents | Caregiver report about a child is acceptable |
+| Data currency | Current data only: ECHO ECP v3.2 measures; Cycle 1 / legacy-only instruments excluded |
 
 ## Inventory at a glance
 
@@ -117,12 +119,16 @@ Source instruments relevant to harmonization include:
 | `aou_survey_sources.csv` | 1 row / cited source | Survey Explorer bibliography per survey: citation, year of original source, description |
 | `echo_measures.csv` | 1 row / ECP measure | domain, data element, form short name, visits, respondent ("completed by"), child age range, database table(s) |
 | `echo_variables.csv` | 1 row / ECHO codebook variable | dataset, cycle, kind (form/derived/lab), link to ECP measure, label, type, answer options from code lists, units, terminology standard (ICD/RxNorm/USDA) |
-| `harmonization_map.csv` | 1 row / AoU↔ECHO variable pair | **template, header only**. To be filled in next |
+| `harmonization_priorities.csv` | 1 row / AoU survey ↔ ECHO measure pairing | ranked recommendations of what to harmonize first; see [`HARMONIZATION_PRIORITIES.md`](HARMONIZATION_PRIORITIES.md) |
+| `harmonization_gaps.csv` | 1 row / construct | constructs with no survey counterpart in the other cohort |
+| `harmonization_map.csv` | 1 row / AoU↔ECHO variable pair | template, header only, for later variable-level work |
 | `raw/` | n/a | source dictionaries as downloaded, `survey_explorer/` PDFs, `databrowser_questions.json`, and `manifest.json` (URLs, dates, original filenames) |
 | `scripts/acquire.py` | n/a | re-downloads the codebooks and PDFs (all public, no login) |
 | `scripts/fetch_databrowser.py` | n/a | re-pulls question/answer concept IDs and counts from the Data Browser API (~3 min) |
 | `scripts/survey_sources.py` | n/a | parses Survey Explorer PDFs (needs poppler `pdftotext`) |
 | `scripts/build_inventory.py` | n/a | regenerates every CSV from `raw/` |
+| `scripts/fetch_echo_counts.py` | n/a | ECHO participants per measure from ECHOPortal PlatIPUS (public) → `raw/echo_platipus_counts.csv` |
+| `scripts/prioritize.py` | n/a | scores and ranks AoU↔ECHO pairings → `harmonization_priorities.csv` |
 
 ```bash
 python3 survey-inventory/scripts/acquire.py
@@ -157,9 +163,6 @@ python3 survey-inventory/scripts/build_inventory.py
 - ECHO's public-use codebook reflects the public release (DL202509), not every ECP item. Some ECP measures have no public table (for example NIH Toolbox item-level data, address history, and some biospecimen forms).
 - ECHO respondents differ from AoU's. Many ECHO items are caregiver-reported about a child, or completed by a pregnant participant. AoU items are adult self-report. The harmonization map records this in `respondent_note`.
 
-## Next steps (harmonization map)
+## Next steps
 
-1. Seed candidate pairs by shared standard instruments, where matching is near-exact. Examples: PROMIS, PHQ-9, GAD-7, PSS, EPDS/CES-D, ACEs, AUDIT-C/tobacco, sleep (PSQI/PROMIS), food insecurity (Hunger Vital Sign), discrimination (EDS), neighborhood/SDOH, and demographics (race, ethnicity, education, income, insurance).
-2. Rank lexical/semantic similarity between `question_text` and `variable_label` to surface the rest.
-3. Have a reviewer classify each pair as `match_type` ∈ {exact, equivalent-transform, partial, related-construct}. Record answer-option recodes in `transform_note`.
-4. Where possible, attach standard codes (LOINC, PhenX, NIH CDE, OMOP concept_id).
+Prioritized pairings are in [`HARMONIZATION_PRIORITIES.md`](HARMONIZATION_PRIORITIES.md). Variable-level mapping (`harmonization_map.csv`) is out of scope for now. If it is taken up later, follow that ranking.

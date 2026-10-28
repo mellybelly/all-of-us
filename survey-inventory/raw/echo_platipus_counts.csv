@@ -1,0 +1,715 @@
+platipus_measure_id,short_name,name,group,n_participants
+644,,Pregnancy,Participant Type,45322
+645,,Child,Participant Type,41005
+1904,SHS,Secondhand smoke exposure,Built-Physical Environment (BPE),35932
+1920,HCE,Household Chemical Exposure - Child,Built-Physical Environment (BPE),28127
+1921,HCEPreg,Household Chemical Exposure - Pregnancy,Built-Physical Environment (BPE),26047
+2586,,Adverse Childhood Experiences for ECHO Children,Home Social Environment,17800
+1908,PDep,Caregiver Depression Symptom Score,Caregiver Neuro-Psychosocial (CNP),41458
+1916,PSS,Perceived Stress Scale,Caregiver Neuro-Psychosocial (CNP),53174
+1918,WECHIQ_A,Caregiver General Cognition IQ,Caregiver Neuro-Psychosocial (CNP),2752
+2022,,ACEMat,Caregiver Neuro-Psychosocial (CNP),29124
+1911,Birth,Birth Characteristics,Child & Family Health Hx (HHx),40978
+1919,MHCh,Child Medical History,Child & Family Health Hx (HHx),40292
+1931,NOWS,Neonatal Opioid Withdrawal Syndrome (NOWS),Child & Family Health Hx (HHx),24268
+2027,MHBF,Child and Family Health History,Child & Family Health Hx (HHx),73781
+2584,,Child Infection History,Child & Family Health Hx (HHx),36250
+2585,,Child Medication Use,Child & Family Health Hx (HHx),14275
+1877,IFP,Infant Feeding Practices,Child Health Behaviors & Lifestyle (CHB),30695
+1979,ChDiet,Child diet,Child Health Behaviors & Lifestyle (CHB),18975
+1988,ChPA,Children Physical Activity,Child Health Behaviors & Lifestyle (CHB),15179
+2444,SU,Substance Use,Child Health Behaviors & Lifestyle (CHB),15641
+2753,,Child Media Use,Child Health Behaviors & Lifestyle (CHB),23704
+1905,CBCLPre,Child Behavior Checklist Preschool Version,Child Neuro-developmental Health & Functioning (CNH),14554
+1906,CBCLSch,Child Behavior Checklist School-aged Version,Child Neuro-developmental Health & Functioning (CNH),13325
+1907,WECHIQ,Child General Cognition IQ,Child Neuro-developmental Health & Functioning (CNH),3915
+1922,ASQ,ASQ Z-score and monitor zone,Child Neuro-developmental Health & Functioning (CNH),16137
+1923,MCHAT,Modified Checklist for Autism in Toddlers (MCHAT),Child Neuro-developmental Health & Functioning (CNH),6254
+1924,SRS,Social Responsiveness Scale (SRS),Child Neuro-developmental Health & Functioning (CNH),21185
+1980,SDQ,Strengths and Difficulties Questionnaire,Child Neuro-developmental Health & Functioning (CNH),6573
+1989,ChIQ,Children Full Scale IQ,Child Neuro-developmental Health & Functioning (CNH),4580
+2021,BRIEF,BRIEF,Child Neuro-developmental Health & Functioning (CNH),2719
+1909,Air1,Child Asthma and ARI,Child Physical Health & Functioning (CPH),37513
+1910,Air1h,Child Asthma and ARI - Horizontal File,Child Physical Health & Functioning (CPH),37513
+1925,Atopy,Child Atopy,Child Physical Health & Functioning (CPH),35118
+1926,ChAnthr,Child Anthropometric Measurements,Child Physical Health & Functioning (CPH),39478
+1990,PE,Child blood pressure,Child Physical Health & Functioning (CPH),15889
+1878,SleepPR,Child Sleep Health - Parent Report,Child Sleep Health (CSH),34855
+1879,SleepSR,Child Sleep Health - Self Report,Child Sleep Health (CSH),8755
+1885,Alc,Prenatal Alcohol Use,Pregnancy Related (Prg),37462
+1886,Par,Parity and Gravidity,Pregnancy Related (Prg),32129
+1887,Tob,Prenatal Tobacco Use and Secondhand Smoke Exposure,Pregnancy Related (Prg),38962
+1912,Cond,Pregnancy Medical Conditions,Pregnancy Related (Prg),33412
+1913,Delivery,Delivery Characteristics,Pregnancy Related (Prg),40825
+1914,Drugs,Prenatal Drug Use,Pregnancy Related (Prg),37388
+1915,Opioid,Prenatal Opioid Use,Pregnancy Related (Prg),29838
+1933,Anthr,Maternal Pre-Pregnancy Height and Weight and Pregnancy Weight Gain,Pregnancy Related (Prg),36931
+1934,Depress,Prenatal Depression or Anxiety Diagnosis & History,Pregnancy Related (Prg),26144
+1935,Med,Prenatal Medication Use,Pregnancy Related (Prg),17855
+1936,ReceiptPC,Receipt of Prenatal Care,Pregnancy Related (Prg),23187
+1982,Diet,Maternal diet in pregnancy,Pregnancy Related (Prg),29074
+1994,PA,Maternal physical activity,Pregnancy Related (Prg),9338
+2025,Infert,Infert,Pregnancy Related (Prg),27722
+1880,DemChild,Child Demographics,Sociodemographics (Dem),40978
+1881,DemPrg,Pregnancy Demographics,Sociodemographics (Dem),40825
+1927,InsurChild,Child life-stage specific health insurance status,Sociodemographics (Dem),31980
+1928,InsurPreg,Insurance Status on Biological Mothers,Sociodemographics (Dem),26002
+1929,SESChild,Family Socioeconomic Status (infancy - adolescence),Sociodemographics (Dem),40198
+1930,SESPreg,Prenatal Socioeconomic Status,Sociodemographics (Dem),34738
+1981,ECE,Early Care and Education,Sociodemographics (Dem),31052
+2023,PAssiChild,PAssiChild,Sociodemographics (Dem),34705
+2024,PAssiPreg,PAssiPreg,Sociodemographics (Dem),29263
+2037,,Child Behavior Checklist (CBCL)-Preschool total problems T score (continuous),ECHO Outcome Variables,14608
+2038,,Child Behavior Checklist (CBCL)-School Age Total problems T score (continuous),ECHO Outcome Variables,13326
+2039,,Child asthma ever diagnosis,ECHO Outcome Variables,30975
+2040,,Child body mass index (BMI),ECHO Outcome Variables,27476
+2041,,Preterm birth,ECHO Outcome Variables,40476
+2042,,Birth weight (BW),ECHO Outcome Variables,37012
+2043,,Gestational age at birth (GA),ECHO Outcome Variables,39998
+2044,,ADHD diagnosis,ECHO Outcome Variables,31803
+2045,,ASD diagnosis,ECHO Outcome Variables,32193
+2046,,History of Developmental delay ,ECHO Outcome Variables,20573
+2047,,History of Learning disability,ECHO Outcome Variables,20340
+2048,,History of Speech or Language disorder,ECHO Outcome Variables,20413
+2049,,Singleton gestation,ECHO Outcome Variables,40299
+2050,,Ethnicity of the biological mother,Key Demographic Variables,40899
+2051,,Mutually exclusive race category of the biological mother,Key Demographic Variables,40899
+2052,,Ethnicity of the child participant,Key Demographic Variables,41005
+2053,,Mutually exclusive race category of the participant,Key Demographic Variables,41005
+2054,,The highest level of school the biological mother has completed,Key Demographic Variables,31674
+2937,,Mobile Toolbox Cognition - Arranging Pictures,Child General Cognition ,9512
+2938,,Mobile Toolbox Cognition - Arrows Matching,Child General Cognition ,9726
+2939,,Mobile Toolbox Cognition - Number-symbol Match,Child General Cognition ,9636
+2940,,Mobile Toolbox Cognition - Shape Color Sorting,Child General Cognition ,9610
+2941,,Mobile Toolbox Cognition - Word Meaning,Child General Cognition ,9618
+1939,Urine,Urine,Alkyl Phosphate Pesticides (Organophosphorus Insecticides) and Pyrethroids,8357
+2719,,Any,Alkyl Phosphate Pesticides (Organophosphorus Insecticides) and Pyrethroids,8357
+1941,Urine,Urine,Aromatic Amines,1425
+1995,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Aromatic Amines,94
+2732,,Any,Aromatic Amines,1519
+2561,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Cannabinoids,588
+2562,Urine,Urine,Cannabinoids,353
+2720,,Any,Cannabinoids,941
+2004,Umbilical cord blood,Umbilical cord blood,Cardiometabolics,1124
+2196,,Blood (not umbilical cord blood),Cardiometabolics,3193
+2733,,Any,Cardiometabolics,3738
+2007,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Cytokines,3803
+2011,Umbilical cord blood,Umbilical cord blood,Cytokines,744
+2721,,Any,Cytokines,4340
+2012,Urine,Urine,Disinfection Byproducts,61
+2197,,Blood (not umbilical cord blood),Fatty Acids,1000
+1942,Urine,Urine,Fungicides and Herbicides,5037
+2722,,Any,Fungicides and Herbicides,5037
+1943,Urine,Urine,"Insecticides, not otherwise specified",5037
+2723,,Any,"Insecticides, not otherwise specified",5037
+1944,Urine,Urine,Melamine and Melamine Derivatives,2921
+1945,Urine,Urine,Metals and Metalloids,5641
+1946,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Metals and Metalloids,1581
+1947,Umbilical cord blood,Umbilical cord blood,Metals and Metalloids,200
+1967,Hair,Hair,Metals and Metalloids,121
+1968,Umbilical cord tissue,Umbilical cord tissue,Metals and Metalloids,234
+2724,,Any,Metals and Metalloids,7385
+2739,Placenta,Placenta,Metals and Metalloids,271
+1948,Urine,Urine,Neonicotinoid Insecticides,5037
+2725,,Any,Neonicotinoid Insecticides,5037
+2013,Blood (not umbilical cord blood): Serum,Blood (not umbilical cord blood),Nutrients,2367
+1949,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Organochlorine Pesticides,137
+1950,Urine,Urine,Organophosphorus Flame Retardants,7602
+2014,Urine,Urine,Oxidative Stress Markers,397
+2755,,Blood (not umbilical cord blood),Oxidative Stress Markers,
+2198,,Urine,Perchlorate and Other Anions,
+1955,Umbilical cord blood,Umbilical cord blood,"Perfluoroalkyl and Polyfluoroalkyl Substances (PFASs, PFCs)",170
+1970,Blood (not umbilical cord blood),Blood (not umbilical cord blood),"Perfluoroalkyl and Polyfluoroalkyl Substances (PFASs, PFCs)",6063
+2575,Field blank,Field blank,"Perfluoroalkyl and Polyfluoroalkyl Substances (PFASs, PFCs)",15
+2726,,Any,"Perfluoroalkyl and Polyfluoroalkyl Substances (PFASs, PFCs)",6116
+1956,Urine,Urine,"Phenols (including bisphenols, parabens, and other environmental phenols used in personal care and consumer products)",8590
+1957,Blood (not umbilical cord blood),Blood (not umbilical cord blood),"Phenols (including bisphenols, parabens, and other environmental phenols used in personal care and consumer products)",322
+2727,,Any,"Phenols (including bisphenols, parabens, and other environmental phenols used in personal care and consumer products)",8912
+1958,Urine,Urine,Phthalate and Phthalate Alternatives,9609
+1974,Meconium,Meconium,Phthalate and Phthalate Alternatives,363
+2728,,Any,Phthalate and Phthalate Alternatives,9972
+1959,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Polybrominated Diphenyl Ethers (PBDEs),246
+1960,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Polychlorinated Biphenyls (PCBs),189
+1961,Urine,Urine,Polycyclic Aromatic Hydrocarbons (PAHs),6756
+1999,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Polycyclic Aromatic Hydrocarbons (PAHs),94
+2729,,Any,Polycyclic Aromatic Hydrocarbons (PAHs),6797
+2015,Blood (not umbilical cord blood): Plasma,Blood (not umbilical cord blood),Targeted Lipid Metabolites,355
+2199,,Blood (not umbilical cord blood),Thyroid hormones,2184
+2200,,Umbilical cord blood,Thyroid hormones,224
+2731,,Any,Thyroid hormones,2340
+1962,Urine,Urine,Tobacco Metabolites,6286
+1963,Umbilical cord blood,Umbilical cord blood,Tobacco Metabolites,316
+1975,Hair,Hair,Tobacco Metabolites,397
+1976,Saliva,Saliva,Tobacco Metabolites,326
+1977,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Tobacco Metabolites,177
+2730,,Any,Tobacco Metabolites,6842
+2016,Urine,Urine,Urinary dilution,13872
+1964,Umbilical cord blood,Umbilical cord blood,Vitamin D,2323
+1966,Blood (not umbilical cord blood),Blood (not umbilical cord blood),Vitamin D,4727
+2718,,Any,Vitamin D,6315
+2580,,Urine,Non-omics Bioassay,11365
+2581,,Metals,Non-omics Bioassay,6058
+2624,,Blood Spot,Genetic array data,1294
+2625,,Blood,Genetic array data,3305
+2626,,Cord Blood,Genetic array data,1275
+2627,,Blood Buffy Coat (DNA),Genetic array data,4057
+2630,,Buccal,Genetic array data,37
+2631,,Peripheral Blood Mononuclear Cells (PBMC),Genetic array data,250
+2633,,Lymphocytes,Genetic array data,631
+2634,,Monocytes,Genetic array data,452
+2635,,Whole Blood,Genetic array data,1894
+2636,,Blood Clot,Genetic array data,9
+2637,,Saliva,Genetic array data,16856
+2638,,Unknown,Genetic array data,680
+2639,,Missing,Genetic array data,313
+2703,,Saliva (for DNA - Assisted),Genetic array data,1538
+2736,,Any,Genetic array data,29785
+2640,,Urine: Supernatant,Metabolomics data,423
+2642,,Urine: Not otherwise specified,Metabolomics data,4008
+2645,,Blood (not umbilical cord blood): Plasma,Metabolomics data,15
+2659,,Umbilical cord blood: Serum,Metabolomics data,331
+2660,,Umbilical cord blood: Plasma,Metabolomics data,154
+2737,,Any,Metabolomics data,4784
+2604,,Blood Spot,Methylation data,347
+2605,,Blood,Methylation data,274
+2606,,Cord Blood,Methylation data,1475
+2608,,Placenta,Methylation data,495
+2611,,Buccal,Methylation data,488
+2612,,Peripheral Blood Mononuclear Cells (PBMC),Methylation data,516
+2613,,Cord Blood Mononuclear Cells (CBMC),Methylation data,117
+2614,,Nasal Epithelia,Methylation data,1192
+2615,,Other Nasal Lavage,Methylation data,624
+2735,,Any,Methylation data,4327
+2691,,Stool,Microbiome rRNA sequencing (m16s) data,2428
+2693,,Oral,Microbiome rRNA sequencing (m16s) data,34
+2695,,Nasal,Microbiome rRNA sequencing (m16s) data,1210
+2696,,Nasopharyngeal,Microbiome rRNA sequencing (m16s) data,
+2697,,Vaginal,Microbiome rRNA sequencing (m16s) data,440
+2738,,Any,Microbiome rRNA sequencing (m16s) data,3584
+2743,,Asthma Control and Medication Adherence - Parent Report,Asthma Control,2277
+2744,,Asthma Control and Medication Adherence - Self Report,Asthma Control,2926
+2704,,V3 - Cycle2,Executive Function/Memory Composite,40
+2705,,V3 - Cycle2,Familiarization,741
+2706,,V3 - Cycle2,Get Up and Go,742
+2707,,V3 - Cycle2,Looking While Listening,740
+2754,,V3 - Cycle2,MacArthur Bates CDI-CAT Comprehension,2
+2708,,V3 - Cycle2,MacArthur Bates CDI-CAT Production,696
+2709,,V3 - Cycle2,Memory Task Learning,87
+2710,,V3 - Cycle2,Memory Task Test,86
+2711,,V3 - Cycle2,Motor Composite,401
+2712,,V3 - Cycle2,NBT Touch Screen Tutorial,87
+2713,,V3 - Cycle2,Picture Vocabulary,85
+2714,,V3 - Cycle2,Reach To Eat_Fine Motor,741
+2715,,V3 - Cycle2,Reach To Eat_Manual Dexterity,741
+2716,,V3 - Cycle2,Reach To Eat_Manual Planning,741
+2717,,V3 - Cycle2,Visual Delayed Response,87
+2890,,Wildfire Smoke Rapid Response Survey – Early Childhood,Ad hoc Time-sensitive Data Collection,1474
+2943,,Wildfire Smoke Rapid Response Survey – Pregnancy,Ad hoc Time-sensitive Data Collection,4
+2944,,Wildfire Smoke Rapid Response Survey – School Age,Ad hoc Time-sensitive Data Collection,2491
+321,HCExp-C,Household Chemical Exposure - Current,Chemical Exposures,25751
+322,HCExp-PI,Household Chemical Exposure - Pregnancy Incremental,Chemical Exposures,2203
+323,HCExp-PP,Household Chemical Exposure - Pre-pregnancy & Pregnancy,Chemical Exposures,16770
+324,HCExp-R,Household Chemical Exposure - Recall,Chemical Exposures,10874
+2745,,Household Chemical Exposures - Current - L,Chemical Exposures,45
+325,HESHS-C,Household Exposure to Secondhand Smoke - Current,Household Exposure to Secondhand Smoke,33689
+326,HESHS-PI,Household Exposure to Secondhand Smoke - Pregnancy Incremental,Household Exposure to Secondhand Smoke,2824
+327,HESHS-PP,Household Exposure to Secondhand Smoke - Pre-pregnancy & Pregnancy,Household Exposure to Secondhand Smoke,19956
+328,HESHS-R,Household Exposure to Secondhand Smoke - Recall,Household Exposure to Secondhand Smoke,11520
+2378,HESHS_A,Household Exposure to Secondhand Smoke - 18-20 yr olds,Household Exposure to Secondhand Smoke,761
+2746,,Household Exposure to Secondhand Smoke - Current - L,Household Exposure to Secondhand Smoke,139
+329,OExp-PP,Maternal and Paternal Occupation Exposures - Pre-pregnancy and Pregnancy,Maternal and Paternal Work Exposures,5217
+330,OExp-R,Maternal and Paternal Occupation Exposures - Recall,Maternal and Paternal Work Exposures,10572
+565,NE-CE-P,Neighborhood Collective Efficacy - Pregnant Woman,Neighborhood Capital,397
+566,NE-S-C,Neighborhood Safety - Caregiver,Perceived Neighborhood Conditions,3511
+567,NE-S-P,Neighborhood Safety - Pregnant Woman,Perceived Neighborhood Conditions,22
+569,NE-PA-C,Physical Activity - Neighborhood Environment - Caregiver,Perceived Neighborhood Conditions,2780
+571,PAng5a,PROMIS Anger 5a,Caregiver Anger,1928
+572,PAnx8a,PROMIS Anxiety 8a,Caregiver anxiety,4743
+2392,PAnx_CAT,PROMIS - Anxiety CAT,Caregiver anxiety,28425
+576,SRS2CG,Social Responsiveness Scale (SRS-2) - Adult (Relative/Other Report),Caregiver ASD-related Phenotype,1520
+557,WEDS,The Everyday Discrimination Scale,Caregiver discrimination,38440
+558,WEDS-S,The Everyday Discrimination Scale (Short Version),Caregiver discrimination,6406
+633,KRIEG,Experiences of Discrimination (EOD),Caregiver discrimination,2539
+562,ASR,Achenbach System of Empirically Based Assessment Adult Self Report (ASR),Caregiver Externalizing Spectrum,1668
+356,WASI,Wechsler Abbreviated Scale of Intelligence,Caregiver IQ,845
+357,WASI2A,Wechsler Abbreviated Scale of Intelligence - 2nd Edition,Caregiver IQ,1493
+358,WAIS4a,Wechsler Adult Intelligence Scale (WAIS),Caregiver IQ,464
+1643,PPVT4a,Peabody Picture Vocabulary Test - Fourth Edition,Caregiver IQ,428
+1645,PPVT3a,Peabody Picture Vocabulary Test - Third Edition,Caregiver IQ,557
+2391,BCE,Benevolent Childhood Experiences,Caregiver Positive Life Events in Childhood,24382
+575,SHAdult,Sleep Health of Adults,Caregiver Sleep Health,13364
+532,PSD4a,PROMIS Sleep Disturbance 4a,Caregiver sleep quality,4529
+533,PSRI4a,PROMIS Sleep-Related Impairment 4a,Caregiver sleep-related impairment,5865
+2397,PRAMS,PRAMS Stressful Life Events in Pregnancy,Caregiver Stressful Life Events In Pregnancy,16714
+573,PGLS5a,PROMIS General Life Satisfaction 5a,Caregiver Wellbeing - Life Satisfaction,4556
+574,PMP8a,PROMIS Meaning and Purpose 8a,Caregiver Wellbeing - Meaning & Purpose,2681
+563,CTS,Conflict Tactics Scale for Partner and Spouse,Caregiver-Partner Relationship ,1223
+332,BDI,Beck Depression Inventory (BDI),Depressive Symptoms,1441
+333,BSI,Brief Symptom Inventory (BSI),Depressive Symptoms,4068
+334,CESD,Center for Epidemiological Studies Depression Scale (CES-D),Depressive Symptoms,5698
+335,EPDS,Edinburgh Postnatal Depression Scale,Depressive Symptoms,20476
+340,PHQ9,Patient Health Questionnaire (PHQ-9),Depressive Symptoms,8361
+347,PDep8a,PROMIS Depression 8a,Depressive Symptoms,10451
+354,SF36,SF-36 Health Survey,Depressive Symptoms,402
+2393,PDep_CAT,PROMIS - Depression CAT,Depressive Symptoms,28428
+349,PGHM2a,PROMIS Global Health Mental 2a,Global Health,8571
+350,PGHP2a,PROMIS Global Health Physical 2a,Global Health,9088
+351,PGH,PROMIS Global Health Scale,Global Health,40116
+622,SRB-F,Sexual Risk Behavior - Female,Maternal Sexual Behavior,109
+568,PSOC,Parenting Sense of Competence Scale,Parenting sense of competency,3070
+344,PSS14,Perceived Stress Scale (PSS) 14-item,Perceived Stress,807
+345,PSS10,Perceived Stress Scale 10-item,Perceived Stress,44843
+346,PSS4,Perceived Stress Scale 4-item,Perceived Stress,11968
+336,ESSI,ENRICHD Social Support Instrument (ESSI),Social Support,2157
+348,PES4a,PROMIS Emotional Support 4a ,Social Support,20124
+352,PInfS4a,PROMIS Informational Support 4a,Social Support,19873
+353,PInstrS4a,PROMIS Instrumental Support 4a,Social Support,19737
+2394,PES_CAT,PROMIS - Emotional Support CAT,Social Support,28389
+2395,PInfS_CAT,PROMIS - Informational Support CAT,Social Support,17380
+2396,PInstrS_CAT,PROMIS - Instrumental Support CAT,Social Support,17373
+551,LSC12,12-month Stressor Checklist,Stressful life events in adulthood (18+),2397
+555,CRISYS,Crisis in the Family Systems - Revised (CRISYS-R),Stressful life events in adulthood (18+),6911
+556,LSC,Life Stressor Checklist - Revised (LSC-R),Stressful life events in adulthood (18+),13334
+631,LES,Life Experience Survey,Stressful life events in adulthood (18+),792
+1778,CRISYS-SF,Crisis in the Family Systems - Revised (CRISYS-R) Short Form,Stressful life events in adulthood (18+),28434
+552,ACE-aAV,Adverse Childhood Experiences - Adult Alternate Version,Stressful life events in childhood (<18yr),612
+554,CTQ,Childhood Trauma Questionnaire,Stressful life events in childhood (<18yr),9802
+634,ACEBRFSS,Behavioral Risk Factor Surveillance System (BRFSS) ACE Module,Stressful life events in childhood (<18yr),559
+1788,ACECDC,CDC-Kaiser ACEs Module,Stressful life events in childhood (<18yr),261
+2379,,PROMIS - General Life Satisfaction CAT,Caregiver Life Satisfaction,8616
+2058,CFSP,Child Food Source and Preparation,Child food Contaminants,2358
+2747,,Air Quality Awareness and Protective Behaviors,Climate,1583
+2748,,Natural Disasters and Preparedness - Childhood,Climate,1975
+2749,,Natural Disasters and Preparedness - Pregnancy,Climate,1587
+2059,PCP-C,Personal Care Products - Child,Personal care products,5030
+2060,PCP-Preg,Personal Care Products - Pregnancy,Personal care products,2521
+369,HIC,Health Insurance Coverage,Caregiver and Child Health Insurance Status,55073
+2451,HIC_A,Health Insurance Coverage - 18-20 yr olds,Caregiver and Child Health Insurance Status,759
+364,C19-aAV,COVID-19 Questionnaire - Adult Alternate Version,Caregiver COVID-19 status and impact,1264
+365,C19-aPV,COVID-19 Questionnaire - Adult Primary Version,Caregiver COVID-19 status and impact,13154
+1648,C19-2-aPV,COVID-19 Questionnaire 2 - Adult Primary Version,Caregiver COVID-19 status and impact,5876
+1649,C19-2-aAV,COVID-19 Questionnaire 2 - Adult Alternate Version,Caregiver COVID-19 status and impact,219
+1767,C19-3-aPV,COVID-19 Questionnaire 3 - Adult Primary Version,Caregiver COVID-19 status and impact,8331
+1770,C19Vac,COVID-19 Vaccination - Adult,Caregiver COVID-19 Vaccination,8952
+2450,CHL,Caregiver Health Literacy,Caregiver Health Literacy,5945
+2460,Wt_CG,Caregiver Weight - Self Report,Caregiver Weight,6913
+359,CBI,Child Birth Information,Child Birth Information,29778
+360,CBMRA,Child Birth Medical Record Abstraction ,Child Birth Information,23806
+1647,CBMRAaJ,Child Birth Medical Record Abstraction - Section J Addendum,Child Birth Information,423
+2449,CBMRA2,Child Birth Medical Record Abstraction (Sections I-M),Child Birth Information,16001
+366,C19-cPR,COVID-19 Questionnaire - Child Parent-Report Version,Child COVID-19 status and impact,11843
+368,C19-cPV,COVID-19 Questionnaire – Child Self-Report Primary Version,Child COVID-19 status and impact,1999
+1650,C19-2-pPV,COVID-19 Questionnaire 2 - Parent-Report Primary Version,Child COVID-19 status and impact,4891
+1651,C19-2-pAV,COVID-19 Questionnaire 2 - Parent-Report Alternate Version,Child COVID-19 status and impact,3
+1652,C19-2-cPV,COVID-19 Questionnaire 2 - Child Self-Report Primary Version,Child COVID-19 status and impact,792
+1653,C19-2-cAV,COVID-19 Questionnaire 2 - Child Self-Report Alternate Version,Child COVID-19 status and impact,1
+1768,C19-3-cPV,COVID-19 Questionnaire 3 - Child Self-Report Primary Version,Child COVID-19 status and impact,1118
+1769,C19-3-pPV,COVID-19 Questionnaire 3 - Parent-Report Primary Version,Child COVID-19 status and impact,6159
+1771,C19Vac-A,COVID-19 Vaccination - Adult 18-21yrs,Child COVID-19 Vaccination,1400
+1772,C19Vac-PR,COVID-19 Vaccination - Parent Report,Child COVID-19 Vaccination,6526
+371,MH-EC,Medical History - Early Childhood,Child Medical History,25904
+627,NNNS,NICU Network Neurobehavioral Scale,Child Medical History,828
+2452,MH,Medical History of the Child Update,Child Medical History,150
+2453,MH_A,Medical History of the Child Update - 18-20 yr olds,Child Medical History,371
+2454,MH_C,Medical History of the Child,Child Medical History,25904
+2456,MH2,Medical History of the Child Update 2,Child Medical History,19180
+2457,MH2_A,Medical History Update 2 - 18-20 yr olds,Child Medical History,819
+2458,MH2_C,Medical History of the Child 2,Child Medical History,16530
+2413,MRA_CAPE,Medical Record Abstraction Child Anthropometrics,Child Medical History; Child Anthropometric Measures,7420
+1660,C19SSD-cPR,COVID-19 School and Social Distancing Practices-Parent Report,COVID-19 Related,1923
+1661,C19SSD-aSR,COVID-19 School and Social Distancing Practices-Child Self-Report,COVID-19 Related,1380
+1662,C19-aFV,COVID-19 Questionnaire - Adult Follow-up Version,COVID-19 Related,3393
+1663,C19-CEE,COVID-19 Changes in Environmental Exposures,COVID-19 Related,1949
+1664,EPII-A,EPIDEMIC – PANDEMIC IMPACTS INVENTORY (EPII) (Abbreviated),COVID-19 Related,458
+1777,C19-CEE2,COVID-19 Changes in Environmental Exposures 2 (April 2021),COVID-19 Related,1379
+2445,C19_4_aPV,COVID-19 Questionnaire 4 - Adult Primary Version,COVID-19 Related,7842
+2446,C19_4_cPV,COVID-19 Questionnaire 4 - Child Self-Report Primary Version,COVID-19 Related,1488
+2447,C19_4_pPV,COVID-19 Questionnaire 4 - Parent-Report Primary Version,COVID-19 Related,7139
+370,MH-BF,Medical History - Biological Family,Lifetime/Updated Family Medical Conditions,31280
+1773,MH2-BF,Medical History - Biological Family,Lifetime/Updated Family Medical Conditions,8962
+2455,MH_F,Medical History of the Family,Lifetime/Updated Family Medical Conditions,8256
+2459,MH2_F,Medical History of the Family 2,Lifetime/Updated Family Medical Conditions,29700
+2945,,Accelerometer - Child - Daily physical activity summary statistics from Garmin device,Accelerometer,2902
+2946,,Accelerometer - Child - Daily sleep summary statistics from Garmin device,Accelerometer,2346
+2947,,Accelerometer - Child - Daily wear time statistics from Garmin device,Accelerometer,3009
+589,CEBQ,Children's Eating  Behaviour Questionnaire,Caregiver Feeding Practice and Style,3265
+590,CFPQ,Comprehensive Feeding Practices Questionnaires,Caregiver Feeding Practice and Style,3620
+580,Caff-PR,Caffeine Intake - Parent Report,Child caffeine use ,853
+581,Caff-SR,Caffeine Intake - Self Report,Child caffeine use ,87
+374,BLOCK,Block Questionnaire for Ages 2-7 - Kids 2-7 FFQ,Child Diet,3435
+377,DSQ-PR,Dietary Screener Questionnaire - Parent Report,Child Diet,11373
+530,DSQ-SR,Dietary Screener Questionnaire - Self Report,Child Diet,2484
+1665,BLOCK2,Block Questionnaire for Ages 8-17 - 2004 FFQ,Child Diet,1923
+1666,BLOCK3,Block Screener Questionnaire for Ages 2-17,Child Diet,239
+2502,ASA_INF,ASA24 Dietary Assessment Tool - INF,Child Diet,789
+2503,ASA_TNS,ASA24 Dietary Assessment Tool - TNS,Child Diet,2515
+2504,ASA_TS,ASA24 Dietary Assessment Tool - TS,Child Diet,1236
+2506,NDSR02_C,NDSR 24hr Dietary Recall Assessment for Child: Food File (File 02),Child Diet,1026
+2507,NDSR04_C,NDSR 24hr Dietary Recall Assessment for Child: Day-Level Nutrient Totals (File 04),Child Diet,1026
+375,CFSP,Child Food Source and Preparation,Child food contaminants,12713
+379,PPA8a-PP,PROMIS Physical Activity 8a - Parent Proxy,Child Physical Activity,6891
+380,PPA8a-Ped,PROMIS Physical Activity 8a - Pediatric,Child Physical Activity,8134
+577,Accel-Ch,Accelerometer - Child,Child Physical Activity,2447
+1758,PPA7a-ECPR,PROMIS Physical Activity 7a - Early Childhood Parent Report,Child Physical Activity,47
+587,CPrU-PR,Child Product Use - Parent Report,Child Product Use,1674
+588,CPrU-SR,Child Product Use - Self Report,Child Product Use,850
+381,YRB-SB,Youth Risk Behavior - Sexual Behavior,Child Sexual Behavior,8441
+382,YRB-SU,Youth Risk Behavior - Substance Use,Child Substance Use,8511
+378,IFP,Infant Feeding Practices,Infant feeding and introduction to solids,19299
+376,CFH,Complementary Feeding History,Infant Feeding History,15495
+2948,,Sleep/Physical Activity Diary - Parent Report,Sleep/Physical Activity Diary,1470
+2949,,Sleep/Physical Activity Diary - Child Self- Report,Sleep/Physical Activity Diary,130
+593,CKCPT,Conners Kiddie Continuous Performance Test Second Edition (Conners K-CPT 2),Autism Spectrum Disorder (ASD) Screener ,340
+603,PAnx8a-PP,PROMIS Anxiety 8a - Parent Proxy,Child Anxiety,4438
+604,PAnx8a-Ped,PROMIS Anxiety 8a - Pediatric,Child Anxiety,3893
+1781,PAnx4a-ECPR,PROMIS Anxiety 4a - Early Childhood Parent Report,Child Anxiety,74
+2382,PAnx_CAT_A,PROMIS - Anxiety CAT - 18-20 yr olds,Child Anxiety,755
+2383,PAnx_CAT_Ped,PROMIS - Anxiety CAT - Pediatric,Child Anxiety,7359
+2384,PAnx8a_A,PROMIS v1.0 - Anxiety 8a - 18-20 yr olds,Child Anxiety,1
+597,MCHATR,Modified Checklist for Autism in Toddlers Revised (M-CHAT-R),Child ASD screener,6221
+591,CADHD-PR,Conners 3 Parent Report Attention-Deficit/Hyperactivity Disorder (ADHD) Index,Child Attention Problems,4818
+592,CADHD-SR,Conners 3 Self Report Attention-Deficit/Hyperactivity Disorder (ADHD) Index,Child Attention Problems,1787
+605,PDS6a-PP,PROMIS Depressive Symptoms 6a - Parent Proxy,Child Depressive Symptoms,2592
+606,PDS8a-Ped,PROMIS Depressive Symptoms 8a - Pediatric,Child Depressive Symptoms,4136
+1782,PDS4a-ECPR,PROMIS Depressive Symptoms 4a - Early Childhood Parent Report,Child Depressive Symptoms,75
+2385,PDep_CAT_A,PROMIS - Depression CAT - 18-20 yr olds,Child Depressive Symptoms,756
+2386,PDep8a_A,PROMIS v1.0 - Depression 8a - 18-20 yr olds,Child Depressive Symptoms,1
+2387,PDS_CAT_Ped,PROMIS - Depressive Symptoms CAT - Pediatric,Child Depressive Symptoms,7349
+384,ASQ_10,Ages & Stages Questionnaire - 10 Month ,Child Developmental Milestones,1444
+385,ASQ_12,Ages & Stages Questionnaire - 12 Month ,Child Developmental Milestones,2554
+386,ASQ_14,Ages & Stages Questionnaire - 14 Month ,Child Developmental Milestones,231
+387,ASQ_16,Ages & Stages Questionnaire - 16 Month ,Child Developmental Milestones,452
+388,ASQ_18,Ages & Stages Questionnaire - 18 Month ,Child Developmental Milestones,1522
+389,ASQ_2,Ages & Stages Questionnaire - 2 Month ,Child Developmental Milestones,543
+390,ASQ_20,Ages & Stages Questionnaire - 20 Month ,Child Developmental Milestones,473
+391,ASQ_22,Ages & Stages Questionnaire - 22 Month ,Child Developmental Milestones,284
+392,ASQ_24,Ages & Stages Questionnaire - 24 Month ,Child Developmental Milestones,3056
+393,ASQ_27,Ages & Stages Questionnaire - 27 Month ,Child Developmental Milestones,1476
+394,ASQ_30,Ages & Stages Questionnaire - 30 Month ,Child Developmental Milestones,416
+395,ASQ_33,Ages & Stages Questionnaire - 33 Month ,Child Developmental Milestones,218
+396,ASQ_36,Ages & Stages Questionnaire - 36 Month ,Child Developmental Milestones,1430
+397,ASQ_4,Ages & Stages Questionnaire - 4 Month ,Child Developmental Milestones,1628
+398,ASQ_42,Ages & Stages Questionnaire - 42 Month ,Child Developmental Milestones,351
+399,ASQ_48,Ages & Stages Questionnaire - 48 Month ,Child Developmental Milestones,1006
+400,ASQ_54,Ages & Stages Questionnaire - 54 Month ,Child Developmental Milestones,604
+401,ASQ_6,Ages & Stages Questionnaire - 6 Month ,Child Developmental Milestones,3263
+402,ASQ_60,Ages & Stages Questionnaire - 60 Month ,Child Developmental Milestones,716
+403,ASQ_8,Ages & Stages Questionnaire - 8 Month ,Child Developmental Milestones,3707
+404,ASQ_9,Ages & Stages Questionnaire - 9 Month ,Child Developmental Milestones,206
+406,BDI2,"Battelle Developmental Inventory, 2nd Edition (BDI-II)",Child Developmental Milestones,342
+407,Bay3,Bayley Scales of Infant and Toddler Development,Child Developmental Milestones,2149
+419,MSEL,Mullen Scales of Early Learning,Child Developmental Milestones,2273
+425,PEDS,Parents Evaluation of Developmental Status (PEDS),Child Developmental Milestones,242
+637,BRIEF,Behavior rating inventory of executive function (BRIEF),Child Developmental Milestones,1458
+638,BRIEF-2,Behavior rating inventory of executive function 2 (BRIEF 2),Child Developmental Milestones,1297
+639,BRIEF-P,Behavior Rating Inventory of Executive Function-Preschool (BRIEF-P),Child Developmental Milestones,2156
+342,PPVT4,Peabody Picture Vocabulary Test - Fourth Edition,Child General Cognition,916
+343,PPVT3,Peabody Picture Vocabulary Test - Third Edition,Child General Cognition,599
+383,NEPSY2,A Developmental NEuroPSYchological Assessment II (NEPSY II),Child General Cognition,1044
+413,DAS2,"Differential Ability Scale, 2nd Edition (DAS-II)",Child General Cognition,163
+445,WASI2,Wechsler Abbreviated Scale of Intelligence - Second Edition,Child General Cognition,993
+447,WISC5,Wechsler Intelligence Scale for Children - Fifth Edition,Child General Cognition,767
+448,WISC4,Wechsler Intelligence Scale for Children - Fourth Edition,Child General Cognition,40
+449,WISC3,Wechsler Intelligence Scale for Children - Third Edition,Child General Cognition,598
+450,WPPSI4,Wechsler Preschool and Primary Scale of Intelligence - Fourth Edition (WPPSI - IV),Child General Cognition,1484
+451,WPPSI3,Wechsler Preschool and Primary Scale of Intelligence - Third Edition (WPPSI - III),Child General Cognition,711
+1646,SB5,"Stanford-Binet Intelligence Scales, 5th Edition",Child General Cognition,1233
+426,PSS10-A,Perceived Stress Scale 10-item - 18-21 yr olds,Child Perceived Stress,1912
+427,PSS10-PR,Perceived Stress Scale 10-item - Parent Report (Ages 8-12),Child Perceived Stress,509
+428,PSS10-SR,Perceived Stress Scale 10-item - Self Report (Ages 13-17),Child Perceived Stress,930
+429,PSS4-A,Perceived Stress Scale 4-item - 18-21 yr olds,Child Perceived Stress,375
+430,PPSE4a-PP,PROMIS Psychological Stress Experiences 4a - Parent Proxy,Child Perceived Stress,8047
+431,PPSE4a-Ped,PROMIS Psychological Stress Experiences 4a - Pediatric,Child Perceived Stress,5933
+2388,PPSE_CAT_Ped,PROMIS - Psychological Stress Experiences CAT - Pediatric,Child Perceived Stress,7345
+2389,PPSE_CAT_PP,PROMIS - Psychological Stress Experiences CAT - Parent Proxy,Child Perceived Stress,10315
+435,SRS2-Pre,Social Responsiveness Scale - Second Edition (SRS-2) Preschool,Child Social Cognition,3676
+436,SRS2-Sch,Social Responsiveness Scale - Second Edition (SRS-2) School Age,Child Social Cognition,12739
+437,SRS2-A,Social Responsiveness Scale (SRS-2) - Adult - 18-21 yr olds,Child Social Cognition,54
+624,SRS-Pre,Social Responsiveness Scale - First Edition (SRS-1) Preschool,Child Social Cognition,122
+625,SCQ,Social Communications Questionnaire (SCQ),Child Social Cognition,475
+1759,SRS2-Pre-SF,Social Responsiveness Scale - Second Edition Preschool - Short Form,Child Social Cognition,2795
+1760,SRS2-Sch-SF,Social Responsiveness Scale - Second Edition School Age - Short Form,Child Social Cognition,10255
+408,BASC2,Behavior Assessment System for Children - Second Edition,Emotional & Behavioral functioning,2003
+409,BASC3,Behavior Assessment System for Children - Third Edition,Emotional & Behavioral functioning,606
+411,CBCL-Pre,Child Behavior Checklist (CBCL) for Ages 1.5 to 5,Emotional & Behavioral functioning,14486
+412,CBCL-Sch,Child Behavior Checklist (CBCL) for Ages 6 to 18,Emotional & Behavioral functioning,13420
+439,SDQ-11,Strengths and Difficulties Questionnaire (11-17yrs),Emotional & Behavioral functioning,1920
+440,SDQ-11SR,Strengths and Difficulties Questionnaire (11-17yrs) (Self-report),Emotional & Behavioral functioning,2328
+441,SDQ-18SR,Strengths and Difficulties Questionnaire (18+yrs) (Self-report),Emotional & Behavioral functioning,1864
+442,SDQ-2,Strengths and Difficulties Questionnaire (2-4yrs),Emotional & Behavioral functioning,1312
+443,SDQ-4,Strengths and Difficulties Questionnaire (4-10yrs),Emotional & Behavioral functioning,3632
+1658,HGSW-8-13,Harter Global Self-Worth Scale-Child Self-Report-8-13yrs,Global Self-Worth,330
+1659,HGSW-14-21,Harter Global Self-Worth Scale-Adolescent Self-Report-14-21yrs,Global Self-Worth,1052
+607,PPAff8a-PP,PROMIS Positive Affect 8a - Parent Proxy,Positive affect,2246
+608,PPAff8a-Ped,PROMIS Positive Affect 8a - Pediatric,Positive affect,1846
+1783,PPAff4a-ECPR,PROMIS Positive Affect 4a - Early Childhood Parent Report,Positive affect,3
+432,RCBQvSF,Rothbart Childhood Behavior Questionnaire Very Short Form (Ages 3-5 Years),Temperament,10052
+433,RECBQvSF,Rothbart Early Childhood Behavior Questionnaire Very Short Form (Ages 13-36 Months),Temperament,5814
+434,RIBQRvSF,Rothbart Infant Behavior Questionnaire Revised Very Short Form (Ages 3-12 months),Temperament,10560
+2398,Air_Adol,Airways Questionnaire - 11-20 yr olds,Airways-related,5133
+2399,Air_EC,Airways Questionnaire - 1-5 yr olds,Airways-related,4145
+2400,Air_Inf,Airways Questionnaire - 6-11 mo olds,Airways-related,5601
+2401,Air_MC,Airways Questionnaire - 6-10 yr olds,Airways-related,5175
+452,Air-Adol,Airways Questionnaire - Adolescence,Airways-Related Health Outcomes,3075
+453,Air-EC,Airways Questionnaire - Early Childhood,Airways-Related Health Outcomes,13093
+454,Air-Inf,Airways Questionnaire - Infancy,Airways-Related Health Outcomes,5985
+455,Air-MC,Airways Questionnaire - Middle Childhood,Airways-Related Health Outcomes,9369
+1761,Air2-EC,Airways Questionnaire 2 - Early Childhood,Airways-Related Health Outcomes,3249
+1762,Air2-Inf,Airways Questionnaire 2 - Infancy,Airways-Related Health Outcomes,1264
+1790,Air2-Adol,Airways Questionnaire 2 - Adolescence,Airways-Related Health Outcomes,2173
+1791,Air2-MC,Airways Questionnaire 2 - Middle Childhood,Airways-Related Health Outcomes,4905
+559,PAI8a-PP,PROMIS Asthma Impact 8a  - Parent Proxy,Asthma Impact,2615
+560,PAI8a-Ped,PROMIS Asthma Impact 8a - Pediatric,Asthma Impact,3033
+457,CAPE-N,Child Anthropometry & Physical Examination - Newborn,Child Anthropometry and Physical Examination,8871
+458,CAPE-I,Child Anthropometry and Physical Examination - Child < 2 Yrs Old,Child Anthropometry and Physical Examination,14091
+459,CAPE-C,Child Anthropometry and Physical Examination – Child 2+ Yrs Old,Child Anthropometry and Physical Examination,20130
+2407,CG_CAPE,Caregiver-Measured Child Anthropometrics,Child Anthropometry and Physical Examination,411
+2402,BPP_18_20y,Child Blood Pressure and Pulse - 18-20 Years Old,Child Blood Pressure and Pulse,502
+2403,BPP_3_17y,Child Blood Pressure and Pulse - 3-17 Years Old,Child Blood Pressure and Pulse,7233
+456,BIOIMP,Bioimpedence,Child Body Composition,2779
+460,DXA,DXA,Child Body Composition,1207
+462,PPBP,PeaPod/BodPod,Child Body Composition,2184
+2412,Head,Child Head Size,Child Head Circumference,8152
+2409,CHtWt_2_4y,Child Height and Weight - 2-4 Years  Old,Child Height (Length) and  Weight,4094
+2411,CLWt_0_23m,Child Length and Weight - 0-23 Months Old,Child Height (Length) and  Weight,7098
+2408,CHtWt_18_20y,"Child Height, Weight, and Body Fat - 18-20 Years  Old","Child Height (Length), Weight, and Body Fat",788
+2410,CHtWt_5_17y,"Child Height, Weight, and Body Fat - 5-17 Years  Old","Child Height (Length), Weight, and Body Fat",11974
+2404,CAPE_0_23m,Child Anthropometry and Physical Examination 0-23 Months Old,Child Height (Length)/Weight & Head/Waist Circumference,235
+2405,CAPE_2y,Child Anthropometry and Physical Examination 2 Years Old,Child Height (Length)/Weight & Head/Waist Circumference,85
+2406,CAPE_3_4y,Child Anthropometry and Physical Examination 3-4 Years Old,Child Height (Length)/Weight & Head/Waist Circumference,180
+601,Dent-PR,Professional Dental Care - Parent Report,Child Professional Dental Care,2478
+602,Dent-SR,Professional Dental Care - Self Report,Child Professional Dental Care,593
+463,PDS,Pubertal Development Scale,Child pubertal development,12719
+464,TANST,Tanner Staging,Child pubertal development,5250
+2414,Wst-18-20y,Child Waist Size - 18-20 Years Old,Child Waist Circumference,543
+2415,Wst_2_17y,Child Waist Size - 2-17 Years Old,Child Waist Circumference,10288
+614,SPIRO,Spirometry - Child,Lung Function Testing,4132
+2090,SPIRO,Spirometry,Lung Function Testing,5260
+2091,SPIRO+,Spirometry - Pulmonary Function testing (ZEPHYRx series and effort data),Lung Function Testing,4672
+582,SEco-CR,Child and Adolescent Sleep Ecology Questionnaire - Child Self Report ,Child Sleep Ecology,1467
+583,SEco-PR,Child and Adolescent Sleep Ecology Questionnaire - Parent Report,Child Sleep Ecology,1798
+596,SEco-INF,Infant Sleep Ecology Questionnaire,Child Sleep Ecology,2009
+471,SHAdult-A,Sleep Health of Adults - 18-21 yr olds,Child Sleep Health,1138
+472,SHCA-PR,Sleep Health of Children and Adolescents - Parent Report,Child Sleep Health,23740
+473,SHCA-SR,Sleep Health of Children and Adolescents - Self Report,Child Sleep Health,5213
+474,SHInf,Sleep Health of Infants,Child Sleep Health,12342
+465,PSD4a-A,PROMIS Sleep Disturbance 4a - 18-21 yr olds,Child Sleep Quality,1928
+466,PSD4a-PP,PROMIS Sleep disturbance 4a - Parent Proxy,Child Sleep Quality,11719
+467,PSD4a-Ped,PROMIS Sleep disturbance 4a - Pediatric,Child Sleep Quality,5812
+468,PSRI4a-A,PROMIS Sleep-Related Impairment 4a - 18-21 yr olds,Child Sleep-Related Impairment,2361
+469,PSRI4a-PP,PROMIS Sleep-Related Impairment 4a - Parent Proxy,Child Sleep-Related Impairment,6390
+470,PSRI4a-Ped,PROMIS Sleep-Related Impairment 4a - Pediatric,Child Sleep-Related Impairment,5909
+475,HPAP-CR,Healthy Pathways Academic Performance Scale - Child Report,Academic ability & performance,2845
+476,HPAP-PR,Healthy Pathways Academic Performance Scale - Parent Report,Academic ability & performance,8892
+561,EAC-PR,Early Academic Competencies - Parent Report,Academic ability & performance,7097
+640,WJ3,Woodcock-Johnson III,Academic achievement ,915
+1779,AAB,Academic Achievement Battery,Academic achievement ,584
+595,HPBS,Healthy Pathways Bullying Scales,Bullying,7463
+477,NTPPI-PR,NIH Toolbox Positive Peer Interactions - Parent Report (Ages 3 to 12) ,Peer Relationships ,7568
+478,PComp6a-A,PROMIS Companionship 6a - 18-21yr olds,Peer Relationships ,2024
+479,PPR8a-Ped,PROMIS Peer Relationships 8a - Pediatric,Peer Relationships ,7068
+2511,PPR_CAT_Ped,PROMIS - Peer Relationships CAT - Pediatric,Peer Relationships ,7341
+2512,PPR_CAT_PP,PROMIS - Peer Relationships CAT - Parent Proxy,Peer Relationships ,9976
+2513,PPR4a_ECPR,PROMIS v1.0 - Social Relationships - Peer Relationships 4a - Early Childhood Parent Report,Peer Relationships ,2690
+2514,PPR7a_PP,PROMIS v2.0 - Peer Relationships 7a - Parent Proxy,Peer Relationships ,104
+612,SESC-3-5,Social-Emotional Student Competencies - 3rd-5th Grade,Social Emotional Competencies,326
+613,SESC-6-12,Social-Emotional Student Competencies - 6th-12th Grade,Social Emotional Competencies,1023
+609,SE-3-5,School Engagement - 3rd-5th grade,Student Engagement,372
+610,SE-6-12,School Engagement - 6th-12th grade,Student Engagement,1317
+615,TSR-3-5,Teacher-Student Relationships - 3rd-5th Grade,Teacher Connectedness,338
+616,TSR-6-12,Teacher-Student Relationships - 6th-12th Grade,Teacher Connectedness,1263
+2418,PCur6a_ECPR,PROMIS v1.0 - Engagement - Curiosity 6a - Early Childhood Parent Report,Child Curiosity,4886
+2432,PSReg5a_ECPR,PROMIS v1.0 - Self-Regulation - Flexibility 5a - Early Childhood Parent Report,Child Flexibility,4893
+481,CGB,Child Global Health ,Child global health,11808
+483,PGHM2a-A,PROMIS Global Health Mental 2a - 18-21 yr olds,Child global health,900
+484,PGHP2a-A,PROMIS Global Health Physical 2a - 18-21 yr olds,Child global health,898
+485,PGH-A,PROMIS Global Health Scale - 18-21 yr olds,Child global health,1887
+486,PGH7-PP,PROMIS Global Health Scale 7+2 - Parent Proxy,Child global health,16240
+487,PGH7-Ped,PROMIS Global Health Scale 7+2 - Pediatric,Child global health,11464
+1763,PGH8a-ECPR,PROMIS Global Health Scale 8a - Early Childhood Parent Report,Child global health,5069
+482,PGLS5a-A,PROMIS General Life Satisfaction 5a - 18-21 yr olds,Child Life Satisfaction,1499
+488,PLS8b-PP,PROMIS Life Satisfaction 8b - Parent Proxy,Child Life Satisfaction,5967
+489,PLS8b-Ped,PROMIS Life Satisfaction 8b - Pediatric,Child Life Satisfaction,6729
+2419,PGLS_CAT_A,PROMIS - General Life Satisfaction CAT - 18-20 yr olds,Child Life Satisfaction,754
+2420,PLS_CAT_Ped,PROMIS - Life Satisfaction CAT - Pediatric,Child Life Satisfaction,7331
+2421,PLS_CAT_PP,PROMIS - Life Satisfaction CAT - Parent Proxy,Child Life Satisfaction,10290
+490,PMP8a-A,PROMIS Meaning and Purpose 8a - 18-21 yr olds,Child Meaning And Purpose,1695
+491,PMP8a-Ped,PROMIS Meaning and Purpose 8a - Pediatric,Child Meaning And Purpose,7143
+2422,PMP_CAT_A,PROMIS - Meaning and Purpose CAT - 18-20 yr olds,Child Meaning And Purpose,754
+2423,PMP_CAT_Ped,PROMIS - Meaning and Purpose CAT - Pediatric,Child Meaning And Purpose,5759
+2424,PPAff_CAT_A,PROMIS v1.0 - Positive Affect CAT,Child Positive Affect,580
+2425,PPAff_CAT_ECPR,PROMIS v1.0 - Positive Affect - Early Childhood Parent Report CAT,Child Positive Affect,3967
+2426,PPAff_CAT_Ped,PROMIS v1.0 - Positive Affect - Pediatric CAT,Child Positive Affect,7226
+2427,PPAff_CAT_PP,PROMIS v1.0 - Positive Affect - Parent Proxy CAT,Child Positive Affect,5041
+2429,PPAff4a_ECPR,PROMIS v1.0 - Positive Affect - Early Childhood Parent Report 4a,Child Positive Affect,7
+2430,PPAff4a_Ped,PROMIS v1.0 - Positive Affect - Pediatric 4a,Child Positive Affect,8
+2431,PPAff4a_PP,PROMIS v1.0 - Positive Affect - Parent Proxy 4a,Child Positive Affect,6
+2416,HGSW_11_21,Harter Global Self-Worth Scale - Adolescent,Child Self Worth,5648
+2417,HGSW_8_10,Harter Global Self-Worth Scale - Children,Child Self Worth,2189
+2469,Life_C,Lifestyle - Current,Caregiver Substance Use,6754
+2467,CSI4,Couples Satisfaction Index - 4-item short form,Caregiver-Partner Relationship Quality,25931
+497,APQ-P9,Alabama Parenting Questionnaire - 9-Item Parent Form,Caregiving Quality and Behavior,11910
+498,APQ-C9,Alabama Parenting Questionnaire 9-item Child Form,Caregiving Quality and Behavior,8593
+499,APQ-C,Alabama Parenting Questionnaire Child Form,Caregiving Quality and Behavior,1513
+500,APQ-P,Alabama Parenting Questionnaire Parent Form,Caregiving Quality and Behavior,2789
+503,PARS,Parenting Scale,Caregiving Quality and Behavior,13786
+508,HOME-EC,The Home Observation for Measurement of the Environment (HOME) - Early Childhood (4-5yrs),Caregiving Quality and Behavior,1109
+509,HOME-IT,The Home Observation for Measurement of the Environment (HOME) - Infants/Toddlers (0-3yrs),Caregiving Quality and Behavior,1573
+629,CHAOS,Home Chaos,Caregiving Quality and Behavior,401
+2463,APQ_Pre,Alabama Parenting Questionnaire - Preschool,Caregiving Quality and Behavior,2710
+2464,APQ_Tod,Alabama Parenting Questionnaire - Toddler,Caregiving Quality and Behavior,5429
+2462,ADDI,Adolescent Discrimination Distress Index (ADDI),Child Discrimination Distress,5662
+495,ACE-CR,Adverse Childhood Experiences - Child Self Report,Child Negative Life Events,4696
+496,ACE-PR,Adverse Childhood Experiences - Parent Report,Child Negative Life Events,14889
+2461,ACE_18_20y,Adverse Childhood Experiences (18-20 yr olds),Child Negative Life Events,688
+2465,BCE_A,Benevolent Childhood Experiences - 18-20 yr olds,Child Positive Life Events,587
+2466,BCE_CR,Benevolent Childhood Experiences - Child Report,Child Positive Life Events,5068
+2144,RaS-CR,Religiosity and Spirituality - Child Report,Child Religiosity and Spirituality,4798
+598,NTES-SR,NIH Toolbox Emotional Support - Self Report (Ages 8-17),Child Social Support,1576
+2508,NTES_A,NIH Toolbox v2.0 - Emotional Support - 18-20 yr olds,Child Social Support,361
+2509,NTES_CAT,NIH Toolbox - Emotional Support CAT - 8-17 yr olds,Child Social Support,5845
+2510,NTES_CAT_A,NIH Toolbox - Emotional Support CAT - 18-20 yr olds,Child Social Support,759
+504,PFR4a-PP,PROMIS Family Relationships 4a  - Parent Proxy,Family Relationships,1983
+505,PFR4a-Ped,PROMIS Family Relationships 4a - Pediatric,Family Relationships,3990
+506,PFR8a-PP,PROMIS Family Relationships 8a  - Parent Proxy,Family Relationships,3719
+507,PFR8a-Ped,PROMIS Family Relationships 8a - Pediatric,Family Relationships,4088
+2470,PFR_CAT_Ped,PROMIS - Family Relationships CAT - Pediatric,Family Relationships,7362
+2471,PFR_CAT_PP,PROMIS - Family Relationships CAT - Parent Proxy,Family Relationships,10319
+2472,PFR4a_ECPR,PROMIS v1.0 - Social Relationships - Family Relationships 4a - Early Childhood Parent Report,Family Relationships,8106
+579,Home,Assessment of Your Home Health Environment,Home Food & activity environment,1837
+585,CMU-PR,Child Media Use - Parent Report for Ages 0-12 Years,Home Screen Media Access & Use,6528
+586,CMU-SR,Child Media Use - Self Report for Ages 13+ Years,Home Screen Media Access & Use,1837
+2380,CMU_PR,Child Media Use - Parent Report,Home Screen Media Access & Use,14335
+2381,CMU_SR,Child Media Use - Self-Report,Home Screen Media Access & Use,7768
+564,NE-CE-C,Neighborhood Collective Efficacy - Caregiver,Neighborhood Capital,17676
+2750,,Neighborhood Collective Efficacy - Loss,Neighborhood Capital,42
+2145,CEBQ,Child Eating Behavior Questionnaire,Child appetite,1349
+2751,,Baby Eating Behavior Questionnaire,Child appetite,535
+2752,,Child Eating Behavior Questionnaire,Child appetite,693
+2148,IFSQ-SF,Infant Feeding Style Questionnaire - Short Form,Child Feeding,697
+2146,GSpc-C,Greenspace Utilization - Child,Greenspace utilization,951
+2147,GSpc-Preg,Greenspace Utilization - Pregnancy,Greenspace utilization,417
+2149,MealQ,Meal Patterning Questionnaire,Maternal eating behavior,415
+2150,Neigh-C,About My Neighborhood - Child,Neighborhood characteristics,950
+2151,Neigh-Preg,About My Neighborhood - Pregnancy,Neighborhood characteristics,418
+2152,ADHD-Pre,Preschool ADHD Rating Scale,Child ADHD screener,452
+2157,CSS-SR,Current Symptoms Scale - Self Report,Child ADHD screener,2480
+2160,SNAP,SNAP-IV Parent Report,Child ADHD screener,1309
+2927,,CELF-5 Recalling Sentences,Child language development,446
+2153,ARI-PR,Affective Reactivity Index - Parent Report,Temperament,3524
+2154,ARI-SR,Affective Reactivity Index - Self Report,Temperament,2191
+2155,ATQ,Adult Temperament Questionnaire,Temperament,438
+2156,BSSSC,Brief Sensation Seeking Scale for Children,Temperament,2188
+2158,EATQ-R-PR,Early Adolescent Temperament Questionnaire - Revised - Parent Report,Temperament,1436
+2159,EATQ-R-SR,Early Adolescent Temperament Questionnaire - Revised - Self Report,Temperament,2190
+2519,,V2 - Cycle1,2-Minute Walk Endurance Test,807
+2520,,V2 - Cycle1,Crystallized Composite,5008
+2538,,V3 - Cycle2,Crystallized Composite,5642
+2521,,V2 - Cycle1,Dimensional Change Card Sort,7879
+2539,,V3 - Cycle2,Dimensional Change Card Sort,7193
+2540,,V3 - Cycle2,Early Childhood CFPS Composite,470
+2523,,V2 - Cycle1,Early Childhood Composite,2072
+2541,,V3 - Cycle2,Early Childhood Composite,1380
+2524,,V2 - Cycle1,Flanker Inhibitory Control and Attention,8472
+2542,,V3 - Cycle2,Flanker Inhibitory Control and Attention,7172
+2525,,V2 - Cycle1,Fluid Composite,5068
+2543,,V3 - Cycle2,Fluid Composite,5430
+2526,,V2 - Cycle1,List Sorting Working Memory,5544
+2544,,V3 - Cycle2,List Sorting Working Memory,5579
+2527,,V2 - Cycle1,Oral Reading Recognition,5234
+2545,,V3 - Cycle2,Oral Reading Recognition,5677
+2528,,V2 - Cycle1,Pattern Comparison Processing Speed,5463
+2546,,V3 - Cycle2,Pattern Comparison Processing Speed,5680
+2529,,V2 - Cycle1,Picture Sequence Memory Form A,7317
+2547,,V3 - Cycle2,Picture Sequence Memory Form A,7759
+2530,,V2 - Cycle1,Picture Sequence Memory Form B,25
+2548,,V3 - Cycle2,Picture Sequence Memory Form B,6
+2531,,V2 - Cycle1,Picture Sequence Memory Form C,7
+2532,,V2 - Cycle1,Picture Vocabulary,10653
+2550,,V3 - Cycle2,Picture Vocabulary,8014
+2551,,V3 - Cycle2,Speeded Matching,2108
+2534,,V2 - Cycle1,Standing Balance,719
+2535,,V2 - Cycle1,Total Cognition Composite,4881
+2553,,V3 - Cycle2,Total Cognition Composite,5409
+2554,,V3 - Cycle2,Visual Reasoning,507
+2161,CSF,Child skin folds,Child skin folds,4046
+2162,WtStg,Weight stigma,Weight stigma,1418
+1654,MMRAaG,Maternal Medical Record Abstraction - Section G Addendum,"All pregnancy-related except sleep, food contaminants, and diet",391
+2481,MMRA,Maternal Medical Record Abstraction (Sections A-F),"All pregnancy-related except sleep, food contaminants, and diet",24098
+2482,MMRA2,Maternal Medical Record Abstraction (Sections G-M),"All pregnancy-related except sleep, food contaminants, and diet",23564
+2483,MMRAaK,Maternal Medical Record Abstraction - Section K Addendum,"All pregnancy-related except sleep, food contaminants, and diet",263
+524,DHQ3,NCI Diet History Questionnaire,Maternal Diet in Pregnancy,52
+529,DSQ-SR,Dietary Screener Questionnaire - Self Report,Maternal Diet in Pregnancy,20390
+1667,BLOCK4,Block 2005 Food Frequency Questionnaire,Maternal Diet in Pregnancy,4176
+2473,NDSR02,NDSR 24hr Dietary Recall Asessment: FoodÂ FileÂ (File 02),Maternal Diet in Pregnancy,188
+2474,NDSR04,NDSR 24hr Dietary Recall Asessment: Day-Level Nutrient Totals (File 04),Maternal Diet in Pregnancy,188
+2476,DHQ2,NCI Diet History Questionnaire II,Maternal Diet in Pregnancy,188
+2477,DHQ3,Diet History Questionnaire III,Maternal Diet in Pregnancy,9353
+2478,DHQ3_Results,Diet History Questionnaire III Results,Maternal Diet in Pregnancy,9336
+516,MFSP,Maternal Food Source and Preparation,Maternal food contaminants in pregnancy,20330
+621,PUQE,Pregnancy-Unique Quantification of Emesis (PUQE-24) Scale,Maternal nausea/vomiting in pregnancy,1001
+1642,ASA,ASA24 Dietary Assessment Tool,Maternal Nutrient & Energy,3297
+526,PMCI,Pregnancy Medical Conditions & Interventions,Maternal pregnancy-related conditions/medical interventions,23211
+2488,PMCI,Pregnancy Medical Conditions and Interventions (continued),Maternal pregnancy-related conditions/medical interventions,12598
+519,MSHPrg,Maternal Sleep Health in Pregnancy,Maternal sleep health in pregnancy,17429
+525,PSQI,Pittsburgh Sleep Quality Index,Maternal sleep quality in pregnancy,3675
+531,PSD4a,PROMIS Sleep Disturbance 4a,Maternal sleep quality in pregnancy,7300
+534,PSRI4a,PROMIS Sleep-Related Impairment 4a,Maternal sleep-related impairment in pregnancy,7285
+513,Life-PI,Lifestyle - Pregnancy Incremental,Maternal substance use in pregnancy,1517
+514,Life-PP,Lifestyle - Pre-pregnancy & Pregnancy,Maternal substance use in pregnancy,10246
+515,Life-R,Lifestyle - Recall,Maternal substance use in pregnancy,12946
+636,FTND,Fagerstrom Test for Nicotine Dependence ,Maternal substance use in pregnancy,331
+2479,Life_3T,Lifestyle - 3rd Trimester,Maternal substance use in pregnancy,8876
+2480,Life_EP,Lifestyle - Early Pregnancy,Maternal substance use in pregnancy,9620
+2493,SubUse_R,Lifestyle - Substance Use Recall,Maternal substance use in pregnancy,5874
+520,MSupp-PI,Maternal Supplements - Pregnancy Incremental,Maternal supplements in pregnancy,1586
+521,MSupp-PP,Maternal Supplements - Pre-pregnancy and Pregnancy,Maternal supplements in pregnancy,7517
+522,MSupp-R,Maternal Supplements - Recall,Maternal supplements in pregnancy,7928
+1774,MSuppSF-PI,Maternal Supplements Short Form - Pregnancy Incremental,Maternal supplements in pregnancy,999
+1775,MSuppSF-PP,Maternal Supplements Short Form - Pre-pregnancy and Pregnancy,Maternal supplements in pregnancy,988
+1776,MSuppSF-R,Maternal Supplements Short Form - Recall,Maternal supplements in pregnancy,2333
+2484,MsuppSFBf,Maternal Supplements Short Form - Breastfeeding,Maternal Supplements In Pregnancy/Breastfeeding,5816
+2485,MsuppSFPrg,Maternal Supplements Short Form - Pregnancy,Maternal Supplements In Pregnancy/Breastfeeding,8867
+523,MWtHtM,Maternal Weight and Height - Measured,Maternal weight and height,15647
+527,PWtGpSR,Pregnancy Weight Gain - Prenatal Self-Report,Maternal weight and height,11058
+528,TPWtGSR,Total Pregnancy Weight Gain - Self-Report,Maternal weight and height; total pregnancy weight gain,19030
+620,PPAQ,Pregnancy Physical Activity Questionnaire,Physical Activity In Pregnancy,5330
+2475,PPAQ2,Pregnancy Physical Activity Questionnaire 2,Physical Activity In Pregnancy,613
+2486,PA,Pregnancy Anthropometry,Pregnancy Anthropometry,15400
+2487,PI,Pregnancy Intentions,Pregnancy Intentions,6899
+2492,SPAD_P,Sleep/Physical Activity Diary - Pregnant Person,Sleep/Physical Activity,1914
+1785,VS_SI,Vaginal Swab-Sample Information,Vaginal Swab,
+2178,Bexp,Birthing Experience,Birthing experience,992
+2179,CBiTS,Child Birth Trauma Scale,Caregiver Birth traumatic experiences,1681
+2182,DMSS,Discrimination in Medical Settings,Caregiver Discrimination during medical care,2677
+2187,RaS,Caregiver Religiosity and Spirituality,Caregiver Religiosity and Spirituality,2455
+2935,,Family Environment Scale,Family environment,14046
+2183,FamRes,Family Resilience,Family resilience,1967
+2185,HLE-Inf,Home Learning Environment - Infancy,Home learning environment,1771
+2184,HLE-EC,Home Learning Environment - Early Childhood,Home learning environment and family routines,187
+535,Occ-Adol,Adolescent Occupation and Employment,Adolescent Occupation ,3962
+538,Dem-B,Demographics of Biological Family,Biological family demographics,63274
+536,Occ-CG,Caregiver Occupation and Employment,Caregiver & Partner Occupation,50828
+539,Dem-C,Demographics of Child,Demographics of Child,39009
+541,ECE,Early Care and Education,Early Care and Education,19080
+2439,REI,Racial/Ethnic Identity,Ethnic Self Identity,25358
+2440,REI_CR,Racial/Ethnic Identity - Child Report,Ethnic Self Identity,5754
+544,HHC-P,Household Composition - Pregnant Woman,Household Composition,8780
+543,HHC-C,Household Composition - Child,Household Composition & Caregiver Relationship,25559
+545,IAFS-C,"Income, Assistance, & Financial Strain - Childhood","Household income, Receipt of federal assistance, Financial strain",25467
+546,IAFS-P,"Income, Assistance, & Financial Strain - Pregnancy","Household income, Receipt of federal assistance, Financial strain",25005
+626,CFSM,US Department of Agriculture's Core Food Security Module,"Household income, Receipt of federal assistance, Financial strain",966
+628,FRS,Family Resource Scale,"Household income, Receipt of federal assistance, Financial strain",487
+2433,IAFS_A,"Income, Assistance, and Financial Strain - 18-20 yr olds","Household income, Receipt of federal assistance, Financial strain",770
+2434,IAFS_C,"Income, Assistance, and Financial Strain - Childhood","Household income, Receipt of federal assistance, Financial strain",17541
+547,LA-C,Language & Acculturation - Childhood,"Household Primary Language Spoken, Read",22997
+548,LA-P,Language & Acculturation - Pregnancy,"Household Primary Language Spoken, Read",7346
+2435,LA_A,Language and Acculturation - 18-20 yr olds,"Household Primary Language Spoken, Read",769
+2436,LA_C,Language and Acculturation - Childhood,"Household Primary Language Spoken, Read",13264
+2437,LA_P,Language and Acculturation - Pregnancy,"Household Primary Language Spoken, Read",9754
+537,CK12E,Child K12 Education,K12 Education,17662
+2438,PLSU,Parental Leave and Service Use,Parental Leave and Service Use,4398
+540,Dem-CG,Demographics of Primary Caregiver Family,Rearing family demographics,6037
+2441,STA,Skin Tone Assessment,Skin Tone Assessment,25434
+2442,STA_CR,Skin Tone Assessment - Child Report,Skin Tone Assessment,8892
+2443,STA_PR,Skin Tone Assessment - Parent Report,Skin Tone Assessment,17923
