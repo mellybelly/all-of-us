@@ -339,7 +339,9 @@ for i, (num, verb, rest) in enumerate(steps):
 add_footer(s, 3)
 set_notes(s, """Phase numbering inside the evidence base: - Phase 1: corpus acquisition + theme tagging - Phase 2: validation + audit - Phase 3a: 19→8 crosswalk - Phase 3b: temporal trends pre/post-2023 - Phase 3c: IC alignment + gap analysis - Phase 4: top-3 per WG with rubric scoring
 
-The rubric is Smoller's 8-criterion format from the 11/5/24 Pre-Processed Data subgroup deck. Worked-example scores landed mean 1.40–4.00; most are 3.0–3.8.""")
+The rubric is Smoller's 8-criterion format from the 11/5/24 Pre-Processed Data subgroup deck. Worked-example scores landed mean 1.40–4.00; most are 3.0–3.8.
+
+Co-lead and data-descriptor references: Smoller, EHR for psychiatric phenotyping and genomics (Am J Med Genet B 2018, doi.org/10.1002/ajmg.b.32548); AoU core-data descriptors Cronin et al. initial surveys (Epidemiology 2019) and Tesfaye et al. social determinants of health (Sci Rep 2024).""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 4 - Evidence base by the numbers
@@ -577,7 +579,7 @@ realized = [
      "Clearest 'translation in progress' signal in the corpus"),
     ("Wearables / remote monitoring",
      "86 pubs (HA2); 78 post-2023; trend flat",
-     "Mature, not emerging. Sleep-stage, HRV, circadian, multimodal EHR+wearable AI work all happening - but invisible in the focus-area framework.",
+     "Mature, not emerging - AoU wearable data already links sleep patterns to chronic-disease risk at scale (Zheng et al., Nat Med 2024). Sleep-stage, HRV, circadian, multimodal EHR+wearable AI all happening, but invisible in the framework.",
      "Reframe: recognition gap, not growth gap"),
     ("G×E×SDOH integrated holistic risk",
      "12 pubs (HA6); 0 pre-2023",
@@ -796,7 +798,9 @@ Under-indexed (left chart): multi-omics 1.7% vs UKB 10%, imaging 0.6% vs UKB 8.0
 
 Over-indexed (right chart): ELSI 24.0× peer median, SDOH 5.4×, PGx 4.3×, methods 2.8×. These are AoU's DEFENSIBLE IDENTITY - distinctive strengths the Refresh must preserve.
 
-Caveats: PubMed-name-search has known undercount (especially MVP); pre-2023 baseline is small (157 AoU pubs); use STATIC SHARE INDEX, not trend differentials. Dermatology 6.4× over-index is an artifact (1-2 prolific groups).""")
+Caveats: PubMed-name-search has known undercount (especially MVP); pre-2023 baseline is small (157 AoU pubs); use STATIC SHARE INDEX, not trend differentials. Dermatology 6.4× over-index is an artifact (1-2 prolific groups).
+
+Supporting AoU references: the SDOH over-index is grounded in Tesfaye et al. (Sci Rep 2024); diverse-cohort genotype-phenotype discovery is exemplified by Khajouei et al., APOE phenome-wide association in All of Us (EBioMedicine 2025).""")
 
 # ---------------------------------------------------------------------------
 # SLIDE 13 - Horizon scan: emerging white-space
