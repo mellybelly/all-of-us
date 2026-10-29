@@ -92,6 +92,7 @@ def emit(path):
 
 SECTION_LABELS = {
     'anchor seeds': "Anchor references (author's prior work)",
+    'co-lead anchors': 'Co-lead references (J. W. Smoller)',
     '1. introduction': 'Introduction',
     '2. the': 'Research landscape',
     '3. benchmarking': 'Peer biobanks',

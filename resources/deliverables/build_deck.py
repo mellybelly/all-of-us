@@ -135,7 +135,7 @@ def add_header(slide, title, subtitle=None):
     add_rect(slide, Inches(0.5), Inches(1.10), Inches(12.3), Pt(0.75),
              fill=RULE, line=None)
 
-def add_footer(slide, slide_num, total=24):
+def add_footer(slide, slide_num, total=25):
     add_textbox(slide, Inches(0.5), Inches(7.10), Inches(8), Inches(0.3),
                 "All of Us Scientific Roadmap Refresh  •  WG-1 Draft  •  Smoller & Haendel  •  2026-10-14",
                 size=8.5, color=GRAY, italic=True, font=BODY_FONT)
@@ -526,7 +526,41 @@ The crosswalk's Q6 answer in one paragraph: the 8 areas hold for disease anchori
 The 9th focus area is the single most important recommendation - the structural change the Imaging, AI, and Communications need areas all build on.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 7 - Q1: What's changed since 2023 - already realized
+# SLIDE 7 - Focus-area framework: current vs proposed
+# ---------------------------------------------------------------------------
+s = prs.slides.add_slide(BLANK)
+add_header(s, "The focus-area framework: current (2020) and proposed refresh",
+           "Keep the eight that work, add a ninth for the orphaned fast-growing work, and reframe four, so the framework matches where the science is.")
+
+rows = [
+    ("1. Prevalent Common & Rare Conditions", "Keep", "Core disease anchor; largest share of output."),
+    ("2. Maternal & Child Health", "Maternal Health", "Child-health output is thin; sharpen the scope."),
+    ("3. Healthy Aging & Resilience", "Keep (watch)", "Fits, but aging is one of the five peer gaps."),
+    ("4. Return of Results (Individual & Population)", "Return-of-results implementation", "Move from concept to implementation."),
+    ("5. Lifestyle, Substance & Behavioral Health", "Keep", "Fits."),
+    ("6. Environment", "Environment + exposure linkage", "Largest demand-supply gap; Nov 2, 2026 release makes it actionable."),
+    ("7. Health Equity", "Keep & protect", "AoU's distinctive, defining strength."),
+    ("8. Genetics & Biology", "Genetics, Multi-omics & Biology", "Name multi-omics; the 2026 omics releases need a home."),
+    ("9. (none today)", "Data, AI & Methods  (NEW)", "~18% of output + the AI/foundation-model surge have no home. The key change."),
+]
+t = add_table(s, Inches(0.55), Inches(1.50), Inches(12.25), Inches(4.85),
+              header=["Current focus area (2020 roadmap)", "Proposed in the refresh", "Why it needs to change"],
+              rows=rows, header_font_size=11.5, body_font_size=9.8,
+              col_widths=[0.38, 0.26, 0.36], first_col_bold=True,
+              last_col_emph=True, last_col_color=NAVY)
+t.rows[0].height = Inches(0.36)
+for ri in range(1, len(rows) + 1):
+    t.rows[ri].height = Inches(0.47)
+
+add_textbox(s, Inches(0.55), Inches(6.45), Inches(12.25), Inches(0.5),
+            "Four of the eight are reframed, not replaced; the one structural addition is the 9th focus area. Detail and rationale in the recommendations.",
+            size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
+
+add_footer(s, 7)
+set_notes(s, """The 'prior vs future' view in one place. The eight 2020 focus areas still describe most of the science, so most are kept. Four are reframes (Maternal & Child Health -> Maternal Health; Return of Results -> implementation; Environment -> explicit exposure-linkage; Genetics & Biology -> Genetics, Multi-omics & Biology). The single structural change is the 9th focus area, 'Data, AI & Methods', which gives the ~18% orphan and the AI/foundation-model surge a coherent home.""")
+
+# ---------------------------------------------------------------------------
+# SLIDE 8 - Q1: What's changed since 2023 - already realized
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Four 2023 Roadmap priorities are already realized in the corpus",
@@ -567,7 +601,7 @@ for i, (title, count, examples, takeaway) in enumerate(realized):
                 "→ " + takeaway, size=11, color=ACCENT, italic=True, bold=True,
                 font=BODY_FONT, line_spacing=1.20)
 
-add_footer(s, 7)
+add_footer(s, 8)
 set_notes(s, """Source: aou-roadmap-refresh/temporal_trends.md §4–§5; phase4 cross_cutting_synthesis.md §3.
 
 These four areas are RESEARCHER-DRIVEN and need recognition, not investment. The framework change (9th focus area) is what makes them visible.
@@ -575,7 +609,7 @@ These four areas are RESEARCHER-DRIVEN and need recognition, not investment. The
 Wearables specifically: the trend score is +0.2 - flat in relative terms. Wearables have already matured to a permanent place in the work but the framework hasn't caught up. This is a 'recognition gap, not growth gap' - important to surface explicitly so Sci Com doesn't try to invest in something that's already steady-state.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 8 - Q1: aspirational, pending upstream investment
+# SLIDE 9 - Q1: aspirational, pending upstream investment
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Four 2023 Roadmap priorities are aspirational - pending upstream investment",
@@ -616,7 +650,7 @@ for i, (title, count, examples, takeaway) in enumerate(aspirational):
                 "→ " + takeaway, size=11, color=AMBER, italic=True, bold=True,
                 font=BODY_FONT, line_spacing=1.20)
 
-add_footer(s, 8)
+add_footer(s, 9)
 set_notes(s, """Source: aou-roadmap-refresh/temporal_trends.md §4–§5; peer-biobanks/emerging_themes.md §1–§3.
 
 The clean split (4 realized + 4 aspirational) reframes the Q1 conversation. Instead of 'are we delivering on the 2023 priorities, yes or no?', the answer is: the researcher-driven priorities ARE delivering; the data-supply-dependent priorities are not, by construction, and need infrastructure decisions before they can.
@@ -624,7 +658,7 @@ The clean split (4 realized + 4 aspirational) reframes the Q1 conversation. Inst
 Environmental is the canonical demand-side gap: NIEHS has 6 plan priorities; AoU has 7 substantive pubs. This is the strongest evidence for the FA6 environmental-linkage commitment in Rec 3.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 9 - Strongest IC alignments
+# SLIDE 10 - Strongest IC alignments
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Three IC alignments stand out as AoU's strongest current cases",
@@ -660,7 +694,7 @@ add_textbox(s, Inches(0.75), Inches(6.18), Inches(11.85), Inches(0.7),
             "Headline read: lead the WG-1 narrative with the genomics-and-genomics story; NIMHD G7 is the strongest political-defense anchor; NLM is the only mission-explicit partner.",
             size=12.5, color=NAVY, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 9)
+add_footer(s, 10)
 set_notes(s, """Source: aou-ic-alignment/gap_analysis.md §A (alignment hits) + per_ic_briefs/.
 
 NHGRI is the strongest current IC home for the genetics/multi-omics framing (Rec 2). NHGRI Bold Prediction #5 (millions of human participants) implicitly requires AoU; #9 (equitable benefit) is AoU's literal contribution.
@@ -670,7 +704,7 @@ NIMHD G7 is the strongest 'AoU embodies a pan-NIH mandate' argument - the langua
 NLM is the only IC plan that names AoU; NLM-G1-O2 (informatics R&D) and NLM-G1-O4 (sustainable computational infrastructure) directly underwrite the 9th focus area.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 10 - Biggest demand-side gaps
+# SLIDE 11 - Biggest demand-side gaps
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Three demand-side gaps: ICs want capability AoU isn't yet producing",
@@ -718,13 +752,13 @@ for i, (ic, ratio, problem, decision_type, action) in enumerate(gaps):
                 "→ " + action, size=10.5, color=AMBER, italic=True, bold=True,
                 font=BODY_FONT, line_spacing=1.20)
 
-add_footer(s, 10)
+add_footer(s, 11)
 set_notes(s, """Source: aou-ic-alignment/gap_analysis.md §B (demand-side gaps).
 
 The four gap categories require different decision types - important to surface for Sci Com so the conversation doesn't conflate them: - Environment: engineering work (external data + geocoding). LOW cost, HIGH yield. - Imaging: governance + release decision. HIGH cost. WG-3 owns. - Multi-omics: mechanical closure via 2026 releases. Framework signal (FA8 rename) is the WG-1 lever. - Aging/ADRD: engagement decision, not infrastructure. Cross-cutting flag, surfaces in WG-5 patient-facing comms.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 11 - Peer-biobank comparison
+# SLIDE 12 - Peer-biobank comparison
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Peer-biobank comparison: AoU's gaps and AoU's distinctive strengths",
@@ -755,7 +789,7 @@ add_textbox(s, Inches(0.75), Inches(6.55), Inches(11.85), Inches(0.5),
             "\"Every other cohort scaled up genomics; AoU scaled up everything around genomics that genomics actually needs to work in practice.\"",
             size=11.5, color=NAVY, italic=True, bold=True, font=BODY_FONT, line_spacing=1.2)
 
-add_footer(s, 11)
+add_footer(s, 12)
 set_notes(s, """Source: peer-biobanks/aou_vs_peers_index.csv + emerging_themes.md.
 
 Under-indexed (left chart): multi-omics 1.7% vs UKB 10%, imaging 0.6% vs UKB 8.0%, microbiome 0.8% vs FinnGen 14%, rare disease 3.8% vs UKB 18%, aging 5.5% vs UKB 15.7%.
@@ -765,7 +799,7 @@ Over-indexed (right chart): ELSI 24.0× peer median, SDOH 5.4×, PGx 4.3×, meth
 Caveats: PubMed-name-search has known undercount (especially MVP); pre-2023 baseline is small (157 AoU pubs); use STATIC SHARE INDEX, not trend differentials. Dermatology 6.4× over-index is an artifact (1-2 prolific groups).""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 12 - Horizon scan: emerging white-space
+# SLIDE 13 - Horizon scan: emerging white-space
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Horizon scan: emerging science AoU has not yet claimed",
@@ -817,7 +851,7 @@ add_textbox(s, Inches(0.55), Inches(6.62), Inches(12.25), Inches(0.4),
             "The top two gaps ARE the proposed 9th focus area (Data, AI & Methods) and the Workbench AI co-scientist - external evidence those recommendations point at the field's leading edge.",
             size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
 
-add_footer(s, 12)
+add_footer(s, 13)
 set_notes(s, """Source: emerging-trends/emerging_trends_report.md (full method + tiers).
 
 METHOD: open-discovery horizon scan. Pulled 322,138 bioRxiv+medRxiv preprints and 460,285 NIH RePORTER grants (2021-2026). Computed term-acceleration (recent vs prior doc-share), induced ~24 emerging topics via LLM clustering (not the locked 19-theme taxonomy), gap-checked each vs AoU (1,653) + the 4 peer biobanks + published-literature trajectory, then overlaid AoU data-asset feasibility.
@@ -827,7 +861,7 @@ WHY THIS MATTERS: preprints/grants lead published work by 1-2 years, so this is 
 CAVEAT: some grant growth multipliers are inflated by RePORTER controlled-vocabulary onsets (e.g. 'anti-viral agents' prior=0); the AI findings rest on named tools in author-written preprint text (AlphaFold3, GPT-4o/5, DeepSeek, Boltz-2), which are trustworthy. Keyword coverage is substring-based, so AoU % are directional - but order-of-magnitude gaps (0.x% vs a 47× field) are robust.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 13 - Ancillary (partnered) studies: the leading edge
+# SLIDE 14 - Ancillary (partnered) studies: the leading edge
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Ancillary studies: new modalities the publication record can't yet show",
@@ -870,13 +904,13 @@ add_textbox(s, Inches(0.55), Inches(6.45), Inches(12.25), Inches(0.45),
             "Recommendation: give each ongoing ancillary study an explicit home in the relevant focus area, scored on goal + workspace signal and flagged “data emerging”; add a standing AoU-linked preprint stream so the next wave surfaces earlier.",
             size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
 
-add_footer(s, 13)
+add_footer(s, 14)
 set_notes(s, """Source: aou-roadmap-refresh/ancillary_studies.md. Goals verified against the official NIH page (nih.gov/allofus/funding/partnered-research-studies, reviewed 2026-07-16); EtM goal quoted verbatim ("add objective behavioral health data"). Workspace counts from the 2026-10-14 production pull (32,922 workspaces) vs the old 2025-10-24 snapshot (21,242); "new" = present now but absent then. Publication/preprint absence verified live via Europe PMC incl. SRC:PPR preprints - the 3 nominal "All of Us"+"Exploring the Mind" hits are coincidental phrase matches, not EtM-data papers.
 
 WHY A DEDICATED SLIDE: the user asked that ancillary-study goals be represented across deliverables even where data is not yet released. These studies are the program's leading edge; the publication corpus lags released data by 1-2 years, so scoring opportunity on literature alone undervalues them. WEAR/Fitbit is treated as a core modality (Wearables & digital health theme), not a partnered study, per the NIH page.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 14 - WG-1 (OURS) Top-3
+# SLIDE 15 - WG-1 (OURS) Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Scientific Roadmap: the structural framework recommendations",
@@ -919,7 +953,7 @@ add_textbox(s, Inches(0.75), Inches(6.55), Inches(11.85), Inches(0.5),
             "Aging/ADRD, microbiome, reproducibility framework, subcontinental ancestry - surfaced in cross-cutting synthesis as Tier-2 or other-WG.",
             size=11, color=DARK, font=BODY_FONT, italic=True, line_spacing=1.20)
 
-add_footer(s, 14)
+add_footer(s, 15)
 set_notes(s, """Source: phase4-recommendations/wg1_roadmap_refresh.md (Top-3 with full rubric tables).
 
 Rec 1 (3.71 mean): 'Add a Data, AI & Methods focus area.' 18% corpus orphan; HA4 37 AI pubs; NLM-G1 explicit alignment. EXTERNAL EVIDENCE (slide 12 horizon scan): the two fastest-rising, AoU-feasible white-space gaps in the entire biomedical literature - genomic foundation models and LLMs/agentic AI - are precisely this focus area's content, and AoU is <0.3% present in both. The field has already moved here; the framework hasn't. Risk: Sci Com may prefer reorganization to addition; defend with the empirical orphan count + the horizon scan.
@@ -929,7 +963,7 @@ Rec 2 (3.38 mean): 'Rename FA8 + multi-omics roadmap.' Largest peer-comparative 
 Rec 3 (3.00 mean): three small structural fixes bundled. FA4 toward ROR implementation (well-evidenced; theme 17 ELSI −12.4); FA2 → 'Maternal Health' (judgment about naming accuracy; politically sensitive - frame as accuracy not deprioritization); FA6 environmental linkage (largest demand-supply gap; engineering not data acquisition).""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 15 - WG-2 Translational Top-3
+# SLIDE 16 - WG-2 Translational Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-2 Translational: define what counts as translational impact",
@@ -963,7 +997,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "WG-2 also-considered (deprioritized): NCATS-Translator data linkage; partner-cohort replication pipeline; RWE for breakthrough therapeutics (folded into Rec 2 as use case).",
             size=11, color=DARK, italic=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 15)
+add_footer(s, 16)
 set_notes(s, """Source: phase4-recommendations/wg2_translational.md.
 
 Rec 1 (3.50): TSBM = Translational Science Benefits Model (Luke et al., Eval Program Plan 2018). Citation/altmetric/RePORTER/NCT APIs all exist; curation and editorial work is new.
@@ -973,7 +1007,7 @@ Rec 2 (3.38): the named portfolio is the canonical translational need-area set. 
 Rec 3 (3.75 - highest WG-2 score): the bias framework is the keystone of the cross-WG hierarchy (WG-2 normative → WG-3 imaging → WG-4 AI). Sets the AoU bias-reporting standard.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 16 - WG-3 Imaging Top-3
+# SLIDE 17 - WG-3 Imaging Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-3 Imaging: starting from infrastructure, not utilization",
@@ -1007,7 +1041,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "Reality check: AoU corpus has 9 imaging pubs (HA3, ~0.6%), almost all using EXTERNAL imaging linked to AoU phenotypes. WG-3 starts from infrastructure.",
             size=11, color=AMBER, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 16)
+add_footer(s, 17)
 set_notes(s, """Source: phase4-recommendations/wg3_imaging.md.
 
 Rec 2 (3.88 - highest WG-3 score): DICOM + FHIR + phecode crosswalk is the highest-leverage standards decision because it anchors imaging to existing AoU analytic infrastructure rather than fragmenting the user base.
@@ -1017,7 +1051,7 @@ Cost reality: imaging is the single most expensive recommendation across all 5 W
 Also-considered: AI-radiomics pilot funding (hand to WG-4); UKB/NIH-IDC partnership (flag as cross-cohort validation pathway under Rec 1 Tier 1).""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 17 - WG-4 AI Top-3
+# SLIDE 18 - WG-4 AI Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-4 AI Strategies: researchers are already using AI - define what AoU provides",
@@ -1051,7 +1085,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "Rec 1 (3.88) is the HIGHEST RUBRIC MEAN across all 5 WGs. Direct researcher impact + standardizes use of validated phenotypes + simplifies analysis.",
             size=11.5, color=AMBER, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 17)
+add_footer(s, 18)
 set_notes(s, """Source: phase4-recommendations/wg4_ai_strategies.md.
 
 Rec 1 (3.88): highest rubric mean in the entire set. The AI co-scientist is the single most-leveraged researcher-facing investment. Defends against 'hallucinations' risk via explicit-provenance design (every cohort/code block links back to source vocabulary entry). 'Build vs buy' answer: build AoU-specific scaffolding on existing foundation model, not the model itself.
@@ -1063,7 +1097,7 @@ Rec 3 (3.50): evaluate, don't build. The field is moving so fast that any premat
 HORIZON-SCAN BACKING: the external scan ranks LLMs/agentic AI as the #2 actionable white-space gap (published LLM-in-medicine work up 47× 2021→2025; AoU at 0.2%) and genomic foundation models #1 - strengthening Rec 1 (co-scientist) and Rec 3 (FM evaluation). It also bounds scope: single-cell/spatial/protein-structure foundation models are real but outside AoU's data model - AoU should evaluate genomic + EHR FMs, not chase those.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 18 - Researcher Workbench: capability gaps & build priorities
+# SLIDE 19 - Researcher Workbench: capability gaps & build priorities
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Researcher Workbench: capability gaps vs comparators, and what to build",
@@ -1113,7 +1147,7 @@ add_textbox(s, Inches(0.55), Inches(6.62), Inches(12.25), Inches(0.45),
             "AoU leads on data assets (linked WGS+EHR+surveys+wearables) and GPU/AI compute (H100/H200/B200+NeMo) - the deficiencies are in turning that into shared, AI-enabled, reusable science. Operationalizes the proposed 9th focus area + Workbench AI co-scientist.",
             size=10.5, color=NAVY, italic=True, font=BODY_FONT, line_spacing=1.15)
 
-add_footer(s, 18)
+add_footer(s, 19)
 set_notes(s, """Source: rw-analysis/ (part1_capability_gaps.md, part2_trending_methods.md, part3_recommended_tools.md, baa_llm_egress_evidence.md).
 
 METHOD + CITATION INTEGRITY: AoU RW benchmarked across 8 dimensions vs N3C, Terra/AnVIL, BioData Catalyst, UKB-RAP, Kids First. Every claim carries a URL + verbatim quote that was re-fetched and confirmed on-page; 87/87 citations verified (audit trail in citations_verified.csv). Unverifiable claims were dropped.
@@ -1129,7 +1163,7 @@ KEY BAA POINT: the constraint on an in-environment LLM is NOT a missing BAA - Go
 AoU STRENGTHS (so the gaps are credible): data assets and GPU/AI compute are best-in-set; notebooks, OMOP, closed-tier security at parity. The deficiencies are platform-capability, not data.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 19 - WG-5 Communications Top-3
+# SLIDE 20 - WG-5 Communications Top-3
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "WG-5 Scientific Communications: turn the corpus evidence into legible products",
@@ -1163,7 +1197,7 @@ add_textbox(s, Inches(0.75), Inches(6.33), Inches(11.85), Inches(0.6),
             "The distinctive-evidence narrative (Rec 2) is the political-defense story under which every other WG's recommendations should be read.",
             size=11.5, color=NAVY, italic=True, bold=True, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 19)
+add_footer(s, 20)
 set_notes(s, """Source: phase4-recommendations/wg5_communications.md.
 
 Rec 1 (3.57): Impact Report v1 within 12 months. WG-2 defines metrics; WG-5 produces the report. NIH precedent: BD2K, BRAIN Initiative, Cancer Moonshot all publish annual impact products.
@@ -1173,7 +1207,7 @@ Rec 2 (3.60): the four-strength narrative is the MOST EVIDENCE-DRIVEN recommenda
 Rec 3 (3.60): the 21 per-IC briefs in aou-ic-alignment/per_ic_briefs/ are mostly drafted. Productize them rather than rebuilding.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 20 - Cross-WG interlocks
+# SLIDE 21 - Cross-WG interlocks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Five cross-WG dependencies the Sci Com should coordinate",
@@ -1211,7 +1245,7 @@ for i, (code, headline, detail) in enumerate(deps):
     add_textbox(s, Inches(1.85), y + Inches(0.42), Inches(10.95), Inches(0.6),
                 detail, size=11.5, color=DARK, font=BODY_FONT, line_spacing=1.25)
 
-add_footer(s, 20)
+add_footer(s, 21)
 set_notes(s, """Source: phase4-recommendations/cross_cutting_synthesis.md §1.
 
 The five interlocks should be in the Sci Com's awareness because they determine whether the WGs ship semi-aligned outputs that compete or genuinely-aligned outputs that compound.
@@ -1219,7 +1253,7 @@ The five interlocks should be in the Sci Com's awareness because they determine 
 CC-5 (Aging/ADRD) is a flag because no Top-3 currently owns it. AoU is at 6.0% post-2023 (≈peer median, index 0.84×) and growing (+4.7), but still trailing UKB's +6.9 surge in the lecanemab/donanemab era. Structural advantage (EHR + UBR diversity); the gap is narrowing rather than flat, so this is now a weaker-evidence flag than in the prior draft. NIA engagement workstream is the natural answer; outside any current Top-3.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 21 - Caveats
+# SLIDE 22 - Caveats
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Caveats - three things to keep in mind when reading these findings",
@@ -1256,7 +1290,7 @@ for i, (num, head, body) in enumerate(caveats):
     add_textbox(s, Inches(1.6), y + Inches(0.45), Inches(11.2), Inches(1.30),
                 body, size=11.5, color=DARK, font=BODY_FONT, line_spacing=1.30)
 
-add_footer(s, 21)
+add_footer(s, 22)
 set_notes(s, """Source: aou-research-landscape/README.md; peer-biobanks/emerging_themes.md §caveats; phase4-recommendations/README.md.
 
 The dermatology caveat is NON-NEGOTIABLE to include - if Sci Com or external audiences see 'dermatology peer-index 6.4×' without context, they may push to elevate dermatology, which would mislead the Roadmap. Phase 1 README flagged the 1-2-prolific-groups origin; Phase 3b temporal trends show declining share.
@@ -1266,7 +1300,7 @@ The peer-biobank fallback caveat protects against over-reading single-peer trend
 The pre-2023 baseline caveat is why we don't use AoU-internal pre/post trends as the headline growth metric - we use the peer-comparative gap analysis instead.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 22 - 2026 committee directions mapped to the evidence
+# SLIDE 23 - 2026 committee directions mapped to the evidence
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "2026 committee directions, mapped to the evidence",
@@ -1299,11 +1333,11 @@ add_textbox(s, Inches(0.55), Inches(6.35), Inches(12.25), Inches(0.55),
             "These are committee-originated; the analysis corroborates them and shows where each attaches to the roadmap. Full detail in the committee-alignment write-up.",
             size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
 
-add_footer(s, 22)
+add_footer(s, 23)
 set_notes(s, """Source: aou-roadmap-refresh/committee_2026_alignment.md (public-safe items only; internal specifics kept out). These directions came from the 2026 Science Committee meeting series (Jan Priorities Roadmap; Feb Women's Health Driver Project; Apr Generalizability; May Multi-omics; the Roadmap Refresh WG). Verified citations: generalizability = Am J Epidemiology 2026 (DOI 10.1093/aje/kwag010) + waou on CRAN; women's health = J Women's Health 2026 (DOI 10.1177/15409996261434111). The multi-omics 10k preprint could not be verified, so it is described as program activity, uncited.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 23 - Next steps / asks
+# SLIDE 24 - Next steps / asks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Priority recommendations, for the Committee's consideration",
@@ -1357,7 +1391,7 @@ add_textbox(s, Inches(0.75), Inches(6.36), Inches(11.85), Inches(0.55),
             size=12.5, bold=True, color=WHITE, font=HEAD_FONT, italic=True,
             align=PP_ALIGN.CENTER)
 
-add_footer(s, 23)
+add_footer(s, 24)
 set_notes(s, """Summary of the priority recommendations (not decisions assigned to any group - the working groups are recognized need areas whose topics overlap and coordinate):
 
 (1) A 9th focus area, Data, AI & Methods - frame-defining; gives the fastest-rising work a home.
@@ -1369,7 +1403,7 @@ set_notes(s, """Summary of the priority recommendations (not decisions assigned 
 If one recommendation rises above the rest: the 9th focus area - it is the structural prerequisite for everything else.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 24 — Selected references
+# SLIDE 25 — Selected references
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Selected references",
@@ -1398,10 +1432,10 @@ add_textbox(s, Inches(0.55), Inches(1.45), Inches(6.25), Inches(5.3),
             refs_left, size=10.5, color=DARK, font=BODY_FONT, line_spacing=1.12)
 add_textbox(s, Inches(6.95), Inches(1.45), Inches(6.3), Inches(5.3),
             refs_right, size=10.5, color=DARK, font=BODY_FONT, line_spacing=1.12)
-add_textbox(s, Inches(0.55), Inches(6.75), Inches(12.25), Inches(0.35),
-            "Verified via NCBI E-utilities; preprints flagged for journal-version upgrade before submission. Full reference list: manuscript outline document.",
-            size=9.5, color=GRAY, italic=True, font=BODY_FONT)
-add_footer(s, 24)
+add_textbox(s, Inches(0.55), Inches(6.52), Inches(12.25), Inches(0.62),
+            "Co-lead anchors (J. Smoller): cross-disorder psychiatric GWAS (Lancet 2013, doi.org/10.1016/S0140-6736(12)62129-1); EHR phenotyping & genomics (Am J Med Genet B 2018, doi.org/10.1002/ajmg.b.32548); PRS/PheWAS across health systems (Am J Psychiatry 2019).  Additional All of Us: Cronin surveys (Epidemiology 2019); Tesfaye SDOH (Sci Rep 2024); Zheng wearable sleep (Nat Med 2024, doi.org/10.1038/s41591-024-03155-8); Kozlowski year-in-review (AJHG 2024).  Full verified list (85 refs, DOIs) in the manuscript outline document.",
+            size=8.5, color=GRAY, italic=True, font=BODY_FONT, line_spacing=1.12)
+add_footer(s, 25)
 set_notes(s, "Selected anchors across the six sections. The complete verified reference list (72 references, 69 with resolvable DOIs, plus the frontier-methods additions) lives in the manuscript outline document's References section.")
 
 # ---------------------------------------------------------------------------

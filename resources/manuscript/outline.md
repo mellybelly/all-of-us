@@ -27,7 +27,8 @@
 - The contribution: an evidence-driven refresh built from the program's own output and the external field.
 
 **Why.** Frames the refresh as earned by evidence and anchored in the program's founding purpose.
-**Key citations:** [Collins & Varmus, NEJM 2015](https://doi.org/10.1056/NEJMp1500523); [PMI Working Group report, NIH 2015](https://www.nih.gov/sites/default/files/research-training/initiatives/pmi/09172015-pmi-working-group-report.pdf); [All of Us Program, NEJM 2019](https://doi.org/10.1056/NEJMsr1809937); [Mapes et al. (diversity/UBR), PLoS ONE 2020](https://doi.org/10.1371/journal.pone.0234962); [Denny & Collins, Cell 2021](https://doi.org/10.1016/j.cell.2021.01.015).
+**Key citations:** [Collins & Varmus, NEJM 2015](https://doi.org/10.1056/NEJMp1500523); [PMI Working Group report, NIH 2015](https://www.nih.gov/sites/default/files/research-training/initiatives/pmi/09172015-pmi-working-group-report.pdf); [All of Us Program, NEJM 2019](https://doi.org/10.1056/NEJMsr1809937); [Mapes et al. (diversity/UBR), PLoS ONE 2020](https://doi.org/10.1371/journal.pone.0234962); [Denny & Collins, Cell 2021](https://doi.org/10.1016/j.cell.2021.01.015); [All of Us year in review 2023-2024, Am J Hum Genet 2024](https://doi.org/10.1016/j.ajhg.2024.07.023).
+**Co-lead anchors (J. W. Smoller, psychiatric genomics and EHR phenotyping):** [Cross-disorder psychiatric GWAS, Lancet 2013](https://doi.org/10.1016/S0140-6736%2812%2962129-1); [EHR for psychiatric phenotyping and genomics, Am J Med Genet B 2018](https://doi.org/10.1002/ajmg.b.32548); [Schizophrenia PRS penetrance and PheWAS across four health systems, Am J Psychiatry 2019](https://doi.org/10.1176/appi.ajp.2019.18091085); [EHR automated phenotyping validated by genetics, Transl Psychiatry 2018](https://doi.org/10.1038/s41398-018-0133-7); [Mass General Brigham Biobank precision health, Nat Commun 2025](https://doi.org/10.1038/s41467-025-66598-8); [14-disorder psychiatric genomics, Nature 2026](https://doi.org/10.1038/s41586-025-09820-3).
 
 ## 2. How we did this analysis (methods)
 
@@ -56,7 +57,7 @@
 - Ancillary (partnered) studies are the leading edge: Exploring the Mind (objective cognition/behavior, NIMH), Eyes on Health (retinal imaging/oculomics, NEI/NIBIB), Nutrition for Precision Health (diet response, Common Fund), Environmental Health and Exposomics (NIEHS). Exploring the Mind has zero publications or preprints anywhere yet appears in 32 workspaces (27 visible only in the live pull); cognition/mental-health work is ~13% of all workspaces. Live multi-omics on ~10,000 participants and a new external-biospecimen mechanism are also visible only in the live signal.
 
 **Why.** Shows what the program actually produces, where the framework strains, and why a live workspace census (not a cached snapshot) is essential to see the newest science before it reaches publication.
-**Key citations:** [All of Us Genomic Data, Nature 2024](https://doi.org/10.1038/s41586-023-06957-x); [Ramirez et al. (data quality/Workbench), Patterns 2022](https://doi.org/10.1016/j.patter.2022.100570); [Lederer et al. (Fitbit), JMIR 2023](https://doi.org/10.2196/45103); [NIH Partnered Research Studies](https://www.nih.gov/allofus/funding/partnered-research-studies); [Cohn et al. (Women's Health Driver Project), J Women's Health 2026](https://doi.org/10.1177/15409996261434111).
+**Key citations:** [All of Us Genomic Data, Nature 2024](https://doi.org/10.1038/s41586-023-06957-x); [Ramirez et al. (data quality/Workbench), Patterns 2022](https://doi.org/10.1016/j.patter.2022.100570); [Cronin et al. (initial surveys), Epidemiology 2019](https://doi.org/10.1097/EDE.0000000000001028); [Tesfaye et al. (social determinants of health), Sci Rep 2024](https://doi.org/10.1038/s41598-024-57410-6); [Lederer et al. (Fitbit QC), JMIR 2023](https://doi.org/10.2196/45103); [Zheng et al. (wearable sleep and chronic disease at scale), Nat Med 2024](https://doi.org/10.1038/s41591-024-03155-8); [Khajouei et al. (APOE phenome-wide association), EBioMedicine 2025](https://doi.org/10.1016/j.ebiom.2025.105768); [NIH Partnered Research Studies](https://www.nih.gov/allofus/funding/partnered-research-studies); [Cohn et al. (Women's Health Driver Project), J Women's Health 2026](https://doi.org/10.1177/15409996261434111).
 
 ## 4. Benchmarking against peer biobanks
 
@@ -95,8 +96,24 @@
 
 ## 7. Recommendations for the refreshed roadmap
 
+### 7a. The focus-area framework: current (2020) and proposed refresh
+
+| # | Current focus area (2020 roadmap) | Proposed in the refresh | Why it needs to change |
+| --- | --- | --- | --- |
+| 1 | Prevalent Common & Rare Conditions | Keep | The core disease anchor and the largest share of output; still fits. |
+| 2 | Maternal & Child Health | Maternal Health | Child-health output is thin in the corpus; sharpen the scope to where the program actually delivers. |
+| 3 | Healthy Aging & Resilience | Keep (watch as a peer gap) | Fits the framework, but aging is one of the five areas AoU trails peers on. |
+| 4 | Return of Results on Individual & Population Health | Reframe toward return-of-results implementation | Move from concept to implementation as ROR capabilities mature. |
+| 5 | Lifestyle, Substance & Behavioral Health | Keep | Fits. |
+| 6 | Environment | Environment, with an explicit environmental-exposure-linkage commitment | The single largest demand-supply gap (NIEHS priorities vs about 7 AoU publications); the November 2, 2026 release makes it actionable now. |
+| 7 | Health Equity | Keep (and protect) | AoU's distinctive, defining strength; the refresh must safeguard it. |
+| 8 | Genetics & Biology | Genetics, Multi-omics & Biology | Multi-omics is currently invisible inside this area; the 2026 proteomic and metabolomic releases need a named home. |
+| 9 | (none) | **Data, AI & Methods (NEW)** | About 18% of publications and the entire AI and foundation-model surge have no home in the framework; this is the single most important structural change. |
+
+### 7b. The recommendations
+
 **Covers.**
-- **Structural:** add a ninth focus area, "Data, AI & Methods"; rename the genetics area to "Genetics, Multi-omics & Biology" and pair it with a concrete proteomics-release roadmap.
+- **Structural:** add a ninth focus area, "Data, AI & Methods"; rename the genetics area to "Genetics, Multi-omics & Biology" and pair it with a concrete proteomics-release roadmap; reframe Maternal & Child Health, Return of Results, and Environment as in the table above.
 - **Platform builds:** a governed in-VPC AI co-scientist, a reusable-tools registry, and multimodal-data templates; most ambitiously, an internal All of Us foundation model hosted securely with no data egress, guided by the proposed "super user group" (this single build unifies the highest-leverage opportunity with the clearest platform gap).
 - **Adopt the committee's 2026 directions as standing mechanisms:** the driver-paper model (make rare-disease and intersectional driver papers near-term deliverables), and generalizability weighting as a first-class capability (promote the released survey-weighting toolkit) connected to the external-biospecimen mechanism.
 - **Protect and govern:** safeguard the distinctive strengths (diversity, SDOH, ELSI) and govern AI responsibly, since an equity-first cohort cannot deploy models that widen disparities.

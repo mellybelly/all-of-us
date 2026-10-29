@@ -24,6 +24,17 @@ confirmed; nothing was invented. **Spot-check before submission - see Caveats at
 
 ---
 
+## Co-lead anchors (J. W. Smoller)
+
+- [Cross-Disorder Group of the PGC. Identification of risk loci with shared effects on five major psychiatric disorders. Lancet 2013](https://doi.org/10.1016/S0140-6736%2812%2962129-1) - first cross-disorder psychiatric GWAS; Smoller lead author.
+- [Smoller. The use of electronic health records for psychiatric phenotyping and genomics. Am J Med Genet B 2018](https://doi.org/10.1002/ajmg.b.32548) - EHR phenotyping for psychiatric genomics (single-author review).
+- [Zheutlin et al. Penetrance and pleiotropy of polygenic risk scores for schizophrenia in 106,160 patients across four health care systems. Am J Psychiatry 2019](https://doi.org/10.1176/appi.ajp.2019.18091085) - PRS + PheWAS across health-system biobanks; Smoller senior author.
+- [Chen et al. Genetic validation of bipolar disorder identified by automated phenotyping using electronic health records. Transl Psychiatry 2018](https://doi.org/10.1038/s41398-018-0133-7) - EHR automated phenotyping validated against genetics; Smoller senior author.
+- [Grotzinger et al. Mapping the genetic landscape across 14 psychiatric disorders. Nature 2026](https://doi.org/10.1038/s41586-025-09820-3) - latest large cross-disorder psychiatric genomics; Smoller senior author.
+- [Cross-Disorder Group of the PGC. Genomic relationships, novel loci, and pleiotropic mechanisms across eight psychiatric disorders. Cell 2019](https://doi.org/10.1016/j.cell.2019.11.020) - Smoller named investigator.
+- [Wray et al. Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression. Nat Genet 2018](https://doi.org/10.1038/s41588-018-0090-3) - Smoller named.
+- [Koyama et al. Genetics and context for precision health in Greater Boston. Nat Commun 2025](https://doi.org/10.1038/s41467-025-66598-8) - Mass General Brigham Biobank precision-health resource; Smoller co-author.
+
 ## 1. Introduction - why refresh the roadmap now
 
 - [Collins & Varmus. A New Initiative on Precision Medicine. N Engl J Med 2015](https://pubmed.ncbi.nlm.nih.gov/25635347/) - the Precision Medicine Initiative's founding Perspective; frames the national cohort that became All of Us. · **DOI:** [10.1056/NEJMp1500523](https://doi.org/10.1056/NEJMp1500523)
@@ -31,6 +42,8 @@ confirmed; nothing was invented. **Spot-check before submission - see Caveats at
 - [All of Us Research Program Investigators. The All of Us Research Program. N Engl J Med 2019](https://pubmed.ncbi.nlm.nih.gov/31412182/) - the canonical program description: goals, protocol, data types, >80% underrepresented enrollment. *(also cited for benchmarking rationale and platform)* · **DOI:** [10.1056/NEJMsr1809937](https://doi.org/10.1056/NEJMsr1809937)
 - [Mapes et al. Diversity and Inclusion for the All of Us Research Program: A Scoping Review. PLoS ONE 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7329113/) - defines/justifies the UBR (underrepresented in biomedical research) mandate. · **DOI:** [10.1371/journal.pone.0234962](https://doi.org/10.1371/journal.pone.0234962)
 - [Denny & Collins. Precision Medicine in 2030 - Seven Ways to Transform Healthcare. Cell 2021](https://doi.org/10.1016/j.cell.2021.01.015) - forward-looking precision-medicine roadmap (cohorts, AI, phenomics, equity) from the AoU CEO and NIH Director.
+
+- [Kozlowski et al. All of Us Research Program year in review: 2023-2024. Am J Hum Genet 2024](https://doi.org/10.1016/j.ajhg.2024.07.023) - official program milestone and data-release update.
 
 ## 2. The *All of Us* research landscape
 
@@ -46,6 +59,11 @@ confirmed; nothing was invented. **Spot-check before submission - see Caveats at
 - [van Eck & Waltman. VOSviewer, a Computer Program for Bibliometric Mapping. Scientometrics 2010](https://doi.org/10.1007/s11192-009-0146-3) - standard tool for bibliometric/co-citation mapping (corpus method).
 - [Boyack & Klavans. Co-Citation, Bibliographic Coupling, and Direct Citation. JASIST 2010](https://doi.org/10.1002/asi.21419) - methodological benchmark for citation-based corpus mapping.
 - [Blei, Ng & Jordan. Latent Dirichlet Allocation. J Mach Learn Res 2003](https://www.jmlr.org/papers/v3/blei03a.html) - canonical topic-modeling method for thematic corpus analysis.
+
+- [Cronin et al. Development of the initial surveys for the All of Us Research Program. Epidemiology 2019](https://doi.org/10.1097/EDE.0000000000001028) - foundational survey/data descriptor for participant-provided data.
+- [Tesfaye et al. Measuring social determinants of health in the All of Us Research Program. Sci Rep 2024](https://doi.org/10.1038/s41598-024-57410-6) - data descriptor for AoU social-determinants measures.
+- [Zheng et al. Sleep patterns and risk of chronic disease measured by long-term wearable monitoring in the All of Us Research Program. Nat Med 2024](https://doi.org/10.1038/s41591-024-03155-8) - flagship AoU-wide result using wearable data at scale.
+- [Khajouei et al. Phenome-wide association of APOE alleles in the All of Us Research Program. EBioMedicine 2025](https://doi.org/10.1016/j.ebiom.2025.105768) - PheWAS genotype-phenotype discovery in the diverse cohort.
 
 ## 3. Benchmarking against peer biobanks
 
