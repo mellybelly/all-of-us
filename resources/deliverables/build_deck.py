@@ -135,7 +135,7 @@ def add_header(slide, title, subtitle=None):
     add_rect(slide, Inches(0.5), Inches(1.10), Inches(12.3), Pt(0.75),
              fill=RULE, line=None)
 
-def add_footer(slide, slide_num, total=22):
+def add_footer(slide, slide_num, total=23):
     add_textbox(slide, Inches(0.5), Inches(7.10), Inches(8), Inches(0.3),
                 "All of Us Scientific Roadmap Refresh  •  WG-1 Draft  •  Smoller & Haendel  •  2026-10-14",
                 size=8.5, color=GRAY, italic=True, font=BODY_FONT)
@@ -303,15 +303,15 @@ The other five questions don't disappear; they get folded into the evidence base
 # SLIDE 3 — Approach
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
-add_header(s, "We took a five-step, evidence-driven approach",
-           "Every recommendation here can be traced to a primary corpus, IC plan, peer biobank, or rubric cell.")
+add_header(s, "Methods: a five-step, evidence-driven pipeline",
+           "Reproducible Python pipeline (public repo). Every recommendation traces to a primary corpus, IC plan, peer biobank, or rubric cell.")
 
 steps = [
-    ("1", "Inventory", "the AoU corpus — 1,653 substantive publications + 20,165 substantive workspace projects (from a live 32,922-workspace production pull, 2026-10-14), theme-tagged against a locked 19-theme taxonomy."),
-    ("2", "Map", "AoU themes onto 29 NIH strategic plans (NIH-Wide + 21 ICs + cross-cutting). Extracted 166 priority statements; built a corpus × IC alignment matrix."),
-    ("3", "Compare", "AoU corpus against 4 peer biobanks (UK Biobank, FinnGen, MVP, China Kadoorie) using a same-tagger keyword approach — calibrates AoU's distinctive contributions and gaps."),
-    ("4", "Identify", "structural framework gaps and demand-supply mismatches — plus an open-discovery horizon scan of 294k preprints + 423k NIH grants to surface emerging white-space AoU hasn't yet claimed (slide 12)."),
-    ("5", "Score", "candidate recommendations against the 8-criterion Sci Com rubric (the format Smoller established in November 2024) and rank the Top-3 per WG."),
+    ("1", "Inventory & tag", "AoU corpus pulled live from the program APIs — 1,653 substantive publications (reconciled to PubMed/iCite) + 20,165 substantive workspace projects (live 32,922-workspace production pull, 2026-10-14). Keyword-tagged on title+abstract+PMC full text against a locked 19-theme taxonomy."),
+    ("2", "Map to NIH", "Themes mapped onto 29 NIH strategic plans (NIH-Wide + 21 ICs); 166 priority statements extracted; IC attribution via NIH RePORTER grant IDs → corpus × IC alignment matrix."),
+    ("3", "Compare to peers", "Full-census PubMed name-search of 4 peer biobanks (UK Biobank, FinnGen, MVP, China Kadoorie), tagged with the SAME tagger — a static theme-share index of AoU's distinctive strengths and gaps."),
+    ("4", "Horizon scan", "Open-discovery term-acceleration over 322k preprints + 460k NIH grants (2021-26) → LLM topic induction, gap-checked vs AoU + peers, with an AoU data-feasibility overlay (slide 12)."),
+    ("5", "Benchmark & score", "Researcher Workbench vs 5 comparator platforms (87/87 citations fetch-verified); candidate recommendations scored on the 8-criterion Sci Com rubric (Smoller, Nov 2024) and ranked Top-3 per WG."),
 ]
 
 # Numbered step circles + text
@@ -1277,7 +1277,44 @@ The peer-biobank fallback caveat protects against over-reading single-peer trend
 The pre-2023 baseline caveat is why we don't use AoU-internal pre/post trends as the headline growth metric — we use the peer-comparative gap analysis instead.""")
 
 # ---------------------------------------------------------------------------
-# SLIDE 22 — Next steps / asks
+# SLIDE 22 — 2026 committee directions mapped to the evidence
+# ---------------------------------------------------------------------------
+s = prs.slides.add_slide(BLANK)
+add_header(s, "2026 committee directions, mapped to the evidence",
+           "Ideas surfaced in the 2026 Science Committee meeting series — where each one lands in this analysis.")
+
+rows = [
+    ("Driver-project / driver-paper model (Women's Health Driver Project)",
+     "Adopt as a standing mechanism; make rare-disease & intersectional (e.g. rare disease × rurality) driver papers a near-term deliverable — attacks the rare-disease peer-gap."),
+    ("Generalizability tooling — the waou R package (Am J Epidemiol 2026)",
+     "Weights AoU estimates to the US population; promote to a documented, reusable Workbench capability (addresses the volunteer-cohort caveat)."),
+    ("Multi-omics on ~10,000 diverse participants (RNA-seq + Olink + long-read; →~50k)",
+     "Live program activity; confirms the FA8 → “Genetics, Multi-omics & Biology” rename + proteomics-release recommendation."),
+    ("External biospecimen-request mechanism (academic / nonprofit / industry)",
+     "Publicly posted; the data-generation arm of a partner ecosystem — pairs with the RW reusable-assets / partner-tools gap."),
+    ("Internal AoU foundation model, NO data egress + a “super user group” (Ginsburg)",
+     "Unifies the genomic-FM white-space (slide 12) and the governed in-environment AI gap (slide 17) into one program-owned build."),
+    ("Environmental dataset release — November 2, 2026",
+     "Geocoded residential history + linked social/environmental variables: the near-term milestone closing the environmental peer-gap."),
+]
+t = add_table(s, Inches(0.55), Inches(1.45), Inches(12.25), Inches(4.75),
+              header=["2026 committee direction", "Where it lands in this analysis"],
+              rows=rows, header_font_size=12, body_font_size=10.5,
+              col_widths=[0.42, 0.58], first_col_bold=True, last_col_emph=True,
+              last_col_color=NAVY)
+t.rows[0].height = Inches(0.38)
+for ri in range(1, len(rows) + 1):
+    t.rows[ri].height = Inches(0.72)
+
+add_textbox(s, Inches(0.55), Inches(6.35), Inches(12.25), Inches(0.55),
+            "These are committee-originated; the analysis corroborates them and shows where each attaches to the roadmap. Full detail in the committee-alignment write-up.",
+            size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
+
+add_footer(s, 22)
+set_notes(s, """Source: aou-roadmap-refresh/committee_2026_alignment.md (public-safe items only; internal specifics kept out). These directions came from the 2026 Science Committee meeting series (Jan Priorities Roadmap; Feb Women's Health Driver Project; Apr Generalizability; May Multi-omics; the Roadmap Refresh WG). Verified citations: generalizability = Am J Epidemiology 2026 (DOI 10.1093/aje/kwag010) + waou on CRAN; women's health = J Women's Health 2026 (DOI 10.1177/15409996261434111). The multi-omics 10k preprint could not be verified, so it is described as program activity, uncited.""")
+
+# ---------------------------------------------------------------------------
+# SLIDE 23 — Next steps / asks
 # ---------------------------------------------------------------------------
 s = prs.slides.add_slide(BLANK)
 add_header(s, "Priority recommendations, for the Committee's consideration",
@@ -1331,7 +1368,7 @@ add_textbox(s, Inches(0.75), Inches(6.36), Inches(11.85), Inches(0.55),
             size=12.5, bold=True, color=WHITE, font=HEAD_FONT, italic=True,
             align=PP_ALIGN.CENTER)
 
-add_footer(s, 22)
+add_footer(s, 23)
 set_notes(s, """Summary of the priority recommendations (not decisions assigned to any group — the working groups are recognized need areas whose topics overlap and coordinate):
 
 (1) A 9th focus area, Data, AI & Methods — frame-defining; gives the fastest-rising work a home.

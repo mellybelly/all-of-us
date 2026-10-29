@@ -26,7 +26,14 @@ refresh of the *All of Us* scientific roadmap"
 1.4 Contribution: an evidence-driven refresh from the program's own output + the external field.
 
 ## §2. The *All of Us* research landscape
-2.1 Data and methods in brief (corpus acquisition; 19-theme taxonomy; OMOP standardization; dual-layer tagging).
+
+### §2.1 Data and methods
+A reproducible, five-step Python pipeline (public repository); every figure traces to a script and a data file.
+1. **Corpus acquisition.** AoU publications pulled live from the program's publications feed (reconciled to PubMed/iCite) — **1,657 records (1,653 substantive)**; workspace projects pulled **live from the production project-directory API** (32,922 workspaces; **20,165 substantive** after dropping educational/training/stub/duplicate records; live pull 2026-10-14, re-verified 2026-10-21). Full text back-filled from Europe PMC JATS where a PMC id exists.
+2. **Theme tagging.** A locked **19-theme taxonomy** applied by keyword rules over **title + abstract** (canonical, year-comparable) and a **full-text-augmented** layer; AoU data are OMOP-standardized. Mean 2.1 themes/pub (abstract) vs 3.4 (full text).
+3. **IC attribution.** NIH grant IDs parsed from publication grant strings and resolved to administering + co-funding ICs via **NIH RePORTER**; mapped against **166 priority statements** extracted from **29 NIH strategic plans** → a corpus × IC alignment matrix.
+4. **Peer benchmarking.** Four peer biobanks (UK Biobank, FinnGen, MVP, China Kadoorie) pulled by **full-census PubMed name-search** and tagged with the **same tagger** → a static theme-share index (AoU vs peer median).
+5. **Horizon scan + platform benchmark + scoring.** Open-discovery **term-acceleration** over **322,138 preprints + 460,285 NIH grants** (2021–26) with LLM topic induction and an AoU data-feasibility overlay; the Researcher Workbench benchmarked against five comparator platforms with **87/87 fetch-verified citations**; candidate recommendations scored on an 8-criterion rubric. **Caveats:** keyword tagging is directional; peer corpora are unaudited (use the static share index, not trend differentials); workspace text is self-described intent; grant/IC coverage ~30%.
 2.2 What AoU science is about: theme distribution; the 8 focus areas largely hold.
 2.3 Three structural gaps in the framework: a data-science/AI/methods "orphan," wearables, multi-omics.
 2.4 Funding attribution (NIH IC landscape) and the pan-NIH infrastructure framing.
