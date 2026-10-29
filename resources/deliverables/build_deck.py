@@ -327,7 +327,7 @@ steps = [
     ("1", "Inventory & tag", "AoU corpus pulled live from the program APIs - 1,653 substantive publications (reconciled to PubMed/iCite) + 20,165 substantive workspace projects (live 32,922-workspace production pull, 2026-10-14). Keyword-tagged on title+abstract+PMC full text against a locked 19-theme taxonomy."),
     ("2", "Map to NIH", "Themes mapped onto 29 NIH strategic plans (NIH-Wide + 21 ICs); 166 priority statements extracted; IC attribution via NIH RePORTER grant IDs → corpus × IC alignment matrix."),
     ("3", "Compare to peers", "Full-census PubMed name-search of 4 peer biobanks (UK Biobank, FinnGen, MVP, China Kadoorie), tagged with the SAME tagger - a static theme-share index of AoU's distinctive strengths and gaps."),
-    ("4", "Horizon scan", "Open-discovery term-acceleration over 322k preprints + 460k NIH grants (2021-26) → LLM topic induction, gap-checked vs AoU + peers, with an AoU data-feasibility overlay."),
+    ("4", "Horizon scan", "Open-discovery term-acceleration over 322k preprints + 460k NIH grants (2021-26) surfaces the rising topics; each is then gap-checked against published literature (Europe PMC) and the AoU + peer corpora, with an AoU data-feasibility overlay."),
     ("5", "Benchmark & score", "Researcher Workbench vs 5 comparator platforms (87/87 citations fetch-verified); candidate recommendations scored on the 8-criterion Sci Com rubric (Smoller, Nov 2024) and ranked Top-3 per WG."),
 ]
 
