@@ -135,13 +135,30 @@ def add_header(slide, title, subtitle=None):
     add_rect(slide, Inches(0.5), Inches(1.10), Inches(12.3), Pt(0.75),
              fill=RULE, line=None)
 
-def add_footer(slide, slide_num, total=25):
-    add_textbox(slide, Inches(0.5), Inches(7.10), Inches(8), Inches(0.3),
-                "All of Us Scientific Roadmap Refresh  •  WG-1 Draft  •  Smoller & Haendel  •  2026-10-14",
-                size=8.5, color=GRAY, italic=True, font=BODY_FONT)
+def add_footer(slide, slide_num, total=24):
+    # Slide number only (no attribution line).
     add_textbox(slide, Inches(11.5), Inches(7.10), Inches(1.3), Inches(0.3),
                 f"{slide_num} / {total}", size=8.5, color=GRAY,
                 align=PP_ALIGN.RIGHT, font=BODY_FONT, italic=True)
+
+
+def add_refs_line(slide, pairs):
+    """Small clickable 'Sources:' line at the very bottom-left (left of the slide number)."""
+    tb = slide.shapes.add_textbox(Inches(0.5), Inches(7.13), Inches(10.7), Inches(0.33))
+    tf = tb.text_frame; tf.word_wrap = True
+    tf.margin_top = 0; tf.margin_bottom = 0; tf.margin_left = 0
+    p = tf.paragraphs[0]
+    lbl = p.add_run(); lbl.text = "Sources:  "
+    lbl.font.size = Pt(7.5); lbl.font.italic = True; lbl.font.name = BODY_FONT
+    lbl.font.color.rgb = GRAY
+    for i, (text, url) in enumerate(pairs):
+        if i:
+            sep = p.add_run(); sep.text = "    "
+            sep.font.size = Pt(7.5); sep.font.name = BODY_FONT; sep.font.color.rgb = GRAY
+        r = p.add_run(); r.text = text
+        r.font.size = Pt(7.5); r.font.name = BODY_FONT
+        r.font.color.rgb = RGBColor(0x15, 0x5C, 0xB4); r.font.underline = True
+        r.hyperlink.address = url
 
 def set_notes(slide, text):
     notes_tf = slide.notes_slide.notes_text_frame
@@ -336,6 +353,7 @@ for i, (num, verb, rest) in enumerate(steps):
     add_textbox(s, Inches(1.7), y + Inches(0.42), Inches(11.1), Inches(0.7),
                 rest, size=12.5, color=DARK, font=BODY_FONT, line_spacing=1.20)
 
+add_refs_line(s, [('OMOP CDM (Overhage 2012)', 'https://doi.org/10.1136/amiajnl-2011-000376'), ('PheWAS (Denny 2010)', 'https://doi.org/10.1093/bioinformatics/btq126'), ('EHR phenotyping (Smoller 2018)', 'https://doi.org/10.1002/ajmg.b.32548')])
 add_footer(s, 3)
 set_notes(s, """Phase numbering inside the evidence base: - Phase 1: corpus acquisition + theme tagging - Phase 2: validation + audit - Phase 3a: 19→8 crosswalk - Phase 3b: temporal trends pre/post-2023 - Phase 3c: IC alignment + gap analysis - Phase 4: top-3 per WG with rubric scoring
 
@@ -380,6 +398,7 @@ for i, (big, label, color) in enumerate(stats):
                 Inches(0.7), label, size=11, color=DARK, font=BODY_FONT,
                 align=PP_ALIGN.CENTER, line_spacing=1.15)
 
+add_refs_line(s, [('All of Us (NEJM 2019)', 'https://doi.org/10.1056/NEJMsr1809937'), ('Genomic Data (Nature 2024)', 'https://doi.org/10.1038/s41586-023-06957-x'), ('Data quality / Workbench (Ramirez 2022)', 'https://doi.org/10.1016/j.patter.2022.100570')])
 add_footer(s, 4)
 set_notes(s, """Corpus tally is Phase 2c audited substantive corpus. Earlier intake counts included program-meta and methods-not-yet-applied workspaces; we excluded those.
 
@@ -791,6 +810,7 @@ add_textbox(s, Inches(0.75), Inches(6.55), Inches(11.85), Inches(0.5),
             "\"Every other cohort scaled up genomics; AoU scaled up everything around genomics that genomics actually needs to work in practice.\"",
             size=11.5, color=NAVY, italic=True, bold=True, font=BODY_FONT, line_spacing=1.2)
 
+add_refs_line(s, [('UK Biobank (Sudlow 2015)', 'https://doi.org/10.1371/journal.pmed.1001779'), ('FinnGen (Kurki 2023)', 'https://doi.org/10.1038/s41586-022-05473-8'), ('MVP (Gaziano 2016)', 'https://doi.org/10.1016/j.jclinepi.2015.09.016'), ('PRS & equity (Martin 2019)', 'https://doi.org/10.1038/s41588-019-0379-x'), ('SDOH (Tesfaye 2024)', 'https://doi.org/10.1038/s41598-024-57410-6')])
 add_footer(s, 12)
 set_notes(s, """Source: peer-biobanks/aou_vs_peers_index.csv + emerging_themes.md.
 
@@ -855,6 +875,7 @@ add_textbox(s, Inches(0.55), Inches(6.62), Inches(12.25), Inches(0.4),
             "The top two gaps ARE the proposed 9th focus area (Data, AI & Methods) and the Workbench AI co-scientist - external evidence those recommendations point at the field's leading edge.",
             size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
 
+add_refs_line(s, [('Generalist medical AI (Moor 2023)', 'https://doi.org/10.1038/s41586-023-05881-4'), ('Med-PaLM (Singhal 2023)', 'https://doi.org/10.1038/s41586-023-06291-2'), ('Nucleotide Transformer (2025)', 'https://doi.org/10.1038/s41592-024-02523-z'), ('Evo (Nguyen 2024)', 'https://doi.org/10.1126/science.ado9336'), ('MASLD (Rinella 2023)', 'https://doi.org/10.1097/HEP.0000000000000520')])
 add_footer(s, 13)
 set_notes(s, """Source: emerging-trends/emerging_trends_report.md (full method + tiers).
 
@@ -908,6 +929,7 @@ add_textbox(s, Inches(0.55), Inches(6.45), Inches(12.25), Inches(0.45),
             "Recommendation: give each ongoing ancillary study an explicit home in the relevant focus area, scored on goal + workspace signal and flagged “data emerging”; add a standing AoU-linked preprint stream so the next wave surfaces earlier.",
             size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
 
+add_refs_line(s, [('NIH Partnered Research Studies', 'https://www.nih.gov/allofus/funding/partnered-research-studies'), ("Women's Health Driver Project (Cohn 2026)", 'https://doi.org/10.1177/15409996261434111')])
 add_footer(s, 14)
 set_notes(s, """Source: aou-roadmap-refresh/ancillary_studies.md. Goals verified against the official NIH page (nih.gov/allofus/funding/partnered-research-studies, reviewed 2026-07-16); EtM goal quoted verbatim ("add objective behavioral health data"). Workspace counts from the 2026-10-14 production pull (32,922 workspaces) vs the old 2025-10-24 snapshot (21,242); "new" = present now but absent then. Publication/preprint absence verified live via Europe PMC incl. SRC:PPR preprints - the 3 nominal "All of Us"+"Exploring the Mind" hits are coincidental phrase matches, not EtM-data papers.
 
@@ -1151,6 +1173,7 @@ add_textbox(s, Inches(0.55), Inches(6.62), Inches(12.25), Inches(0.45),
             "AoU leads on data assets (linked WGS+EHR+surveys+wearables) and GPU/AI compute (H100/H200/B200+NeMo) - the deficiencies are in turning that into shared, AI-enabled, reusable science. Operationalizes the proposed 9th focus area + Workbench AI co-scientist.",
             size=10.5, color=NAVY, italic=True, font=BODY_FONT, line_spacing=1.15)
 
+add_refs_line(s, [('N3C (Haendel 2021)', 'https://doi.org/10.1093/jamia/ocaa196'), ('AnVIL (Schatz 2022)', 'https://doi.org/10.1016/j.xgen.2021.100085'), ("Dockstore (O'Connor 2017)", 'https://doi.org/10.12688/f1000research.10137.1'), ('FAIR (Wilkinson 2016)', 'https://doi.org/10.1038/sdata.2016.18'), ('GA4GH (Rehm 2021)', 'https://doi.org/10.1016/j.xgen.2021.100029')])
 add_footer(s, 19)
 set_notes(s, """Source: rw-analysis/ (part1_capability_gaps.md, part2_trending_methods.md, part3_recommended_tools.md, baa_llm_egress_evidence.md).
 
@@ -1337,6 +1360,7 @@ add_textbox(s, Inches(0.55), Inches(6.35), Inches(12.25), Inches(0.55),
             "These are committee-originated; the analysis corroborates them and shows where each attaches to the roadmap. Full detail in the committee-alignment write-up.",
             size=11, color=AMBER, bold=True, italic=True, font=BODY_FONT, line_spacing=1.15)
 
+add_refs_line(s, [('Generalizability (Montgomery 2026)', 'https://doi.org/10.1093/aje/kwag010'), ('waou (CRAN)', 'https://CRAN.R-project.org/package=waou'), ("Women's Health (Cohn 2026)", 'https://doi.org/10.1177/15409996261434111')])
 add_footer(s, 23)
 set_notes(s, """Source: aou-roadmap-refresh/committee_2026_alignment.md (public-safe items only; internal specifics kept out). These directions came from the 2026 Science Committee meeting series (Jan Priorities Roadmap; Feb Women's Health Driver Project; Apr Generalizability; May Multi-omics; the Roadmap Refresh WG). Verified citations: generalizability = Am J Epidemiology 2026 (DOI 10.1093/aje/kwag010) + waou on CRAN; women's health = J Women's Health 2026 (DOI 10.1177/15409996261434111). The multi-omics 10k preprint could not be verified, so it is described as program activity, uncited.""")
 
@@ -1395,6 +1419,7 @@ add_textbox(s, Inches(0.75), Inches(6.36), Inches(11.85), Inches(0.55),
             size=12.5, bold=True, color=WHITE, font=HEAD_FONT, italic=True,
             align=PP_ALIGN.CENTER)
 
+add_refs_line(s, [('Algorithmic bias (Obermeyer 2019)', 'https://doi.org/10.1126/science.aax2342'), ('Responsible ML (Wiens 2019)', 'https://doi.org/10.1038/s41591-019-0548-6'), ('Fairness (Rajkomar 2018)', 'https://doi.org/10.7326/M18-1990')])
 add_footer(s, 24)
 set_notes(s, """Summary of the priority recommendations (not decisions assigned to any group - the working groups are recognized need areas whose topics overlap and coordinate):
 
@@ -1405,42 +1430,6 @@ set_notes(s, """Summary of the priority recommendations (not decisions assigned 
 (5) Researcher Workbench build priorities - governed in-VPC AI assistant, reusable-tools registry, multimodal templates.
 
 If one recommendation rises above the rest: the 9th focus area - it is the structural prerequisite for everything else.""")
-
-# ---------------------------------------------------------------------------
-# SLIDE 25 — Selected references
-# ---------------------------------------------------------------------------
-s = prs.slides.add_slide(BLANK)
-add_header(s, "Selected references",
-           "Most-cited anchors behind these findings; full verified list (with DOIs) in the manuscript outline document.")
-
-refs_left = (
-    "1.  All of Us Research Program. NEJM 2019.\n      doi.org/10.1056/NEJMsr1809937\n"
-    "2.  AoU Genomic Data. Nature 2024.\n      doi.org/10.1038/s41586-023-06957-x\n"
-    "3.  Ramirez et al. Data Quality/Workbench. Patterns 2022.\n      doi.org/10.1016/j.patter.2022.100570\n"
-    "4.  Sudlow et al. UK Biobank. PLoS Med 2015.\n      doi.org/10.1371/journal.pmed.1001779\n"
-    "5.  Kurki et al. FinnGen. Nature 2023.\n      doi.org/10.1038/s41586-022-05473-8\n"
-    "6.  Martin et al. PRS & equity. Nat Genet 2019.\n      doi.org/10.1038/s41588-019-0379-x\n"
-    "7.  Moor et al. Generalist medical AI. Nature 2023.\n      doi.org/10.1038/s41586-023-05881-4\n"
-    "8.  Dalla-Torre et al. Nucleotide Transformer. Nat Methods 2025.\n      doi.org/10.1038/s41592-024-02523-z"
-)
-refs_right = (
-    "9.   Rinella et al. MASLD nomenclature. Hepatology 2023.\n       doi.org/10.1097/HEP.0000000000000520\n"
-    "10. Haendel et al. N3C. JAMIA 2021.\n       doi.org/10.1093/jamia/ocaa196\n"
-    "11. Schatz et al. AnVIL. Cell Genomics 2022.\n       doi.org/10.1016/j.xgen.2021.100085\n"
-    "12. Wilkinson et al. FAIR principles. Sci Data 2016.\n       doi.org/10.1038/sdata.2016.18\n"
-    "13. Obermeyer et al. Algorithmic bias. Science 2019.\n       doi.org/10.1126/science.aax2342\n"
-    "14. Montgomery et al. Generalizability (AoU). Am J Epidemiol 2026.\n       doi.org/10.1093/aje/kwag010\n"
-    "15. Cohn et al. Women's Health Driver Project. J Women's Health 2026.\n       doi.org/10.1177/15409996261434111"
-)
-add_textbox(s, Inches(0.55), Inches(1.45), Inches(6.25), Inches(5.3),
-            refs_left, size=10.5, color=DARK, font=BODY_FONT, line_spacing=1.12)
-add_textbox(s, Inches(6.95), Inches(1.45), Inches(6.3), Inches(5.3),
-            refs_right, size=10.5, color=DARK, font=BODY_FONT, line_spacing=1.12)
-add_textbox(s, Inches(0.55), Inches(6.52), Inches(12.25), Inches(0.62),
-            "Co-lead anchors (J. Smoller): cross-disorder psychiatric GWAS (Lancet 2013, doi.org/10.1016/S0140-6736(12)62129-1); EHR phenotyping & genomics (Am J Med Genet B 2018, doi.org/10.1002/ajmg.b.32548); PRS/PheWAS across health systems (Am J Psychiatry 2019).  Additional All of Us: Cronin surveys (Epidemiology 2019); Tesfaye SDOH (Sci Rep 2024); Zheng wearable sleep (Nat Med 2024, doi.org/10.1038/s41591-024-03155-8); Kozlowski year-in-review (AJHG 2024).  Full verified list (85 refs, DOIs) in the manuscript outline document.",
-            size=8.5, color=GRAY, italic=True, font=BODY_FONT, line_spacing=1.12)
-add_footer(s, 25)
-set_notes(s, "Selected anchors across the six sections. The complete verified reference list (72 references, 69 with resolvable DOIs, plus the frontier-methods additions) lives in the manuscript outline document's References section.")
 
 # ---------------------------------------------------------------------------
 # Save
