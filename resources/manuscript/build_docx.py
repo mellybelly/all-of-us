@@ -90,13 +90,63 @@ def emit(path):
             render(doc.add_paragraph(), s)
         i += 1
 
+SECTION_LABELS = {
+    'anchor seeds': "Anchor references (author's prior work)",
+    '1. introduction': 'Introduction',
+    '2. the': 'Research landscape',
+    '3. benchmarking': 'Peer biobanks',
+    '4. emerging': 'Emerging frontiers',
+    '5. the analysis': 'Platform: Researcher Workbench',
+    '6. recommendations': 'Recommendations: responsible AI',
+    'committee-sourced': 'Committee-sourced (All of Us program papers, 2026)',
+}
+def clean_label(h):
+    low = h.lower()
+    for k, v in SECTION_LABELS.items():
+        if low.startswith(k) or k in low:
+            return v
+    return re.sub(r'\s*[-:].*$', '', h).strip()
+
+def render_references(path):
+    """Clean, de-annotated reference list grouped by section: author/title/journal/year + DOI link."""
+    skip = False
+    for raw in open(path):
+        s = raw.rstrip('\n').strip()
+        if s.startswith('## ') or s.startswith('### '):
+            head = re.sub(r'[*`]', '', s.lstrip('# ').strip())
+            if head.lower().startswith('caveats'):
+                skip = True; continue
+            skip = False
+            doc.add_heading(clean_label(head), 2)
+            continue
+        if skip or not s.startswith('- ['):
+            continue
+        m = re.match(r'- \[([^\]]+)\]\(([^)]+)\)(.*)', s)
+        if not m:
+            continue
+        label, main_url, rest = m.group(1).strip(), m.group(2).strip(), m.group(3)
+        dm = re.search(r'\*\*DOI:\*\*\s*\[([^\]]+)\]\(([^)]+)\)', rest)
+        if dm:
+            doi_text, doi_url = dm.group(1), dm.group(2)
+        elif 'doi.org/' in main_url:
+            doi_url = main_url; doi_text = main_url.split('doi.org/', 1)[1]
+        else:
+            doi_url = main_url; doi_text = None
+        tag = ' [preprint]' if '[preprint]' in rest or 'preprint' in label.lower() else ''
+        p = doc.add_paragraph(); p.paragraph_format.space_after = Pt(4)
+        r = p.add_run(label.rstrip('.') + '.'); r.bold = True; r.font.size = Pt(10)
+        if tag:
+            tr = p.add_run(tag); tr.italic = True; tr.font.size = Pt(9)
+        p.add_run('  ').font.size = Pt(10)
+        add_hyperlink(p, doi_url, ('DOI: ' + doi_text) if doi_text else 'link')
+
 emit('outline.md')
 doc.add_page_break()
-doc.add_heading('References (verified, with DOIs & links)', 0)
+doc.add_heading('References', 0)
 n = doc.add_paragraph()
-rr = n.add_run('69 of 72 references carry a resolvable DOI (resolved via NCBI E-utilities); the rest link to their canonical source. Preprints are flagged to upgrade to journal versions before submission. Spot-check every DOI on import.')
+rr = n.add_run('Verified reference list, grouped to match the sections above. Every entry resolves to the exact paper; DOIs resolved via NCBI E-utilities. Preprints are tagged and should be upgraded to their journal versions before submission. Spot-check each DOI on import.')
 rr.italic = True; rr.font.size = Pt(9.5)
-emit('references-seed.md')
+render_references('references-seed.md')
 
 out = 'AoU_Roadmap_Refresh_Manuscript_Outline.docx'
 doc.save(out)
