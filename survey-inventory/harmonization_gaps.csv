@@ -1,9 +1,0 @@
-construct,echo_forms,note
-Sleep health,SHAdult; PSD4a; PSRI4a; MSHPrg,No AoU sleep survey items (Fitbit sleep is not survey data).
-Self-reported weight/height,Wt-CG; HtWt-P,"AoU uses physical measurements and EHR, not survey items."
-Diet,DHQ3; DSQ-SR; MFSP,No AoU diet survey.
-Couple relationship quality,CSI4,No AoU counterpart.
-Household chemical and secondhand smoke exposure,HCExp; HESHS,No AoU survey counterpart.
-Benevolent childhood experiences,BCE,AoU asks ACEs only.
-Suicidal thoughts and behaviors,(none on ECP),AoU EHWB has SITBI items; no ECHO adult counterpart.
-"Psychosis, mania, eating disorders",(none on ECP),AoU BHP/EHWB UK Biobank items; no ECHO counterpart.
