@@ -10,7 +10,7 @@ already a first-class band; "Digital Health Technologies" is already named in Co
 
 | # | Slide | Why it changes | What it should become |
 | --- | --- | --- | --- |
-| 2 | Charge vs "Roadmap 2.0's six questions" | Official deck frames three layers (Scientific Framework -> Roadmap -> Data Roadmap) and exemplar questions per area, not "six questions." Verify that phrase's provenance. | Restate the charge in the official three-layer language; keep the questions only if they trace to a real source. |
+| 2 | Charge vs "Roadmap 2.0's six questions" | RESOLVED 2026-11-01: the six questions are the WG-1 (Roadmap 2.0) charge questions (Q1-Q6), and the slide enumerates them correctly, with Q6 = "are the 8 focus areas still right?" (what the refresh answers). | No change needed. |
 | 5 | 19-theme taxonomy | Taxonomy is being extended (user). Also should map themes to the official layers (Exposures/Causality/Modifiers/Methods), not just list them. | Re-render after taxonomy edits; add a column mapping each theme to its roadmap layer. |
 | 7 | "8 focus areas mostly hold, three structural gaps" | Overstates: methods and wearables already have homes in the official framework (Methods band; Digital Health in Core Data). | Reframe from "orphan/missing" to "elevate/strengthen": promote Methods to a named area, make rare-disease and aging explicit, widen the data axis. |
 | 8 | "current (2020) and proposed refresh" | "2020" label likely wrong; "current" should be the official causal-flow schema, not a flat 8-area table. | Use the new refresh schema slide (built) as the proposed state; show official schema as the current state. |
