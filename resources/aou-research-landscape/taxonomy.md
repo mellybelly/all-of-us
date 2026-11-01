@@ -82,6 +82,7 @@ shares.
 | 17 | ELSI, participant engagement & recruitment | ~3% | Includes AoU-program-introduction pubs |
 | 18 | Ophthalmology, ENT & sensory medicine | ~3% | Eye/hearing/voice; high disparities focus |
 | 19 | Environmental health & climate | ~2% | Smallest disease theme; emerging |
+| 20 | Healthcare delivery & health services research | ~5% / ~4% | NEW (2026-10-29). System/process of care, not who is affected (theme 6). 85 pubs / 792 workspaces |
 
 Coverage of the corpus by at least one theme: estimated >95% (residual ~5%
 includes very-short projects, generic "exploratory" workspaces, and pure
@@ -608,6 +609,59 @@ justice index, EJI.
 **Example records.**
 - workspace:25846 — "Predictors of heat-related illness"
 - (under-represented in the discovery sample; expect 200–300 records on tagging)
+
+---
+
+## 20. Healthcare delivery & health services research (~5% of publications, ~4% of workspaces)
+
+**Added 2026-10-29** (user-requested gap), tagged 2026-11-01: **85 publications
+(5.1%), 792 workspaces (3.9%)**. Precision validated on the full publication set:
+all hits are genuine health-services work, heavily co-tagged with theme 6 (access
+and utilization disparities), plus clean standalone delivery hits (readmission,
+learning health systems, primary-care research, remote monitoring).
+
+**Definition.** Studies of how care is *organized, delivered, accessed, financed,
+and improved* rather than the biology or epidemiology of disease. Includes care
+access and utilization, quality and safety, cost and value, implementation science,
+learning-health-system design, care coordination and care models, guideline
+adherence and care gaps, delivery of screening/preventive care, and telehealth /
+virtual-care delivery.
+
+**Distinction from adjacent themes.**
+- vs **theme 6 (SDOH & disparities):** theme 6 is about *who* is affected and the
+  social drivers of inequity; theme 20 is about the *system and process* of care.
+  A disparities-in-access study that centers the delivery mechanism can carry both.
+- vs **theme 3 (methods, infrastructure & phenotyping):** theme 3 is the AoU *data
+  platform and analytic tooling*; theme 20 is the *real-world care system* being
+  studied.
+- vs **theme 17 (ELSI & engagement):** theme 17 is participant-facing
+  ethics/consent/recruitment, not clinical-care delivery.
+
+**Indicative keywords.** health services research, care delivery, healthcare
+utilization, healthcare cost, cost of care, value-based care, quality of care,
+patient safety, care coordination, care model, learning health system,
+implementation science, dissemination and implementation, telehealth, telemedicine,
+virtual care, access to care, care gap, guideline adherence, preventive care
+delivery, screening uptake, readmission, length of stay, care management,
+primary care, emergency department utilization.
+
+**Subthemes (~5).**
+- 20.1 Access & utilization of care
+- 20.2 Quality, safety & outcomes of care delivery
+- 20.3 Cost, value & financing
+- 20.4 Implementation science & learning health systems
+- 20.5 Telehealth / virtual-care delivery
+
+**Roadmap-layer mapping.** Primarily the **Translation** band (health systems,
+payers, policy) and **Individual/Population Health** outcomes; cross-cuts most
+disease themes.
+
+**Example records.**
+- PMID:39444500 — "US public health surveillance, reimagined" (health services research, learning health system)
+- PMID:38178151 — "Racial differences in length of stay and readmission for asthma in the All of Us..."
+- PMID:38917426 — "All of whom? Limitations encountered using All of Us Researcher Workbench in a Primary..."
+- PMID:38787299 — "Prediction of Readmission Following Sepsis Using Social Determinants of..."
+- PMID:39547804 — "Leveraging the All of Us Database for Primary Care Research with Large..."
 
 ---
 

@@ -69,6 +69,7 @@ The 8 focus areas (Roadmap deck):
 | 17 | ELSI, participant engagement & recruitment | FA4, FA7 | Return of Results (ROR ethics is the dominant ELSI sub-area) and Health Equity (recruitment of underrepresented groups). |
 | 18 | Ophthalmology, ENT & sensory medicine | FA1, FA7 | Common & Rare Conditions; strong disparities-in-sensory-care framing. |
 | 19 | Environmental health & climate | FA6 | Environment — clean fit but tiny (~0.5% of pubs). |
+| 20 | Healthcare delivery & health services research | FA4, FA7 (partial) | NEW theme (~5% of pubs, ~4% of workspaces). No dedicated focus area among the flat 8: partial fit to Return of Results / population-health outcomes (FA4) and Health Equity via access disparities (FA7). In the official SPR framework it lands cleanly in the **Translation** band (health systems, payers, policy) plus **Individual/Population Health** — a reason the refresh should name care delivery / translation explicitly rather than leave it split across equity and ROR. |
 
 Machine-readable version: `theme_to_focus_area.csv`.
 

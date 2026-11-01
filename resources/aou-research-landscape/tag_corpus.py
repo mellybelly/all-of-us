@@ -587,6 +587,30 @@ THEMES = [
             "environmental justice index", "heat-related illness",
         },
     },
+    {
+        "code": "20",
+        "name": "Healthcare delivery & health services research",
+        "general": {
+            "care delivery", "healthcare delivery", "health care delivery",
+            "healthcare utilization", "health care utilization",
+            "healthcare cost", "cost of care", "value-based care",
+            "quality of care", "patient safety", "care coordination",
+            "care model", "care pathway", "telehealth", "telemedicine",
+            "virtual care", "care gap", "guideline adherence",
+            "preventive care", "screening uptake", "length of stay",
+            "care management", "emergency department utilization",
+            "primary care", "health system", "access to care",
+            "healthcare access", "health care access", "care transitions",
+            "quality improvement", "patient-centered care",
+        },
+        "specific": {
+            "health services research", "learning health system",
+            "implementation science", "dissemination and implementation",
+            "value-based care", "care coordination", "hospital readmission",
+            "guideline adherence", "healthcare utilization",
+            "health care utilization", "care delivery",
+        },
+    },
 ]
 
 # ---- subthemes that need explicit tracking -------------------------------

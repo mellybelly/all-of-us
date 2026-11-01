@@ -6,7 +6,7 @@
 
 ## Key takeaways
 
-1. The eight focus areas still hold, but three fast-growing bodies of work have no home in the framework (data science and AI methods ~18% of output, wearables, multi-omics). Propose a ninth focus area, "Data, AI & Methods."
+1. The eight focus areas still hold. Four fast-growing bodies of work are not visible at the focus-area level (data science and AI methods ~18% of output, wearables, multi-omics, and healthcare-delivery/health-services research ~5%). The program's own roadmap is a causal-flow framework, not a flat list, and it already anchors most of these in its Methods Toolbox and Translation bands. Propose elevating "Data, AI & Methods" to a named ninth focus area and naming health-services delivery in the Translation band, so the fastest-growing work becomes visible rather than treated as missing.
 2. All of Us has a distinctive identity worth protecting: it leads peers on health equity and social determinants (about 5.4x the peer median), ethics and engagement (about 24x), pharmacogenomics (about 4.3x), and methods (about 2.8x), all driven by its diversity.
 3. All of Us trails peers in five areas the committee flagged: imaging, multi-omics, aging research, rare disease (most under-indexed, about 0.25x the peer median), and environmental and social data (some addressable now, some by-design).
 4. The field's leading edge is AI and foundation models; All of Us is almost absent (under ~0.3% of its work on most AI topics) yet uniquely positioned to lead. Highest-leverage opportunity.
@@ -37,7 +37,7 @@
 | Step | What we did | What it answers |
 | --- | --- | --- |
 | 1. Inventory the corpus | Pulled publications (feed reconciled to PubMed/iCite) and workspaces (live production project-directory API). | What has All of Us produced? |
-| 2. Tag by theme | Locked 19-theme taxonomy over title + abstract, plus a full-text layer where open access exists. | What is the science about? |
+| 2. Tag by theme | Locked 20-theme taxonomy over title + abstract, plus a full-text layer where open access exists. | What is the science about? |
 | 3. Map to NIH and attribute funding | Matched to 29 strategic plans (166 priorities); resolved grant IDs to Institutes via RePORTER. | Which NIH priorities and ICs does it serve? |
 | 4. Compare to peer biobanks | Full-census name-search of UKB/FinnGen/MVP/CKB, same tagger, static theme-share index. | How does All of Us differ? |
 | 5. Scan the frontier + benchmark the platform | Term-acceleration over 322,138 preprints + 460,285 grants; Workbench vs 5 platforms (87/87 verified); rubric scoring. | What is rising that AoU has not claimed, and what to build? |
@@ -51,8 +51,8 @@
 ## 3. The All of Us research landscape
 
 **Covers.**
-- The theme distribution maps cleanly onto the eight focus areas, which largely still fit (the framework is not broken).
-- Three bodies of work have outgrown the framework: data science and AI methods (~18% of publications) with no focus area of their own; wearable and remote-monitoring research; and multi-omics, currently buried inside "Genetics & Biology" as proteomics and metabolomics arrive at scale.
+- The theme distribution maps onto the official roadmap, which is a causal-flow framework (Workbench and Data, then Exposures and Drivers, then Causality and Outcomes, then Individual and Population Health, crossed by Modifiers and Translation bands), not a flat list of areas. At the top level it largely still fits (the framework is not broken).
+- Four bodies of work have outgrown their visibility in the framework: data science and AI methods (~18% of publications), which the framework holds only inside an enabling "Methods Toolbox and Phenotype Expansion" band rather than a named focus area; wearable and remote-monitoring research (named in Core Data but not elevated); multi-omics, currently buried inside "Genetics & Biology" as proteomics and metabolomics arrive at scale; and healthcare-delivery/health-services research (~5% of the corpus: access, utilization, readmission, learning health systems), which lands in the Translation band but has no named home among the flat eight.
 - Funding is overwhelmingly Office-of-the-Director (by design), with strong secondary alignment to the genomics, heart/lung, and cancer Institutes, supporting a pan-NIH infrastructure framing.
 - Ancillary (partnered) studies are the leading edge: Exploring the Mind (objective cognition/behavior, NIMH), Eyes on Health (retinal imaging/oculomics, NEI/NIBIB), Nutrition for Precision Health (diet response, Common Fund), Environmental Health and Exposomics (NIEHS). Exploring the Mind has zero publications or preprints anywhere yet appears in 32 workspaces (27 visible only in the live pull); cognition/mental-health work is ~13% of all workspaces. Live multi-omics on ~10,000 participants and a new external-biospecimen mechanism are also visible only in the live signal.
 
@@ -96,9 +96,11 @@
 
 ## 7. Recommendations for the refreshed roadmap
 
-### 7a. The focus-area framework: current (2020) and proposed refresh
+### 7a. The focus-area framework: current and proposed refresh
 
-| # | Current focus area (2020 roadmap) | Proposed in the refresh | Why it needs to change |
+The current framework is the program's causal-flow schema (Workbench and Data, Exposures and Drivers, Causality and Outcomes, Individual and Population Health, with Modifiers and Translation bands), within which the eight areas below sit. The refresh keeps that structure and changes four things: it elevates one enabling band to a named focus area, names health-services delivery in the Translation band, gives multi-omics a named home, and widens the Core Data axis. Nothing is removed.
+
+| # | Current focus area | Proposed in the refresh | Why it needs to change |
 | --- | --- | --- | --- |
 | 1 | Prevalent Common & Rare Conditions | Keep | The core disease anchor and the largest share of output; still fits. |
 | 2 | Maternal & Child Health | Maternal Health | Child-health output is thin in the corpus; sharpen the scope to where the program actually delivers. |
@@ -108,12 +110,13 @@
 | 6 | Environment | Environment, with an explicit environmental-exposure-linkage commitment | The single largest demand-supply gap (NIEHS priorities vs about 7 AoU publications); the November 2, 2026 release makes it actionable now. |
 | 7 | Health Equity | Keep (and protect) | AoU's distinctive, defining strength; the refresh must safeguard it. |
 | 8 | Genetics & Biology | Genetics, Multi-omics & Biology | Multi-omics is currently invisible inside this area; the 2026 proteomic and metabolomic releases need a named home. |
-| 9 | (none) | **Data, AI & Methods (NEW)** | About 18% of publications and the entire AI and foundation-model surge have no home in the framework; this is the single most important structural change. |
+| 9 | (held in the Methods Toolbox band) | **Data, AI & Methods (elevate to a named focus area)** | About 18% of publications and the entire AI and foundation-model surge sit in an enabling band rather than a named focus area; elevating it is the single most important structural change. |
+| 10 | (held in the Translation band) | **Health-services delivery (name explicitly)** | Healthcare-delivery/health-services research is ~5% of the corpus (access, utilization, readmission, learning health systems) and has no named home among the eight; it splits across equity and return-of-results today. |
 
 ### 7b. The recommendations
 
 **Covers.**
-- **Structural:** add a ninth focus area, "Data, AI & Methods"; rename the genetics area to "Genetics, Multi-omics & Biology" and pair it with a concrete proteomics-release roadmap; reframe Maternal & Child Health, Return of Results, and Environment as in the table above.
+- **Structural:** elevate "Data, AI & Methods" from the enabling Methods Toolbox band to a named focus area; name health-services delivery in the Translation band; rename the genetics area to "Genetics, Multi-omics & Biology" and pair it with a concrete proteomics-release roadmap; reframe Maternal & Child Health, Return of Results, and Environment as in the table above. The emphasis is elevate and name, not add: the causal-flow framework already anchors these, so the refresh makes the fastest-growing work visible rather than inventing categories.
 - **Platform builds:** a governed in-VPC AI co-scientist, a reusable-tools registry, and multimodal-data templates; most ambitiously, an internal All of Us foundation model hosted securely with no data egress, guided by the proposed "super user group" (this single build unifies the highest-leverage opportunity with the clearest platform gap).
 - **Adopt the committee's 2026 directions as standing mechanisms:** the driver-paper model (make rare-disease and intersectional driver papers near-term deliverables), and generalizability weighting as a first-class capability (promote the released survey-weighting toolkit) connected to the external-biospecimen mechanism.
 - **Protect and govern:** safeguard the distinctive strengths (diversity, SDOH, ELSI) and govern AI responsibly, since an equity-first cohort cannot deploy models that widen disparities.
@@ -127,6 +130,7 @@
 **Covers.**
 - **The history that sets the thesis:** All of Us inverted the biobank model. Where others began with genomes and treated clinical data as terse biospecimen annotations, All of Us built a diverse, consented national cohort first and then surrounded its genomes with longitudinal EHR, surveys, physical measures, and wearable streams, the data genomics needs to become medicine.
 - **The field's direction:** multi-modal analytics at scale, where value comes from triangulation across modalities that no single data type or context can provide, a vision that ultimately rests on shared semantic and syntactic standards (ontologies, common data models, FHIR) for comparable data within and between systems.
+- **The five-year horizon (projection to 2031), and where All of Us will stand:** from the horizon scan (preprints and grants lead published work by one to two years), the leading edge by 2031 is AI on multimodal health data, foundation models on genomes and clinical text, agentic and clinical-decision systems, aging and longevity epidemiology, and wearable AI. All of Us is under-aligned on the AI frontiers today (near-zero output) yet holds the ideal substrate (diverse WGS linked to EHR), partially aligned on aging, wearables, and rare disease (data arriving), and well-aligned, uniquely so, on participant-partner return of results and equity science. Molecular and imaging depth stays largely outside the data model and is a watch item. The single highest-leverage move is to convert the data advantage into output by elevating Data, AI and Methods and crediting the environmental, multi-omics, and rare-disease trajectories already underway.
 - **The future shape for All of Us:** the trusted, diverse substrate on which ancestry-fair AI and foundation models are built; a governed, no-egress, in-environment model that lets the whole community reason over participant data without it leaving the enclave; a platform that becomes a reusable, AI-enabled ecosystem rather than a data-access environment; a live-signal roadmap that stays ahead of the publication lag; generalizability weighting so findings speak for the whole country; and closing the research-to-care gap so algorithms discovered on All of Us data can be re-derived and used at the bedside.
 - **The obligations:** model regional variation in care and policy even in a representative cohort; meet rising re-identification risk with stronger privacy, clearer consent, and partnership with the source health systems; and return genuine value to the participants who give their data repeatedly.
 - **The close:** All of Us as the national model for responsible, equity-anchored, AI-ready discovery, the foundation on which precision medicine is realized at scale. The data and the diversity are here; what remains is to close the gap and complete the lifecycle.
