@@ -1,4 +1,4 @@
-# Crosswalk: 19-theme taxonomy → 8 AoU Scientific Roadmap focus areas
+# Crosswalk: 22-theme taxonomy → 8 AoU Scientific Roadmap focus areas
 
 > **Refreshed 2026-10-14** to corpus **1,657** publications and full-census peers (UKB 12,986 · FinnGen 3,376 · MVP 501 · CKB 588). The regenerated CSVs in this directory and the deliverables (`../deliverables/`) are the authoritative current figures; some per-figure values in the prose below may reflect the prior (2026-07) run.
 
@@ -6,7 +6,7 @@
 
 **Phase 3a deliverable, AoU Scientific Roadmap Refresh evidence base.**
 Inputs: 1,653 substantive publications and 20,165 substantive project workspaces
-tagged with the locked 19-theme taxonomy (`../aou-research-landscape/taxonomy.md`).
+tagged with the locked 22-theme taxonomy (`../aou-research-landscape/taxonomy.md`).
 Reference for the 8 focus areas: `AOU Scientific Roadmap.pptx` and slide 7 of
 `2026 Science Committee Working Groups.pptx`.
 
@@ -16,7 +16,7 @@ This document answers **Q6: Are the priority health domains still relevant?**
 
 ## 1. Method
 
-Each of the 19 themes in the locked taxonomy was assigned to one or more of the
+Each of the 22 themes in the locked taxonomy was assigned to one or more of the
 8 focus areas (FA1–FA8) by reading the theme definition, subthemes, and
 keyword lists in `taxonomy.md` against the focus-area descriptions in the
 Roadmap deck. Multi-mapping is preferred where a theme substantively touches
@@ -51,7 +51,7 @@ The 8 focus areas (Roadmap deck):
 | # | Theme | Focus areas | Mapping note |
 |---|---|---|---|
 | 1 | Cardiometabolic disease | FA1, FA8 | Primarily Common & Rare Conditions; subtheme 1.3-CKM and polygenic cardiometabolic genetics cross-touch Genetics & Biology. |
-| 2 | Genomics methods & complex-trait genetics | FA8 | Maps directly to Genetics & Biology. **Caveat: "Genetics & Biology" as named is narrower than current science** — see orphan analysis on multi-omics. |
+| 2 | Genomic sequencing & methods | FA8 | Sequencing, variant, ancestry and imputation methods map directly to Genetics & Biology. (Split 2026-11-01 from the old combined genomics theme.) |
 | 3 | Methods, infrastructure & phenotyping (non-genomic) | **ORPHAN** | AI/ML, EHR phenotyping, AoU workbench tooling, OMOP/FHIR harmonization. ~18% of pubs; ~19% of projects. No focus area accommodates methods/infrastructure as a first-class concern. |
 | 4 | Mental health, behavioral & substance use | FA5, FA1 | Primarily Lifestyle/Substance/Behavioral Health; psychiatric disorders also fit Common & Rare Conditions. |
 | 5 | Cancer | FA1, FA8 | Primarily Common & Rare Conditions; hereditary-cancer subthemes cross-touch Genetics & Biology. |
@@ -70,6 +70,8 @@ The 8 focus areas (Roadmap deck):
 | 18 | Ophthalmology, ENT & sensory medicine | FA1, FA7 | Common & Rare Conditions; strong disparities-in-sensory-care framing. |
 | 19 | Environmental health & climate | FA6 | Environment — clean fit but tiny (~0.5% of pubs). |
 | 20 | Healthcare delivery & health services research | FA4, FA7 (partial) | NEW theme (~5% of pubs, ~4% of workspaces). No dedicated focus area among the flat 8: partial fit to Return of Results / population-health outcomes (FA4) and Health Equity via access disparities (FA7). In the official SPR framework it lands cleanly in the **Translation** band (health systems, payers, policy) plus **Individual/Population Health** — a reason the refresh should name care delivery / translation explicitly rather than leave it split across equity and ROR. |
+| 21 | Complex-trait genetics (GWAS & PRS) | FA8, FA1, FA4 | Primarily Genetics & Biology; disease-risk framing also touches Common & Rare Conditions (FA1), and polygenic-risk-for-return touches Return of Results (FA4). ~17% of pubs, ~22% of workspaces. (Split 2026-11-01 from the old combined genomics theme.) |
+| 22 | Multi-omics (proteomics, metabolomics, transcriptomics, epigenomics) | FA8 | Genetics & Biology, but the focus-area name undersells it: this is the direct evidence for renaming FA8 to "Genetics, Multi-omics & Biology." ~1% of pubs today, expected to rise as the 2026 proteomic/metabolomic releases land. |
 
 Machine-readable version: `theme_to_focus_area.csv`.
 
@@ -316,7 +318,7 @@ Health") since "Child" content is structurally absent from an adult cohort.
 
 | File | Purpose |
 |---|---|
-| `theme_to_focus_area.csv` | 19-theme → 8-focus-area assignment with notes and orphan flag |
+| `theme_to_focus_area.csv` | 22-theme → 8-focus-area assignment with notes and orphan flag |
 | `focus_area_summary.csv` | Per-focus-area corpus shares, contributing themes, theme breakdown |
 | `publications_tagged_with_focus.csv` | All 1,653 substantive pubs with `focus_areas` column added |
 | `projects_tagged_with_focus.csv` | All 20,165 substantive projects with `focus_areas` column added |

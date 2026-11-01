@@ -1,6 +1,6 @@
 theme_code,theme_name,level,pub_count,project_count,pub_share,project_share,top3_admin_ics,top3_cofunding_ics,pubs_early,pubs_mid,pubs_late
 1,Cardiometabolic disease,top,480,5377,0.2904,0.2667,OD(71);HL(42);TR(25),OD(91);TR(79);HL(45),152,155,173
-2,Genomics methods & complex-trait genetics,top,426,6711,0.2577,0.3328,OD(59);HG(40);HL(38),OD(76);TR(63);HG(41),122,152,152
+2,Genomic sequencing & methods,top,304,4262,0.1839,0.2114,OD(38);HG(33);HL(26),OD(52);TR(40);HG(35),91,108,105
 3,"Methods, infrastructure & phenotyping (non-genomic)",top,307,4951,0.1857,0.2455,OD(65);HG(18);TR(17),OD(74);TR(58);HG(22),119,93,95
 4,"Mental health, behavioral & substance use",top,321,3002,0.1942,0.1489,OD(37);EY(7);LM(6),OD(45);TR(33);EY(9),99,106,116
 5,Cancer,top,213,2580,0.1289,0.1279,OD(22);CA(18);HG(5),OD(30);CA(19);TR(17),67,79,67
@@ -19,6 +19,8 @@ theme_code,theme_name,level,pub_count,project_count,pub_share,project_share,top3
 18,"Ophthalmology, ENT & sensory medicine",top,121,760,0.0732,0.0377,OD(28);EY(24);MD(8),OD(30);EY(26);TR(25),47,44,30
 19,Environmental health & climate,top,10,130,0.006,0.0064,ES(2);HL(2);OD(1),ES(2);HL(2);OD(2),4,3,3
 20,Healthcare delivery & health services research,top,85,792,0.0514,0.0393,OD(8);EY(4);LM(3),OD(8);TR(7);DE(4),28,24,33
+21,Complex-trait genetics (GWAS & PRS),top,274,4511,0.1658,0.2237,OD(38);HG(29);HL(26),OD(48);TR(43);HL(28),68,103,103
+22,"Multi-omics (proteomics, metabolomics, transcriptomics, epigenomics)",top,23,448,0.0139,0.0222,HL(5);HG(3);TR(3),HL(5);OD(5);TR(4),6,9,8
 1.3-CKM,CKM syndrome (subtheme of Cardiometabolic),subtheme,3,34,0.0018,0.0017,,,,,
 1.4-stroke-cardio,Cardio-embolic stroke (subtheme of Cardiometabolic),subtheme,4,7,0.0024,0.0003,OD(1),OD(1);TR(1),,,
 14.2-stroke-cerebro,Cerebrovascular stroke (subtheme of Neurology),subtheme,18,71,0.0109,0.0035,TR(4);AG(3);NS(3),OD(4);TR(4);AG(3),,,

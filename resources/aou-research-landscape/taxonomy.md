@@ -64,7 +64,7 @@ shares.
 | # | Top-level theme | Share | Notes |
 |---|---|---:|---|
 | 1 | Cardiometabolic disease | ~22% | Largest disease area |
-| 2 | Genomics methods & complex-trait genetics | ~28% | Largest methods area; transverse to most disease themes |
+| 2 | Genomic sequencing & methods | ~18% / ~21% | SPLIT from old theme 2 (2026-11-01): sequencing tech, WGS/long-read, variants, ancestry, imputation |
 | 3 | Methods, infrastructure & phenotyping (non-genomic) | ~20% | EHR phenotyping, ML/AI, data quality, workbench tooling |
 | 4 | Mental health, behavioral & substance use | ~18% | Includes wellbeing, loneliness, stress, sleep-as-behavior |
 | 5 | Cancer | ~15% | All sites + survivorship + screening |
@@ -83,6 +83,8 @@ shares.
 | 18 | Ophthalmology, ENT & sensory medicine | ~3% | Eye/hearing/voice; high disparities focus |
 | 19 | Environmental health & climate | ~2% | Smallest disease theme; emerging |
 | 20 | Healthcare delivery & health services research | ~5% / ~4% | NEW (2026-10-29). System/process of care, not who is affected (theme 6). 85 pubs / 792 workspaces |
+| 21 | Complex-trait genetics (GWAS & PRS) | ~17% / ~22% | SPLIT from old theme 2 (2026-11-01): GWAS, PheWAS, polygenic/PRS, fine-mapping, heritability, MR, TWAS |
+| 22 | Multi-omics (proteomics, metabolomics, transcriptomics, epigenomics) | ~1% / ~2% | NEW (2026-11-01): molecular omics beyond DNA sequence; the committee's "other omics" |
 
 Coverage of the corpus by at least one theme: estimated >95% (residual ~5%
 includes very-short projects, generic "exploratory" workspaces, and pure
@@ -125,35 +127,33 @@ aortic stenosis.
 
 ---
 
-## 2. Genomics methods & complex-trait genetics (~28%)
+## 2. Genomic sequencing & methods (~18% of publications, ~21% of workspaces)
 
-**Definition.** Population-genomics studies and methods development: GWAS,
-PheWAS, polygenic risk scores, fine-mapping, rare-variant burden tests,
-multi-ancestry methods, whole-genome / long-read sequencing analytics, repeat
-expansion calling, identity-by-descent, ancestry inference. Both methods
-pubs AND disease-genetics pubs whose primary contribution is genomic
-discovery land here.
+**Split 2026-11-01** from the old "Genomics methods & complex-trait genetics"
+theme; the association/PRS side moved to theme 21, molecular omics to theme 22.
 
-**Indicative keywords.** GWAS, PheWAS, polygenic risk score, PRS, polygenic
-liability, fine-mapping, rare variant, burden test, SAIGE, REGENIE, Hail,
-PLINK, whole-genome sequencing, WGS, long-read, HiFi, ancestry, admixture,
-gnomAD, ClinVar, multi-ancestry, sub-continental, tandem repeat, IBD,
-LD-score, Mendelian randomization, MR, structural variant, SV.
+**Definition.** Sequencing technology and genomic-data methods: whole-genome
+and long-read sequencing, exome sequencing, variant calling and
+structural/tandem-repeat variation, genotype imputation and phasing, reference
+panels and pangenomes, ancestry inference and admixture, and the sequence-data
+infrastructure. The "what sequence do we have and how do we process it" layer,
+distinct from trait-association (theme 21).
 
-**Subthemes (~5).**
-- 2.1 Multi-ancestry GWAS & disease-risk loci discovery
-- 2.2 Polygenic risk scores — methods, portability across ancestries, clinical utility
-- 2.3 Rare-variant & structural-variant association (incl. long-read)
-- 2.4 Ancestry inference, admixture & subcontinental variation
-- 2.5 Method development (federated learning, imputation, fine-mapping, phasing)
+**Indicative keywords.** whole-genome sequencing, WGS, long-read, HiFi, exome
+sequencing, structural variant, tandem repeat, CNV, imputation, phasing,
+haplotype, SNP, genotype, ClinVar, gnomAD, ancestry, admixture, multi-ancestry,
+subcontinental, variant calling, reference panel, pangenome.
+
+**Subthemes (~4).**
+- 2.1 Whole-genome & long-read sequencing (incl. the largest diverse WGS resource)
+- 2.2 Rare & structural variants, tandem repeats
+- 2.3 Ancestry inference, admixture & subcontinental variation
+- 2.4 Imputation, phasing, reference panels & pangenomes
 
 **Example records.**
-- PMID:40691406 — "Improved multiancestry fine-mapping identifies cis-regulatory variants underlying molecular traits and disease risk" (*Nature Genetics* 2025)
-- PMID:39627187 — "A phenome-wide association study of tandem repeat variation in 168,554 individuals from the UK Biobank" (*Nat Commun* 2024)
-- PMID:41266648 — "Scalable and accurate rare variant meta-analysis with Meta-SAIGE" (*Nature Genetics* 2025)
 - PMID:40480197 — "Subcontinental genetic variation in the All of Us Research Program" (*AJHG* 2025)
 - PMID:38281971 — "Utility of long-read sequencing for All of Us" (*Nat Commun* 2024)
-- workspace:29666 — "Improving prediction of outcomes from the DNA" (federated learning + PRS)
+- PMID:39627187 — "A phenome-wide association study of tandem repeat variation in 168,554 individuals from the UK Biobank" (*Nat Commun* 2024)
 
 ---
 
@@ -662,6 +662,66 @@ disease themes.
 - PMID:38917426 — "All of whom? Limitations encountered using All of Us Researcher Workbench in a Primary..."
 - PMID:38787299 — "Prediction of Readmission Following Sepsis Using Social Determinants of..."
 - PMID:39547804 — "Leveraging the All of Us Database for Primary Care Research with Large..."
+
+---
+
+## 21. Complex-trait genetics (GWAS & PRS) (~17% of publications, ~22% of workspaces)
+
+**Split 2026-11-01** from the old theme 2: the trait-association and
+risk-prediction side.
+
+**Definition.** Statistical genetics of complex traits: genome-wide and
+phenome-wide association (GWAS, PheWAS), polygenic risk/liability scores and
+their portability across ancestries, fine-mapping, rare-variant burden tests,
+heritability, Mendelian randomization, and transcriptome-wide association
+(TWAS) / eQTL colocalization. The "what does the sequence predict or explain"
+layer, distinct from sequencing and methods (theme 2).
+
+**Indicative keywords.** GWAS, genome-wide association, PheWAS, phenome-wide,
+polygenic, polygenic risk score, PRS, polygenic score, genetic risk score,
+fine-mapping, burden test, heritability, Mendelian randomization, TWAS, eQTL,
+SAIGE, REGENIE, colocalization, summary statistics.
+
+**Subthemes (~4).**
+- 21.1 Multi-ancestry GWAS & disease-risk loci discovery
+- 21.2 Polygenic risk scores: methods, portability, clinical utility
+- 21.3 Fine-mapping & rare-variant association
+- 21.4 Mendelian randomization, TWAS/eQTL & heritability
+
+**Example records.**
+- PMID:40691406 — "Improved multiancestry fine-mapping identifies cis-regulatory variants underlying molecular traits and disease risk" (*Nature Genetics* 2025)
+- PMID:41266648 — "Scalable and accurate rare variant meta-analysis with Meta-SAIGE" (*Nature Genetics* 2025)
+- workspace:29666 — "Improving prediction of outcomes from the DNA" (PRS)
+
+---
+
+## 22. Multi-omics (proteomics, metabolomics, transcriptomics, epigenomics) (~1% of publications, ~2% of workspaces)
+
+**Added 2026-11-01** (the committee's "other omics"; previously buried inside
+the genomics / Genetics & Biology area).
+
+**Definition.** Molecular-omics layers beyond the DNA sequence: proteomics,
+metabolomics, transcriptomics / gene expression, epigenomics / DNA methylation,
+and lipidomics, including platform work (Olink, SomaScan, mass spectrometry)
+and multi-omic integration. Tracks the 2026 proteomic/metabolomic releases the
+refresh calls out.
+
+**Indicative keywords.** proteomics, proteome, metabolomics, metabolome,
+metabolite, transcriptomics, transcriptome, epigenomics, epigenetics, DNA
+methylation, methylome, lipidomics, multi-omics, multi-omic, Olink, SomaScan,
+mass spectrometry, proteogenomic.
+
+**Subthemes (~4).**
+- 22.1 Proteomics (Olink, SomaScan)
+- 22.2 Metabolomics & lipidomics
+- 22.3 Transcriptomics / gene expression
+- 22.4 Epigenomics & DNA methylation; multi-omic integration
+
+**Example records.**
+- PMID:39316441 — "Proteogenomic analysis integrated with electronic health records data reveals..." (2024)
+- PMID:42017215 — "Biobank-Scale Plasma Proteomics Identifies Novel Biomarkers in Hypertrophic..." (2026)
+- PMID:41286463 — "Dissecting the genetic and proteomic risk factors for delirium" (2025)
+- Tagged: 1.4% of publications, 2.2% of workspaces (small today, consistent with omics still arriving).
 
 ---
 
